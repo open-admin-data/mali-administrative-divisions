@@ -1,0 +1,114 @@
+[
+  {
+    "id": "ML-A190702",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Iréli",
+      "en": "Iréli",
+      "slug": "irli-190702"
+    },
+    "code": {
+      "id": "ML-A190702",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1907",
+      "level": 2,
+      "name": {
+        "local": "Sangha",
+        "en": "Sangha",
+        "slug": "sangha-ml1907"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1907",
+        "level": 2,
+        "name": {
+          "local": "Sangha",
+          "en": "Sangha",
+          "slug": "sangha-ml1907"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.468",
+      "lon": "-3.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A190701",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Sangha",
+      "en": "Sangha",
+      "slug": "sangha-190701"
+    },
+    "code": {
+      "id": "ML-A190701",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1907",
+      "level": 2,
+      "name": {
+        "local": "Sangha",
+        "en": "Sangha",
+        "slug": "sangha-ml1907"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1907",
+        "level": 2,
+        "name": {
+          "local": "Sangha",
+          "en": "Sangha",
+          "slug": "sangha-ml1907"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.468",
+      "lon": "-3.306"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

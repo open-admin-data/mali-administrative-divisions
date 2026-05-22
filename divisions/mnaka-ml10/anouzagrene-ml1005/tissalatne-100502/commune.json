@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C10050201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tissalatène",
+      "en": "Tissalatène",
+      "slug": "tissalatne-10050201"
+    },
+    "code": {
+      "id": "ML-C10050201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A100502",
+      "level": 3,
+      "name": {
+        "local": "Tissalatène",
+        "en": "Tissalatène",
+        "slug": "tissalatne-100502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML10",
+        "level": 1,
+        "name": {
+          "local": "Ménaka",
+          "en": "Ménaka",
+          "slug": "mnaka-ml10"
+        }
+      },
+      {
+        "id": "ML1005",
+        "level": 2,
+        "name": {
+          "local": "Anouzagrène",
+          "en": "Anouzagrene",
+          "slug": "anouzagrene-ml1005"
+        }
+      },
+      {
+        "id": "ML-A100502",
+        "level": 3,
+        "name": {
+          "local": "Tissalatène",
+          "en": "Tissalatène",
+          "slug": "tissalatne-100502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.537",
+      "lon": "2.497"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

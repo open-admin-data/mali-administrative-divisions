@@ -1,0 +1,434 @@
+[
+  {
+    "id": "ML1901",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Bandiagara",
+      "en": "Bandiagara",
+      "slug": "bandiagara-ml1901"
+    },
+    "code": {
+      "id": "ML1901",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML19",
+      "level": 1,
+      "name": {
+        "local": "Bandiagara",
+        "en": "Bandiagara",
+        "slug": "bandiagara-ml19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 4,
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.35",
+      "lon": "-3.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1903",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Bankass",
+      "en": "Bankass",
+      "slug": "bankass-ml1903"
+    },
+    "code": {
+      "id": "ML1903",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML19",
+      "level": 1,
+      "name": {
+        "local": "Bandiagara",
+        "en": "Bandiagara",
+        "slug": "bandiagara-ml19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.078",
+      "lon": "-3.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1906",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Diallassagou",
+      "en": "Diallassagou",
+      "slug": "diallassagou-ml1906"
+    },
+    "code": {
+      "id": "ML1906",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML19",
+      "level": 1,
+      "name": {
+        "local": "Bandiagara",
+        "en": "Bandiagara",
+        "slug": "bandiagara-ml19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.738",
+      "lon": "-3.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1908",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Kani",
+      "en": "Kani",
+      "slug": "kani-ml1908"
+    },
+    "code": {
+      "id": "ML1908",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML19",
+      "level": 1,
+      "name": {
+        "local": "Bandiagara",
+        "en": "Bandiagara",
+        "slug": "bandiagara-ml19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 4,
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.247",
+      "lon": "-5.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1904",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Kendie",
+      "en": "Kendie",
+      "slug": "kendie-ml1904"
+    },
+    "code": {
+      "id": "ML1904",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML19",
+      "level": 1,
+      "name": {
+        "local": "Bandiagara",
+        "en": "Bandiagara",
+        "slug": "bandiagara-ml19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 0,
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.676",
+      "lon": "-3.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1902",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Koro",
+      "en": "Koro",
+      "slug": "koro-ml1902"
+    },
+    "code": {
+      "id": "ML1902",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML19",
+      "level": 1,
+      "name": {
+        "local": "Bandiagara",
+        "en": "Bandiagara",
+        "slug": "bandiagara-ml19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 8,
+      "commune": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.627",
+      "lon": "-7.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1905",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Ningari",
+      "en": "Ningari",
+      "slug": "ningari-ml1905"
+    },
+    "code": {
+      "id": "ML1905",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML19",
+      "level": 1,
+      "name": {
+        "local": "Bandiagara",
+        "en": "Bandiagara",
+        "slug": "bandiagara-ml19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.662",
+      "lon": "-3.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1907",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Sangha",
+      "en": "Sangha",
+      "slug": "sangha-ml1907"
+    },
+    "code": {
+      "id": "ML1907",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML19",
+      "level": 1,
+      "name": {
+        "local": "Bandiagara",
+        "en": "Bandiagara",
+        "slug": "bandiagara-ml19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.468",
+      "lon": "-3.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1909",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Sokoura",
+      "en": "Sokoura",
+      "slug": "sokoura-ml1909"
+    },
+    "code": {
+      "id": "ML1909",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML19",
+      "level": 1,
+      "name": {
+        "local": "Bandiagara",
+        "en": "Bandiagara",
+        "slug": "bandiagara-ml19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.704",
+      "lon": "-4.108"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

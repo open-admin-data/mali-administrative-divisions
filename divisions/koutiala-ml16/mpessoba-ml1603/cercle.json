@@ -1,0 +1,48 @@
+{
+  "id": "ML1603",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "M’Péssoba",
+    "en": "M’Pessoba",
+    "slug": "mpessoba-ml1603"
+  },
+  "code": {
+    "id": "ML1603",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML16",
+    "level": 1,
+    "name": {
+      "local": "Koutiala",
+      "en": "Koutiala",
+      "slug": "koutiala-ml16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML16",
+      "level": 1,
+      "name": {
+        "local": "Koutiala",
+        "en": "Koutiala",
+        "slug": "koutiala-ml16"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 3,
+    "commune": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.665",
+    "lon": "-5.721"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,290 @@
+[
+  {
+    "id": "ML1004",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Andéramboukane",
+      "en": "Anderamboukane",
+      "slug": "anderamboukane-ml1004"
+    },
+    "code": {
+      "id": "ML1004",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML10",
+      "level": 1,
+      "name": {
+        "local": "Ménaka",
+        "en": "Ménaka",
+        "slug": "mnaka-ml10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML10",
+        "level": 1,
+        "name": {
+          "local": "Ménaka",
+          "en": "Ménaka",
+          "slug": "mnaka-ml10"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.422",
+      "lon": "3.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1005",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Anouzagrène",
+      "en": "Anouzagrene",
+      "slug": "anouzagrene-ml1005"
+    },
+    "code": {
+      "id": "ML1005",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML10",
+      "level": 1,
+      "name": {
+        "local": "Ménaka",
+        "en": "Ménaka",
+        "slug": "mnaka-ml10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML10",
+        "level": 1,
+        "name": {
+          "local": "Ménaka",
+          "en": "Ménaka",
+          "slug": "mnaka-ml10"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.537",
+      "lon": "2.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1003",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Inékar",
+      "en": "Inekar",
+      "slug": "inekar-ml1003"
+    },
+    "code": {
+      "id": "ML1003",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML10",
+      "level": 1,
+      "name": {
+        "local": "Ménaka",
+        "en": "Ménaka",
+        "slug": "mnaka-ml10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML10",
+        "level": 1,
+        "name": {
+          "local": "Ménaka",
+          "en": "Ménaka",
+          "slug": "mnaka-ml10"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.959",
+      "lon": "3.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1006",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Inlamawane (Fanfi)",
+      "en": "Inlamawane (Fanfi)",
+      "slug": "inlamawane-fanfi-ml1006"
+    },
+    "code": {
+      "id": "ML1006",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML10",
+      "level": 1,
+      "name": {
+        "local": "Ménaka",
+        "en": "Ménaka",
+        "slug": "mnaka-ml10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML10",
+        "level": 1,
+        "name": {
+          "local": "Ménaka",
+          "en": "Ménaka",
+          "slug": "mnaka-ml10"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.92",
+      "lon": "2.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1001",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Ménaka",
+      "en": "Menaka",
+      "slug": "menaka-ml1001"
+    },
+    "code": {
+      "id": "ML1001",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML10",
+      "level": 1,
+      "name": {
+        "local": "Ménaka",
+        "en": "Ménaka",
+        "slug": "mnaka-ml10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML10",
+        "level": 1,
+        "name": {
+          "local": "Ménaka",
+          "en": "Ménaka",
+          "slug": "mnaka-ml10"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 4,
+      "commune": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.92",
+      "lon": "2.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1002",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Tidermène",
+      "en": "Tidermene",
+      "slug": "tidermene-ml1002"
+    },
+    "code": {
+      "id": "ML1002",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML10",
+      "level": 1,
+      "name": {
+        "local": "Ménaka",
+        "en": "Ménaka",
+        "slug": "mnaka-ml10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML10",
+        "level": 1,
+        "name": {
+          "local": "Ménaka",
+          "en": "Ménaka",
+          "slug": "mnaka-ml10"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.592",
+      "lon": "2.415"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

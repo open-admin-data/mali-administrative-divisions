@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C05010703",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Koubaye",
+      "en": "Koubaye",
+      "slug": "koubaye-05010703"
+    },
+    "code": {
+      "id": "ML-C05010703",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050107",
+      "level": 3,
+      "name": {
+        "local": "Ouro-Modi",
+        "en": "Ouro-Modi",
+        "slug": "ouro-modi-050107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0501",
+        "level": 2,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml0501"
+        }
+      },
+      {
+        "id": "ML-A050107",
+        "level": 3,
+        "name": {
+          "local": "Ouro-Modi",
+          "en": "Ouro-Modi",
+          "slug": "ouro-modi-050107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.484",
+      "lon": "-4.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C05010701",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouro-Modi",
+      "en": "Ouro-Modi",
+      "slug": "ouro-modi-05010701"
+    },
+    "code": {
+      "id": "ML-C05010701",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050107",
+      "level": 3,
+      "name": {
+        "local": "Ouro-Modi",
+        "en": "Ouro-Modi",
+        "slug": "ouro-modi-050107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0501",
+        "level": 2,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml0501"
+        }
+      },
+      {
+        "id": "ML-A050107",
+        "level": 3,
+        "name": {
+          "local": "Ouro-Modi",
+          "en": "Ouro-Modi",
+          "slug": "ouro-modi-050107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.484",
+      "lon": "-4.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C05010702",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sasalbé",
+      "en": "Sasalbé",
+      "slug": "sasalb-05010702"
+    },
+    "code": {
+      "id": "ML-C05010702",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050107",
+      "level": 3,
+      "name": {
+        "local": "Ouro-Modi",
+        "en": "Ouro-Modi",
+        "slug": "ouro-modi-050107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0501",
+        "level": 2,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml0501"
+        }
+      },
+      {
+        "id": "ML-A050107",
+        "level": 3,
+        "name": {
+          "local": "Ouro-Modi",
+          "en": "Ouro-Modi",
+          "slug": "ouro-modi-050107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.484",
+      "lon": "-4.183"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

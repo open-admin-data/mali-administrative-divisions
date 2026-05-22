@@ -1,0 +1,48 @@
+{
+  "id": "ML1104",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Sandare",
+    "en": "Sandare",
+    "slug": "sandare-ml1104"
+  },
+  "code": {
+    "id": "ML1104",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML11",
+    "level": 1,
+    "name": {
+      "local": "Nioro",
+      "en": "Nioro",
+      "slug": "nioro-ml11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML11",
+      "level": 1,
+      "name": {
+        "local": "Nioro",
+        "en": "Nioro",
+        "slug": "nioro-ml11"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 0,
+    "commune": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.704",
+    "lon": "-10.306"
+  },
+  "metadata": {},
+  "source": {}
+}

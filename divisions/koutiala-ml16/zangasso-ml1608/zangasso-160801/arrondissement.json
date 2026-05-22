@@ -1,0 +1,56 @@
+{
+  "id": "ML-A160801",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Zangasso",
+    "en": "Zangasso",
+    "slug": "zangasso-160801"
+  },
+  "code": {
+    "id": "ML-A160801",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1608",
+    "level": 2,
+    "name": {
+      "local": "Zangasso",
+      "en": "Zangasso",
+      "slug": "zangasso-ml1608"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML16",
+      "level": 1,
+      "name": {
+        "local": "Koutiala",
+        "en": "Koutiala",
+        "slug": "koutiala-ml16"
+      }
+    },
+    {
+      "id": "ML1608",
+      "level": 2,
+      "name": {
+        "local": "Zangasso",
+        "en": "Zangasso",
+        "slug": "zangasso-ml1608"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.58",
+    "lon": "-6.027"
+  },
+  "metadata": {},
+  "source": {}
+}

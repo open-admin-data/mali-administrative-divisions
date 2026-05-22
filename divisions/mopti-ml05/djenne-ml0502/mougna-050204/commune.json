@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C05020401",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Néma Badenyakafo",
+      "en": "Néma Badenyakafo",
+      "slug": "nma-badenyakafo-05020401"
+    },
+    "code": {
+      "id": "ML-C05020401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050204",
+      "level": 3,
+      "name": {
+        "local": "Mougna",
+        "en": "Mougna",
+        "slug": "mougna-050204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0502",
+        "level": 2,
+        "name": {
+          "local": "Djenné",
+          "en": "Djenne",
+          "slug": "djenne-ml0502"
+        }
+      },
+      {
+        "id": "ML-A050204",
+        "level": 3,
+        "name": {
+          "local": "Mougna",
+          "en": "Mougna",
+          "slug": "mougna-050204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.906",
+      "lon": "-4.553"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

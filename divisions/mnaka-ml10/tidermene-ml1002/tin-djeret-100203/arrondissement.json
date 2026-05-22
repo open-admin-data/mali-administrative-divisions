@@ -1,0 +1,56 @@
+{
+  "id": "ML-A100203",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Tin-Djeret",
+    "en": "Tin-Djeret",
+    "slug": "tin-djeret-100203"
+  },
+  "code": {
+    "id": "ML-A100203",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1002",
+    "level": 2,
+    "name": {
+      "local": "Tidermène",
+      "en": "Tidermene",
+      "slug": "tidermene-ml1002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML10",
+      "level": 1,
+      "name": {
+        "local": "Ménaka",
+        "en": "Ménaka",
+        "slug": "mnaka-ml10"
+      }
+    },
+    {
+      "id": "ML1002",
+      "level": 2,
+      "name": {
+        "local": "Tidermène",
+        "en": "Tidermene",
+        "slug": "tidermene-ml1002"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.592",
+    "lon": "2.415"
+  },
+  "metadata": {},
+  "source": {}
+}

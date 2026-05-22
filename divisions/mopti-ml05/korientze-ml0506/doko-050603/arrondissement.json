@@ -1,0 +1,56 @@
+{
+  "id": "ML-A050603",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Doko",
+    "en": "Doko",
+    "slug": "doko-050603"
+  },
+  "code": {
+    "id": "ML-A050603",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0506",
+    "level": 2,
+    "name": {
+      "local": "Korientzé",
+      "en": "Korientze",
+      "slug": "korientze-ml0506"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML05",
+      "level": 1,
+      "name": {
+        "local": "Mopti",
+        "en": "Mopti",
+        "slug": "mopti-ml05"
+      }
+    },
+    {
+      "id": "ML0506",
+      "level": 2,
+      "name": {
+        "local": "Korientzé",
+        "en": "Korientze",
+        "slug": "korientze-ml0506"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.394",
+    "lon": "-3.782"
+  },
+  "metadata": {},
+  "source": {}
+}

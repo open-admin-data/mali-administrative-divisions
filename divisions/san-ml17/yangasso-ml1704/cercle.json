@@ -1,0 +1,48 @@
+{
+  "id": "ML1704",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Yangasso",
+    "en": "Yangasso",
+    "slug": "yangasso-ml1704"
+  },
+  "code": {
+    "id": "ML1704",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML17",
+    "level": 1,
+    "name": {
+      "local": "San",
+      "en": "San",
+      "slug": "san-ml17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML17",
+      "level": 1,
+      "name": {
+        "local": "San",
+        "en": "San",
+        "slug": "san-ml17"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 3,
+    "commune": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.073",
+    "lon": "-5.321"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C15020601",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djallon Foula",
+      "en": "Djallon Foula",
+      "slug": "djallon-foula-15020601"
+    },
+    "code": {
+      "id": "ML-C15020601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150206",
+      "level": 3,
+      "name": {
+        "local": "Guéléninkoro",
+        "en": "Guéléninkoro",
+        "slug": "gulninkoro-150206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1502",
+        "level": 2,
+        "name": {
+          "local": "Yanfolila",
+          "en": "Yanfolila",
+          "slug": "yanfolila-ml1502"
+        }
+      },
+      {
+        "id": "ML-A150206",
+        "level": 3,
+        "name": {
+          "local": "Guéléninkoro",
+          "en": "Guéléninkoro",
+          "slug": "gulninkoro-150206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.183",
+      "lon": "-8.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C15020602",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Yallankoro Soloba",
+      "en": "Yallankoro Soloba",
+      "slug": "yallankoro-soloba-15020602"
+    },
+    "code": {
+      "id": "ML-C15020602",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150206",
+      "level": 3,
+      "name": {
+        "local": "Guéléninkoro",
+        "en": "Guéléninkoro",
+        "slug": "gulninkoro-150206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1502",
+        "level": 2,
+        "name": {
+          "local": "Yanfolila",
+          "en": "Yanfolila",
+          "slug": "yanfolila-ml1502"
+        }
+      },
+      {
+        "id": "ML-A150206",
+        "level": 3,
+        "name": {
+          "local": "Guéléninkoro",
+          "en": "Guéléninkoro",
+          "slug": "gulninkoro-150206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.183",
+      "lon": "-8.15"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

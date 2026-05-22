@@ -1,0 +1,56 @@
+{
+  "id": "ML-A120301",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Sébékoro",
+    "en": "Sébékoro",
+    "slug": "sbkoro-120301"
+  },
+  "code": {
+    "id": "ML-A120301",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1203",
+    "level": 2,
+    "name": {
+      "local": "Sébékoro",
+      "en": "Sebekoro",
+      "slug": "sebekoro-ml1203"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML12",
+      "level": 1,
+      "name": {
+        "local": "Kita",
+        "en": "Kita",
+        "slug": "kita-ml12"
+      }
+    },
+    {
+      "id": "ML1203",
+      "level": 2,
+      "name": {
+        "local": "Sébékoro",
+        "en": "Sebekoro",
+        "slug": "sebekoro-ml1203"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.461",
+    "lon": "-9.131"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C10030201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tadriante",
+      "en": "Tadriante",
+      "slug": "tadriante-10030201"
+    },
+    "code": {
+      "id": "ML-C10030201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A100302",
+      "level": 3,
+      "name": {
+        "local": "Tadriante",
+        "en": "Tadriante",
+        "slug": "tadriante-100302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML10",
+        "level": 1,
+        "name": {
+          "local": "Ménaka",
+          "en": "Ménaka",
+          "slug": "mnaka-ml10"
+        }
+      },
+      {
+        "id": "ML1003",
+        "level": 2,
+        "name": {
+          "local": "Inékar",
+          "en": "Inekar",
+          "slug": "inekar-ml1003"
+        }
+      },
+      {
+        "id": "ML-A100302",
+        "level": 3,
+        "name": {
+          "local": "Tadriante",
+          "en": "Tadriante",
+          "slug": "tadriante-100302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.959",
+      "lon": "3.141"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

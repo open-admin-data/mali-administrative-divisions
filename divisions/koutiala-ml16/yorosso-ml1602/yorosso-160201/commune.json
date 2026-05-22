@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C16020101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Karangana",
+      "en": "Karangana",
+      "slug": "karangana-16020101"
+    },
+    "code": {
+      "id": "ML-C16020101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160201",
+      "level": 3,
+      "name": {
+        "local": "Yorosso",
+        "en": "Yorosso",
+        "slug": "yorosso-160201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1602",
+        "level": 2,
+        "name": {
+          "local": "Yorosso",
+          "en": "Yorosso",
+          "slug": "yorosso-ml1602"
+        }
+      },
+      {
+        "id": "ML-A160201",
+        "level": 3,
+        "name": {
+          "local": "Yorosso",
+          "en": "Yorosso",
+          "slug": "yorosso-160201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.358",
+      "lon": "-4.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C16020102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kiffosso 1",
+      "en": "Kiffosso 1",
+      "slug": "kiffosso-1-16020102"
+    },
+    "code": {
+      "id": "ML-C16020102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160201",
+      "level": 3,
+      "name": {
+        "local": "Yorosso",
+        "en": "Yorosso",
+        "slug": "yorosso-160201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1602",
+        "level": 2,
+        "name": {
+          "local": "Yorosso",
+          "en": "Yorosso",
+          "slug": "yorosso-ml1602"
+        }
+      },
+      {
+        "id": "ML-A160201",
+        "level": 3,
+        "name": {
+          "local": "Yorosso",
+          "en": "Yorosso",
+          "slug": "yorosso-160201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.358",
+      "lon": "-4.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C16020103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Yorosso",
+      "en": "Yorosso",
+      "slug": "yorosso-16020103"
+    },
+    "code": {
+      "id": "ML-C16020103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160201",
+      "level": 3,
+      "name": {
+        "local": "Yorosso",
+        "en": "Yorosso",
+        "slug": "yorosso-160201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1602",
+        "level": 2,
+        "name": {
+          "local": "Yorosso",
+          "en": "Yorosso",
+          "slug": "yorosso-ml1602"
+        }
+      },
+      {
+        "id": "ML-A160201",
+        "level": 3,
+        "name": {
+          "local": "Yorosso",
+          "en": "Yorosso",
+          "slug": "yorosso-160201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.358",
+      "lon": "-4.777"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

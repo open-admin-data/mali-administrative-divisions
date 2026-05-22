@@ -1,0 +1,170 @@
+[
+  {
+    "id": "ML-A160203",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Boura",
+      "en": "Boura",
+      "slug": "boura-160203"
+    },
+    "code": {
+      "id": "ML-A160203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1602",
+      "level": 2,
+      "name": {
+        "local": "Yorosso",
+        "en": "Yorosso",
+        "slug": "yorosso-ml1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1602",
+        "level": 2,
+        "name": {
+          "local": "Yorosso",
+          "en": "Yorosso",
+          "slug": "yorosso-ml1602"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.358",
+      "lon": "-4.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A160202",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Mahou",
+      "en": "Mahou",
+      "slug": "mahou-160202"
+    },
+    "code": {
+      "id": "ML-A160202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1602",
+      "level": 2,
+      "name": {
+        "local": "Yorosso",
+        "en": "Yorosso",
+        "slug": "yorosso-ml1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1602",
+        "level": 2,
+        "name": {
+          "local": "Yorosso",
+          "en": "Yorosso",
+          "slug": "yorosso-ml1602"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.358",
+      "lon": "-4.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A160201",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Yorosso",
+      "en": "Yorosso",
+      "slug": "yorosso-160201"
+    },
+    "code": {
+      "id": "ML-A160201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1602",
+      "level": 2,
+      "name": {
+        "local": "Yorosso",
+        "en": "Yorosso",
+        "slug": "yorosso-ml1602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1602",
+        "level": 2,
+        "name": {
+          "local": "Yorosso",
+          "en": "Yorosso",
+          "slug": "yorosso-ml1602"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.358",
+      "lon": "-4.777"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

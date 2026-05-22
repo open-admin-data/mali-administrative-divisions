@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C08060301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Teknewène",
+      "en": "Teknewène",
+      "slug": "teknewne-08060301"
+    },
+    "code": {
+      "id": "ML-C08060301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A080603",
+      "level": 3,
+      "name": {
+        "local": "Teknewène",
+        "en": "Teknewène",
+        "slug": "teknewne-080603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML08",
+        "level": 1,
+        "name": {
+          "local": "Kidal",
+          "en": "Kidal",
+          "slug": "kidal-ml08"
+        }
+      },
+      {
+        "id": "ML0806",
+        "level": 2,
+        "name": {
+          "local": "Anéfif",
+          "en": "Anefi",
+          "slug": "anefi-ml0806"
+        }
+      },
+      {
+        "id": "ML-A080603",
+        "level": 3,
+        "name": {
+          "local": "Teknewène",
+          "en": "Teknewène",
+          "slug": "teknewne-080603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.007",
+      "lon": "-0.532"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

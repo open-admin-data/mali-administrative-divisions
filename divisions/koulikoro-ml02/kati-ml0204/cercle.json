@@ -1,0 +1,48 @@
+{
+  "id": "ML0204",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Kati",
+    "en": "Kati",
+    "slug": "kati-ml0204"
+  },
+  "code": {
+    "id": "ML0204",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML02",
+    "level": 1,
+    "name": {
+      "local": "Koulikoro",
+      "en": "Koulikoro",
+      "slug": "koulikoro-ml02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML02",
+      "level": 1,
+      "name": {
+        "local": "Koulikoro",
+        "en": "Koulikoro",
+        "slug": "koulikoro-ml02"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 4,
+    "commune": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.113",
+    "lon": "-3.733"
+  },
+  "metadata": {},
+  "source": {}
+}

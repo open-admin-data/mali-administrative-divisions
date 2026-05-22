@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C06120201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zarho",
+      "en": "Zarho",
+      "slug": "zarho-06120201"
+    },
+    "code": {
+      "id": "ML-C06120201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A061202",
+      "level": 3,
+      "name": {
+        "local": "Zarho",
+        "en": "Zarho",
+        "slug": "zarho-061202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0612",
+        "level": 2,
+        "name": {
+          "local": "Ber",
+          "en": "Ber",
+          "slug": "ber-ml0612"
+        }
+      },
+      {
+        "id": "ML-A061202",
+        "level": 3,
+        "name": {
+          "local": "Zarho",
+          "en": "Zarho",
+          "slug": "zarho-061202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.835",
+      "lon": "-2.532"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

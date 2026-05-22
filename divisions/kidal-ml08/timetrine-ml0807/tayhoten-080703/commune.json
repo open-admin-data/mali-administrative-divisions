@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C08070301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tayhoten",
+      "en": "Tayhoten",
+      "slug": "tayhoten-08070301"
+    },
+    "code": {
+      "id": "ML-C08070301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A080703",
+      "level": 3,
+      "name": {
+        "local": "Tayhoten",
+        "en": "Tayhoten",
+        "slug": "tayhoten-080703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML08",
+        "level": 1,
+        "name": {
+          "local": "Kidal",
+          "en": "Kidal",
+          "slug": "kidal-ml08"
+        }
+      },
+      {
+        "id": "ML0807",
+        "level": 2,
+        "name": {
+          "local": "Timétrine",
+          "en": "Timetrine",
+          "slug": "timetrine-ml0807"
+        }
+      },
+      {
+        "id": "ML-A080703",
+        "level": 3,
+        "name": {
+          "local": "Tayhoten",
+          "en": "Tayhoten",
+          "slug": "tayhoten-080703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.333",
+      "lon": "-0.582"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "ML-A090601",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Achouratt",
+    "en": "Achouratt",
+    "slug": "achouratt-090601"
+  },
+  "code": {
+    "id": "ML-A090601",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0906",
+    "level": 2,
+    "name": {
+      "local": "Achouratt",
+      "en": "Achouratt",
+      "slug": "achouratt-ml0906"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML09",
+      "level": 1,
+      "name": {
+        "local": "Taoudenni",
+        "en": "Taoudenni",
+        "slug": "taoudenni-ml09"
+      }
+    },
+    {
+      "id": "ML0906",
+      "level": 2,
+      "name": {
+        "local": "Achouratt",
+        "en": "Achouratt",
+        "slug": "achouratt-ml0906"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.677",
+    "lon": "-3.979"
+  },
+  "metadata": {},
+  "source": {}
+}

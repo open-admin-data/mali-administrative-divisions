@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C02010302",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Doumba",
+      "en": "Doumba",
+      "slug": "doumba-02010302"
+    },
+    "code": {
+      "id": "ML-C02010302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020103",
+      "level": 3,
+      "name": {
+        "local": "Koula",
+        "en": "Koula",
+        "slug": "koula-020103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0201",
+        "level": 2,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml0201"
+        }
+      },
+      {
+        "id": "ML-A020103",
+        "level": 3,
+        "name": {
+          "local": "Koula",
+          "en": "Koula",
+          "slug": "koula-020103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.863",
+      "lon": "-7.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C02010301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Koula",
+      "en": "Koula",
+      "slug": "koula-02010301"
+    },
+    "code": {
+      "id": "ML-C02010301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020103",
+      "level": 3,
+      "name": {
+        "local": "Koula",
+        "en": "Koula",
+        "slug": "koula-020103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0201",
+        "level": 2,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml0201"
+        }
+      },
+      {
+        "id": "ML-A020103",
+        "level": 3,
+        "name": {
+          "local": "Koula",
+          "en": "Koula",
+          "slug": "koula-020103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.863",
+      "lon": "-7.56"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

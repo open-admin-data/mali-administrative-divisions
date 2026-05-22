@@ -1,0 +1,48 @@
+{
+  "id": "ML0205",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Kolokani",
+    "en": "Kolokani",
+    "slug": "kolokani-ml0205"
+  },
+  "code": {
+    "id": "ML0205",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML02",
+    "level": 1,
+    "name": {
+      "local": "Koulikoro",
+      "en": "Koulikoro",
+      "slug": "koulikoro-ml02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML02",
+      "level": 1,
+      "name": {
+        "local": "Koulikoro",
+        "en": "Koulikoro",
+        "slug": "koulikoro-ml02"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 4,
+    "commune": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.573",
+    "lon": "-8.034"
+  },
+  "metadata": {},
+  "source": {}
+}

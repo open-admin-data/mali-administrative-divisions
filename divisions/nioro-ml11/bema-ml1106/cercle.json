@@ -1,0 +1,48 @@
+{
+  "id": "ML1106",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Bema",
+    "en": "Bema",
+    "slug": "bema-ml1106"
+  },
+  "code": {
+    "id": "ML1106",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML11",
+    "level": 1,
+    "name": {
+      "local": "Nioro",
+      "en": "Nioro",
+      "slug": "nioro-ml11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML11",
+      "level": 1,
+      "name": {
+        "local": "Nioro",
+        "en": "Nioro",
+        "slug": "nioro-ml11"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 0,
+    "commune": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.733",
+    "lon": "-4.193"
+  },
+  "metadata": {},
+  "source": {}
+}

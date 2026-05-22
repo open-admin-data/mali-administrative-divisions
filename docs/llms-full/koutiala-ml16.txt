@@ -1,0 +1,227 @@
+# Koutiala — Mali Administrative Divisions
+
+> 8 circles, 22 arrondissements, 46 communes
+> Code: ML16
+> Coordinates: 13.026, -5.523
+> Last updated: 2026-05-22. License: CC-BY-4.0.
+
+## Circles
+
+### Konséguéla (Konseguel a)
+
+Code: ML1606, Coordinates: 12.409, -5.877
+Arrondissements: 3, Communes: 3
+
+#### Konina
+
+Code: ML-A160603, Coordinates: 12.409, -5.877
+
+Communes:
+- Konina [ML-C16060301]
+
+#### Konséguéla
+
+Code: ML-A160601, Coordinates: 12.409, -5.877
+
+Communes:
+- Konséguéla [ML-C16060101]
+
+#### Kouwo
+
+Code: ML-A160602, Coordinates: 12.409, -5.877
+
+Communes:
+- Diédougou [ML-C16060201]
+
+### Kouniana
+
+Code: ML1607, Coordinates: 12.568, -5.126
+Arrondissements: 3, Communes: 6
+
+#### Bongosso
+
+Code: ML-A160703, Coordinates: 12.568, -5.126
+
+Communes:
+- Koromo [ML-C16070301]
+
+#### Kouniana
+
+Code: ML-A160701, Coordinates: 12.568, -5.126
+
+Communes:
+- Gouadji Kao [ML-C16070101]
+- Kouniana [ML-C16070102]
+- Niantaga [ML-C16070103]
+- Zanfigué [ML-C16070104]
+
+#### Sorobasso
+
+Code: ML-A160702, Coordinates: 12.568, -5.126
+
+Communes:
+- Sorobasso [ML-C16070201]
+
+### Koury
+
+Code: ML1605, Coordinates: 12.181, -4.802
+Arrondissements: 2, Communes: 2
+
+#### Koury
+
+Code: ML-A160501, Coordinates: 12.181, -4.802
+
+Communes:
+- Koury [ML-C16050101]
+
+#### Ourikéla
+
+Code: ML-A160502, Coordinates: 12.181, -4.802
+
+Communes:
+- Ourikéla [ML-C16050201]
+
+### Koutiala
+
+Code: ML1601, Coordinates: 13.026, -5.523
+Arrondissements: 3, Communes: 12
+
+#### Diaramana
+
+Code: ML-A160103, Coordinates: 13.026, -5.523
+
+Communes:
+- Diaramana [ML-C16010301]
+
+#### Koutiala
+
+Code: ML-A160101, Coordinates: 13.026, -5.523
+
+Communes:
+- Koutiala [ML-C16010101]
+- Logouana [ML-C16010102]
+- N&#39;Golonianasso [ML-C16010105]
+- N&#39;Goutjina [ML-C16010106]
+- Nafanga [ML-C16010103]
+- Nampé [ML-C16010104]
+- Sincina [ML-C16010107]
+- Songo-Doubacoré [ML-C16010108]
+- Songoua [ML-C16010109]
+- Yognogo [ML-C16010110]
+
+#### Zébala
+
+Code: ML-A160102, Coordinates: 13.026, -5.523
+
+Communes:
+- Zébala [ML-C16010201]
+
+### M’Péssoba (M’Pessoba)
+
+Code: ML1603, Coordinates: 12.665, -5.721
+Arrondissements: 3, Communes: 8
+
+#### M&#39;Péssoba
+
+Code: ML-A160301, Coordinates: 12.665, -5.721
+
+Communes:
+- Kafo Faboli [ML-C16030102]
+- Karagouana Mallé [ML-C16030103]
+- M&#39;Pèssoba [ML-C16030101]
+- N&#39;Tossoni [ML-C16030104]
+- Tao [ML-C16030105]
+- Zanina [ML-C16030106]
+
+#### Mièna
+
+Code: ML-A160302, Coordinates: 12.665, -5.721
+
+Communes:
+- Mièna [ML-C16030201]
+
+#### Zanzoni
+
+Code: ML-A160303, Coordinates: 12.665, -5.721
+
+Communes:
+- Fakolo [ML-C16030301]
+
+### Molobala
+
+Code: ML1604, Coordinates: 12.177, -5.333
+Arrondissements: 3, Communes: 5
+
+#### Molobala
+
+Code: ML-A160401, Coordinates: 12.177, -5.333
+
+Communes:
+- Kapala [ML-C16040103]
+- Kolonigué [ML-C16040101]
+- Koningué [ML-C16040102]
+
+#### Sanguéla
+
+Code: ML-A160403, Coordinates: 12.177, -5.333
+
+Communes:
+- Gouadié Sougouna [ML-C16040301]
+
+#### Tièrè
+
+Code: ML-A160402, Coordinates: 12.177, -5.333
+
+Communes:
+- Diouradougou Kafo [ML-C16040201]
+
+### Yorosso
+
+Code: ML1602, Coordinates: 12.358, -4.777
+Arrondissements: 3, Communes: 7
+
+#### Boura
+
+Code: ML-A160203, Coordinates: 12.358, -4.777
+
+Communes:
+- Boura [ML-C16020301]
+- Koumbia [ML-C16020302]
+- Menamba 1 [ML-C16020303]
+
+#### Mahou
+
+Code: ML-A160202, Coordinates: 12.358, -4.777
+
+Communes:
+- Mahou [ML-C16020201]
+
+#### Yorosso
+
+Code: ML-A160201, Coordinates: 12.358, -4.777
+
+Communes:
+- Karangana [ML-C16020101]
+- Kiffosso 1 [ML-C16020102]
+- Yorosso [ML-C16020103]
+
+### Zangasso
+
+Code: ML1608, Coordinates: 11.58, -6.027
+Arrondissements: 2, Communes: 3
+
+#### Zangasso
+
+Code: ML-A160801, Coordinates: 11.58, -6.027
+
+Communes:
+- Sinkolo [ML-C16080102]
+- Zangasso [ML-C16080101]
+
+#### Ziéna
+
+Code: ML-A160802, Coordinates: 11.58, -6.027
+
+Communes:
+- Fagui [ML-C16080201]
+

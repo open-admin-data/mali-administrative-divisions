@@ -1,0 +1,258 @@
+# Kidal — Mali Administrative Divisions
+
+> 9 circles, 29 arrondissements, 30 communes
+> Code: ML08
+> Coordinates: 18.461, 1.385
+> Last updated: 2026-05-22. License: CC-BY-4.0.
+
+## Circles
+
+### AbeÏbara (Abelbara)
+
+Code: ML0802, Coordinates: 19.29, 1.83
+Arrondissements: 3, Communes: 3
+
+#### Abeïbara
+
+Code: ML-A080201, Coordinates: 19.29, 1.83
+
+Communes:
+- Abeïbara [ML-C08020101]
+
+#### Boghassa
+
+Code: ML-A080202, Coordinates: 19.29, 1.83
+
+Communes:
+- Boghassa [ML-C08020201]
+
+#### Tinzawatène
+
+Code: ML-A080203, Coordinates: 19.29, 1.83
+
+Communes:
+- Tinzawatène [ML-C08020301]
+
+### Achibogho
+
+Code: ML0805, Coordinates: 18.461, 1.385
+Arrondissements: 3, Communes: 3
+
+#### Achibogho
+
+Code: ML-A080501, Coordinates: 18.461, 1.385
+
+Communes:
+- Achibogho [ML-C08050101]
+
+#### Imbulal
+
+Code: ML-A080502, Coordinates: 18.461, 1.385
+
+Communes:
+- Imbulal [ML-C08050201]
+
+#### Infalfalane
+
+Code: ML-A080503, Coordinates: 18.461, 1.385
+
+Communes:
+- Infalfalane [ML-C08050301]
+
+### Aguel-Hoc (Aguelhoc)
+
+Code: ML0808, Coordinates: 19.454, 0.856
+Arrondissements: 3, Communes: 3
+
+#### Aguel-Hoc
+
+Code: ML-A080801, Coordinates: 19.454, 0.856
+
+Communes:
+- Aguel-Hoc [ML-C08080101]
+
+#### Tadjmart
+
+Code: ML-A080803, Coordinates: 19.454, 0.856
+
+Communes:
+- Tadjmart [ML-C08080301]
+
+#### Taghlit
+
+Code: ML-A080802, Coordinates: 19.454, 0.856
+
+Communes:
+- Taghlit [ML-C08080201]
+
+### Anéfif (Anefi)
+
+Code: ML0806, Coordinates: 18.007, -0.532
+Arrondissements: 3, Communes: 3
+
+#### Anéfif
+
+Code: ML-A080601, Coordinates: 18.007, -0.532
+
+Communes:
+- Anéfif [ML-C08060101]
+
+#### Dadate
+
+Code: ML-A080602, Coordinates: 18.007, -0.532
+
+Communes:
+- Dadate [ML-C08060201]
+
+#### Teknewène
+
+Code: ML-A080603, Coordinates: 18.007, -0.532
+
+Communes:
+- Teknewène [ML-C08060301]
+
+### Kidal
+
+Code: ML0801, Coordinates: 18.461, 1.385
+Arrondissements: 3, Communes: 3
+
+#### Agharous
+
+Code: ML-A080103, Coordinates: 18.461, 1.385
+
+Communes:
+- Agharous [ML-C08010301]
+
+#### Essouk
+
+Code: ML-A080102, Coordinates: 18.461, 1.385
+
+Communes:
+- Essouk [ML-C08010201]
+
+#### Kidal
+
+Code: ML-A080101, Coordinates: 18.461, 1.385
+
+Communes:
+- Kidal [ML-C08010101]
+
+### Takalote
+
+Code: ML0809, Coordinates: 18.461, 1.385
+Arrondissements: 4, Communes: 4
+
+#### Amassine
+
+Code: ML-A080902, Coordinates: 18.461, 1.385
+
+Communes:
+- Amassine [ML-C08090201]
+
+#### Takalote
+
+Code: ML-A080901, Coordinates: 18.461, 1.385
+
+Communes:
+- Takalote [ML-C08090101]
+
+#### Tassik
+
+Code: ML-A080903, Coordinates: 18.461, 1.385
+
+Communes:
+- Tassik [ML-C08090301]
+
+#### Touzek
+
+Code: ML-A080904, Coordinates: 18.461, 1.385
+
+Communes:
+- Touzek [ML-C08090401]
+
+### Tessalit
+
+Code: ML0804, Coordinates: 20.271, 0.697
+Arrondissements: 4, Communes: 4
+
+#### Abanco
+
+Code: ML-A080404, Coordinates: 20.271, 0.697
+
+Communes:
+- Abanco [ML-C08040401]
+
+#### Ikadhawatène
+
+Code: ML-A080403, Coordinates: 20.271, 0.697
+
+Communes:
+- Ikadhawatène [ML-C08040301]
+
+#### Terist
+
+Code: ML-A080402, Coordinates: 20.271, 0.697
+
+Communes:
+- Terist [ML-C08040201]
+
+#### Tessalit
+
+Code: ML-A080401, Coordinates: 20.271, 0.697
+
+Communes:
+- Tessalit [ML-C08040101]
+
+### Timétrine (Timetrine)
+
+Code: ML0807, Coordinates: 19.333, -0.582
+Arrondissements: 3, Communes: 3
+
+#### Almahmoud
+
+Code: ML-A080702, Coordinates: 19.333, -0.582
+
+Communes:
+- Almahmoud [ML-C08070201]
+
+#### Tayhoten
+
+Code: ML-A080703, Coordinates: 19.333, -0.582
+
+Communes:
+- Tayhoten [ML-C08070301]
+
+#### Timétrine
+
+Code: ML-A080701, Coordinates: 19.333, -0.582
+
+Communes:
+- Timtaghène [ML-C08070101]
+
+### Tin-Essako
+
+Code: ML0803, Coordinates: 18.451, 2.49
+Arrondissements: 3, Communes: 4
+
+#### Anagarous
+
+Code: ML-A080303, Coordinates: 18.451, 2.49
+
+Communes:
+- Anagarous [ML-C08030301]
+
+#### Gueljiat
+
+Code: ML-A080302, Coordinates: 18.451, 2.49
+
+Communes:
+- Gueljiat [ML-C08030201]
+
+#### Tin-Essako
+
+Code: ML-A080301, Coordinates: 18.451, 2.49
+
+Communes:
+- Intadjedite [ML-C08030101]
+- Tin-Essako [ML-C08030102]
+

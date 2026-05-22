@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,children_count.commune,geo.lat,geo.lon
+ML-A030202,Fourou,Fourou,fourou-030202,ML-A030202,1,10.55,-5.767
+ML-A030201,Kadiolo,Kadiolo,kadiolo-030201,ML-A030201,3,10.55,-5.767
+ML-A030203,Misséni,Misséni,missni-030203,ML-A030203,1,10.55,-5.767
+ML-A030204,Zégoua,Zégoua,zgoua-030204,ML-A030204,1,10.55,-5.767

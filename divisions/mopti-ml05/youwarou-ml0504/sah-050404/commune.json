@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C05040401",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "N'Dodjiga",
+      "en": "N'Dodjiga",
+      "slug": "ndodjiga-05040401"
+    },
+    "code": {
+      "id": "ML-C05040401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050404",
+      "level": 3,
+      "name": {
+        "local": "Sah",
+        "en": "Sah",
+        "slug": "sah-050404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0504",
+        "level": 2,
+        "name": {
+          "local": "Youwarou",
+          "en": "Youwarou",
+          "slug": "youwarou-ml0504"
+        }
+      },
+      {
+        "id": "ML-A050404",
+        "level": 3,
+        "name": {
+          "local": "Sah",
+          "en": "Sah",
+          "slug": "sah-050404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.368",
+      "lon": "-4.263"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

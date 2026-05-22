@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C04080201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kareri",
+      "en": "Kareri",
+      "slug": "kareri-04080201"
+    },
+    "code": {
+      "id": "ML-C04080201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040802",
+      "level": 3,
+      "name": {
+        "local": "Dioura",
+        "en": "Dioura",
+        "slug": "dioura-040802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0408",
+        "level": 2,
+        "name": {
+          "local": "Nampala",
+          "en": "Nampala",
+          "slug": "nampala-ml0408"
+        }
+      },
+      {
+        "id": "ML-A040802",
+        "level": 3,
+        "name": {
+          "local": "Dioura",
+          "en": "Dioura",
+          "slug": "dioura-040802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.281",
+      "lon": "-5.555"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

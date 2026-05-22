@@ -1,0 +1,56 @@
+{
+  "id": "ML-A040902",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Dogofry",
+    "en": "Dogofry",
+    "slug": "dogofry-040902"
+  },
+  "code": {
+    "id": "ML-A040902",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0409",
+    "level": 2,
+    "name": {
+      "local": "Sokolo",
+      "en": "Sokolo",
+      "slug": "sokolo-ml0409"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML04",
+      "level": 1,
+      "name": {
+        "local": "Segou",
+        "en": "Segou",
+        "slug": "segou-ml04"
+      }
+    },
+    {
+      "id": "ML0409",
+      "level": 2,
+      "name": {
+        "local": "Sokolo",
+        "en": "Sokolo",
+        "slug": "sokolo-ml0409"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.733",
+    "lon": "-6.122"
+  },
+  "metadata": {},
+  "source": {}
+}

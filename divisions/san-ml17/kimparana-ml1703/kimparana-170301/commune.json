@@ -1,0 +1,317 @@
+[
+  {
+    "id": "ML-C17030105",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Diakourouna",
+      "en": "Diakourouna",
+      "slug": "diakourouna-17030105"
+    },
+    "code": {
+      "id": "ML-C17030105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A170301",
+      "level": 3,
+      "name": {
+        "local": "Kimparana",
+        "en": "Kimparana",
+        "slug": "kimparana-170301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      },
+      {
+        "id": "ML1703",
+        "level": 2,
+        "name": {
+          "local": "Kimparana",
+          "en": "Kimparana",
+          "slug": "kimparana-ml1703"
+        }
+      },
+      {
+        "id": "ML-A170301",
+        "level": 3,
+        "name": {
+          "local": "Kimparana",
+          "en": "Kimparana",
+          "slug": "kimparana-170301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.835",
+      "lon": "-4.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C17030101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kaniégué",
+      "en": "Kaniégué",
+      "slug": "kanigu-17030101"
+    },
+    "code": {
+      "id": "ML-C17030101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A170301",
+      "level": 3,
+      "name": {
+        "local": "Kimparana",
+        "en": "Kimparana",
+        "slug": "kimparana-170301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      },
+      {
+        "id": "ML1703",
+        "level": 2,
+        "name": {
+          "local": "Kimparana",
+          "en": "Kimparana",
+          "slug": "kimparana-ml1703"
+        }
+      },
+      {
+        "id": "ML-A170301",
+        "level": 3,
+        "name": {
+          "local": "Kimparana",
+          "en": "Kimparana",
+          "slug": "kimparana-170301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.835",
+      "lon": "-4.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C17030102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Karaba",
+      "en": "Karaba",
+      "slug": "karaba-17030102"
+    },
+    "code": {
+      "id": "ML-C17030102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A170301",
+      "level": 3,
+      "name": {
+        "local": "Kimparana",
+        "en": "Kimparana",
+        "slug": "kimparana-170301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      },
+      {
+        "id": "ML1703",
+        "level": 2,
+        "name": {
+          "local": "Kimparana",
+          "en": "Kimparana",
+          "slug": "kimparana-ml1703"
+        }
+      },
+      {
+        "id": "ML-A170301",
+        "level": 3,
+        "name": {
+          "local": "Kimparana",
+          "en": "Kimparana",
+          "slug": "kimparana-170301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.835",
+      "lon": "-4.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C17030103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kava",
+      "en": "Kava",
+      "slug": "kava-17030103"
+    },
+    "code": {
+      "id": "ML-C17030103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A170301",
+      "level": 3,
+      "name": {
+        "local": "Kimparana",
+        "en": "Kimparana",
+        "slug": "kimparana-170301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      },
+      {
+        "id": "ML1703",
+        "level": 2,
+        "name": {
+          "local": "Kimparana",
+          "en": "Kimparana",
+          "slug": "kimparana-ml1703"
+        }
+      },
+      {
+        "id": "ML-A170301",
+        "level": 3,
+        "name": {
+          "local": "Kimparana",
+          "en": "Kimparana",
+          "slug": "kimparana-170301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.835",
+      "lon": "-4.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C17030104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Waki",
+      "en": "Waki",
+      "slug": "waki-17030104"
+    },
+    "code": {
+      "id": "ML-C17030104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A170301",
+      "level": 3,
+      "name": {
+        "local": "Kimparana",
+        "en": "Kimparana",
+        "slug": "kimparana-170301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      },
+      {
+        "id": "ML1703",
+        "level": 2,
+        "name": {
+          "local": "Kimparana",
+          "en": "Kimparana",
+          "slug": "kimparana-ml1703"
+        }
+      },
+      {
+        "id": "ML-A170301",
+        "level": 3,
+        "name": {
+          "local": "Kimparana",
+          "en": "Kimparana",
+          "slug": "kimparana-170301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.835",
+      "lon": "-4.924"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

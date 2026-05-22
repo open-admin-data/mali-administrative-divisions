@@ -1,0 +1,56 @@
+{
+  "id": "ML-A010303",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Tambacara",
+    "en": "Tambacara",
+    "slug": "tambacara-010303"
+  },
+  "code": {
+    "id": "ML-A010303",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0103",
+    "level": 2,
+    "name": {
+      "local": "Yélimané",
+      "en": "Yelimane",
+      "slug": "yelimane-ml0103"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML01",
+      "level": 1,
+      "name": {
+        "local": "Kayes",
+        "en": "Kayes",
+        "slug": "kayes-ml01"
+      }
+    },
+    {
+      "id": "ML0103",
+      "level": 2,
+      "name": {
+        "local": "Yélimané",
+        "en": "Yelimane",
+        "slug": "yelimane-ml0103"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.119",
+    "lon": "-10.577"
+  },
+  "metadata": {},
+  "source": {}
+}

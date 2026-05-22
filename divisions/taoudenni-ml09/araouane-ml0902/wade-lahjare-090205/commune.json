@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C09020501",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Wade Lahjare",
+      "en": "Wade Lahjare",
+      "slug": "wade-lahjare-09020501"
+    },
+    "code": {
+      "id": "ML-C09020501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A090205",
+      "level": 3,
+      "name": {
+        "local": "Wade Lahjare",
+        "en": "Wade Lahjare",
+        "slug": "wade-lahjare-090205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML09",
+        "level": 1,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml09"
+        }
+      },
+      {
+        "id": "ML0902",
+        "level": 2,
+        "name": {
+          "local": "Araouane",
+          "en": "Araouane",
+          "slug": "araouane-ml0902"
+        }
+      },
+      {
+        "id": "ML-A090205",
+        "level": 3,
+        "name": {
+          "local": "Wade Lahjare",
+          "en": "Wade Lahjare",
+          "slug": "wade-lahjare-090205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.905",
+      "lon": "-3.526"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

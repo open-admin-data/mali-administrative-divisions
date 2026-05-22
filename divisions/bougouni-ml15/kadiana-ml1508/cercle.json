@@ -1,0 +1,48 @@
+{
+  "id": "ML1508",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Kadiana",
+    "en": "Kadiana",
+    "slug": "kadiana-ml1508"
+  },
+  "code": {
+    "id": "ML1508",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML15",
+    "level": 1,
+    "name": {
+      "local": "Bougouni",
+      "en": "Bougouni",
+      "slug": "bougouni-ml15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML15",
+      "level": 1,
+      "name": {
+        "local": "Bougouni",
+        "en": "Bougouni",
+        "slug": "bougouni-ml15"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 3,
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.75",
+    "lon": "-6.5"
+  },
+  "metadata": {},
+  "source": {}
+}

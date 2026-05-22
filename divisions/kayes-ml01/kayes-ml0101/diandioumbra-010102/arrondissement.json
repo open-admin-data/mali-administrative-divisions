@@ -1,0 +1,56 @@
+{
+  "id": "ML-A010102",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Diandioumbéra",
+    "en": "Diandioumbéra",
+    "slug": "diandioumbra-010102"
+  },
+  "code": {
+    "id": "ML-A010102",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0101",
+    "level": 2,
+    "name": {
+      "local": "Kayes",
+      "en": "Kayes",
+      "slug": "kayes-ml0101"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML01",
+      "level": 1,
+      "name": {
+        "local": "Kayes",
+        "en": "Kayes",
+        "slug": "kayes-ml01"
+      }
+    },
+    {
+      "id": "ML0101",
+      "level": 2,
+      "name": {
+        "local": "Kayes",
+        "en": "Kayes",
+        "slug": "kayes-ml0101"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.448",
+    "lon": "-11.444"
+  },
+  "metadata": {},
+  "source": {}
+}

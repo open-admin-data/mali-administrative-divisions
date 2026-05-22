@@ -1,0 +1,48 @@
+{
+  "id": "ML0611",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Tonka",
+    "en": "Tonka",
+    "slug": "tonka-ml0611"
+  },
+  "code": {
+    "id": "ML0611",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML06",
+    "level": 1,
+    "name": {
+      "local": "Tombouctou",
+      "en": "Timbuktu",
+      "slug": "timbuktu-ml06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML06",
+      "level": 1,
+      "name": {
+        "local": "Tombouctou",
+        "en": "Timbuktu",
+        "slug": "timbuktu-ml06"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 2,
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.129",
+    "lon": "-3.748"
+  },
+  "metadata": {},
+  "source": {}
+}

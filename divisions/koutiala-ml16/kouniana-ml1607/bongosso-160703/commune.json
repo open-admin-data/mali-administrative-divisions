@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C16070301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Koromo",
+      "en": "Koromo",
+      "slug": "koromo-16070301"
+    },
+    "code": {
+      "id": "ML-C16070301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160703",
+      "level": 3,
+      "name": {
+        "local": "Bongosso",
+        "en": "Bongosso",
+        "slug": "bongosso-160703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1607",
+        "level": 2,
+        "name": {
+          "local": "Kouniana",
+          "en": "Kouniana",
+          "slug": "kouniana-ml1607"
+        }
+      },
+      {
+        "id": "ML-A160703",
+        "level": 3,
+        "name": {
+          "local": "Bongosso",
+          "en": "Bongosso",
+          "slug": "bongosso-160703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.568",
+      "lon": "-5.126"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

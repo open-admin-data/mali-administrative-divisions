@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C09010301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zouelya",
+      "en": "Zouelya",
+      "slug": "zouelya-09010301"
+    },
+    "code": {
+      "id": "ML-C09010301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A090103",
+      "level": 3,
+      "name": {
+        "local": "Zouelya",
+        "en": "Zouelya",
+        "slug": "zouelya-090103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML09",
+        "level": 1,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml09"
+        }
+      },
+      {
+        "id": "ML0901",
+        "level": 2,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml0901"
+        }
+      },
+      {
+        "id": "ML-A090103",
+        "level": 3,
+        "name": {
+          "local": "Zouelya",
+          "en": "Zouelya",
+          "slug": "zouelya-090103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-3.979"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

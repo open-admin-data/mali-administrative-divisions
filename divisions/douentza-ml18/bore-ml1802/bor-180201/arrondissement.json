@@ -1,0 +1,56 @@
+{
+  "id": "ML-A180201",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Boré",
+    "en": "Boré",
+    "slug": "bor-180201"
+  },
+  "code": {
+    "id": "ML-A180201",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1802",
+    "level": 2,
+    "name": {
+      "local": "Boré",
+      "en": "Bore",
+      "slug": "bore-ml1802"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML18",
+      "level": 1,
+      "name": {
+        "local": "Douentza",
+        "en": "Douentza",
+        "slug": "douentza-ml18"
+      }
+    },
+    {
+      "id": "ML1802",
+      "level": 2,
+      "name": {
+        "local": "Boré",
+        "en": "Bore",
+        "slug": "bore-ml1802"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.133",
+    "lon": "-3.483"
+  },
+  "metadata": {},
+  "source": {}
+}

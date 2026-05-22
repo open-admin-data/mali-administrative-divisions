@@ -1,0 +1,31 @@
+{
+  "id": "ML13",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Dioïla",
+    "en": "Dioïla",
+    "slug": "diola-ml13"
+  },
+  "code": {
+    "id": "ML13",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "cercle": 6,
+    "commune": 23,
+    "arrondissement": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.487",
+    "lon": "-6.803"
+  },
+  "metadata": {},
+  "source": {}
+}

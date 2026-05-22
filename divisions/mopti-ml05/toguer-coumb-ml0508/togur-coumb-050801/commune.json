@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C05080101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Toguéré-Coumbé",
+      "en": "Toguéré-Coumbé",
+      "slug": "togur-coumb-05080101"
+    },
+    "code": {
+      "id": "ML-C05080101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050801",
+      "level": 3,
+      "name": {
+        "local": "Toguéré-Coumbé",
+        "en": "Toguéré-Coumbé",
+        "slug": "togur-coumb-050801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0508",
+        "level": 2,
+        "name": {
+          "local": "Toguéré-Coumbé",
+          "en": "Togueré-Coumbé",
+          "slug": "toguer-coumb-ml0508"
+        }
+      },
+      {
+        "id": "ML-A050801",
+        "level": 3,
+        "name": {
+          "local": "Toguéré-Coumbé",
+          "en": "Toguéré-Coumbé",
+          "slug": "togur-coumb-050801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.917",
+      "lon": "-4.6"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

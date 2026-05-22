@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C06030203",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Haibongo",
+      "en": "Haibongo",
+      "slug": "haibongo-06030203"
+    },
+    "code": {
+      "id": "ML-C06030203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A060303",
+      "level": 3,
+      "name": {
+        "local": "Haibongo",
+        "en": "Haibongo",
+        "slug": "haibongo-060303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0603",
+        "level": 2,
+        "name": {
+          "local": "Diré",
+          "en": "Dire",
+          "slug": "dire-ml0603"
+        }
+      },
+      {
+        "id": "ML-A060303",
+        "level": 3,
+        "name": {
+          "local": "Haibongo",
+          "en": "Haibongo",
+          "slug": "haibongo-060303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.257",
+      "lon": "-3.401"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

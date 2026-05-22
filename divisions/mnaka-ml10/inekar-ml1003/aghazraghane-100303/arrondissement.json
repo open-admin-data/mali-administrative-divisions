@@ -1,0 +1,56 @@
+{
+  "id": "ML-A100303",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Aghazraghane",
+    "en": "Aghazraghane",
+    "slug": "aghazraghane-100303"
+  },
+  "code": {
+    "id": "ML-A100303",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1003",
+    "level": 2,
+    "name": {
+      "local": "Inékar",
+      "en": "Inekar",
+      "slug": "inekar-ml1003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML10",
+      "level": 1,
+      "name": {
+        "local": "Ménaka",
+        "en": "Ménaka",
+        "slug": "mnaka-ml10"
+      }
+    },
+    {
+      "id": "ML1003",
+      "level": 2,
+      "name": {
+        "local": "Inékar",
+        "en": "Inekar",
+        "slug": "inekar-ml1003"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.959",
+    "lon": "3.141"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ML0505",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Konna",
+    "en": "Konna",
+    "slug": "konna-ml0505"
+  },
+  "code": {
+    "id": "ML0505",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML05",
+    "level": 1,
+    "name": {
+      "local": "Mopti",
+      "en": "Mopti",
+      "slug": "mopti-ml05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML05",
+      "level": 1,
+      "name": {
+        "local": "Mopti",
+        "en": "Mopti",
+        "slug": "mopti-ml05"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 3,
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.944",
+    "lon": "-3.89"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ML10",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Ménaka",
+    "en": "Ménaka",
+    "slug": "mnaka-ml10"
+  },
+  "code": {
+    "id": "ML10",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "cercle": 6,
+    "commune": 27,
+    "arrondissement": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.92",
+    "lon": "2.396"
+  },
+  "metadata": {},
+  "source": {}
+}

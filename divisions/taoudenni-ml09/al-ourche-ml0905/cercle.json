@@ -1,0 +1,48 @@
+{
+  "id": "ML0905",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Al-Ourche",
+    "en": "Al-Ourche",
+    "slug": "al-ourche-ml0905"
+  },
+  "code": {
+    "id": "ML0905",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML09",
+    "level": 1,
+    "name": {
+      "local": "Taoudenni",
+      "en": "Taoudenni",
+      "slug": "taoudenni-ml09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML09",
+      "level": 1,
+      "name": {
+        "local": "Taoudenni",
+        "en": "Taoudenni",
+        "slug": "taoudenni-ml09"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 6,
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.677",
+    "lon": "-3.979"
+  },
+  "metadata": {},
+  "source": {}
+}

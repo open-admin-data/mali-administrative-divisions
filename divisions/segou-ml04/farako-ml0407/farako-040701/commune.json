@@ -1,0 +1,254 @@
+[
+  {
+    "id": "ML-C04070101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Diganidougou",
+      "en": "Diganidougou",
+      "slug": "diganidougou-04070101"
+    },
+    "code": {
+      "id": "ML-C04070101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040701",
+      "level": 3,
+      "name": {
+        "local": "Farako",
+        "en": "Farako",
+        "slug": "farako-040701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0407",
+        "level": 2,
+        "name": {
+          "local": "Farako",
+          "en": "Farako",
+          "slug": "farako-ml0407"
+        }
+      },
+      {
+        "id": "ML-A040701",
+        "level": 3,
+        "name": {
+          "local": "Farako",
+          "en": "Farako",
+          "slug": "farako-040701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.943",
+      "lon": "-6.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C04070102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Farako",
+      "en": "Farako",
+      "slug": "farako-04070102"
+    },
+    "code": {
+      "id": "ML-C04070102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040701",
+      "level": 3,
+      "name": {
+        "local": "Farako",
+        "en": "Farako",
+        "slug": "farako-040701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0407",
+        "level": 2,
+        "name": {
+          "local": "Farako",
+          "en": "Farako",
+          "slug": "farako-ml0407"
+        }
+      },
+      {
+        "id": "ML-A040701",
+        "level": 3,
+        "name": {
+          "local": "Farako",
+          "en": "Farako",
+          "slug": "farako-040701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.943",
+      "lon": "-6.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C04070103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sama Foulala",
+      "en": "Sama Foulala",
+      "slug": "sama-foulala-04070103"
+    },
+    "code": {
+      "id": "ML-C04070103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040701",
+      "level": 3,
+      "name": {
+        "local": "Farako",
+        "en": "Farako",
+        "slug": "farako-040701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0407",
+        "level": 2,
+        "name": {
+          "local": "Farako",
+          "en": "Farako",
+          "slug": "farako-ml0407"
+        }
+      },
+      {
+        "id": "ML-A040701",
+        "level": 3,
+        "name": {
+          "local": "Farako",
+          "en": "Farako",
+          "slug": "farako-040701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.943",
+      "lon": "-6.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C04070104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Souba",
+      "en": "Souba",
+      "slug": "souba-04070104"
+    },
+    "code": {
+      "id": "ML-C04070104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040701",
+      "level": 3,
+      "name": {
+        "local": "Farako",
+        "en": "Farako",
+        "slug": "farako-040701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0407",
+        "level": 2,
+        "name": {
+          "local": "Farako",
+          "en": "Farako",
+          "slug": "farako-ml0407"
+        }
+      },
+      {
+        "id": "ML-A040701",
+        "level": 3,
+        "name": {
+          "local": "Farako",
+          "en": "Farako",
+          "slug": "farako-040701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.943",
+      "lon": "-6.791"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

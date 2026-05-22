@@ -1,0 +1,48 @@
+{
+  "id": "ML0406",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Dioro",
+    "en": "Dioro",
+    "slug": "dioro-ml0406"
+  },
+  "code": {
+    "id": "ML0406",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML04",
+    "level": 1,
+    "name": {
+      "local": "Segou",
+      "en": "Segou",
+      "slug": "segou-ml04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML04",
+      "level": 1,
+      "name": {
+        "local": "Segou",
+        "en": "Segou",
+        "slug": "segou-ml04"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 3,
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.689",
+    "lon": "-5.831"
+  },
+  "metadata": {},
+  "source": {}
+}

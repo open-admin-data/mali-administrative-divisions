@@ -1,0 +1,48 @@
+{
+  "id": "ML0408",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Nampala",
+    "en": "Nampala",
+    "slug": "nampala-ml0408"
+  },
+  "code": {
+    "id": "ML0408",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML04",
+    "level": 1,
+    "name": {
+      "local": "Segou",
+      "en": "Segou",
+      "slug": "segou-ml04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML04",
+      "level": 1,
+      "name": {
+        "local": "Segou",
+        "en": "Segou",
+        "slug": "segou-ml04"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 4,
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.281",
+    "lon": "-5.555"
+  },
+  "metadata": {},
+  "source": {}
+}

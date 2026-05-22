@@ -1,0 +1,48 @@
+{
+  "id": "ML0601",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Tombouctou",
+    "en": "Timbuktu",
+    "slug": "timbuktu-ml0601"
+  },
+  "code": {
+    "id": "ML0601",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML06",
+    "level": 1,
+    "name": {
+      "local": "Tombouctou",
+      "en": "Timbuktu",
+      "slug": "timbuktu-ml06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML06",
+      "level": 1,
+      "name": {
+        "local": "Tombouctou",
+        "en": "Timbuktu",
+        "slug": "timbuktu-ml06"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 3,
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.773",
+    "lon": "-3.007"
+  },
+  "metadata": {},
+  "source": {}
+}

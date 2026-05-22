@@ -1,0 +1,114 @@
+[
+  {
+    "id": "ML-A180302",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Gallou",
+      "en": "Gallou",
+      "slug": "gallou-180302"
+    },
+    "code": {
+      "id": "ML-A180302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1803",
+      "level": 2,
+      "name": {
+        "local": "Hombori",
+        "en": "Hombori",
+        "slug": "hombori-ml1803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML18",
+        "level": 1,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml18"
+        }
+      },
+      {
+        "id": "ML1803",
+        "level": 2,
+        "name": {
+          "local": "Hombori",
+          "en": "Hombori",
+          "slug": "hombori-ml1803"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.279",
+      "lon": "-1.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A180301",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Hombori",
+      "en": "Hombori",
+      "slug": "hombori-180301"
+    },
+    "code": {
+      "id": "ML-A180301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1803",
+      "level": 2,
+      "name": {
+        "local": "Hombori",
+        "en": "Hombori",
+        "slug": "hombori-ml1803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML18",
+        "level": 1,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml18"
+        }
+      },
+      {
+        "id": "ML1803",
+        "level": 2,
+        "name": {
+          "local": "Hombori",
+          "en": "Hombori",
+          "slug": "hombori-ml1803"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.279",
+      "lon": "-1.7"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

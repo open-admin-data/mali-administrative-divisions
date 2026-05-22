@@ -1,0 +1,140 @@
+# Dioïla — Mali Administrative Divisions
+
+> 6 circles, 13 arrondissements, 23 communes
+> Code: ML13
+> Coordinates: 12.487, -6.803
+> Last updated: 2026-05-22. License: CC-BY-4.0.
+
+## Circles
+
+### Banco
+
+Code: ML1302, Coordinates: 12.099, -6.524
+Arrondissements: 2, Communes: 2
+
+#### Banco
+
+Code: ML-A130201, Coordinates: 12.099, -6.524
+
+Communes:
+- Banco [ML-C13020101]
+
+#### N&#39;Golobougou
+
+Code: ML-A130202, Coordinates: 12.099, -6.524
+
+Communes:
+- N&#39;Golobougou [ML-C13020201]
+
+### Béléko (Beleko)
+
+Code: ML1303, Coordinates: 14.586, -7.631
+Arrondissements: 2, Communes: 4
+
+#### Béléko
+
+Code: ML-A130301, Coordinates: 14.586, -7.631
+
+Communes:
+- Benkadi [ML-C13030101]
+- Diedougou [ML-C13030102]
+- Jèkafo [ML-C13030103]
+
+#### Dandougou
+
+Code: ML-A130302, Coordinates: 14.586, -7.631
+
+Communes:
+- Dolendougou [ML-C13030201]
+
+### Dioïla (Dioila)
+
+Code: ML1301, Coordinates: 12.487, -6.803
+Arrondissements: 2, Communes: 6
+
+#### Dioïla
+
+Code: ML-A130101, Coordinates: 12.487, -6.803
+
+Communes:
+- Dègnèkoro [ML-C13010101]
+- Kaladougou [ML-C13010102]
+- Kilidougou [ML-C13010103]
+- N&#39;Garadougou [ML-C13010104]
+- Wacoro [ML-C13010105]
+
+#### Sénou
+
+Code: ML-A130102, Coordinates: 12.487, -6.803
+
+Communes:
+- Kémé-Kafo [ML-C13010201]
+
+### Fana
+
+Code: ML1304, Coordinates: 12.779, -6.956
+Arrondissements: 3, Communes: 7
+
+#### Fana
+
+Code: ML-A130401, Coordinates: 12.779, -6.956
+
+Communes:
+- Binko [ML-C13040101]
+- Guégnéka [ML-C13040102]
+- Kéréla [ML-C13040103]
+
+#### Marka-Coungo
+
+Code: ML-A130402, Coordinates: 12.779, -6.956
+
+Communes:
+- Diouman [ML-C13040203]
+- Ténindougou [ML-C13040202]
+- Zan Coulibaly [ML-C13040201]
+
+#### Nangola
+
+Code: ML-A130403, Coordinates: 12.779, -6.956
+
+Communes:
+- Nangola [ML-C13040301]
+
+### Massigui
+
+Code: ML1305, Coordinates: 11.859, -6.771
+Arrondissements: 2, Communes: 2
+
+#### Massigui
+
+Code: ML-A130501, Coordinates: 11.859, -6.771
+
+Communes:
+- Massigui [ML-C13050101]
+
+#### Niantjila
+
+Code: ML-A130502, Coordinates: 11.859, -6.771
+
+Communes:
+- Niantjila [ML-C13050201]
+
+### Ména (Mena)
+
+Code: ML1306, Coordinates: 12.217, -6.204
+Arrondissements: 2, Communes: 2
+
+#### Diébé
+
+Code: ML-A130602, Coordinates: 12.217, -6.204
+
+Communes:
+- Diébé [ML-C13060201]
+
+#### Ména
+
+Code: ML-A130601, Coordinates: 12.217, -6.204
+
+Communes:
+- N&#39;Dlondougou [ML-C13060101]
+

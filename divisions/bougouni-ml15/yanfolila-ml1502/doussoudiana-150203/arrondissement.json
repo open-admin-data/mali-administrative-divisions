@@ -1,0 +1,56 @@
+{
+  "id": "ML-A150203",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Doussoudiana",
+    "en": "Doussoudiana",
+    "slug": "doussoudiana-150203"
+  },
+  "code": {
+    "id": "ML-A150203",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1502",
+    "level": 2,
+    "name": {
+      "local": "Yanfolila",
+      "en": "Yanfolila",
+      "slug": "yanfolila-ml1502"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML15",
+      "level": 1,
+      "name": {
+        "local": "Bougouni",
+        "en": "Bougouni",
+        "slug": "bougouni-ml15"
+      }
+    },
+    {
+      "id": "ML1502",
+      "level": 2,
+      "name": {
+        "local": "Yanfolila",
+        "en": "Yanfolila",
+        "slug": "yanfolila-ml1502"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.183",
+    "lon": "-8.15"
+  },
+  "metadata": {},
+  "source": {}
+}

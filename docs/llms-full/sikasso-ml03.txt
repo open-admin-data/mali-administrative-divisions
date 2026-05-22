@@ -1,0 +1,163 @@
+# Sikasso — Mali Administrative Divisions
+
+> 8 circles, 13 arrondissements, 36 communes
+> Code: ML03
+> Coordinates: 11.318, -5.667
+> Last updated: 2026-05-22. License: CC-BY-4.0.
+
+## Circles
+
+### Danderesso
+
+Code: ML0303, Coordinates: 11.486, -5.482
+Arrondissements: 0, Communes: 0
+
+### Kadiolo
+
+Code: ML0302, Coordinates: 10.55, -5.767
+Arrondissements: 4, Communes: 6
+
+#### Fourou
+
+Code: ML-A030202, Coordinates: 10.55, -5.767
+
+Communes:
+- Fourou [ML-C03020201]
+
+#### Kadiolo
+
+Code: ML-A030201, Coordinates: 10.55, -5.767
+
+Communes:
+- Diou [ML-C03020101]
+- Dioumaténé [ML-C03020102]
+- Kadiolo [ML-C03020103]
+
+#### Misséni
+
+Code: ML-A030203, Coordinates: 10.55, -5.767
+
+Communes:
+- Misseni [ML-C03020301]
+
+#### Zégoua
+
+Code: ML-A030204, Coordinates: 10.55, -5.767
+
+Communes:
+- Zégoua [ML-C03020401]
+
+### Kignan
+
+Code: ML0304, Coordinates: 11.852, -6.014
+Arrondissements: 3, Communes: 9
+
+#### Dogoni
+
+Code: ML-A030402, Coordinates: 11.852, -6.014
+
+Communes:
+- Dogoni [ML-C03040201]
+- Kabarasso [ML-C03040202]
+
+#### Doumanaba
+
+Code: ML-A030403, Coordinates: 11.852, -6.014
+
+Communes:
+- Doumanaba [ML-C03040301]
+
+#### Kignan
+
+Code: ML-A030401, Coordinates: 11.852, -6.014
+
+Communes:
+- Dialakoro [ML-C03040101]
+- Kignan [ML-C03040102]
+- Koumankou [ML-C03040103]
+- Kourouma [ML-C03040104]
+- Sanzana [ML-C03040105]
+- Tella [ML-C03040106]
+
+### Klela
+
+Code: ML0305, Coordinates: 12.176, -5.863
+Arrondissements: 0, Communes: 0
+
+### Lobougoula
+
+Code: ML0306, Coordinates: 11.044, -5.981
+Arrondissements: 2, Communes: 2
+
+#### Kolokoba
+
+Code: ML-A030602, Coordinates: 11.044, -5.981
+
+Communes:
+- Kolokoba [ML-C03060201]
+
+#### Lobougoula
+
+Code: ML-A030601, Coordinates: 11.044, -5.981
+
+Communes:
+- Lobougoula [ML-C03060101]
+
+### Loulouni
+
+Code: ML0307, Coordinates: 10.9, -5.6
+Arrondissements: 2, Communes: 3
+
+#### Kaï
+
+Code: ML-A030702, Coordinates: 10.9, -5.6
+
+Communes:
+- Kaï [ML-C03070201]
+
+#### Loulouni
+
+Code: ML-A030701, Coordinates: 10.9, -5.6
+
+Communes:
+- Loulouni [ML-C03070101]
+- Nimbougou [ML-C03070102]
+
+### Niena
+
+Code: ML0308, Coordinates: 13.632, -4.996
+Arrondissements: 0, Communes: 0
+
+### Sikasso
+
+Code: ML0301, Coordinates: 11.318, -5.667
+Arrondissements: 2, Communes: 16
+
+#### N&#39;Kourala
+
+Code: ML-A030102, Coordinates: 11.318, -5.667
+
+Communes:
+- Farakala [ML-C03010201]
+- Kapolondougou [ML-C03010202]
+- Kofan [ML-C03010203]
+- Zanférébougou [ML-C03010204]
+
+#### Sikasso
+
+Code: ML-A030101, Coordinates: 11.318, -5.667
+
+Communes:
+- Dallé [ML-C03010112]
+- Diomatènè [ML-C03010101]
+- Finkolo [ML-C03010102]
+- Kaboïla [ML-C03010103]
+- Kafouziéla [ML-C03010104]
+- Kapala [ML-C03010105]
+- Missirikoro [ML-C03010106]
+- Natien [ML-C03010107]
+- Pimperna [ML-C03010108]
+- Sikasso [ML-C03010109]
+- Sokourani-Missirikoro [ML-C03010110]
+- Zangaradougou [ML-C03010111]
+

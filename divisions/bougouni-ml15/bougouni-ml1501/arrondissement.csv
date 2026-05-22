@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,children_count.commune,geo.lat,geo.lon
+ML-A150101,Bougouni,Bougouni,bougouni-150101,ML-A150101,6,16.741,-2.507
+ML-A150104,Faragouaran,Faragouaran,faragouaran-150104,ML-A150104,3,16.741,-2.507
+ML-A150102,Kéléya,Kéléya,klya-150102,ML-A150102,3,16.741,-2.507
+ML-A150103,Zantiébougou,Zantiébougou,zantibougou-150103,ML-A150103,1,16.741,-2.507

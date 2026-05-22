@@ -1,0 +1,380 @@
+[
+  {
+    "id": "ML-C15010101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bougouni",
+      "en": "Bougouni",
+      "slug": "bougouni-15010101"
+    },
+    "code": {
+      "id": "ML-C15010101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150101",
+      "level": 3,
+      "name": {
+        "local": "Bougouni",
+        "en": "Bougouni",
+        "slug": "bougouni-150101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1501",
+        "level": 2,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml1501"
+        }
+      },
+      {
+        "id": "ML-A150101",
+        "level": 3,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-150101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.741",
+      "lon": "-2.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C15010102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Faradiélé",
+      "en": "Faradiélé",
+      "slug": "faradil-15010102"
+    },
+    "code": {
+      "id": "ML-C15010102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150101",
+      "level": 3,
+      "name": {
+        "local": "Bougouni",
+        "en": "Bougouni",
+        "slug": "bougouni-150101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1501",
+        "level": 2,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml1501"
+        }
+      },
+      {
+        "id": "ML-A150101",
+        "level": 3,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-150101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.741",
+      "lon": "-2.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C15010103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kokélé",
+      "en": "Kokélé",
+      "slug": "kokl-15010103"
+    },
+    "code": {
+      "id": "ML-C15010103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150101",
+      "level": 3,
+      "name": {
+        "local": "Bougouni",
+        "en": "Bougouni",
+        "slug": "bougouni-150101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1501",
+        "level": 2,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml1501"
+        }
+      },
+      {
+        "id": "ML-A150101",
+        "level": 3,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-150101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.741",
+      "lon": "-2.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C15010104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kola",
+      "en": "Kola",
+      "slug": "kola-15010104"
+    },
+    "code": {
+      "id": "ML-C15010104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150101",
+      "level": 3,
+      "name": {
+        "local": "Bougouni",
+        "en": "Bougouni",
+        "slug": "bougouni-150101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1501",
+        "level": 2,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml1501"
+        }
+      },
+      {
+        "id": "ML-A150101",
+        "level": 3,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-150101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.741",
+      "lon": "-2.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C15010105",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sido",
+      "en": "Sido",
+      "slug": "sido-15010105"
+    },
+    "code": {
+      "id": "ML-C15010105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150101",
+      "level": 3,
+      "name": {
+        "local": "Bougouni",
+        "en": "Bougouni",
+        "slug": "bougouni-150101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1501",
+        "level": 2,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml1501"
+        }
+      },
+      {
+        "id": "ML-A150101",
+        "level": 3,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-150101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.741",
+      "lon": "-2.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C15010106",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tièmala Banimonotié",
+      "en": "Tièmala Banimonotié",
+      "slug": "timala-banimonoti-15010106"
+    },
+    "code": {
+      "id": "ML-C15010106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150101",
+      "level": 3,
+      "name": {
+        "local": "Bougouni",
+        "en": "Bougouni",
+        "slug": "bougouni-150101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1501",
+        "level": 2,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml1501"
+        }
+      },
+      {
+        "id": "ML-A150101",
+        "level": 3,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-150101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.741",
+      "lon": "-2.507"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

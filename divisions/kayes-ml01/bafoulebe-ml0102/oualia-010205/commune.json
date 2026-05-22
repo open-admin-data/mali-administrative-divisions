@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C01020501",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oualia",
+      "en": "Oualia",
+      "slug": "oualia-01020501"
+    },
+    "code": {
+      "id": "ML-C01020501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010205",
+      "level": 3,
+      "name": {
+        "local": "Oualia",
+        "en": "Oualia",
+        "slug": "oualia-010205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0102",
+        "level": 2,
+        "name": {
+          "local": "Bafoulabé",
+          "en": "Bafoulebe",
+          "slug": "bafoulebe-ml0102"
+        }
+      },
+      {
+        "id": "ML-A010205",
+        "level": 3,
+        "name": {
+          "local": "Oualia",
+          "en": "Oualia",
+          "slug": "oualia-010205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.808",
+      "lon": "-10.833"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

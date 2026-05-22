@@ -1,0 +1,48 @@
+{
+  "id": "ML1506",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Sélingué",
+    "en": "Selingue",
+    "slug": "selingue-ml1506"
+  },
+  "code": {
+    "id": "ML1506",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML15",
+    "level": 1,
+    "name": {
+      "local": "Bougouni",
+      "en": "Bougouni",
+      "slug": "bougouni-ml15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML15",
+      "level": 1,
+      "name": {
+        "local": "Bougouni",
+        "en": "Bougouni",
+        "slug": "bougouni-ml15"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 0,
+    "commune": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.617",
+    "lon": "-8.233"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "ML-A190801",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Kani",
+      "en": "Kani",
+      "slug": "kani-190801"
+    },
+    "code": {
+      "id": "ML-A190801",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1908",
+      "level": 2,
+      "name": {
+        "local": "Kani",
+        "en": "Kani",
+        "slug": "kani-ml1908"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1908",
+        "level": 2,
+        "name": {
+          "local": "Kani",
+          "en": "Kani",
+          "slug": "kani-ml1908"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.247",
+      "lon": "-5.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A190804",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Menthely",
+      "en": "Menthely",
+      "slug": "menthely-190804"
+    },
+    "code": {
+      "id": "ML-A190804",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1908",
+      "level": 2,
+      "name": {
+        "local": "Kani",
+        "en": "Kani",
+        "slug": "kani-ml1908"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1908",
+        "level": 2,
+        "name": {
+          "local": "Kani",
+          "en": "Kani",
+          "slug": "kani-ml1908"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.247",
+      "lon": "-5.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A190803",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Ouroli",
+      "en": "Ouroli",
+      "slug": "ouroli-190803"
+    },
+    "code": {
+      "id": "ML-A190803",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1908",
+      "level": 2,
+      "name": {
+        "local": "Kani",
+        "en": "Kani",
+        "slug": "kani-ml1908"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1908",
+        "level": 2,
+        "name": {
+          "local": "Kani",
+          "en": "Kani",
+          "slug": "kani-ml1908"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.247",
+      "lon": "-5.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A190802",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Sal",
+      "en": "Sal",
+      "slug": "sal-190802"
+    },
+    "code": {
+      "id": "ML-A190802",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1908",
+      "level": 2,
+      "name": {
+        "local": "Kani",
+        "en": "Kani",
+        "slug": "kani-ml1908"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1908",
+        "level": 2,
+        "name": {
+          "local": "Kani",
+          "en": "Kani",
+          "slug": "kani-ml1908"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.247",
+      "lon": "-5.175"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

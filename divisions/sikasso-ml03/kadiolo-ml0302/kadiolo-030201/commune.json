@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C03020101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Diou",
+      "en": "Diou",
+      "slug": "diou-03020101"
+    },
+    "code": {
+      "id": "ML-C03020101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030201",
+      "level": 3,
+      "name": {
+        "local": "Kadiolo",
+        "en": "Kadiolo",
+        "slug": "kadiolo-030201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0302",
+        "level": 2,
+        "name": {
+          "local": "Kadiolo",
+          "en": "Kadiolo",
+          "slug": "kadiolo-ml0302"
+        }
+      },
+      {
+        "id": "ML-A030201",
+        "level": 3,
+        "name": {
+          "local": "Kadiolo",
+          "en": "Kadiolo",
+          "slug": "kadiolo-030201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.55",
+      "lon": "-5.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C03020102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dioumaténé",
+      "en": "Dioumaténé",
+      "slug": "dioumatn-03020102"
+    },
+    "code": {
+      "id": "ML-C03020102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030201",
+      "level": 3,
+      "name": {
+        "local": "Kadiolo",
+        "en": "Kadiolo",
+        "slug": "kadiolo-030201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0302",
+        "level": 2,
+        "name": {
+          "local": "Kadiolo",
+          "en": "Kadiolo",
+          "slug": "kadiolo-ml0302"
+        }
+      },
+      {
+        "id": "ML-A030201",
+        "level": 3,
+        "name": {
+          "local": "Kadiolo",
+          "en": "Kadiolo",
+          "slug": "kadiolo-030201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.55",
+      "lon": "-5.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C03020103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kadiolo",
+      "en": "Kadiolo",
+      "slug": "kadiolo-03020103"
+    },
+    "code": {
+      "id": "ML-C03020103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030201",
+      "level": 3,
+      "name": {
+        "local": "Kadiolo",
+        "en": "Kadiolo",
+        "slug": "kadiolo-030201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0302",
+        "level": 2,
+        "name": {
+          "local": "Kadiolo",
+          "en": "Kadiolo",
+          "slug": "kadiolo-ml0302"
+        }
+      },
+      {
+        "id": "ML-A030201",
+        "level": 3,
+        "name": {
+          "local": "Kadiolo",
+          "en": "Kadiolo",
+          "slug": "kadiolo-030201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.55",
+      "lon": "-5.767"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "ML1203",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Sébékoro",
+    "en": "Sebekoro",
+    "slug": "sebekoro-ml1203"
+  },
+  "code": {
+    "id": "ML1203",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML12",
+    "level": 1,
+    "name": {
+      "local": "Kita",
+      "en": "Kita",
+      "slug": "kita-ml12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML12",
+      "level": 1,
+      "name": {
+        "local": "Kita",
+        "en": "Kita",
+        "slug": "kita-ml12"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 2,
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.461",
+    "lon": "-9.131"
+  },
+  "metadata": {},
+  "source": {}
+}

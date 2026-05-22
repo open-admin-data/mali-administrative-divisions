@@ -1,0 +1,56 @@
+{
+  "id": "ML-A190101",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Bandiagara",
+    "en": "Bandiagara",
+    "slug": "bandiagara-190101"
+  },
+  "code": {
+    "id": "ML-A190101",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1901",
+    "level": 2,
+    "name": {
+      "local": "Bandiagara",
+      "en": "Bandiagara",
+      "slug": "bandiagara-ml1901"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML19",
+      "level": 1,
+      "name": {
+        "local": "Bandiagara",
+        "en": "Bandiagara",
+        "slug": "bandiagara-ml19"
+      }
+    },
+    {
+      "id": "ML1901",
+      "level": 2,
+      "name": {
+        "local": "Bandiagara",
+        "en": "Bandiagara",
+        "slug": "bandiagara-ml1901"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.35",
+    "lon": "-3.61"
+  },
+  "metadata": {},
+  "source": {}
+}

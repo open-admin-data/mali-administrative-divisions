@@ -1,0 +1,114 @@
+[
+  {
+    "id": "ML-A011002",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Dialafara",
+      "en": "Dialafara",
+      "slug": "dialafara-011002"
+    },
+    "code": {
+      "id": "ML-A011002",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0110",
+      "level": 2,
+      "name": {
+        "local": "Sadiola",
+        "en": "Sadiola",
+        "slug": "sadiola-ml0110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0110",
+        "level": 2,
+        "name": {
+          "local": "Sadiola",
+          "en": "Sadiola",
+          "slug": "sadiola-ml0110"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.891",
+      "lon": "-11.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A011001",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Sadiola",
+      "en": "Sadiola",
+      "slug": "sadiola-011001"
+    },
+    "code": {
+      "id": "ML-A011001",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0110",
+      "level": 2,
+      "name": {
+        "local": "Sadiola",
+        "en": "Sadiola",
+        "slug": "sadiola-ml0110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0110",
+        "level": 2,
+        "name": {
+          "local": "Sadiola",
+          "en": "Sadiola",
+          "slug": "sadiola-ml0110"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.891",
+      "lon": "-11.706"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

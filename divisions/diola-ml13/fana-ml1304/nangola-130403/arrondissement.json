@@ -1,0 +1,56 @@
+{
+  "id": "ML-A130403",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Nangola",
+    "en": "Nangola",
+    "slug": "nangola-130403"
+  },
+  "code": {
+    "id": "ML-A130403",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1304",
+    "level": 2,
+    "name": {
+      "local": "Fana",
+      "en": "Fana",
+      "slug": "fana-ml1304"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML13",
+      "level": 1,
+      "name": {
+        "local": "Dioïla",
+        "en": "Dioïla",
+        "slug": "diola-ml13"
+      }
+    },
+    {
+      "id": "ML1304",
+      "level": 2,
+      "name": {
+        "local": "Fana",
+        "en": "Fana",
+        "slug": "fana-ml1304"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.779",
+    "lon": "-6.956"
+  },
+  "metadata": {},
+  "source": {}
+}

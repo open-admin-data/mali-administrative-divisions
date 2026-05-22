@@ -1,0 +1,48 @@
+{
+  "id": "ML0407",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Farako",
+    "en": "Farako",
+    "slug": "farako-ml0407"
+  },
+  "code": {
+    "id": "ML0407",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML04",
+    "level": 1,
+    "name": {
+      "local": "Segou",
+      "en": "Segou",
+      "slug": "segou-ml04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML04",
+      "level": 1,
+      "name": {
+        "local": "Segou",
+        "en": "Segou",
+        "slug": "segou-ml04"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 2,
+    "commune": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.943",
+    "lon": "-6.791"
+  },
+  "metadata": {},
+  "source": {}
+}

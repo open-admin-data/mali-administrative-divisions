@@ -1,0 +1,56 @@
+{
+  "id": "ML-A050103",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Fatoma",
+    "en": "Fatoma",
+    "slug": "fatoma-050103"
+  },
+  "code": {
+    "id": "ML-A050103",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0501",
+    "level": 2,
+    "name": {
+      "local": "Mopti",
+      "en": "Mopti",
+      "slug": "mopti-ml0501"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML05",
+      "level": 1,
+      "name": {
+        "local": "Mopti",
+        "en": "Mopti",
+        "slug": "mopti-ml05"
+      }
+    },
+    {
+      "id": "ML0501",
+      "level": 2,
+      "name": {
+        "local": "Mopti",
+        "en": "Mopti",
+        "slug": "mopti-ml0501"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.484",
+    "lon": "-4.183"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,94 @@
+# Mali Administrative Divisions
+
+> Open dataset of Mali's administrative hierarchy:
+> 20 regions, 160 circles, 474 arrondissements, 816 communes.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total regions: 20
+- Total circles: 160
+- Total arrondissements: 474
+- Total communes: 816
+- Coordinates: included (all levels)
+- Last updated: 2026-05-22
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All regions (JSON)](https://raw.githubusercontent.com/open-admin-data/mali-administrative-divisions/main/data/all-region.json)
+- [All circles (JSON)](https://raw.githubusercontent.com/open-admin-data/mali-administrative-divisions/main/data/all-cercle.json)
+- [All arrondissements (JSON)](https://raw.githubusercontent.com/open-admin-data/mali-administrative-divisions/main/data/all-arrondissement.json)
+- [All communes (JSON)](https://raw.githubusercontent.com/open-admin-data/mali-administrative-divisions/main/data/all-commune.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/mali-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/mali-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/mali-administrative-divisions/main/data/schema.json)
+
+## Browse by Region
+
+- [Kayes](https://github.com/open-admin-data/mali-administrative-divisions/tree/main/divisions/kayes-ml01/) — 10 circles, 33 arrondissements, 65 communes
+- [Koulikoro](https://github.com/open-admin-data/mali-administrative-divisions/tree/main/divisions/koulikoro-ml02/) — 8 circles, 26 arrondissements, 58 communes
+- [Sikasso](https://github.com/open-admin-data/mali-administrative-divisions/tree/main/divisions/sikasso-ml03/) — 8 circles, 13 arrondissements, 36 communes
+- [Segou](https://github.com/open-admin-data/mali-administrative-divisions/tree/main/divisions/segou-ml04/) — 11 circles, 28 arrondissements, 54 communes
+- [Mopti](https://github.com/open-admin-data/mali-administrative-divisions/tree/main/divisions/mopti-ml05/) — 8 circles, 34 arrondissements, 50 communes
+- [Timbuktu](https://github.com/open-admin-data/mali-administrative-divisions/tree/main/divisions/timbuktu-ml06/) — 13 circles, 30 arrondissements, 47 communes
+- [Gao](https://github.com/open-admin-data/mali-administrative-divisions/tree/main/divisions/gao-ml07/) — 16 circles, 37 arrondissements, 40 communes
+- [Kidal](https://github.com/open-admin-data/mali-administrative-divisions/tree/main/divisions/kidal-ml08/) — 9 circles, 29 arrondissements, 30 communes
+- [Taoudenni](https://github.com/open-admin-data/mali-administrative-divisions/tree/main/divisions/taoudenni-ml09/) — 6 circles, 30 arrondissements, 30 communes
+- [Ménaka](https://github.com/open-admin-data/mali-administrative-divisions/tree/main/divisions/mnaka-ml10/) — 6 circles, 18 arrondissements, 27 communes
+- [Nioro](https://github.com/open-admin-data/mali-administrative-divisions/tree/main/divisions/nioro-ml11/) — 6 circles, 4 arrondissements, 10 communes
+- [Kita](https://github.com/open-admin-data/mali-administrative-divisions/tree/main/divisions/kita-ml12/) — 6 circles, 14 arrondissements, 33 communes
+- [Dioïla](https://github.com/open-admin-data/mali-administrative-divisions/tree/main/divisions/diola-ml13/) — 6 circles, 13 arrondissements, 23 communes
+- [Nara](https://github.com/open-admin-data/mali-administrative-divisions/tree/main/divisions/nara-ml14/) — 6 circles, 12 arrondissements, 14 communes
+- [Bougouni](https://github.com/open-admin-data/mali-administrative-divisions/tree/main/divisions/bougouni-ml15/) — 10 circles, 22 arrondissements, 41 communes
+- [Koutiala](https://github.com/open-admin-data/mali-administrative-divisions/tree/main/divisions/koutiala-ml16/) — 8 circles, 22 arrondissements, 46 communes
+- [San](https://github.com/open-admin-data/mali-administrative-divisions/tree/main/divisions/san-ml17/) — 7 circles, 17 arrondissements, 42 communes
+- [Douentza](https://github.com/open-admin-data/mali-administrative-divisions/tree/main/divisions/douentza-ml18/) — 6 circles, 15 arrondissements, 21 communes
+- [Bandiagara](https://github.com/open-admin-data/mali-administrative-divisions/tree/main/divisions/bandiagara-ml19/) — 9 circles, 28 arrondissements, 48 communes
+- [Bamako](https://github.com/open-admin-data/mali-administrative-divisions/tree/main/divisions/bamako-ml20/) — 1 circles, 0 arrondissements, 0 communes
+
+## Per-Region Full Data
+
+- [Kayes](https://raw.githubusercontent.com/open-admin-data/mali-administrative-divisions/main/docs/llms-full/kayes-ml01.txt)
+- [Koulikoro](https://raw.githubusercontent.com/open-admin-data/mali-administrative-divisions/main/docs/llms-full/koulikoro-ml02.txt)
+- [Sikasso](https://raw.githubusercontent.com/open-admin-data/mali-administrative-divisions/main/docs/llms-full/sikasso-ml03.txt)
+- [Segou](https://raw.githubusercontent.com/open-admin-data/mali-administrative-divisions/main/docs/llms-full/segou-ml04.txt)
+- [Mopti](https://raw.githubusercontent.com/open-admin-data/mali-administrative-divisions/main/docs/llms-full/mopti-ml05.txt)
+- [Timbuktu](https://raw.githubusercontent.com/open-admin-data/mali-administrative-divisions/main/docs/llms-full/timbuktu-ml06.txt)
+- [Gao](https://raw.githubusercontent.com/open-admin-data/mali-administrative-divisions/main/docs/llms-full/gao-ml07.txt)
+- [Kidal](https://raw.githubusercontent.com/open-admin-data/mali-administrative-divisions/main/docs/llms-full/kidal-ml08.txt)
+- [Taoudenni](https://raw.githubusercontent.com/open-admin-data/mali-administrative-divisions/main/docs/llms-full/taoudenni-ml09.txt)
+- [Ménaka](https://raw.githubusercontent.com/open-admin-data/mali-administrative-divisions/main/docs/llms-full/mnaka-ml10.txt)
+- [Nioro](https://raw.githubusercontent.com/open-admin-data/mali-administrative-divisions/main/docs/llms-full/nioro-ml11.txt)
+- [Kita](https://raw.githubusercontent.com/open-admin-data/mali-administrative-divisions/main/docs/llms-full/kita-ml12.txt)
+- [Dioïla](https://raw.githubusercontent.com/open-admin-data/mali-administrative-divisions/main/docs/llms-full/diola-ml13.txt)
+- [Nara](https://raw.githubusercontent.com/open-admin-data/mali-administrative-divisions/main/docs/llms-full/nara-ml14.txt)
+- [Bougouni](https://raw.githubusercontent.com/open-admin-data/mali-administrative-divisions/main/docs/llms-full/bougouni-ml15.txt)
+- [Koutiala](https://raw.githubusercontent.com/open-admin-data/mali-administrative-divisions/main/docs/llms-full/koutiala-ml16.txt)
+- [San](https://raw.githubusercontent.com/open-admin-data/mali-administrative-divisions/main/docs/llms-full/san-ml17.txt)
+- [Douentza](https://raw.githubusercontent.com/open-admin-data/mali-administrative-divisions/main/docs/llms-full/douentza-ml18.txt)
+- [Bandiagara](https://raw.githubusercontent.com/open-admin-data/mali-administrative-divisions/main/docs/llms-full/bandiagara-ml19.txt)
+- [Bamako](https://raw.githubusercontent.com/open-admin-data/mali-administrative-divisions/main/docs/llms-full/bamako-ml20.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (region), 2 (circle), 3 (arrondissement), 4 (commune)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Mali Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/mali-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C08040301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ikadhawatène",
+      "en": "Ikadhawatène",
+      "slug": "ikadhawatne-08040301"
+    },
+    "code": {
+      "id": "ML-C08040301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A080403",
+      "level": 3,
+      "name": {
+        "local": "Ikadhawatène",
+        "en": "Ikadhawatène",
+        "slug": "ikadhawatne-080403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML08",
+        "level": 1,
+        "name": {
+          "local": "Kidal",
+          "en": "Kidal",
+          "slug": "kidal-ml08"
+        }
+      },
+      {
+        "id": "ML0804",
+        "level": 2,
+        "name": {
+          "local": "Tessalit",
+          "en": "Tessalit",
+          "slug": "tessalit-ml0804"
+        }
+      },
+      {
+        "id": "ML-A080403",
+        "level": 3,
+        "name": {
+          "local": "Ikadhawatène",
+          "en": "Ikadhawatène",
+          "slug": "ikadhawatne-080403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.271",
+      "lon": "0.697"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

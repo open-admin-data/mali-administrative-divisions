@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C08040101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tessalit",
+      "en": "Tessalit",
+      "slug": "tessalit-08040101"
+    },
+    "code": {
+      "id": "ML-C08040101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A080401",
+      "level": 3,
+      "name": {
+        "local": "Tessalit",
+        "en": "Tessalit",
+        "slug": "tessalit-080401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML08",
+        "level": 1,
+        "name": {
+          "local": "Kidal",
+          "en": "Kidal",
+          "slug": "kidal-ml08"
+        }
+      },
+      {
+        "id": "ML0804",
+        "level": 2,
+        "name": {
+          "local": "Tessalit",
+          "en": "Tessalit",
+          "slug": "tessalit-ml0804"
+        }
+      },
+      {
+        "id": "ML-A080401",
+        "level": 3,
+        "name": {
+          "local": "Tessalit",
+          "en": "Tessalit",
+          "slug": "tessalit-080401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.271",
+      "lon": "0.697"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

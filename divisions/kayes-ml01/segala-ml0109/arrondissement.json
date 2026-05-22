@@ -1,0 +1,114 @@
+[
+  {
+    "id": "ML-A010902",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Maréna",
+      "en": "Maréna",
+      "slug": "marna-010902"
+    },
+    "code": {
+      "id": "ML-A010902",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0109",
+      "level": 2,
+      "name": {
+        "local": "Ségala",
+        "en": "Segala",
+        "slug": "segala-ml0109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0109",
+        "level": 2,
+        "name": {
+          "local": "Ségala",
+          "en": "Segala",
+          "slug": "segala-ml0109"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.529",
+      "lon": "-5.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A010901",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Ségala",
+      "en": "Ségala",
+      "slug": "sgala-010901"
+    },
+    "code": {
+      "id": "ML-A010901",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0109",
+      "level": 2,
+      "name": {
+        "local": "Ségala",
+        "en": "Segala",
+        "slug": "segala-ml0109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0109",
+        "level": 2,
+        "name": {
+          "local": "Ségala",
+          "en": "Segala",
+          "slug": "segala-ml0109"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.529",
+      "lon": "-5.732"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

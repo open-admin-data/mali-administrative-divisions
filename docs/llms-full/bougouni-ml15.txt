@@ -1,0 +1,232 @@
+# Bougouni — Mali Administrative Divisions
+
+> 10 circles, 22 arrondissements, 41 communes
+> Code: ML15
+> Coordinates: 16.741, -2.507
+> Last updated: 2026-05-22. License: CC-BY-4.0.
+
+## Circles
+
+### Bougouni
+
+Code: ML1501, Coordinates: 16.741, -2.507
+Arrondissements: 4, Communes: 13
+
+#### Bougouni
+
+Code: ML-A150101, Coordinates: 16.741, -2.507
+
+Communes:
+- Bougouni [ML-C15010101]
+- Faradiélé [ML-C15010102]
+- Kokélé [ML-C15010103]
+- Kola [ML-C15010104]
+- Sido [ML-C15010105]
+- Tièmala Banimonotié [ML-C15010106]
+
+#### Faragouaran
+
+Code: ML-A150104, Coordinates: 16.741, -2.507
+
+Communes:
+- Danou [ML-C15010401]
+- Faragouaran [ML-C15010402]
+- Kouroulamini [ML-C15010403]
+
+#### Kéléya
+
+Code: ML-A150102, Coordinates: 16.741, -2.507
+
+Communes:
+- Kéléya [ML-C15010201]
+- Ouroun [ML-C15010202]
+- Syentoula [ML-C15010203]
+
+#### Zantiébougou
+
+Code: ML-A150103, Coordinates: 16.741, -2.507
+
+Communes:
+- Zantiébougou [ML-C15010301]
+
+### Dogo
+
+Code: ML1510, Coordinates: 15.169, -4.431
+Arrondissements: 2, Communes: 2
+
+#### Dogo
+
+Code: ML-A151001, Coordinates: 15.169, -4.431
+
+Communes:
+- Dogo [ML-C15100101]
+
+#### Meridiéla
+
+Code: ML-A151002, Coordinates: 15.169, -4.431
+
+Communes:
+- Meridiéla [ML-C15100201]
+
+### Fakola
+
+Code: ML1509, Coordinates: 10.533, -6.917
+Arrondissements: 2, Communes: 3
+
+#### Fakola
+
+Code: ML-A150901, Coordinates: 10.533, -6.917
+
+Communes:
+- Bougoula [ML-C15090102]
+- Fakola [ML-C15090101]
+
+#### Farako
+
+Code: ML-A150902, Coordinates: 10.533, -6.917
+
+Communes:
+- Farako [ML-C15090201]
+
+### Garalo
+
+Code: ML1504, Coordinates: 11, -7.433
+Arrondissements: 2, Communes: 6
+
+#### Garalo
+
+Code: ML-A150401, Coordinates: 11, -7.433
+
+Communes:
+- Bladié-Tiémala [ML-C15040102]
+- Défina [ML-C15040103]
+- Garalo [ML-C15040101]
+- Yiridougou [ML-C15040104]
+
+#### Manankoro
+
+Code: ML-A150402, Coordinates: 11, -7.433
+
+Communes:
+- Sibirila [ML-C15040201]
+- Yinindougou [ML-C15040202]
+
+### Kadiana
+
+Code: ML1508, Coordinates: 10.75, -6.5
+Arrondissements: 3, Communes: 3
+
+#### Kadiana
+
+Code: ML-A150801, Coordinates: 10.75, -6.5
+
+Communes:
+- Kadiana [ML-C15080101]
+
+#### Nangalasso
+
+Code: ML-A150802, Coordinates: 10.75, -6.5
+
+Communes:
+- Nangalasso [ML-C15080201]
+
+#### Tiongui
+
+Code: ML-A150803, Coordinates: 10.75, -6.5
+
+Communes:
+- Tiongui [ML-C15080301]
+
+### Kolondièba (Kolondieba)
+
+Code: ML1503, Coordinates: 11.089, -6.893
+Arrondissements: 0, Communes: 0
+
+### Koumantou
+
+Code: ML1505, Coordinates: 11.406, -6.85
+Arrondissements: 2, Communes: 5
+
+#### Koumantou
+
+Code: ML-A150501, Coordinates: 11.406, -6.85
+
+Communes:
+- Koumantou [ML-C15050101]
+
+#### Sanso
+
+Code: ML-A150502, Coordinates: 11.406, -6.85
+
+Communes:
+- Débélin [ML-C15050202]
+- Domba [ML-C15050203]
+- Sanso [ML-C15050201]
+- Wola [ML-C15050204]
+
+### Ouelessebougou
+
+Code: ML1507, Coordinates: 11.992, -7.909
+Arrondissements: 0, Communes: 0
+
+### Sélingué (Selingue)
+
+Code: ML1506, Coordinates: 11.617, -8.233
+Arrondissements: 0, Communes: 0
+
+### Yanfolila
+
+Code: ML1502, Coordinates: 11.183, -8.15
+Arrondissements: 7, Communes: 9
+
+#### Doussoudiana
+
+Code: ML-A150203, Coordinates: 11.183, -8.15
+
+Communes:
+- Bolo Fouta [ML-C15020301]
+- Djiguiya de Koloni [ML-C15020302]
+
+#### Filamana
+
+Code: ML-A150204, Coordinates: 11.183, -8.15
+
+Communes:
+- Koussan [ML-C15020401]
+
+#### Guéléninkoro
+
+Code: ML-A150206, Coordinates: 11.183, -8.15
+
+Communes:
+- Djallon Foula [ML-C15020601]
+- Yallankoro Soloba [ML-C15020602]
+
+#### Kalana
+
+Code: ML-A150202, Coordinates: 11.183, -8.15
+
+Communes:
+- Gouandiaka [ML-C15020201]
+
+#### Siékorolé
+
+Code: ML-A150207, Coordinates: 11.183, -8.15
+
+Communes:
+- Séré Moussa Ani Samou de Siékorolé [ML-C15020701]
+
+#### Yanfolila
+
+Code: ML-A150201, Coordinates: 11.183, -8.15
+
+Communes:
+- Wassoulou-Ballé [ML-C15020101]
+
+#### Yorobougoula
+
+Code: ML-A150205, Coordinates: 11.183, -8.15
+
+Communes:
+- Gouanan [ML-C15020501]
+

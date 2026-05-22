@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C10020201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Inhinita",
+      "en": "Inhinita",
+      "slug": "inhinita-10020201"
+    },
+    "code": {
+      "id": "ML-C10020201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A100202",
+      "level": 3,
+      "name": {
+        "local": "Inhinita",
+        "en": "Inhinita",
+        "slug": "inhinita-100202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML10",
+        "level": 1,
+        "name": {
+          "local": "Ménaka",
+          "en": "Ménaka",
+          "slug": "mnaka-ml10"
+        }
+      },
+      {
+        "id": "ML1002",
+        "level": 2,
+        "name": {
+          "local": "Tidermène",
+          "en": "Tidermene",
+          "slug": "tidermene-ml1002"
+        }
+      },
+      {
+        "id": "ML-A100202",
+        "level": 3,
+        "name": {
+          "local": "Inhinita",
+          "en": "Inhinita",
+          "slug": "inhinita-100202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.592",
+      "lon": "2.415"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

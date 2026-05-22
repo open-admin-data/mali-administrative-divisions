@@ -1,0 +1,56 @@
+{
+  "id": "ML-A140202",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Boulal",
+    "en": "Boulal",
+    "slug": "boulal-140202"
+  },
+  "code": {
+    "id": "ML-A140202",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1402",
+    "level": 2,
+    "name": {
+      "local": "Ballé",
+      "en": "Balle",
+      "slug": "balle-ml1402"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML14",
+      "level": 1,
+      "name": {
+        "local": "Nara",
+        "en": "Nara",
+        "slug": "nara-ml14"
+      }
+    },
+    {
+      "id": "ML1402",
+      "level": 2,
+      "name": {
+        "local": "Ballé",
+        "en": "Balle",
+        "slug": "balle-ml1402"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.34",
+    "lon": "-8.587"
+  },
+  "metadata": {},
+  "source": {}
+}

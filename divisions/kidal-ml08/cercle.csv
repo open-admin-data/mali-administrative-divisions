@@ -1,0 +1,10 @@
+id,name.local,name.en,name.slug,code.id,children_count.arrondissement,children_count.commune,geo.lat,geo.lon
+ML0802,AbeÏbara,Abelbara,abelbara-ml0802,ML0802,3,3,19.29,1.83
+ML0805,Achibogho,Achibogho,achibogho-ml0805,ML0805,3,3,18.461,1.385
+ML0808,Aguel-Hoc,Aguelhoc,aguelhoc-ml0808,ML0808,3,3,19.454,0.856
+ML0806,Anéfif,Anefi,anefi-ml0806,ML0806,3,3,18.007,-0.532
+ML0801,Kidal,Kidal,kidal-ml0801,ML0801,3,3,18.461,1.385
+ML0809,Takalote,Takalote,takalote-ml0809,ML0809,4,4,18.461,1.385
+ML0804,Tessalit,Tessalit,tessalit-ml0804,ML0804,4,4,20.271,0.697
+ML0807,Timétrine,Timetrine,timetrine-ml0807,ML0807,3,3,19.333,-0.582
+ML0803,Tin-Essako,Tin-Essako,tin-essako-ml0803,ML0803,3,4,18.451,2.49

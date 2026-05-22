@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C05010601",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soye",
+      "en": "Soye",
+      "slug": "soye-05010601"
+    },
+    "code": {
+      "id": "ML-C05010601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050106",
+      "level": 3,
+      "name": {
+        "local": "Soye",
+        "en": "Soye",
+        "slug": "soye-050106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0501",
+        "level": 2,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml0501"
+        }
+      },
+      {
+        "id": "ML-A050106",
+        "level": 3,
+        "name": {
+          "local": "Soye",
+          "en": "Soye",
+          "slug": "soye-050106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.484",
+      "lon": "-4.183"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

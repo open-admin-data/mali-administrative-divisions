@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C06020301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Essakane",
+      "en": "Essakane",
+      "slug": "essakane-06020301"
+    },
+    "code": {
+      "id": "ML-C06020301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A060203",
+      "level": 3,
+      "name": {
+        "local": "Farach",
+        "en": "Farach",
+        "slug": "farach-060203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0602",
+        "level": 2,
+        "name": {
+          "local": "Goundam",
+          "en": "Goundam",
+          "slug": "goundam-ml0602"
+        }
+      },
+      {
+        "id": "ML-A060203",
+        "level": 3,
+        "name": {
+          "local": "Farach",
+          "en": "Farach",
+          "slug": "farach-060203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.415",
+      "lon": "-3.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C06020302",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tin Aicha",
+      "en": "Tin Aicha",
+      "slug": "tin-aicha-06020302"
+    },
+    "code": {
+      "id": "ML-C06020302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A060203",
+      "level": 3,
+      "name": {
+        "local": "Farach",
+        "en": "Farach",
+        "slug": "farach-060203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0602",
+        "level": 2,
+        "name": {
+          "local": "Goundam",
+          "en": "Goundam",
+          "slug": "goundam-ml0602"
+        }
+      },
+      {
+        "id": "ML-A060203",
+        "level": 3,
+        "name": {
+          "local": "Farach",
+          "en": "Farach",
+          "slug": "farach-060203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.415",
+      "lon": "-3.671"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

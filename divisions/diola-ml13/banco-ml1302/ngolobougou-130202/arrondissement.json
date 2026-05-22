@@ -1,0 +1,56 @@
+{
+  "id": "ML-A130202",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "N'Golobougou",
+    "en": "N'Golobougou",
+    "slug": "ngolobougou-130202"
+  },
+  "code": {
+    "id": "ML-A130202",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1302",
+    "level": 2,
+    "name": {
+      "local": "Banco",
+      "en": "Banco",
+      "slug": "banco-ml1302"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML13",
+      "level": 1,
+      "name": {
+        "local": "Dioïla",
+        "en": "Dioïla",
+        "slug": "diola-ml13"
+      }
+    },
+    {
+      "id": "ML1302",
+      "level": 2,
+      "name": {
+        "local": "Banco",
+        "en": "Banco",
+        "slug": "banco-ml1302"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.099",
+    "lon": "-6.524"
+  },
+  "metadata": {},
+  "source": {}
+}

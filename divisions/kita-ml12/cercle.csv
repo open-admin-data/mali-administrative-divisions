@@ -1,0 +1,7 @@
+id,name.local,name.en,name.slug,code.id,children_count.arrondissement,children_count.commune,geo.lat,geo.lon
+ML1201,Kita,Kita,kita-ml1201,ML1201,2,11,13.039,-9.488
+ML1202,Sagabari,Sagabari,sagabari-ml1202,ML1202,4,6,12.583,-9.8
+ML1203,Sébékoro,Sebekoro,sebekoro-ml1203,ML1203,2,4,14.461,-9.131
+ML1205,Séféto,Sefeto,sefeto-ml1205,ML1205,2,6,14.14,-9.827
+ML1206,Sirakoro,Sirakoro,sirakoro-ml1206,ML1206,2,3,12.765,-8.017
+ML1204,Toukoto,Toukoto,toukoto-ml1204,ML1204,2,3,15.065,-9.981

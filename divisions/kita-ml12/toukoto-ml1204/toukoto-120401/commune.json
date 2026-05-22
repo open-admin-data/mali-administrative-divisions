@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C12040101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Toukoto",
+      "en": "Toukoto",
+      "slug": "toukoto-12040101"
+    },
+    "code": {
+      "id": "ML-C12040101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120401",
+      "level": 3,
+      "name": {
+        "local": "Toukoto",
+        "en": "Toukoto",
+        "slug": "toukoto-120401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1204",
+        "level": 2,
+        "name": {
+          "local": "Toukoto",
+          "en": "Toukoto",
+          "slug": "toukoto-ml1204"
+        }
+      },
+      {
+        "id": "ML-A120401",
+        "level": 3,
+        "name": {
+          "local": "Toukoto",
+          "en": "Toukoto",
+          "slug": "toukoto-120401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.065",
+      "lon": "-9.981"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

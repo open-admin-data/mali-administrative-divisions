@@ -1,0 +1,226 @@
+[
+  {
+    "id": "ML-A090104",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Alhank",
+      "en": "Alhank",
+      "slug": "alhank-090104"
+    },
+    "code": {
+      "id": "ML-A090104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0901",
+      "level": 2,
+      "name": {
+        "local": "Taoudenni",
+        "en": "Taoudenni",
+        "slug": "taoudenni-ml0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML09",
+        "level": 1,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml09"
+        }
+      },
+      {
+        "id": "ML0901",
+        "level": 2,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml0901"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-3.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A090101",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Taoudenni",
+      "en": "Taoudenni",
+      "slug": "taoudenni-090101"
+    },
+    "code": {
+      "id": "ML-A090101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0901",
+      "level": 2,
+      "name": {
+        "local": "Taoudenni",
+        "en": "Taoudenni",
+        "slug": "taoudenni-ml0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML09",
+        "level": 1,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml09"
+        }
+      },
+      {
+        "id": "ML0901",
+        "level": 2,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml0901"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-3.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A090102",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Teghaza",
+      "en": "Teghaza",
+      "slug": "teghaza-090102"
+    },
+    "code": {
+      "id": "ML-A090102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0901",
+      "level": 2,
+      "name": {
+        "local": "Taoudenni",
+        "en": "Taoudenni",
+        "slug": "taoudenni-ml0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML09",
+        "level": 1,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml09"
+        }
+      },
+      {
+        "id": "ML0901",
+        "level": 2,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml0901"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-3.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A090103",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Zouelya",
+      "en": "Zouelya",
+      "slug": "zouelya-090103"
+    },
+    "code": {
+      "id": "ML-A090103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0901",
+      "level": 2,
+      "name": {
+        "local": "Taoudenni",
+        "en": "Taoudenni",
+        "slug": "taoudenni-ml0901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML09",
+        "level": 1,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml09"
+        }
+      },
+      {
+        "id": "ML0901",
+        "level": 2,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml0901"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-3.979"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

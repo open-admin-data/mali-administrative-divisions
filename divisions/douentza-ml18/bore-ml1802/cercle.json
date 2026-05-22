@@ -1,0 +1,48 @@
+{
+  "id": "ML1802",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Boré",
+    "en": "Bore",
+    "slug": "bore-ml1802"
+  },
+  "code": {
+    "id": "ML1802",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML18",
+    "level": 1,
+    "name": {
+      "local": "Douentza",
+      "en": "Douentza",
+      "slug": "douentza-ml18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML18",
+      "level": 1,
+      "name": {
+        "local": "Douentza",
+        "en": "Douentza",
+        "slug": "douentza-ml18"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 3,
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.133",
+    "lon": "-3.483"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,626 @@
+[
+  {
+    "id": "ML0608",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Bambara-Maoudé",
+      "en": "Bambara-Maoude",
+      "slug": "bambara-maoude-ml0608"
+    },
+    "code": {
+      "id": "ML0608",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML06",
+      "level": 1,
+      "name": {
+        "local": "Tombouctou",
+        "en": "Timbuktu",
+        "slug": "timbuktu-ml06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.851",
+      "lon": "-2.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0612",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Ber",
+      "en": "Ber",
+      "slug": "ber-ml0612"
+    },
+    "code": {
+      "id": "ML0612",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML06",
+      "level": 1,
+      "name": {
+        "local": "Tombouctou",
+        "en": "Timbuktu",
+        "slug": "timbuktu-ml06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.835",
+      "lon": "-2.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0606",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Bintagoungou",
+      "en": "Bintagoungou",
+      "slug": "bintagoungou-ml0606"
+    },
+    "code": {
+      "id": "ML0606",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML06",
+      "level": 1,
+      "name": {
+        "local": "Tombouctou",
+        "en": "Timbuktu",
+        "slug": "timbuktu-ml06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.735",
+      "lon": "-3.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0603",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Diré",
+      "en": "Dire",
+      "slug": "dire-ml0603"
+    },
+    "code": {
+      "id": "ML0603",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML06",
+      "level": 1,
+      "name": {
+        "local": "Tombouctou",
+        "en": "Timbuktu",
+        "slug": "timbuktu-ml06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 4,
+      "commune": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.257",
+      "lon": "-3.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0613",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Gargando",
+      "en": "Gargando",
+      "slug": "gargando-ml0613"
+    },
+    "code": {
+      "id": "ML0613",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML06",
+      "level": 1,
+      "name": {
+        "local": "Tombouctou",
+        "en": "Timbuktu",
+        "slug": "timbuktu-ml06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.463",
+      "lon": "-4.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0610",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Gossi",
+      "en": "Gossi",
+      "slug": "gossi-ml0610"
+    },
+    "code": {
+      "id": "ML0610",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML06",
+      "level": 1,
+      "name": {
+        "local": "Tombouctou",
+        "en": "Timbuktu",
+        "slug": "timbuktu-ml06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.82",
+      "lon": "-1.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0602",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Goundam",
+      "en": "Goundam",
+      "slug": "goundam-ml0602"
+    },
+    "code": {
+      "id": "ML0602",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML06",
+      "level": 1,
+      "name": {
+        "local": "Tombouctou",
+        "en": "Timbuktu",
+        "slug": "timbuktu-ml06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.415",
+      "lon": "-3.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0609",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Léré",
+      "en": "Lere",
+      "slug": "lere-ml0609"
+    },
+    "code": {
+      "id": "ML0609",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML06",
+      "level": 1,
+      "name": {
+        "local": "Tombouctou",
+        "en": "Timbuktu",
+        "slug": "timbuktu-ml06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.712",
+      "lon": "-4.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0605",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Rharous",
+      "en": "Rharous",
+      "slug": "rharous-ml0605"
+    },
+    "code": {
+      "id": "ML0605",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML06",
+      "level": 1,
+      "name": {
+        "local": "Tombouctou",
+        "en": "Timbuktu",
+        "slug": "timbuktu-ml06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 0,
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.883",
+      "lon": "-1.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0607",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Saraféré",
+      "en": "Sarafere",
+      "slug": "sarafere-ml0607"
+    },
+    "code": {
+      "id": "ML0607",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML06",
+      "level": 1,
+      "name": {
+        "local": "Tombouctou",
+        "en": "Timbuktu",
+        "slug": "timbuktu-ml06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 4,
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.824",
+      "lon": "-3.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0604",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Soumpi",
+      "en": "Soumpi",
+      "slug": "soumpi-ml0604"
+    },
+    "code": {
+      "id": "ML0604",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML06",
+      "level": 1,
+      "name": {
+        "local": "Tombouctou",
+        "en": "Timbuktu",
+        "slug": "timbuktu-ml06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 0,
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.844",
+      "lon": "-4.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0601",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Tombouctou",
+      "en": "Timbuktu",
+      "slug": "timbuktu-ml0601"
+    },
+    "code": {
+      "id": "ML0601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML06",
+      "level": 1,
+      "name": {
+        "local": "Tombouctou",
+        "en": "Timbuktu",
+        "slug": "timbuktu-ml06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.773",
+      "lon": "-3.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0611",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Tonka",
+      "en": "Tonka",
+      "slug": "tonka-ml0611"
+    },
+    "code": {
+      "id": "ML0611",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML06",
+      "level": 1,
+      "name": {
+        "local": "Tombouctou",
+        "en": "Timbuktu",
+        "slug": "timbuktu-ml06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.129",
+      "lon": "-3.748"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

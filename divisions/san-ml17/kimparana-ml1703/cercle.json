@@ -1,0 +1,48 @@
+{
+  "id": "ML1703",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Kimparana",
+    "en": "Kimparana",
+    "slug": "kimparana-ml1703"
+  },
+  "code": {
+    "id": "ML1703",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML17",
+    "level": 1,
+    "name": {
+      "local": "San",
+      "en": "San",
+      "slug": "san-ml17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML17",
+      "level": 1,
+      "name": {
+        "local": "San",
+        "en": "San",
+        "slug": "san-ml17"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 3,
+    "commune": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.835",
+    "lon": "-4.924"
+  },
+  "metadata": {},
+  "source": {}
+}

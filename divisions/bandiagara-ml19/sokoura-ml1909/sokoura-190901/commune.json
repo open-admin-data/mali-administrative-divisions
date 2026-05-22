@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C19090101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sokoura",
+      "en": "Sokoura",
+      "slug": "sokoura-19090101"
+    },
+    "code": {
+      "id": "ML-C19090101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190901",
+      "level": 3,
+      "name": {
+        "local": "Sokoura",
+        "en": "Sokoura",
+        "slug": "sokoura-190901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1909",
+        "level": 2,
+        "name": {
+          "local": "Sokoura",
+          "en": "Sokoura",
+          "slug": "sokoura-ml1909"
+        }
+      },
+      {
+        "id": "ML-A190901",
+        "level": 3,
+        "name": {
+          "local": "Sokoura",
+          "en": "Sokoura",
+          "slug": "sokoura-190901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.704",
+      "lon": "-4.108"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

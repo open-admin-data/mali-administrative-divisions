@@ -1,0 +1,48 @@
+{
+  "id": "ML1206",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Sirakoro",
+    "en": "Sirakoro",
+    "slug": "sirakoro-ml1206"
+  },
+  "code": {
+    "id": "ML1206",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML12",
+    "level": 1,
+    "name": {
+      "local": "Kita",
+      "en": "Kita",
+      "slug": "kita-ml12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML12",
+      "level": 1,
+      "name": {
+        "local": "Kita",
+        "en": "Kita",
+        "slug": "kita-ml12"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 2,
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.765",
+    "lon": "-8.017"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C03070101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Loulouni",
+      "en": "Loulouni",
+      "slug": "loulouni-03070101"
+    },
+    "code": {
+      "id": "ML-C03070101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030701",
+      "level": 3,
+      "name": {
+        "local": "Loulouni",
+        "en": "Loulouni",
+        "slug": "loulouni-030701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0307",
+        "level": 2,
+        "name": {
+          "local": "Loulouni",
+          "en": "Loulouni",
+          "slug": "loulouni-ml0307"
+        }
+      },
+      {
+        "id": "ML-A030701",
+        "level": 3,
+        "name": {
+          "local": "Loulouni",
+          "en": "Loulouni",
+          "slug": "loulouni-030701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.9",
+      "lon": "-5.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C03070102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nimbougou",
+      "en": "Nimbougou",
+      "slug": "nimbougou-03070102"
+    },
+    "code": {
+      "id": "ML-C03070102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030701",
+      "level": 3,
+      "name": {
+        "local": "Loulouni",
+        "en": "Loulouni",
+        "slug": "loulouni-030701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0307",
+        "level": 2,
+        "name": {
+          "local": "Loulouni",
+          "en": "Loulouni",
+          "slug": "loulouni-ml0307"
+        }
+      },
+      {
+        "id": "ML-A030701",
+        "level": 3,
+        "name": {
+          "local": "Loulouni",
+          "en": "Loulouni",
+          "slug": "loulouni-030701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.9",
+      "lon": "-5.6"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "ML-A100402",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Azawak (In Chinanane)",
+    "en": "Azawak (In Chinanane)",
+    "slug": "azawak-in-chinanane-100402"
+  },
+  "code": {
+    "id": "ML-A100402",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1004",
+    "level": 2,
+    "name": {
+      "local": "Andéramboukane",
+      "en": "Anderamboukane",
+      "slug": "anderamboukane-ml1004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML10",
+      "level": 1,
+      "name": {
+        "local": "Ménaka",
+        "en": "Ménaka",
+        "slug": "mnaka-ml10"
+      }
+    },
+    {
+      "id": "ML1004",
+      "level": 2,
+      "name": {
+        "local": "Andéramboukane",
+        "en": "Anderamboukane",
+        "slug": "anderamboukane-ml1004"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.422",
+    "lon": "3.022"
+  },
+  "metadata": {},
+  "source": {}
+}

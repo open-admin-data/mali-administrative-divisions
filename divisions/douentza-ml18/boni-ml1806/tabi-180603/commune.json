@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C18060301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tabi",
+      "en": "Tabi",
+      "slug": "tabi-18060301"
+    },
+    "code": {
+      "id": "ML-C18060301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A180603",
+      "level": 3,
+      "name": {
+        "local": "Tabi",
+        "en": "Tabi",
+        "slug": "tabi-180603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML18",
+        "level": 1,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml18"
+        }
+      },
+      {
+        "id": "ML1806",
+        "level": 2,
+        "name": {
+          "local": "Boni",
+          "en": "Boni",
+          "slug": "boni-ml1806"
+        }
+      },
+      {
+        "id": "ML-A180603",
+        "level": 3,
+        "name": {
+          "local": "Tabi",
+          "en": "Tabi",
+          "slug": "tabi-180603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.077",
+      "lon": "-2.22"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C08080101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Aguel-Hoc",
+      "en": "Aguel-Hoc",
+      "slug": "aguel-hoc-08080101"
+    },
+    "code": {
+      "id": "ML-C08080101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A080801",
+      "level": 3,
+      "name": {
+        "local": "Aguel-Hoc",
+        "en": "Aguel-Hoc",
+        "slug": "aguel-hoc-080801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML08",
+        "level": 1,
+        "name": {
+          "local": "Kidal",
+          "en": "Kidal",
+          "slug": "kidal-ml08"
+        }
+      },
+      {
+        "id": "ML0808",
+        "level": 2,
+        "name": {
+          "local": "Aguel-Hoc",
+          "en": "Aguelhoc",
+          "slug": "aguelhoc-ml0808"
+        }
+      },
+      {
+        "id": "ML-A080801",
+        "level": 3,
+        "name": {
+          "local": "Aguel-Hoc",
+          "en": "Aguel-Hoc",
+          "slug": "aguel-hoc-080801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.454",
+      "lon": "0.856"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

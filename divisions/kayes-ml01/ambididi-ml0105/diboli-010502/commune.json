@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C01050201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Falémé",
+      "en": "Falémé",
+      "slug": "falm-01050201"
+    },
+    "code": {
+      "id": "ML-C01050201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010502",
+      "level": 3,
+      "name": {
+        "local": "Diboli",
+        "en": "Diboli",
+        "slug": "diboli-010502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0105",
+        "level": 2,
+        "name": {
+          "local": "Ambidédi",
+          "en": "Ambididi",
+          "slug": "ambididi-ml0105"
+        }
+      },
+      {
+        "id": "ML-A010502",
+        "level": 3,
+        "name": {
+          "local": "Diboli",
+          "en": "Diboli",
+          "slug": "diboli-010502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.586",
+      "lon": "-11.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C01050202",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fégui",
+      "en": "Fégui",
+      "slug": "fgui-01050202"
+    },
+    "code": {
+      "id": "ML-C01050202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010502",
+      "level": 3,
+      "name": {
+        "local": "Diboli",
+        "en": "Diboli",
+        "slug": "diboli-010502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0105",
+        "level": 2,
+        "name": {
+          "local": "Ambidédi",
+          "en": "Ambididi",
+          "slug": "ambididi-ml0105"
+        }
+      },
+      {
+        "id": "ML-A010502",
+        "level": 3,
+        "name": {
+          "local": "Diboli",
+          "en": "Diboli",
+          "slug": "diboli-010502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.586",
+      "lon": "-11.791"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C04100101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dougabougou",
+      "en": "Dougabougou",
+      "slug": "dougabougou-04100101"
+    },
+    "code": {
+      "id": "ML-C04100101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A041001",
+      "level": 3,
+      "name": {
+        "local": "Markala",
+        "en": "Markala",
+        "slug": "markala-041001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0410",
+        "level": 2,
+        "name": {
+          "local": "Markala",
+          "en": "Markala",
+          "slug": "markala-ml0410"
+        }
+      },
+      {
+        "id": "ML-A041001",
+        "level": 3,
+        "name": {
+          "local": "Markala",
+          "en": "Markala",
+          "slug": "markala-041001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.816",
+      "lon": "-5.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C04100102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Markala",
+      "en": "Markala",
+      "slug": "markala-04100102"
+    },
+    "code": {
+      "id": "ML-C04100102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A041001",
+      "level": 3,
+      "name": {
+        "local": "Markala",
+        "en": "Markala",
+        "slug": "markala-041001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0410",
+        "level": 2,
+        "name": {
+          "local": "Markala",
+          "en": "Markala",
+          "slug": "markala-ml0410"
+        }
+      },
+      {
+        "id": "ML-A041001",
+        "level": 3,
+        "name": {
+          "local": "Markala",
+          "en": "Markala",
+          "slug": "markala-041001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.816",
+      "lon": "-5.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C04100103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Togou",
+      "en": "Togou",
+      "slug": "togou-04100103"
+    },
+    "code": {
+      "id": "ML-C04100103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A041001",
+      "level": 3,
+      "name": {
+        "local": "Markala",
+        "en": "Markala",
+        "slug": "markala-041001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0410",
+        "level": 2,
+        "name": {
+          "local": "Markala",
+          "en": "Markala",
+          "slug": "markala-ml0410"
+        }
+      },
+      {
+        "id": "ML-A041001",
+        "level": 3,
+        "name": {
+          "local": "Markala",
+          "en": "Markala",
+          "slug": "markala-041001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.816",
+      "lon": "-5.358"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

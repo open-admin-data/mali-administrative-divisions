@@ -1,0 +1,48 @@
+{
+  "id": "ML0303",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Danderesso",
+    "en": "Danderesso",
+    "slug": "danderesso-ml0303"
+  },
+  "code": {
+    "id": "ML0303",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML03",
+    "level": 1,
+    "name": {
+      "local": "Sikasso",
+      "en": "Sikasso",
+      "slug": "sikasso-ml03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML03",
+      "level": 1,
+      "name": {
+        "local": "Sikasso",
+        "en": "Sikasso",
+        "slug": "sikasso-ml03"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 0,
+    "commune": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.486",
+    "lon": "-5.482"
+  },
+  "metadata": {},
+  "source": {}
+}

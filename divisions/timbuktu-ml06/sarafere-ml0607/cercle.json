@@ -1,0 +1,48 @@
+{
+  "id": "ML0607",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Saraféré",
+    "en": "Sarafere",
+    "slug": "sarafere-ml0607"
+  },
+  "code": {
+    "id": "ML0607",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML06",
+    "level": 1,
+    "name": {
+      "local": "Tombouctou",
+      "en": "Timbuktu",
+      "slug": "timbuktu-ml06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML06",
+      "level": 1,
+      "name": {
+        "local": "Tombouctou",
+        "en": "Timbuktu",
+        "slug": "timbuktu-ml06"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 4,
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.824",
+    "lon": "-3.694"
+  },
+  "metadata": {},
+  "source": {}
+}

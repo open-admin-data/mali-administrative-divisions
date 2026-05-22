@@ -1,0 +1,56 @@
+{
+  "id": "ML-A100102",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Infoukarétane",
+    "en": "Infoukarétane",
+    "slug": "infoukartane-100102"
+  },
+  "code": {
+    "id": "ML-A100102",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1001",
+    "level": 2,
+    "name": {
+      "local": "Ménaka",
+      "en": "Menaka",
+      "slug": "menaka-ml1001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML10",
+      "level": 1,
+      "name": {
+        "local": "Ménaka",
+        "en": "Ménaka",
+        "slug": "mnaka-ml10"
+      }
+    },
+    {
+      "id": "ML1001",
+      "level": 2,
+      "name": {
+        "local": "Ménaka",
+        "en": "Menaka",
+        "slug": "menaka-ml1001"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.92",
+    "lon": "2.396"
+  },
+  "metadata": {},
+  "source": {}
+}

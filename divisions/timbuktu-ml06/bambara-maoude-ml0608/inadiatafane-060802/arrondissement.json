@@ -1,0 +1,56 @@
+{
+  "id": "ML-A060802",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Inadiatafane",
+    "en": "Inadiatafane",
+    "slug": "inadiatafane-060802"
+  },
+  "code": {
+    "id": "ML-A060802",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0608",
+    "level": 2,
+    "name": {
+      "local": "Bambara-Maoudé",
+      "en": "Bambara-Maoude",
+      "slug": "bambara-maoude-ml0608"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML06",
+      "level": 1,
+      "name": {
+        "local": "Tombouctou",
+        "en": "Timbuktu",
+        "slug": "timbuktu-ml06"
+      }
+    },
+    {
+      "id": "ML0608",
+      "level": 2,
+      "name": {
+        "local": "Bambara-Maoudé",
+        "en": "Bambara-Maoude",
+        "slug": "bambara-maoude-ml0608"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.851",
+    "lon": "-2.786"
+  },
+  "metadata": {},
+  "source": {}
+}

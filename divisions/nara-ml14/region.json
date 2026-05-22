@@ -1,0 +1,31 @@
+{
+  "id": "ML14",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Nara",
+    "en": "Nara",
+    "slug": "nara-ml14"
+  },
+  "code": {
+    "id": "ML14",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "cercle": 6,
+    "commune": 14,
+    "arrondissement": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.169",
+    "lon": "-7.29"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,7 @@
+id,name.local,name.en,name.slug,code.id,children_count.arrondissement,children_count.commune,geo.lat,geo.lon
+ML1302,Banco,Banco,banco-ml1302,ML1302,2,2,12.099,-6.524
+ML1303,Béléko,Beleko,beleko-ml1303,ML1303,2,4,14.586,-7.631
+ML1301,Dioïla,Dioila,dioila-ml1301,ML1301,2,6,12.487,-6.803
+ML1304,Fana,Fana,fana-ml1304,ML1304,3,7,12.779,-6.956
+ML1305,Massigui,Massigui,massigui-ml1305,ML1305,2,2,11.859,-6.771
+ML1306,Ména,Mena,mena-ml1306,ML1306,2,2,12.217,-6.204

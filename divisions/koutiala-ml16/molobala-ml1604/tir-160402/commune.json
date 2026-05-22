@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C16040201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Diouradougou Kafo",
+      "en": "Diouradougou Kafo",
+      "slug": "diouradougou-kafo-16040201"
+    },
+    "code": {
+      "id": "ML-C16040201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160402",
+      "level": 3,
+      "name": {
+        "local": "Tièrè",
+        "en": "Tièrè",
+        "slug": "tir-160402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1604",
+        "level": 2,
+        "name": {
+          "local": "Molobala",
+          "en": "Molobala",
+          "slug": "molobala-ml1604"
+        }
+      },
+      {
+        "id": "ML-A160402",
+        "level": 3,
+        "name": {
+          "local": "Tièrè",
+          "en": "Tièrè",
+          "slug": "tir-160402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.177",
+      "lon": "-5.333"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

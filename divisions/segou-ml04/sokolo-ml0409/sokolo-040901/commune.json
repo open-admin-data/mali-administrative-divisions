@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C04090101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sokolo",
+      "en": "Sokolo",
+      "slug": "sokolo-04090101"
+    },
+    "code": {
+      "id": "ML-C04090101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040901",
+      "level": 3,
+      "name": {
+        "local": "Sokolo",
+        "en": "Sokolo",
+        "slug": "sokolo-040901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0409",
+        "level": 2,
+        "name": {
+          "local": "Sokolo",
+          "en": "Sokolo",
+          "slug": "sokolo-ml0409"
+        }
+      },
+      {
+        "id": "ML-A040901",
+        "level": 3,
+        "name": {
+          "local": "Sokolo",
+          "en": "Sokolo",
+          "slug": "sokolo-040901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.733",
+      "lon": "-6.122"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

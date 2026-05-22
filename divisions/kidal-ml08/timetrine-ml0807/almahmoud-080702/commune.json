@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C08070201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Almahmoud",
+      "en": "Almahmoud",
+      "slug": "almahmoud-08070201"
+    },
+    "code": {
+      "id": "ML-C08070201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A080702",
+      "level": 3,
+      "name": {
+        "local": "Almahmoud",
+        "en": "Almahmoud",
+        "slug": "almahmoud-080702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML08",
+        "level": 1,
+        "name": {
+          "local": "Kidal",
+          "en": "Kidal",
+          "slug": "kidal-ml08"
+        }
+      },
+      {
+        "id": "ML0807",
+        "level": 2,
+        "name": {
+          "local": "Timétrine",
+          "en": "Timetrine",
+          "slug": "timetrine-ml0807"
+        }
+      },
+      {
+        "id": "ML-A080702",
+        "level": 3,
+        "name": {
+          "local": "Almahmoud",
+          "en": "Almahmoud",
+          "slug": "almahmoud-080702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.333",
+      "lon": "-0.582"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

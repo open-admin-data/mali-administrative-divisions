@@ -1,0 +1,56 @@
+{
+  "id": "ML-A100104",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Haïgana",
+    "en": "Haïgana",
+    "slug": "hagana-100104"
+  },
+  "code": {
+    "id": "ML-A100104",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1001",
+    "level": 2,
+    "name": {
+      "local": "Ménaka",
+      "en": "Menaka",
+      "slug": "menaka-ml1001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML10",
+      "level": 1,
+      "name": {
+        "local": "Ménaka",
+        "en": "Ménaka",
+        "slug": "mnaka-ml10"
+      }
+    },
+    {
+      "id": "ML1001",
+      "level": 2,
+      "name": {
+        "local": "Ménaka",
+        "en": "Menaka",
+        "slug": "menaka-ml1001"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.92",
+    "lon": "2.396"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "ML-A041003",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Boussin",
+    "en": "Boussin",
+    "slug": "boussin-041003"
+  },
+  "code": {
+    "id": "ML-A041003",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0410",
+    "level": 2,
+    "name": {
+      "local": "Markala",
+      "en": "Markala",
+      "slug": "markala-ml0410"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML04",
+      "level": 1,
+      "name": {
+        "local": "Segou",
+        "en": "Segou",
+        "slug": "segou-ml04"
+      }
+    },
+    {
+      "id": "ML0410",
+      "level": 2,
+      "name": {
+        "local": "Markala",
+        "en": "Markala",
+        "slug": "markala-ml0410"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.816",
+    "lon": "-5.358"
+  },
+  "metadata": {},
+  "source": {}
+}

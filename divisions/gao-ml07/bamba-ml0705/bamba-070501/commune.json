@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C07050101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bamba",
+      "en": "Bamba",
+      "slug": "bamba-07050101"
+    },
+    "code": {
+      "id": "ML-C07050101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A070501",
+      "level": 3,
+      "name": {
+        "local": "Bamba",
+        "en": "Bamba",
+        "slug": "bamba-070501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      },
+      {
+        "id": "ML0705",
+        "level": 2,
+        "name": {
+          "local": "Bamba",
+          "en": "Bamba",
+          "slug": "bamba-ml0705"
+        }
+      },
+      {
+        "id": "ML-A070501",
+        "level": 3,
+        "name": {
+          "local": "Bamba",
+          "en": "Bamba",
+          "slug": "bamba-070501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.034",
+      "lon": "-1.404"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

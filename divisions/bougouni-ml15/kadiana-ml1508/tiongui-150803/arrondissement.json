@@ -1,0 +1,56 @@
+{
+  "id": "ML-A150803",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Tiongui",
+    "en": "Tiongui",
+    "slug": "tiongui-150803"
+  },
+  "code": {
+    "id": "ML-A150803",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1508",
+    "level": 2,
+    "name": {
+      "local": "Kadiana",
+      "en": "Kadiana",
+      "slug": "kadiana-ml1508"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML15",
+      "level": 1,
+      "name": {
+        "local": "Bougouni",
+        "en": "Bougouni",
+        "slug": "bougouni-ml15"
+      }
+    },
+    {
+      "id": "ML1508",
+      "level": 2,
+      "name": {
+        "local": "Kadiana",
+        "en": "Kadiana",
+        "slug": "kadiana-ml1508"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.75",
+    "lon": "-6.5"
+  },
+  "metadata": {},
+  "source": {}
+}

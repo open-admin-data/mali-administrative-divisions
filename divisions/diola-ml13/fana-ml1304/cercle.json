@@ -1,0 +1,48 @@
+{
+  "id": "ML1304",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Fana",
+    "en": "Fana",
+    "slug": "fana-ml1304"
+  },
+  "code": {
+    "id": "ML1304",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML13",
+    "level": 1,
+    "name": {
+      "local": "Dioïla",
+      "en": "Dioïla",
+      "slug": "diola-ml13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML13",
+      "level": 1,
+      "name": {
+        "local": "Dioïla",
+        "en": "Dioïla",
+        "slug": "diola-ml13"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 3,
+    "commune": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.779",
+    "lon": "-6.956"
+  },
+  "metadata": {},
+  "source": {}
+}

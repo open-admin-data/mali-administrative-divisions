@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C19020101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bondo",
+      "en": "Bondo",
+      "slug": "bondo-19020101"
+    },
+    "code": {
+      "id": "ML-C19020101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190201",
+      "level": 3,
+      "name": {
+        "local": "Koro",
+        "en": "Koro",
+        "slug": "koro-190201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1902",
+        "level": 2,
+        "name": {
+          "local": "Koro",
+          "en": "Koro",
+          "slug": "koro-ml1902"
+        }
+      },
+      {
+        "id": "ML-A190201",
+        "level": 3,
+        "name": {
+          "local": "Koro",
+          "en": "Koro",
+          "slug": "koro-190201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.627",
+      "lon": "-7.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C19020102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Koro",
+      "en": "Koro",
+      "slug": "koro-19020102"
+    },
+    "code": {
+      "id": "ML-C19020102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190201",
+      "level": 3,
+      "name": {
+        "local": "Koro",
+        "en": "Koro",
+        "slug": "koro-190201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1902",
+        "level": 2,
+        "name": {
+          "local": "Koro",
+          "en": "Koro",
+          "slug": "koro-ml1902"
+        }
+      },
+      {
+        "id": "ML-A190201",
+        "level": 3,
+        "name": {
+          "local": "Koro",
+          "en": "Koro",
+          "slug": "koro-190201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.627",
+      "lon": "-7.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C19020103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Youdiou",
+      "en": "Youdiou",
+      "slug": "youdiou-19020103"
+    },
+    "code": {
+      "id": "ML-C19020103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190201",
+      "level": 3,
+      "name": {
+        "local": "Koro",
+        "en": "Koro",
+        "slug": "koro-190201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1902",
+        "level": 2,
+        "name": {
+          "local": "Koro",
+          "en": "Koro",
+          "slug": "koro-ml1902"
+        }
+      },
+      {
+        "id": "ML-A190201",
+        "level": 3,
+        "name": {
+          "local": "Koro",
+          "en": "Koro",
+          "slug": "koro-190201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.627",
+      "lon": "-7.984"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C07140101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tabankort",
+      "en": "Tabankort",
+      "slug": "tabankort-07140101"
+    },
+    "code": {
+      "id": "ML-C07140101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A071401",
+      "level": 3,
+      "name": {
+        "local": "Tabankort",
+        "en": "Tabankort",
+        "slug": "tabankort-071401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      },
+      {
+        "id": "ML0714",
+        "level": 2,
+        "name": {
+          "local": "Tabankort",
+          "en": "Tabankort",
+          "slug": "tabankort-ml0714"
+        }
+      },
+      {
+        "id": "ML-A071401",
+        "level": 3,
+        "name": {
+          "local": "Tabankort",
+          "en": "Tabankort",
+          "slug": "tabankort-071401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.82",
+      "lon": "0.314"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

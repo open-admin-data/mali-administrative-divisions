@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C17020201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bénéna",
+      "en": "Bénéna",
+      "slug": "bnna-17020201"
+    },
+    "code": {
+      "id": "ML-C17020201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A170202",
+      "level": 3,
+      "name": {
+        "local": "Bénéna",
+        "en": "Bénéna",
+        "slug": "bnna-170202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      },
+      {
+        "id": "ML1702",
+        "level": 2,
+        "name": {
+          "local": "Tominian",
+          "en": "Tominian",
+          "slug": "tominian-ml1702"
+        }
+      },
+      {
+        "id": "ML-A170202",
+        "level": 3,
+        "name": {
+          "local": "Bénéna",
+          "en": "Bénéna",
+          "slug": "bnna-170202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.287",
+      "lon": "-4.593"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

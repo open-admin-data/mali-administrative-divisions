@@ -1,0 +1,282 @@
+[
+  {
+    "id": "ML-A010201",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Bafoulabé",
+      "en": "Bafoulabé",
+      "slug": "bafoulab-010201"
+    },
+    "code": {
+      "id": "ML-A010201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0102",
+      "level": 2,
+      "name": {
+        "local": "Bafoulabé",
+        "en": "Bafoulebe",
+        "slug": "bafoulebe-ml0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0102",
+        "level": 2,
+        "name": {
+          "local": "Bafoulabé",
+          "en": "Bafoulebe",
+          "slug": "bafoulebe-ml0102"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.808",
+      "lon": "-10.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A010202",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Bamafélé",
+      "en": "Bamafélé",
+      "slug": "bamafl-010202"
+    },
+    "code": {
+      "id": "ML-A010202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0102",
+      "level": 2,
+      "name": {
+        "local": "Bafoulabé",
+        "en": "Bafoulebe",
+        "slug": "bafoulebe-ml0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0102",
+        "level": 2,
+        "name": {
+          "local": "Bafoulabé",
+          "en": "Bafoulebe",
+          "slug": "bafoulebe-ml0102"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.808",
+      "lon": "-10.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A010203",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Koundian",
+      "en": "Koundian",
+      "slug": "koundian-010203"
+    },
+    "code": {
+      "id": "ML-A010203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0102",
+      "level": 2,
+      "name": {
+        "local": "Bafoulabé",
+        "en": "Bafoulebe",
+        "slug": "bafoulebe-ml0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0102",
+        "level": 2,
+        "name": {
+          "local": "Bafoulabé",
+          "en": "Bafoulebe",
+          "slug": "bafoulebe-ml0102"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.808",
+      "lon": "-10.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A010204",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Mahina",
+      "en": "Mahina",
+      "slug": "mahina-010204"
+    },
+    "code": {
+      "id": "ML-A010204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0102",
+      "level": 2,
+      "name": {
+        "local": "Bafoulabé",
+        "en": "Bafoulebe",
+        "slug": "bafoulebe-ml0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0102",
+        "level": 2,
+        "name": {
+          "local": "Bafoulabé",
+          "en": "Bafoulebe",
+          "slug": "bafoulebe-ml0102"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.808",
+      "lon": "-10.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A010205",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Oualia",
+      "en": "Oualia",
+      "slug": "oualia-010205"
+    },
+    "code": {
+      "id": "ML-A010205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0102",
+      "level": 2,
+      "name": {
+        "local": "Bafoulabé",
+        "en": "Bafoulebe",
+        "slug": "bafoulebe-ml0102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0102",
+        "level": 2,
+        "name": {
+          "local": "Bafoulabé",
+          "en": "Bafoulebe",
+          "slug": "bafoulebe-ml0102"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.808",
+      "lon": "-10.833"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

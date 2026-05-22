@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C17050201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Timissa",
+      "en": "Timissa",
+      "slug": "timissa-17050201"
+    },
+    "code": {
+      "id": "ML-C17050201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A170502",
+      "level": 3,
+      "name": {
+        "local": "Timissa",
+        "en": "Timissa",
+        "slug": "timissa-170502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      },
+      {
+        "id": "ML1705",
+        "level": 2,
+        "name": {
+          "local": "Fangasso",
+          "en": "Fangasso",
+          "slug": "fangasso-ml1705"
+        }
+      },
+      {
+        "id": "ML-A170502",
+        "level": 3,
+        "name": {
+          "local": "Timissa",
+          "en": "Timissa",
+          "slug": "timissa-170502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.529",
+      "lon": "-4.446"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

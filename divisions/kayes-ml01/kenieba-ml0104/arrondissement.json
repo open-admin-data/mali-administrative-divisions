@@ -1,0 +1,282 @@
+[
+  {
+    "id": "ML-A010402",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Dombia",
+      "en": "Dombia",
+      "slug": "dombia-010402"
+    },
+    "code": {
+      "id": "ML-A010402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0104",
+      "level": 2,
+      "name": {
+        "local": "Kéniéba",
+        "en": "Kenieba",
+        "slug": "kenieba-ml0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0104",
+        "level": 2,
+        "name": {
+          "local": "Kéniéba",
+          "en": "Kenieba",
+          "slug": "kenieba-ml0104"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.044",
+      "lon": "-8.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A010403",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Faléa",
+      "en": "Faléa",
+      "slug": "fala-010403"
+    },
+    "code": {
+      "id": "ML-A010403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0104",
+      "level": 2,
+      "name": {
+        "local": "Kéniéba",
+        "en": "Kenieba",
+        "slug": "kenieba-ml0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0104",
+        "level": 2,
+        "name": {
+          "local": "Kéniéba",
+          "en": "Kenieba",
+          "slug": "kenieba-ml0104"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.044",
+      "lon": "-8.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A010404",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Faraba",
+      "en": "Faraba",
+      "slug": "faraba-010404"
+    },
+    "code": {
+      "id": "ML-A010404",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0104",
+      "level": 2,
+      "name": {
+        "local": "Kéniéba",
+        "en": "Kenieba",
+        "slug": "kenieba-ml0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0104",
+        "level": 2,
+        "name": {
+          "local": "Kéniéba",
+          "en": "Kenieba",
+          "slug": "kenieba-ml0104"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.044",
+      "lon": "-8.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A010405",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Kassama",
+      "en": "Kassama",
+      "slug": "kassama-010405"
+    },
+    "code": {
+      "id": "ML-A010405",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0104",
+      "level": 2,
+      "name": {
+        "local": "Kéniéba",
+        "en": "Kenieba",
+        "slug": "kenieba-ml0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0104",
+        "level": 2,
+        "name": {
+          "local": "Kéniéba",
+          "en": "Kenieba",
+          "slug": "kenieba-ml0104"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.044",
+      "lon": "-8.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A010401",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Kéniéba",
+      "en": "Kéniéba",
+      "slug": "kniba-010401"
+    },
+    "code": {
+      "id": "ML-A010401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0104",
+      "level": 2,
+      "name": {
+        "local": "Kéniéba",
+        "en": "Kenieba",
+        "slug": "kenieba-ml0104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0104",
+        "level": 2,
+        "name": {
+          "local": "Kéniéba",
+          "en": "Kenieba",
+          "slug": "kenieba-ml0104"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.044",
+      "lon": "-8.635"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

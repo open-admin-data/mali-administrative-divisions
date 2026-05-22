@@ -1,0 +1,14 @@
+id,name.local,name.en,name.slug,code.id,children_count.arrondissement,children_count.commune,geo.lat,geo.lon
+ML0608,Bambara-Maoudé,Bambara-Maoude,bambara-maoude-ml0608,ML0608,3,3,15.851,-2.786
+ML0612,Ber,Ber,ber-ml0612,ML0612,2,2,16.835,-2.532
+ML0606,Bintagoungou,Bintagoungou,bintagoungou-ml0606,ML0606,2,4,16.735,-3.735
+ML0603,Diré,Dire,dire-ml0603,ML0603,4,13,16.257,-3.401
+ML0613,Gargando,Gargando,gargando-ml0613,ML0613,3,4,16.463,-4.173
+ML0610,Gossi,Gossi,gossi-ml0610,ML0610,2,2,15.82,-1.291
+ML0602,Goundam,Goundam,goundam-ml0602,ML0602,3,7,16.415,-3.671
+ML0609,Léré,Lere,lere-ml0609,ML0609,2,2,15.712,-4.912
+ML0605,Rharous,Rharous,rharous-ml0605,ML0605,0,0,16.883,-1.923
+ML0607,Saraféré,Sarafere,sarafere-ml0607,ML0607,4,4,15.824,-3.694
+ML0604,Soumpi,Soumpi,soumpi-ml0604,ML0604,0,0,15.844,-4.325
+ML0601,Tombouctou,Timbuktu,timbuktu-ml0601,ML0601,3,4,16.773,-3.007
+ML0611,Tonka,Tonka,tonka-ml0611,ML0611,2,2,16.129,-3.748

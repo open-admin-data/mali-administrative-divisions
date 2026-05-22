@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C16080201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fagui",
+      "en": "Fagui",
+      "slug": "fagui-16080201"
+    },
+    "code": {
+      "id": "ML-C16080201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160802",
+      "level": 3,
+      "name": {
+        "local": "Ziéna",
+        "en": "Ziéna",
+        "slug": "zina-160802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1608",
+        "level": 2,
+        "name": {
+          "local": "Zangasso",
+          "en": "Zangasso",
+          "slug": "zangasso-ml1608"
+        }
+      },
+      {
+        "id": "ML-A160802",
+        "level": 3,
+        "name": {
+          "local": "Ziéna",
+          "en": "Ziéna",
+          "slug": "zina-160802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.58",
+      "lon": "-6.027"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

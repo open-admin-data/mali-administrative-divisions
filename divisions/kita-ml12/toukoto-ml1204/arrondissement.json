@@ -1,0 +1,114 @@
+[
+  {
+    "id": "ML-A120402",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Kobri",
+      "en": "Kobri",
+      "slug": "kobri-120402"
+    },
+    "code": {
+      "id": "ML-A120402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1204",
+      "level": 2,
+      "name": {
+        "local": "Toukoto",
+        "en": "Toukoto",
+        "slug": "toukoto-ml1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1204",
+        "level": 2,
+        "name": {
+          "local": "Toukoto",
+          "en": "Toukoto",
+          "slug": "toukoto-ml1204"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.065",
+      "lon": "-9.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A120401",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Toukoto",
+      "en": "Toukoto",
+      "slug": "toukoto-120401"
+    },
+    "code": {
+      "id": "ML-A120401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1204",
+      "level": 2,
+      "name": {
+        "local": "Toukoto",
+        "en": "Toukoto",
+        "slug": "toukoto-ml1204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1204",
+        "level": 2,
+        "name": {
+          "local": "Toukoto",
+          "en": "Toukoto",
+          "slug": "toukoto-ml1204"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.065",
+      "lon": "-9.981"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

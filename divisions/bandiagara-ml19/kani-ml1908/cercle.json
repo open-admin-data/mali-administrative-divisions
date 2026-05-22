@@ -1,0 +1,48 @@
+{
+  "id": "ML1908",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Kani",
+    "en": "Kani",
+    "slug": "kani-ml1908"
+  },
+  "code": {
+    "id": "ML1908",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML19",
+    "level": 1,
+    "name": {
+      "local": "Bandiagara",
+      "en": "Bandiagara",
+      "slug": "bandiagara-ml19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML19",
+      "level": 1,
+      "name": {
+        "local": "Bandiagara",
+        "en": "Bandiagara",
+        "slug": "bandiagara-ml19"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 4,
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.247",
+    "lon": "-5.175"
+  },
+  "metadata": {},
+  "source": {}
+}

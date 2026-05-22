@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C10010201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Infoukarétane",
+      "en": "Infoukarétane",
+      "slug": "infoukartane-10010201"
+    },
+    "code": {
+      "id": "ML-C10010201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A100102",
+      "level": 3,
+      "name": {
+        "local": "Infoukarétane",
+        "en": "Infoukarétane",
+        "slug": "infoukartane-100102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML10",
+        "level": 1,
+        "name": {
+          "local": "Ménaka",
+          "en": "Ménaka",
+          "slug": "mnaka-ml10"
+        }
+      },
+      {
+        "id": "ML1001",
+        "level": 2,
+        "name": {
+          "local": "Ménaka",
+          "en": "Menaka",
+          "slug": "menaka-ml1001"
+        }
+      },
+      {
+        "id": "ML-A100102",
+        "level": 3,
+        "name": {
+          "local": "Infoukarétane",
+          "en": "Infoukarétane",
+          "slug": "infoukartane-100102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.92",
+      "lon": "2.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C10010202",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tabankort",
+      "en": "Tabankort",
+      "slug": "tabankort-10010202"
+    },
+    "code": {
+      "id": "ML-C10010202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A100102",
+      "level": 3,
+      "name": {
+        "local": "Infoukarétane",
+        "en": "Infoukarétane",
+        "slug": "infoukartane-100102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML10",
+        "level": 1,
+        "name": {
+          "local": "Ménaka",
+          "en": "Ménaka",
+          "slug": "mnaka-ml10"
+        }
+      },
+      {
+        "id": "ML1001",
+        "level": 2,
+        "name": {
+          "local": "Ménaka",
+          "en": "Menaka",
+          "slug": "menaka-ml1001"
+        }
+      },
+      {
+        "id": "ML-A100102",
+        "level": 3,
+        "name": {
+          "local": "Infoukarétane",
+          "en": "Infoukarétane",
+          "slug": "infoukartane-100102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.92",
+      "lon": "2.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C10010203",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tin Abaw",
+      "en": "Tin Abaw",
+      "slug": "tin-abaw-10010203"
+    },
+    "code": {
+      "id": "ML-C10010203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A100102",
+      "level": 3,
+      "name": {
+        "local": "Infoukarétane",
+        "en": "Infoukarétane",
+        "slug": "infoukartane-100102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML10",
+        "level": 1,
+        "name": {
+          "local": "Ménaka",
+          "en": "Ménaka",
+          "slug": "mnaka-ml10"
+        }
+      },
+      {
+        "id": "ML1001",
+        "level": 2,
+        "name": {
+          "local": "Ménaka",
+          "en": "Menaka",
+          "slug": "menaka-ml1001"
+        }
+      },
+      {
+        "id": "ML-A100102",
+        "level": 3,
+        "name": {
+          "local": "Infoukarétane",
+          "en": "Infoukarétane",
+          "slug": "infoukartane-100102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.92",
+      "lon": "2.396"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

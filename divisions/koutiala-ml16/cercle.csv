@@ -1,0 +1,9 @@
+id,name.local,name.en,name.slug,code.id,children_count.arrondissement,children_count.commune,geo.lat,geo.lon
+ML1606,Konséguéla,Konseguel a,konseguel-a-ml1606,ML1606,3,3,12.409,-5.877
+ML1607,Kouniana,Kouniana,kouniana-ml1607,ML1607,3,6,12.568,-5.126
+ML1605,Koury,Koury,koury-ml1605,ML1605,2,2,12.181,-4.802
+ML1601,Koutiala,Koutiala,koutiala-ml1601,ML1601,3,12,13.026,-5.523
+ML1603,M’Péssoba,M’Pessoba,mpessoba-ml1603,ML1603,3,8,12.665,-5.721
+ML1604,Molobala,Molobala,molobala-ml1604,ML1604,3,5,12.177,-5.333
+ML1602,Yorosso,Yorosso,yorosso-ml1602,ML1602,3,7,12.358,-4.777
+ML1608,Zangasso,Zangasso,zangasso-ml1608,ML1608,2,3,11.58,-6.027

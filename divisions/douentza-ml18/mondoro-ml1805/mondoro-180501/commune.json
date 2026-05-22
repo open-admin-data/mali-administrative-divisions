@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C18050101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mondoro",
+      "en": "Mondoro",
+      "slug": "mondoro-18050101"
+    },
+    "code": {
+      "id": "ML-C18050101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A180501",
+      "level": 3,
+      "name": {
+        "local": "Mondoro",
+        "en": "Mondoro",
+        "slug": "mondoro-180501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML18",
+        "level": 1,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml18"
+        }
+      },
+      {
+        "id": "ML1805",
+        "level": 2,
+        "name": {
+          "local": "Mondoro",
+          "en": "Mondoro",
+          "slug": "mondoro-ml1805"
+        }
+      },
+      {
+        "id": "ML-A180501",
+        "level": 3,
+        "name": {
+          "local": "Mondoro",
+          "en": "Mondoro",
+          "slug": "mondoro-180501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.676",
+      "lon": "-1.951"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

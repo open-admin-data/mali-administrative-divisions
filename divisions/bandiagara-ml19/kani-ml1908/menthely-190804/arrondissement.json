@@ -1,0 +1,56 @@
+{
+  "id": "ML-A190804",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Menthely",
+    "en": "Menthely",
+    "slug": "menthely-190804"
+  },
+  "code": {
+    "id": "ML-A190804",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1908",
+    "level": 2,
+    "name": {
+      "local": "Kani",
+      "en": "Kani",
+      "slug": "kani-ml1908"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML19",
+      "level": 1,
+      "name": {
+        "local": "Bandiagara",
+        "en": "Bandiagara",
+        "slug": "bandiagara-ml19"
+      }
+    },
+    {
+      "id": "ML1908",
+      "level": 2,
+      "name": {
+        "local": "Kani",
+        "en": "Kani",
+        "slug": "kani-ml1908"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.247",
+    "lon": "-5.175"
+  },
+  "metadata": {},
+  "source": {}
+}

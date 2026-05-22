@@ -1,0 +1,56 @@
+{
+  "id": "ML-A130501",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Massigui",
+    "en": "Massigui",
+    "slug": "massigui-130501"
+  },
+  "code": {
+    "id": "ML-A130501",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1305",
+    "level": 2,
+    "name": {
+      "local": "Massigui",
+      "en": "Massigui",
+      "slug": "massigui-ml1305"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML13",
+      "level": 1,
+      "name": {
+        "local": "Dioïla",
+        "en": "Dioïla",
+        "slug": "diola-ml13"
+      }
+    },
+    {
+      "id": "ML1305",
+      "level": 2,
+      "name": {
+        "local": "Massigui",
+        "en": "Massigui",
+        "slug": "massigui-ml1305"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.859",
+    "lon": "-6.771"
+  },
+  "metadata": {},
+  "source": {}
+}

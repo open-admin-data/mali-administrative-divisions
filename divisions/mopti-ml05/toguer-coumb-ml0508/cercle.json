@@ -1,0 +1,48 @@
+{
+  "id": "ML0508",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Toguéré-Coumbé",
+    "en": "Togueré-Coumbé",
+    "slug": "toguer-coumb-ml0508"
+  },
+  "code": {
+    "id": "ML0508",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML05",
+    "level": 1,
+    "name": {
+      "local": "Mopti",
+      "en": "Mopti",
+      "slug": "mopti-ml05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML05",
+      "level": 1,
+      "name": {
+        "local": "Mopti",
+        "en": "Mopti",
+        "slug": "mopti-ml05"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 3,
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.917",
+    "lon": "-4.6"
+  },
+  "metadata": {},
+  "source": {}
+}

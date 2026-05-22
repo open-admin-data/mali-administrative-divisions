@@ -1,0 +1,226 @@
+[
+  {
+    "id": "ML-A020502",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Didiéni",
+      "en": "Didiéni",
+      "slug": "didini-020502"
+    },
+    "code": {
+      "id": "ML-A020502",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0205",
+      "level": 2,
+      "name": {
+        "local": "Kolokani",
+        "en": "Kolokani",
+        "slug": "kolokani-ml0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0205",
+        "level": 2,
+        "name": {
+          "local": "Kolokani",
+          "en": "Kolokani",
+          "slug": "kolokani-ml0205"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.573",
+      "lon": "-8.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A020501",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Kolokani",
+      "en": "Kolokani",
+      "slug": "kolokani-020501"
+    },
+    "code": {
+      "id": "ML-A020501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0205",
+      "level": 2,
+      "name": {
+        "local": "Kolokani",
+        "en": "Kolokani",
+        "slug": "kolokani-ml0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0205",
+        "level": 2,
+        "name": {
+          "local": "Kolokani",
+          "en": "Kolokani",
+          "slug": "kolokani-ml0205"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.573",
+      "lon": "-8.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A020504",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Massantola",
+      "en": "Massantola",
+      "slug": "massantola-020504"
+    },
+    "code": {
+      "id": "ML-A020504",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0205",
+      "level": 2,
+      "name": {
+        "local": "Kolokani",
+        "en": "Kolokani",
+        "slug": "kolokani-ml0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0205",
+        "level": 2,
+        "name": {
+          "local": "Kolokani",
+          "en": "Kolokani",
+          "slug": "kolokani-ml0205"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.573",
+      "lon": "-8.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A020503",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Nossombougou",
+      "en": "Nossombougou",
+      "slug": "nossombougou-020503"
+    },
+    "code": {
+      "id": "ML-A020503",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0205",
+      "level": 2,
+      "name": {
+        "local": "Kolokani",
+        "en": "Kolokani",
+        "slug": "kolokani-ml0205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0205",
+        "level": 2,
+        "name": {
+          "local": "Kolokani",
+          "en": "Kolokani",
+          "slug": "kolokani-ml0205"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.573",
+      "lon": "-8.034"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

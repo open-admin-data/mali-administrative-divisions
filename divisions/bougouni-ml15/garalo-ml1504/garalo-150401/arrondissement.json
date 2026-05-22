@@ -1,0 +1,56 @@
+{
+  "id": "ML-A150401",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Garalo",
+    "en": "Garalo",
+    "slug": "garalo-150401"
+  },
+  "code": {
+    "id": "ML-A150401",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1504",
+    "level": 2,
+    "name": {
+      "local": "Garalo",
+      "en": "Garalo",
+      "slug": "garalo-ml1504"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML15",
+      "level": 1,
+      "name": {
+        "local": "Bougouni",
+        "en": "Bougouni",
+        "slug": "bougouni-ml15"
+      }
+    },
+    {
+      "id": "ML1504",
+      "level": 2,
+      "name": {
+        "local": "Garalo",
+        "en": "Garalo",
+        "slug": "garalo-ml1504"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11",
+    "lon": "-7.433"
+  },
+  "metadata": {},
+  "source": {}
+}

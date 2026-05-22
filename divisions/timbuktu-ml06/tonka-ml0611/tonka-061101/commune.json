@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C06110101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tonka",
+      "en": "Tonka",
+      "slug": "tonka-06110101"
+    },
+    "code": {
+      "id": "ML-C06110101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A061101",
+      "level": 3,
+      "name": {
+        "local": "Tonka",
+        "en": "Tonka",
+        "slug": "tonka-061101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0611",
+        "level": 2,
+        "name": {
+          "local": "Tonka",
+          "en": "Tonka",
+          "slug": "tonka-ml0611"
+        }
+      },
+      {
+        "id": "ML-A061101",
+        "level": 3,
+        "name": {
+          "local": "Tonka",
+          "en": "Tonka",
+          "slug": "tonka-061101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.129",
+      "lon": "-3.748"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

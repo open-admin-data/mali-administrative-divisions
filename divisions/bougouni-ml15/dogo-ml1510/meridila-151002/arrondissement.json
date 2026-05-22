@@ -1,0 +1,56 @@
+{
+  "id": "ML-A151002",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Meridiéla",
+    "en": "Meridiéla",
+    "slug": "meridila-151002"
+  },
+  "code": {
+    "id": "ML-A151002",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1510",
+    "level": 2,
+    "name": {
+      "local": "Dogo",
+      "en": "Dogo",
+      "slug": "dogo-ml1510"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML15",
+      "level": 1,
+      "name": {
+        "local": "Bougouni",
+        "en": "Bougouni",
+        "slug": "bougouni-ml15"
+      }
+    },
+    {
+      "id": "ML1510",
+      "level": 2,
+      "name": {
+        "local": "Dogo",
+        "en": "Dogo",
+        "slug": "dogo-ml1510"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.169",
+    "lon": "-4.431"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ML20",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Bamako",
+    "en": "Bamako",
+    "slug": "bamako-ml20"
+  },
+  "code": {
+    "id": "ML20",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "cercle": 1,
+    "commune": 0,
+    "arrondissement": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.583",
+    "lon": "-4.417"
+  },
+  "metadata": {},
+  "source": {}
+}

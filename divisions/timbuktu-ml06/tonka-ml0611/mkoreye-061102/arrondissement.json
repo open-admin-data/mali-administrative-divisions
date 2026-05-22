@@ -1,0 +1,56 @@
+{
+  "id": "ML-A061102",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Mékoreye",
+    "en": "Mékoreye",
+    "slug": "mkoreye-061102"
+  },
+  "code": {
+    "id": "ML-A061102",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0611",
+    "level": 2,
+    "name": {
+      "local": "Tonka",
+      "en": "Tonka",
+      "slug": "tonka-ml0611"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML06",
+      "level": 1,
+      "name": {
+        "local": "Tombouctou",
+        "en": "Timbuktu",
+        "slug": "timbuktu-ml06"
+      }
+    },
+    {
+      "id": "ML0611",
+      "level": 2,
+      "name": {
+        "local": "Tonka",
+        "en": "Tonka",
+        "slug": "tonka-ml0611"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.129",
+    "lon": "-3.748"
+  },
+  "metadata": {},
+  "source": {}
+}

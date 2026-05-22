@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C05020201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dandougou Fakala",
+      "en": "Dandougou Fakala",
+      "slug": "dandougou-fakala-05020201"
+    },
+    "code": {
+      "id": "ML-C05020201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050202",
+      "level": 3,
+      "name": {
+        "local": "Konio",
+        "en": "Konio",
+        "slug": "konio-050202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0502",
+        "level": 2,
+        "name": {
+          "local": "Djenné",
+          "en": "Djenne",
+          "slug": "djenne-ml0502"
+        }
+      },
+      {
+        "id": "ML-A050202",
+        "level": 3,
+        "name": {
+          "local": "Konio",
+          "en": "Konio",
+          "slug": "konio-050202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.906",
+      "lon": "-4.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C05020202",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Niansanarie",
+      "en": "Niansanarie",
+      "slug": "niansanarie-05020202"
+    },
+    "code": {
+      "id": "ML-C05020202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050202",
+      "level": 3,
+      "name": {
+        "local": "Konio",
+        "en": "Konio",
+        "slug": "konio-050202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0502",
+        "level": 2,
+        "name": {
+          "local": "Djenné",
+          "en": "Djenne",
+          "slug": "djenne-ml0502"
+        }
+      },
+      {
+        "id": "ML-A050202",
+        "level": 3,
+        "name": {
+          "local": "Konio",
+          "en": "Konio",
+          "slug": "konio-050202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.906",
+      "lon": "-4.553"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

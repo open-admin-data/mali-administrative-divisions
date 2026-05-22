@@ -1,0 +1,114 @@
+[
+  {
+    "id": "ML-A070201",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Bourem",
+      "en": "Bourem",
+      "slug": "bourem-070201"
+    },
+    "code": {
+      "id": "ML-A070201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0702",
+      "level": 2,
+      "name": {
+        "local": "Bourem",
+        "en": "Bourem",
+        "slug": "bourem-ml0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      },
+      {
+        "id": "ML0702",
+        "level": 2,
+        "name": {
+          "local": "Bourem",
+          "en": "Bourem",
+          "slug": "bourem-ml0702"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.955",
+      "lon": "-0.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A070202",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Taboye",
+      "en": "Taboye",
+      "slug": "taboye-070202"
+    },
+    "code": {
+      "id": "ML-A070202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0702",
+      "level": 2,
+      "name": {
+        "local": "Bourem",
+        "en": "Bourem",
+        "slug": "bourem-ml0702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      },
+      {
+        "id": "ML0702",
+        "level": 2,
+        "name": {
+          "local": "Bourem",
+          "en": "Bourem",
+          "slug": "bourem-ml0702"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.955",
+      "lon": "-0.349"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

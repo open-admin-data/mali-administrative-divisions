@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C05030401",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Togoro Kotia",
+      "en": "Togoro Kotia",
+      "slug": "togoro-kotia-05030401"
+    },
+    "code": {
+      "id": "ML-C05030401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050304",
+      "level": 3,
+      "name": {
+        "local": "Sossobé",
+        "en": "Sossobé",
+        "slug": "sossob-050304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0503",
+        "level": 2,
+        "name": {
+          "local": "Ténenkou",
+          "en": "Tenenkou",
+          "slug": "tenenkou-ml0503"
+        }
+      },
+      {
+        "id": "ML-A050304",
+        "level": 3,
+        "name": {
+          "local": "Sossobé",
+          "en": "Sossobé",
+          "slug": "sossob-050304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.457",
+      "lon": "-4.917"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

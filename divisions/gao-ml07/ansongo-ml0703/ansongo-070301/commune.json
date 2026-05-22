@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C07030101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ansongo",
+      "en": "Ansongo",
+      "slug": "ansongo-07030101"
+    },
+    "code": {
+      "id": "ML-C07030101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A070301",
+      "level": 3,
+      "name": {
+        "local": "Ansongo",
+        "en": "Ansongo",
+        "slug": "ansongo-070301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      },
+      {
+        "id": "ML0703",
+        "level": 2,
+        "name": {
+          "local": "Ansongo",
+          "en": "Ansongo",
+          "slug": "ansongo-ml0703"
+        }
+      },
+      {
+        "id": "ML-A070301",
+        "level": 3,
+        "name": {
+          "local": "Ansongo",
+          "en": "Ansongo",
+          "slug": "ansongo-070301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.66",
+      "lon": "0.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C07030102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bara",
+      "en": "Bara",
+      "slug": "bara-07030102"
+    },
+    "code": {
+      "id": "ML-C07030102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A070301",
+      "level": 3,
+      "name": {
+        "local": "Ansongo",
+        "en": "Ansongo",
+        "slug": "ansongo-070301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      },
+      {
+        "id": "ML0703",
+        "level": 2,
+        "name": {
+          "local": "Ansongo",
+          "en": "Ansongo",
+          "slug": "ansongo-ml0703"
+        }
+      },
+      {
+        "id": "ML-A070301",
+        "level": 3,
+        "name": {
+          "local": "Ansongo",
+          "en": "Ansongo",
+          "slug": "ansongo-070301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.66",
+      "lon": "0.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C07030103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bourra",
+      "en": "Bourra",
+      "slug": "bourra-07030103"
+    },
+    "code": {
+      "id": "ML-C07030103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A070301",
+      "level": 3,
+      "name": {
+        "local": "Ansongo",
+        "en": "Ansongo",
+        "slug": "ansongo-070301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      },
+      {
+        "id": "ML0703",
+        "level": 2,
+        "name": {
+          "local": "Ansongo",
+          "en": "Ansongo",
+          "slug": "ansongo-ml0703"
+        }
+      },
+      {
+        "id": "ML-A070301",
+        "level": 3,
+        "name": {
+          "local": "Ansongo",
+          "en": "Ansongo",
+          "slug": "ansongo-070301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.66",
+      "lon": "0.502"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

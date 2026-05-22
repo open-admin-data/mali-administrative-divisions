@@ -1,0 +1,48 @@
+{
+  "id": "ML1901",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Bandiagara",
+    "en": "Bandiagara",
+    "slug": "bandiagara-ml1901"
+  },
+  "code": {
+    "id": "ML1901",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML19",
+    "level": 1,
+    "name": {
+      "local": "Bandiagara",
+      "en": "Bandiagara",
+      "slug": "bandiagara-ml19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML19",
+      "level": 1,
+      "name": {
+        "local": "Bandiagara",
+        "en": "Bandiagara",
+        "slug": "bandiagara-ml19"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 4,
+    "commune": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.35",
+    "lon": "-3.61"
+  },
+  "metadata": {},
+  "source": {}
+}

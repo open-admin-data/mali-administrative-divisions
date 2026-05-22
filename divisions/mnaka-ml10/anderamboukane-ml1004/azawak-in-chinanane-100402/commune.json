@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C10040201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Azawak",
+      "en": "Azawak",
+      "slug": "azawak-10040201"
+    },
+    "code": {
+      "id": "ML-C10040201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A100402",
+      "level": 3,
+      "name": {
+        "local": "Azawak (In Chinanane)",
+        "en": "Azawak (In Chinanane)",
+        "slug": "azawak-in-chinanane-100402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML10",
+        "level": 1,
+        "name": {
+          "local": "Ménaka",
+          "en": "Ménaka",
+          "slug": "mnaka-ml10"
+        }
+      },
+      {
+        "id": "ML1004",
+        "level": 2,
+        "name": {
+          "local": "Andéramboukane",
+          "en": "Anderamboukane",
+          "slug": "anderamboukane-ml1004"
+        }
+      },
+      {
+        "id": "ML-A100402",
+        "level": 3,
+        "name": {
+          "local": "Azawak (In Chinanane)",
+          "en": "Azawak (In Chinanane)",
+          "slug": "azawak-in-chinanane-100402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.422",
+      "lon": "3.022"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

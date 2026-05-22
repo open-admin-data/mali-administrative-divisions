@@ -1,0 +1,31 @@
+{
+  "id": "ML15",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Bougouni",
+    "en": "Bougouni",
+    "slug": "bougouni-ml15"
+  },
+  "code": {
+    "id": "ML15",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "cercle": 10,
+    "commune": 41,
+    "arrondissement": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.741",
+    "lon": "-2.507"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ML06",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Tombouctou",
+    "en": "Timbuktu",
+    "slug": "timbuktu-ml06"
+  },
+  "code": {
+    "id": "ML06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "cercle": 13,
+    "commune": 47,
+    "arrondissement": 30
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.773",
+    "lon": "-3.007"
+  },
+  "metadata": {},
+  "source": {}
+}

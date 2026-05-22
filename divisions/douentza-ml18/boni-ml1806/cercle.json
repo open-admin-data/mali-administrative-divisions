@@ -1,0 +1,48 @@
+{
+  "id": "ML1806",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Boni",
+    "en": "Boni",
+    "slug": "boni-ml1806"
+  },
+  "code": {
+    "id": "ML1806",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML18",
+    "level": 1,
+    "name": {
+      "local": "Douentza",
+      "en": "Douentza",
+      "slug": "douentza-ml18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML18",
+      "level": 1,
+      "name": {
+        "local": "Douentza",
+        "en": "Douentza",
+        "slug": "douentza-ml18"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 3,
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.077",
+    "lon": "-2.22"
+  },
+  "metadata": {},
+  "source": {}
+}

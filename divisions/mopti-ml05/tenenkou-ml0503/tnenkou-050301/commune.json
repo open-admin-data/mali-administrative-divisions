@@ -1,0 +1,317 @@
+[
+  {
+    "id": "ML-C05030104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Diaka",
+      "en": "Diaka",
+      "slug": "diaka-05030104"
+    },
+    "code": {
+      "id": "ML-C05030104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050301",
+      "level": 3,
+      "name": {
+        "local": "Ténenkou",
+        "en": "Ténenkou",
+        "slug": "tnenkou-050301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0503",
+        "level": 2,
+        "name": {
+          "local": "Ténenkou",
+          "en": "Tenenkou",
+          "slug": "tenenkou-ml0503"
+        }
+      },
+      {
+        "id": "ML-A050301",
+        "level": 3,
+        "name": {
+          "local": "Ténenkou",
+          "en": "Ténenkou",
+          "slug": "tnenkou-050301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.457",
+      "lon": "-4.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C05030101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouro Ardo",
+      "en": "Ouro Ardo",
+      "slug": "ouro-ardo-05030101"
+    },
+    "code": {
+      "id": "ML-C05030101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050301",
+      "level": 3,
+      "name": {
+        "local": "Ténenkou",
+        "en": "Ténenkou",
+        "slug": "tnenkou-050301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0503",
+        "level": 2,
+        "name": {
+          "local": "Ténenkou",
+          "en": "Tenenkou",
+          "slug": "tenenkou-ml0503"
+        }
+      },
+      {
+        "id": "ML-A050301",
+        "level": 3,
+        "name": {
+          "local": "Ténenkou",
+          "en": "Ténenkou",
+          "slug": "tnenkou-050301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.457",
+      "lon": "-4.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C05030102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouro Guiré",
+      "en": "Ouro Guiré",
+      "slug": "ouro-guir-05030102"
+    },
+    "code": {
+      "id": "ML-C05030102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050301",
+      "level": 3,
+      "name": {
+        "local": "Ténenkou",
+        "en": "Ténenkou",
+        "slug": "tnenkou-050301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0503",
+        "level": 2,
+        "name": {
+          "local": "Ténenkou",
+          "en": "Tenenkou",
+          "slug": "tenenkou-ml0503"
+        }
+      },
+      {
+        "id": "ML-A050301",
+        "level": 3,
+        "name": {
+          "local": "Ténenkou",
+          "en": "Ténenkou",
+          "slug": "tnenkou-050301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.457",
+      "lon": "-4.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C05030103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sougoulbé",
+      "en": "Sougoulbé",
+      "slug": "sougoulb-05030103"
+    },
+    "code": {
+      "id": "ML-C05030103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050301",
+      "level": 3,
+      "name": {
+        "local": "Ténenkou",
+        "en": "Ténenkou",
+        "slug": "tnenkou-050301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0503",
+        "level": 2,
+        "name": {
+          "local": "Ténenkou",
+          "en": "Tenenkou",
+          "slug": "tenenkou-ml0503"
+        }
+      },
+      {
+        "id": "ML-A050301",
+        "level": 3,
+        "name": {
+          "local": "Ténenkou",
+          "en": "Ténenkou",
+          "slug": "tnenkou-050301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.457",
+      "lon": "-4.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C05030105",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "urbaineTénenkou",
+      "en": "urbaineTénenkou",
+      "slug": "urbainetnenkou-05030105"
+    },
+    "code": {
+      "id": "ML-C05030105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050301",
+      "level": 3,
+      "name": {
+        "local": "Ténenkou",
+        "en": "Ténenkou",
+        "slug": "tnenkou-050301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0503",
+        "level": 2,
+        "name": {
+          "local": "Ténenkou",
+          "en": "Tenenkou",
+          "slug": "tenenkou-ml0503"
+        }
+      },
+      {
+        "id": "ML-A050301",
+        "level": 3,
+        "name": {
+          "local": "Ténenkou",
+          "en": "Ténenkou",
+          "slug": "tnenkou-050301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.457",
+      "lon": "-4.917"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

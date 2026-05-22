@@ -1,0 +1,290 @@
+[
+  {
+    "id": "ML1302",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Banco",
+      "en": "Banco",
+      "slug": "banco-ml1302"
+    },
+    "code": {
+      "id": "ML1302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML13",
+      "level": 1,
+      "name": {
+        "local": "Dioïla",
+        "en": "Dioïla",
+        "slug": "diola-ml13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML13",
+        "level": 1,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioïla",
+          "slug": "diola-ml13"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.099",
+      "lon": "-6.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1303",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Béléko",
+      "en": "Beleko",
+      "slug": "beleko-ml1303"
+    },
+    "code": {
+      "id": "ML1303",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML13",
+      "level": 1,
+      "name": {
+        "local": "Dioïla",
+        "en": "Dioïla",
+        "slug": "diola-ml13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML13",
+        "level": 1,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioïla",
+          "slug": "diola-ml13"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.586",
+      "lon": "-7.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1301",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Dioïla",
+      "en": "Dioila",
+      "slug": "dioila-ml1301"
+    },
+    "code": {
+      "id": "ML1301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML13",
+      "level": 1,
+      "name": {
+        "local": "Dioïla",
+        "en": "Dioïla",
+        "slug": "diola-ml13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML13",
+        "level": 1,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioïla",
+          "slug": "diola-ml13"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.487",
+      "lon": "-6.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1304",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Fana",
+      "en": "Fana",
+      "slug": "fana-ml1304"
+    },
+    "code": {
+      "id": "ML1304",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML13",
+      "level": 1,
+      "name": {
+        "local": "Dioïla",
+        "en": "Dioïla",
+        "slug": "diola-ml13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML13",
+        "level": 1,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioïla",
+          "slug": "diola-ml13"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.779",
+      "lon": "-6.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1305",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Massigui",
+      "en": "Massigui",
+      "slug": "massigui-ml1305"
+    },
+    "code": {
+      "id": "ML1305",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML13",
+      "level": 1,
+      "name": {
+        "local": "Dioïla",
+        "en": "Dioïla",
+        "slug": "diola-ml13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML13",
+        "level": 1,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioïla",
+          "slug": "diola-ml13"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.859",
+      "lon": "-6.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1306",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Ména",
+      "en": "Mena",
+      "slug": "mena-ml1306"
+    },
+    "code": {
+      "id": "ML1306",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML13",
+      "level": 1,
+      "name": {
+        "local": "Dioïla",
+        "en": "Dioïla",
+        "slug": "diola-ml13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML13",
+        "level": 1,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioïla",
+          "slug": "diola-ml13"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.217",
+      "lon": "-6.204"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

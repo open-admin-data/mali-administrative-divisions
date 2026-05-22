@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C17020101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tominian",
+      "en": "Tominian",
+      "slug": "tominian-17020101"
+    },
+    "code": {
+      "id": "ML-C17020101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A170201",
+      "level": 3,
+      "name": {
+        "local": "Tominian",
+        "en": "Tominian",
+        "slug": "tominian-170201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      },
+      {
+        "id": "ML1702",
+        "level": 2,
+        "name": {
+          "local": "Tominian",
+          "en": "Tominian",
+          "slug": "tominian-ml1702"
+        }
+      },
+      {
+        "id": "ML-A170201",
+        "level": 3,
+        "name": {
+          "local": "Tominian",
+          "en": "Tominian",
+          "slug": "tominian-170201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.287",
+      "lon": "-4.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C17020102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Yasso",
+      "en": "Yasso",
+      "slug": "yasso-17020102"
+    },
+    "code": {
+      "id": "ML-C17020102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A170201",
+      "level": 3,
+      "name": {
+        "local": "Tominian",
+        "en": "Tominian",
+        "slug": "tominian-170201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      },
+      {
+        "id": "ML1702",
+        "level": 2,
+        "name": {
+          "local": "Tominian",
+          "en": "Tominian",
+          "slug": "tominian-ml1702"
+        }
+      },
+      {
+        "id": "ML-A170201",
+        "level": 3,
+        "name": {
+          "local": "Tominian",
+          "en": "Tominian",
+          "slug": "tominian-170201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.287",
+      "lon": "-4.593"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

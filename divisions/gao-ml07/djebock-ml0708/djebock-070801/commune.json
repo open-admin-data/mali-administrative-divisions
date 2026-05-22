@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C07080101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djebock",
+      "en": "Djebock",
+      "slug": "djebock-07080101"
+    },
+    "code": {
+      "id": "ML-C07080101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A070801",
+      "level": 3,
+      "name": {
+        "local": "Djebock",
+        "en": "Djebock",
+        "slug": "djebock-070801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      },
+      {
+        "id": "ML0708",
+        "level": 2,
+        "name": {
+          "local": "Djebock",
+          "en": "Djebock",
+          "slug": "djebock-ml0708"
+        }
+      },
+      {
+        "id": "ML-A070801",
+        "level": 3,
+        "name": {
+          "local": "Djebock",
+          "en": "Djebock",
+          "slug": "djebock-070801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.343",
+      "lon": "0.278"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

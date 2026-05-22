@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C19030101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bankass",
+      "en": "Bankass",
+      "slug": "bankass-19030101"
+    },
+    "code": {
+      "id": "ML-C19030101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190301",
+      "level": 3,
+      "name": {
+        "local": "Bankass",
+        "en": "Bankass",
+        "slug": "bankass-190301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1903",
+        "level": 2,
+        "name": {
+          "local": "Bankass",
+          "en": "Bankass",
+          "slug": "bankass-ml1903"
+        }
+      },
+      {
+        "id": "ML-A190301",
+        "level": 3,
+        "name": {
+          "local": "Bankass",
+          "en": "Bankass",
+          "slug": "bankass-190301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.078",
+      "lon": "-3.516"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

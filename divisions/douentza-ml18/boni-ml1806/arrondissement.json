@@ -1,0 +1,170 @@
+[
+  {
+    "id": "ML-A180601",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Boni",
+      "en": "Boni",
+      "slug": "boni-180601"
+    },
+    "code": {
+      "id": "ML-A180601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1806",
+      "level": 2,
+      "name": {
+        "local": "Boni",
+        "en": "Boni",
+        "slug": "boni-ml1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML18",
+        "level": 1,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml18"
+        }
+      },
+      {
+        "id": "ML1806",
+        "level": 2,
+        "name": {
+          "local": "Boni",
+          "en": "Boni",
+          "slug": "boni-ml1806"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.077",
+      "lon": "-2.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A180602",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Nokara",
+      "en": "Nokara",
+      "slug": "nokara-180602"
+    },
+    "code": {
+      "id": "ML-A180602",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1806",
+      "level": 2,
+      "name": {
+        "local": "Boni",
+        "en": "Boni",
+        "slug": "boni-ml1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML18",
+        "level": 1,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml18"
+        }
+      },
+      {
+        "id": "ML1806",
+        "level": 2,
+        "name": {
+          "local": "Boni",
+          "en": "Boni",
+          "slug": "boni-ml1806"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.077",
+      "lon": "-2.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A180603",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Tabi",
+      "en": "Tabi",
+      "slug": "tabi-180603"
+    },
+    "code": {
+      "id": "ML-A180603",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1806",
+      "level": 2,
+      "name": {
+        "local": "Boni",
+        "en": "Boni",
+        "slug": "boni-ml1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML18",
+        "level": 1,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml18"
+        }
+      },
+      {
+        "id": "ML1806",
+        "level": 2,
+        "name": {
+          "local": "Boni",
+          "en": "Boni",
+          "slug": "boni-ml1806"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.077",
+      "lon": "-2.22"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

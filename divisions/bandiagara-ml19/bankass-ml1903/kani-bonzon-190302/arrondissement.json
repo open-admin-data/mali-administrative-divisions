@@ -1,0 +1,56 @@
+{
+  "id": "ML-A190302",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Kani Bonzon",
+    "en": "Kani Bonzon",
+    "slug": "kani-bonzon-190302"
+  },
+  "code": {
+    "id": "ML-A190302",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1903",
+    "level": 2,
+    "name": {
+      "local": "Bankass",
+      "en": "Bankass",
+      "slug": "bankass-ml1903"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML19",
+      "level": 1,
+      "name": {
+        "local": "Bandiagara",
+        "en": "Bandiagara",
+        "slug": "bandiagara-ml19"
+      }
+    },
+    {
+      "id": "ML1903",
+      "level": 2,
+      "name": {
+        "local": "Bankass",
+        "en": "Bankass",
+        "slug": "bankass-ml1903"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.078",
+    "lon": "-3.516"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C16060301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Konina",
+      "en": "Konina",
+      "slug": "konina-16060301"
+    },
+    "code": {
+      "id": "ML-C16060301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160603",
+      "level": 3,
+      "name": {
+        "local": "Konina",
+        "en": "Konina",
+        "slug": "konina-160603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1606",
+        "level": 2,
+        "name": {
+          "local": "Konséguéla",
+          "en": "Konseguel a",
+          "slug": "konseguel-a-ml1606"
+        }
+      },
+      {
+        "id": "ML-A160603",
+        "level": 3,
+        "name": {
+          "local": "Konina",
+          "en": "Konina",
+          "slug": "konina-160603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.409",
+      "lon": "-5.877"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C01040401",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Faraba",
+      "en": "Faraba",
+      "slug": "faraba-01040401"
+    },
+    "code": {
+      "id": "ML-C01040401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010404",
+      "level": 3,
+      "name": {
+        "local": "Faraba",
+        "en": "Faraba",
+        "slug": "faraba-010404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0104",
+        "level": 2,
+        "name": {
+          "local": "Kéniéba",
+          "en": "Kenieba",
+          "slug": "kenieba-ml0104"
+        }
+      },
+      {
+        "id": "ML-A010404",
+        "level": 3,
+        "name": {
+          "local": "Faraba",
+          "en": "Faraba",
+          "slug": "faraba-010404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.044",
+      "lon": "-8.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C01040402",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kroukoto",
+      "en": "Kroukoto",
+      "slug": "kroukoto-01040402"
+    },
+    "code": {
+      "id": "ML-C01040402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010404",
+      "level": 3,
+      "name": {
+        "local": "Faraba",
+        "en": "Faraba",
+        "slug": "faraba-010404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0104",
+        "level": 2,
+        "name": {
+          "local": "Kéniéba",
+          "en": "Kenieba",
+          "slug": "kenieba-ml0104"
+        }
+      },
+      {
+        "id": "ML-A010404",
+        "level": 3,
+        "name": {
+          "local": "Faraba",
+          "en": "Faraba",
+          "slug": "faraba-010404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.044",
+      "lon": "-8.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C01040403",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sagalo",
+      "en": "Sagalo",
+      "slug": "sagalo-01040403"
+    },
+    "code": {
+      "id": "ML-C01040403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010404",
+      "level": 3,
+      "name": {
+        "local": "Faraba",
+        "en": "Faraba",
+        "slug": "faraba-010404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0104",
+        "level": 2,
+        "name": {
+          "local": "Kéniéba",
+          "en": "Kenieba",
+          "slug": "kenieba-ml0104"
+        }
+      },
+      {
+        "id": "ML-A010404",
+        "level": 3,
+        "name": {
+          "local": "Faraba",
+          "en": "Faraba",
+          "slug": "faraba-010404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.044",
+      "lon": "-8.635"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

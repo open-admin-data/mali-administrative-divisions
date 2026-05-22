@@ -1,0 +1,7 @@
+id,name.local,name.en,name.slug,code.id,children_count.arrondissement,children_count.commune,geo.lat,geo.lon
+ML1402,Ballé,Balle,balle-ml1402,ML1402,2,3,15.34,-8.587
+ML1403,Dilly,Dilly,dilly-ml1403,ML1403,2,2,14.999,-7.669
+ML1406,Fallou,Fallou,fallou-ml1406,ML1406,2,2,15.521,-4.362
+ML1405,Guiré,Guire,guire-ml1405,ML1405,2,2,14.643,-6.691
+ML1404,Mourdiah,Mourdiah,mourdiah-ml1404,ML1404,2,2,14.473,-7.467
+ML1401,Nara,Nara,nara-ml1401,ML1401,2,3,15.169,-7.29

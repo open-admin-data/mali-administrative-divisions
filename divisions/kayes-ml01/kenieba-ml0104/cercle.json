@@ -1,0 +1,48 @@
+{
+  "id": "ML0104",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Kéniéba",
+    "en": "Kenieba",
+    "slug": "kenieba-ml0104"
+  },
+  "code": {
+    "id": "ML0104",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML01",
+    "level": 1,
+    "name": {
+      "local": "Kayes",
+      "en": "Kayes",
+      "slug": "kayes-ml01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML01",
+      "level": 1,
+      "name": {
+        "local": "Kayes",
+        "en": "Kayes",
+        "slug": "kayes-ml01"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 5,
+    "commune": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.044",
+    "lon": "-8.635"
+  },
+  "metadata": {},
+  "source": {}
+}

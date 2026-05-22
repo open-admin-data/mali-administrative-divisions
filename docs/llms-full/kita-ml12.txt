@@ -1,0 +1,156 @@
+# Kita — Mali Administrative Divisions
+
+> 6 circles, 14 arrondissements, 33 communes
+> Code: ML12
+> Coordinates: 13.039, -9.488
+> Last updated: 2026-05-22. License: CC-BY-4.0.
+
+## Circles
+
+### Kita
+
+Code: ML1201, Coordinates: 13.039, -9.488
+Arrondissements: 2, Communes: 11
+
+#### Djidian
+
+Code: ML-A120102, Coordinates: 13.039, -9.488
+
+Communes:
+- Djidian [ML-C12010201]
+- Namala Guimbala [ML-C12010202]
+- Saboula [ML-C12010203]
+- Souransan Tomota [ML-C12010204]
+
+#### Kita
+
+Code: ML-A120101, Coordinates: 13.039, -9.488
+
+Communes:
+- Badia [ML-C12010102]
+- Bendougouba [ML-C12010103]
+- Benkady Founia [ML-C12010104]
+- Boudofo [ML-C12010105]
+- Kita [ML-C12010101]
+- Kita Nord [ML-C12010106]
+- Kita Ouest [ML-C12010107]
+
+### Sagabari
+
+Code: ML1202, Coordinates: 12.583, -9.8
+Arrondissements: 4, Communes: 6
+
+#### Balia
+
+Code: ML-A120203, Coordinates: 12.583, -9.8
+
+Communes:
+- Koulou [ML-C12020301]
+
+#### Gallé
+
+Code: ML-A120204, Coordinates: 12.583, -9.8
+
+Communes:
+- Gadougou 2 [ML-C12020401]
+
+#### Kokofata
+
+Code: ML-A120202, Coordinates: 12.583, -9.8
+
+Communes:
+- Bougaribaya [ML-C12020202]
+- Kokofata [ML-C12020201]
+- Tambaga [ML-C12020203]
+
+#### Sagabari
+
+Code: ML-A120201, Coordinates: 12.583, -9.8
+
+Communes:
+- Gadougou 1 [ML-C12020101]
+
+### Sébékoro (Sebekoro)
+
+Code: ML1203, Coordinates: 14.461, -9.131
+Arrondissements: 2, Communes: 4
+
+#### Madina
+
+Code: ML-A120302, Coordinates: 14.461, -9.131
+
+Communes:
+- Madina [ML-C12030201]
+
+#### Sébékoro
+
+Code: ML-A120301, Coordinates: 14.461, -9.131
+
+Communes:
+- Kassaro [ML-C12030102]
+- Kotouba [ML-C12030103]
+- Sébékoro [ML-C12030101]
+
+### Séféto (Sefeto)
+
+Code: ML1205, Coordinates: 14.14, -9.827
+Arrondissements: 2, Communes: 6
+
+#### Kourouninkoto
+
+Code: ML-A120502, Coordinates: 14.14, -9.827
+
+Communes:
+- Didenko [ML-C12050202]
+- Guémoukouraba [ML-C12050203]
+- Kourouninkoto [ML-C12050201]
+
+#### Séféto
+
+Code: ML-A120501, Coordinates: 14.14, -9.827
+
+Communes:
+- Djougoun [ML-C12050103]
+- Séféto nord [ML-C12050102]
+- Séféto ouest [ML-C12050101]
+
+### Sirakoro
+
+Code: ML1206, Coordinates: 12.765, -8.017
+Arrondissements: 2, Communes: 3
+
+#### Makono
+
+Code: ML-A120602, Coordinates: 12.765, -8.017
+
+Communes:
+- Makono [ML-C12060201]
+
+#### Sirakoro
+
+Code: ML-A120601, Coordinates: 12.765, -8.017
+
+Communes:
+- Senko [ML-C12060102]
+- Sirakoro [ML-C12060101]
+
+### Toukoto
+
+Code: ML1204, Coordinates: 15.065, -9.981
+Arrondissements: 2, Communes: 3
+
+#### Kobri
+
+Code: ML-A120402, Coordinates: 15.065, -9.981
+
+Communes:
+- Kobri [ML-C12040201]
+- Niantanso [ML-C12040202]
+
+#### Toukoto
+
+Code: ML-A120401, Coordinates: 15.065, -9.981
+
+Communes:
+- Toukoto [ML-C12040101]
+

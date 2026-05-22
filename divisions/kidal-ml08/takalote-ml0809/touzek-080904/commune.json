@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C08090401",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Touzek",
+      "en": "Touzek",
+      "slug": "touzek-08090401"
+    },
+    "code": {
+      "id": "ML-C08090401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A080904",
+      "level": 3,
+      "name": {
+        "local": "Touzek",
+        "en": "Touzek",
+        "slug": "touzek-080904"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML08",
+        "level": 1,
+        "name": {
+          "local": "Kidal",
+          "en": "Kidal",
+          "slug": "kidal-ml08"
+        }
+      },
+      {
+        "id": "ML0809",
+        "level": 2,
+        "name": {
+          "local": "Takalote",
+          "en": "Takalote",
+          "slug": "takalote-ml0809"
+        }
+      },
+      {
+        "id": "ML-A080904",
+        "level": 3,
+        "name": {
+          "local": "Touzek",
+          "en": "Touzek",
+          "slug": "touzek-080904"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.461",
+      "lon": "1.385"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

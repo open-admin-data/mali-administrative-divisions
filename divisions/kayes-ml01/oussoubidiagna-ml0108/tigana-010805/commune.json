@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C01080501",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sidibéla",
+      "en": "Sidibéla",
+      "slug": "sidibla-01080501"
+    },
+    "code": {
+      "id": "ML-C01080501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010805",
+      "level": 3,
+      "name": {
+        "local": "Tigana",
+        "en": "Tigana",
+        "slug": "tigana-010805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0108",
+        "level": 2,
+        "name": {
+          "local": "Oussoubidiagna",
+          "en": "Oussoubidiagna",
+          "slug": "oussoubidiagna-ml0108"
+        }
+      },
+      {
+        "id": "ML-A010805",
+        "level": 3,
+        "name": {
+          "local": "Tigana",
+          "en": "Tigana",
+          "slug": "tigana-010805"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.245",
+      "lon": "-10.462"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

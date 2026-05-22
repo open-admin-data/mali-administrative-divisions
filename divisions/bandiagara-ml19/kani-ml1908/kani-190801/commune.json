@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C19080101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Wadouba",
+      "en": "Wadouba",
+      "slug": "wadouba-19080101"
+    },
+    "code": {
+      "id": "ML-C19080101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190801",
+      "level": 3,
+      "name": {
+        "local": "Kani",
+        "en": "Kani",
+        "slug": "kani-190801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1908",
+        "level": 2,
+        "name": {
+          "local": "Kani",
+          "en": "Kani",
+          "slug": "kani-ml1908"
+        }
+      },
+      {
+        "id": "ML-A190801",
+        "level": 3,
+        "name": {
+          "local": "Kani",
+          "en": "Kani",
+          "slug": "kani-190801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.247",
+      "lon": "-5.175"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

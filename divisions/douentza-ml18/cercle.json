@@ -1,0 +1,290 @@
+[
+  {
+    "id": "ML1806",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Boni",
+      "en": "Boni",
+      "slug": "boni-ml1806"
+    },
+    "code": {
+      "id": "ML1806",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML18",
+      "level": 1,
+      "name": {
+        "local": "Douentza",
+        "en": "Douentza",
+        "slug": "douentza-ml18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML18",
+        "level": 1,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml18"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.077",
+      "lon": "-2.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1802",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Boré",
+      "en": "Bore",
+      "slug": "bore-ml1802"
+    },
+    "code": {
+      "id": "ML1802",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML18",
+      "level": 1,
+      "name": {
+        "local": "Douentza",
+        "en": "Douentza",
+        "slug": "douentza-ml18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML18",
+        "level": 1,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml18"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.133",
+      "lon": "-3.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1801",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Douentza",
+      "en": "Douentza",
+      "slug": "douentza-ml1801"
+    },
+    "code": {
+      "id": "ML1801",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML18",
+      "level": 1,
+      "name": {
+        "local": "Douentza",
+        "en": "Douentza",
+        "slug": "douentza-ml18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML18",
+        "level": 1,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml18"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 4,
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.006",
+      "lon": "-2.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1803",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Hombori",
+      "en": "Hombori",
+      "slug": "hombori-ml1803"
+    },
+    "code": {
+      "id": "ML1803",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML18",
+      "level": 1,
+      "name": {
+        "local": "Douentza",
+        "en": "Douentza",
+        "slug": "douentza-ml18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML18",
+        "level": 1,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml18"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.279",
+      "lon": "-1.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1805",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Mondoro",
+      "en": "Mondoro",
+      "slug": "mondoro-ml1805"
+    },
+    "code": {
+      "id": "ML1805",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML18",
+      "level": 1,
+      "name": {
+        "local": "Douentza",
+        "en": "Douentza",
+        "slug": "douentza-ml18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML18",
+        "level": 1,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml18"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.676",
+      "lon": "-1.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1804",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Ngouna",
+      "en": "Ngouna",
+      "slug": "ngouna-ml1804"
+    },
+    "code": {
+      "id": "ML1804",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML18",
+      "level": 1,
+      "name": {
+        "local": "Douentza",
+        "en": "Douentza",
+        "slug": "douentza-ml18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML18",
+        "level": 1,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml18"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 0,
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.633",
+      "lon": "-7.367"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

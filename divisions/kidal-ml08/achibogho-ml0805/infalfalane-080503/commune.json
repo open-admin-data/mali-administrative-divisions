@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C08050301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Infalfalane",
+      "en": "Infalfalane",
+      "slug": "infalfalane-08050301"
+    },
+    "code": {
+      "id": "ML-C08050301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A080503",
+      "level": 3,
+      "name": {
+        "local": "Infalfalane",
+        "en": "Infalfalane",
+        "slug": "infalfalane-080503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML08",
+        "level": 1,
+        "name": {
+          "local": "Kidal",
+          "en": "Kidal",
+          "slug": "kidal-ml08"
+        }
+      },
+      {
+        "id": "ML0805",
+        "level": 2,
+        "name": {
+          "local": "Achibogho",
+          "en": "Achibogho",
+          "slug": "achibogho-ml0805"
+        }
+      },
+      {
+        "id": "ML-A080503",
+        "level": 3,
+        "name": {
+          "local": "Infalfalane",
+          "en": "Infalfalane",
+          "slug": "infalfalane-080503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.461",
+      "lon": "1.385"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

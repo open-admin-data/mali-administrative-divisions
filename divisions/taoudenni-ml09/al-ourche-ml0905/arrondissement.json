@@ -1,0 +1,338 @@
+[
+  {
+    "id": "ML-A090501",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Al-Ourche",
+      "en": "Al-Ourche",
+      "slug": "al-ourche-090501"
+    },
+    "code": {
+      "id": "ML-A090501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0905",
+      "level": 2,
+      "name": {
+        "local": "Al-Ourche",
+        "en": "Al-Ourche",
+        "slug": "al-ourche-ml0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML09",
+        "level": 1,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml09"
+        }
+      },
+      {
+        "id": "ML0905",
+        "level": 2,
+        "name": {
+          "local": "Al-Ourche",
+          "en": "Al-Ourche",
+          "slug": "al-ourche-ml0905"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-3.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A090502",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Diaba",
+      "en": "Diaba",
+      "slug": "diaba-090502"
+    },
+    "code": {
+      "id": "ML-A090502",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0905",
+      "level": 2,
+      "name": {
+        "local": "Al-Ourche",
+        "en": "Al-Ourche",
+        "slug": "al-ourche-ml0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML09",
+        "level": 1,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml09"
+        }
+      },
+      {
+        "id": "ML0905",
+        "level": 2,
+        "name": {
+          "local": "Al-Ourche",
+          "en": "Al-Ourche",
+          "slug": "al-ourche-ml0905"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-3.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A090506",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Nibkt-Elk",
+      "en": "Nibkt-Elk",
+      "slug": "nibkt-elk-090506"
+    },
+    "code": {
+      "id": "ML-A090506",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0905",
+      "level": 2,
+      "name": {
+        "local": "Al-Ourche",
+        "en": "Al-Ourche",
+        "slug": "al-ourche-ml0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML09",
+        "level": 1,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml09"
+        }
+      },
+      {
+        "id": "ML0905",
+        "level": 2,
+        "name": {
+          "local": "Al-Ourche",
+          "en": "Al-Ourche",
+          "slug": "al-ourche-ml0905"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-3.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A090503",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Oum-Laazam",
+      "en": "Oum-Laazam",
+      "slug": "oum-laazam-090503"
+    },
+    "code": {
+      "id": "ML-A090503",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0905",
+      "level": 2,
+      "name": {
+        "local": "Al-Ourche",
+        "en": "Al-Ourche",
+        "slug": "al-ourche-ml0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML09",
+        "level": 1,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml09"
+        }
+      },
+      {
+        "id": "ML0905",
+        "level": 2,
+        "name": {
+          "local": "Al-Ourche",
+          "en": "Al-Ourche",
+          "slug": "al-ourche-ml0905"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-3.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A090504",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Tamagounite",
+      "en": "Tamagounite",
+      "slug": "tamagounite-090504"
+    },
+    "code": {
+      "id": "ML-A090504",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0905",
+      "level": 2,
+      "name": {
+        "local": "Al-Ourche",
+        "en": "Al-Ourche",
+        "slug": "al-ourche-ml0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML09",
+        "level": 1,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml09"
+        }
+      },
+      {
+        "id": "ML0905",
+        "level": 2,
+        "name": {
+          "local": "Al-Ourche",
+          "en": "Al-Ourche",
+          "slug": "al-ourche-ml0905"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-3.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A090505",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Ziriba",
+      "en": "Ziriba",
+      "slug": "ziriba-090505"
+    },
+    "code": {
+      "id": "ML-A090505",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0905",
+      "level": 2,
+      "name": {
+        "local": "Al-Ourche",
+        "en": "Al-Ourche",
+        "slug": "al-ourche-ml0905"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML09",
+        "level": 1,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml09"
+        }
+      },
+      {
+        "id": "ML0905",
+        "level": 2,
+        "name": {
+          "local": "Al-Ourche",
+          "en": "Al-Ourche",
+          "slug": "al-ourche-ml0905"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-3.979"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

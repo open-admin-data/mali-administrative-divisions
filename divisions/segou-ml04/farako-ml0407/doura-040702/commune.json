@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C04070201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Baguindadougou",
+      "en": "Baguindadougou",
+      "slug": "baguindadougou-04070201"
+    },
+    "code": {
+      "id": "ML-C04070201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040702",
+      "level": 3,
+      "name": {
+        "local": "Doura",
+        "en": "Doura",
+        "slug": "doura-040702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0407",
+        "level": 2,
+        "name": {
+          "local": "Farako",
+          "en": "Farako",
+          "slug": "farako-ml0407"
+        }
+      },
+      {
+        "id": "ML-A040702",
+        "level": 3,
+        "name": {
+          "local": "Doura",
+          "en": "Doura",
+          "slug": "doura-040702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.943",
+      "lon": "-6.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C04070202",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bellen",
+      "en": "Bellen",
+      "slug": "bellen-04070202"
+    },
+    "code": {
+      "id": "ML-C04070202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040702",
+      "level": 3,
+      "name": {
+        "local": "Doura",
+        "en": "Doura",
+        "slug": "doura-040702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0407",
+        "level": 2,
+        "name": {
+          "local": "Farako",
+          "en": "Farako",
+          "slug": "farako-ml0407"
+        }
+      },
+      {
+        "id": "ML-A040702",
+        "level": 3,
+        "name": {
+          "local": "Doura",
+          "en": "Doura",
+          "slug": "doura-040702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.943",
+      "lon": "-6.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C04070203",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "N'Koumandougou",
+      "en": "N'Koumandougou",
+      "slug": "nkoumandougou-04070203"
+    },
+    "code": {
+      "id": "ML-C04070203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040702",
+      "level": 3,
+      "name": {
+        "local": "Doura",
+        "en": "Doura",
+        "slug": "doura-040702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0407",
+        "level": 2,
+        "name": {
+          "local": "Farako",
+          "en": "Farako",
+          "slug": "farako-ml0407"
+        }
+      },
+      {
+        "id": "ML-A040702",
+        "level": 3,
+        "name": {
+          "local": "Doura",
+          "en": "Doura",
+          "slug": "doura-040702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.943",
+      "lon": "-6.791"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

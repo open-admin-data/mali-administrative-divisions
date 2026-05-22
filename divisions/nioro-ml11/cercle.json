@@ -1,0 +1,290 @@
+[
+  {
+    "id": "ML1106",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Bema",
+      "en": "Bema",
+      "slug": "bema-ml1106"
+    },
+    "code": {
+      "id": "ML1106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML11",
+      "level": 1,
+      "name": {
+        "local": "Nioro",
+        "en": "Nioro",
+        "slug": "nioro-ml11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML11",
+        "level": 1,
+        "name": {
+          "local": "Nioro",
+          "en": "Nioro",
+          "slug": "nioro-ml11"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 0,
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.733",
+      "lon": "-4.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1103",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Diangounte Camara",
+      "en": "Diangounte Camara",
+      "slug": "diangounte-camara-ml1103"
+    },
+    "code": {
+      "id": "ML1103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML11",
+      "level": 1,
+      "name": {
+        "local": "Nioro",
+        "en": "Nioro",
+        "slug": "nioro-ml11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML11",
+        "level": 1,
+        "name": {
+          "local": "Nioro",
+          "en": "Nioro",
+          "slug": "nioro-ml11"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 0,
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.545",
+      "lon": "-9.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1102",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Diema",
+      "en": "Diema",
+      "slug": "diema-ml1102"
+    },
+    "code": {
+      "id": "ML1102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML11",
+      "level": 1,
+      "name": {
+        "local": "Nioro",
+        "en": "Nioro",
+        "slug": "nioro-ml11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML11",
+        "level": 1,
+        "name": {
+          "local": "Nioro",
+          "en": "Nioro",
+          "slug": "nioro-ml11"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 0,
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.54",
+      "lon": "-9.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1101",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Nioro",
+      "en": "Nioro",
+      "slug": "nioro-ml1101"
+    },
+    "code": {
+      "id": "ML1101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML11",
+      "level": 1,
+      "name": {
+        "local": "Nioro",
+        "en": "Nioro",
+        "slug": "nioro-ml11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML11",
+        "level": 1,
+        "name": {
+          "local": "Nioro",
+          "en": "Nioro",
+          "slug": "nioro-ml11"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 4,
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.231",
+      "lon": "-9.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1104",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Sandare",
+      "en": "Sandare",
+      "slug": "sandare-ml1104"
+    },
+    "code": {
+      "id": "ML1104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML11",
+      "level": 1,
+      "name": {
+        "local": "Nioro",
+        "en": "Nioro",
+        "slug": "nioro-ml11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML11",
+        "level": 1,
+        "name": {
+          "local": "Nioro",
+          "en": "Nioro",
+          "slug": "nioro-ml11"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 0,
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.704",
+      "lon": "-10.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1105",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Troungoumbe",
+      "en": "Troungoumbe",
+      "slug": "troungoumbe-ml1105"
+    },
+    "code": {
+      "id": "ML1105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML11",
+      "level": 1,
+      "name": {
+        "local": "Nioro",
+        "en": "Nioro",
+        "slug": "nioro-ml11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML11",
+        "level": 1,
+        "name": {
+          "local": "Nioro",
+          "en": "Nioro",
+          "slug": "nioro-ml11"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 0,
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.763",
+      "lon": "-9.964"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

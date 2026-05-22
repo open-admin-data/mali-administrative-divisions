@@ -1,0 +1,56 @@
+{
+  "id": "ML-A140102",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Goumbou",
+    "en": "Goumbou",
+    "slug": "goumbou-140102"
+  },
+  "code": {
+    "id": "ML-A140102",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1401",
+    "level": 2,
+    "name": {
+      "local": "Nara",
+      "en": "Nara",
+      "slug": "nara-ml1401"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML14",
+      "level": 1,
+      "name": {
+        "local": "Nara",
+        "en": "Nara",
+        "slug": "nara-ml14"
+      }
+    },
+    {
+      "id": "ML1401",
+      "level": 2,
+      "name": {
+        "local": "Nara",
+        "en": "Nara",
+        "slug": "nara-ml1401"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.169",
+    "lon": "-7.29"
+  },
+  "metadata": {},
+  "source": {}
+}

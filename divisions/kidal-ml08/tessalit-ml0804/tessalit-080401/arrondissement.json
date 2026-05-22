@@ -1,0 +1,56 @@
+{
+  "id": "ML-A080401",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Tessalit",
+    "en": "Tessalit",
+    "slug": "tessalit-080401"
+  },
+  "code": {
+    "id": "ML-A080401",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0804",
+    "level": 2,
+    "name": {
+      "local": "Tessalit",
+      "en": "Tessalit",
+      "slug": "tessalit-ml0804"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML08",
+      "level": 1,
+      "name": {
+        "local": "Kidal",
+        "en": "Kidal",
+        "slug": "kidal-ml08"
+      }
+    },
+    {
+      "id": "ML0804",
+      "level": 2,
+      "name": {
+        "local": "Tessalit",
+        "en": "Tessalit",
+        "slug": "tessalit-ml0804"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.271",
+    "lon": "0.697"
+  },
+  "metadata": {},
+  "source": {}
+}

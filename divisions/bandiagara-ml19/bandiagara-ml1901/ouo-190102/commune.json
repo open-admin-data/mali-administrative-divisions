@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C19010201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bara Sara",
+      "en": "Bara Sara",
+      "slug": "bara-sara-19010201"
+    },
+    "code": {
+      "id": "ML-C19010201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190102",
+      "level": 3,
+      "name": {
+        "local": "Ouo",
+        "en": "Ouo",
+        "slug": "ouo-190102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1901",
+        "level": 2,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml1901"
+        }
+      },
+      {
+        "id": "ML-A190102",
+        "level": 3,
+        "name": {
+          "local": "Ouo",
+          "en": "Ouo",
+          "slug": "ouo-190102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.35",
+      "lon": "-3.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C19010202",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Pignari",
+      "en": "Pignari",
+      "slug": "pignari-19010202"
+    },
+    "code": {
+      "id": "ML-C19010202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190102",
+      "level": 3,
+      "name": {
+        "local": "Ouo",
+        "en": "Ouo",
+        "slug": "ouo-190102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1901",
+        "level": 2,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml1901"
+        }
+      },
+      {
+        "id": "ML-A190102",
+        "level": 3,
+        "name": {
+          "local": "Ouo",
+          "en": "Ouo",
+          "slug": "ouo-190102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.35",
+      "lon": "-3.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C19010203",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Timniri",
+      "en": "Timniri",
+      "slug": "timniri-19010203"
+    },
+    "code": {
+      "id": "ML-C19010203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190102",
+      "level": 3,
+      "name": {
+        "local": "Ouo",
+        "en": "Ouo",
+        "slug": "ouo-190102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1901",
+        "level": 2,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml1901"
+        }
+      },
+      {
+        "id": "ML-A190102",
+        "level": 3,
+        "name": {
+          "local": "Ouo",
+          "en": "Ouo",
+          "slug": "ouo-190102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.35",
+      "lon": "-3.61"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

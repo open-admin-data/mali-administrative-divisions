@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C12050202",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Didenko",
+      "en": "Didenko",
+      "slug": "didenko-12050202"
+    },
+    "code": {
+      "id": "ML-C12050202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120502",
+      "level": 3,
+      "name": {
+        "local": "Kourouninkoto",
+        "en": "Kourouninkoto",
+        "slug": "kourouninkoto-120502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1205",
+        "level": 2,
+        "name": {
+          "local": "Séféto",
+          "en": "Sefeto",
+          "slug": "sefeto-ml1205"
+        }
+      },
+      {
+        "id": "ML-A120502",
+        "level": 3,
+        "name": {
+          "local": "Kourouninkoto",
+          "en": "Kourouninkoto",
+          "slug": "kourouninkoto-120502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.14",
+      "lon": "-9.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C12050203",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guémoukouraba",
+      "en": "Guémoukouraba",
+      "slug": "gumoukouraba-12050203"
+    },
+    "code": {
+      "id": "ML-C12050203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120502",
+      "level": 3,
+      "name": {
+        "local": "Kourouninkoto",
+        "en": "Kourouninkoto",
+        "slug": "kourouninkoto-120502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1205",
+        "level": 2,
+        "name": {
+          "local": "Séféto",
+          "en": "Sefeto",
+          "slug": "sefeto-ml1205"
+        }
+      },
+      {
+        "id": "ML-A120502",
+        "level": 3,
+        "name": {
+          "local": "Kourouninkoto",
+          "en": "Kourouninkoto",
+          "slug": "kourouninkoto-120502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.14",
+      "lon": "-9.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C12050201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kourouninkoto",
+      "en": "Kourouninkoto",
+      "slug": "kourouninkoto-12050201"
+    },
+    "code": {
+      "id": "ML-C12050201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120502",
+      "level": 3,
+      "name": {
+        "local": "Kourouninkoto",
+        "en": "Kourouninkoto",
+        "slug": "kourouninkoto-120502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1205",
+        "level": 2,
+        "name": {
+          "local": "Séféto",
+          "en": "Sefeto",
+          "slug": "sefeto-ml1205"
+        }
+      },
+      {
+        "id": "ML-A120502",
+        "level": 3,
+        "name": {
+          "local": "Kourouninkoto",
+          "en": "Kourouninkoto",
+          "slug": "kourouninkoto-120502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.14",
+      "lon": "-9.827"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

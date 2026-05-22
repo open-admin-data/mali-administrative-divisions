@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C01030201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kirané Kaniaga",
+      "en": "Kirané Kaniaga",
+      "slug": "kiran-kaniaga-01030201"
+    },
+    "code": {
+      "id": "ML-C01030201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010302",
+      "level": 3,
+      "name": {
+        "local": "Kirané",
+        "en": "Kirané",
+        "slug": "kiran-010302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0103",
+        "level": 2,
+        "name": {
+          "local": "Yélimané",
+          "en": "Yelimane",
+          "slug": "yelimane-ml0103"
+        }
+      },
+      {
+        "id": "ML-A010302",
+        "level": 3,
+        "name": {
+          "local": "Kirané",
+          "en": "Kirané",
+          "slug": "kiran-010302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.119",
+      "lon": "-10.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C01030202",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Krémis",
+      "en": "Krémis",
+      "slug": "krmis-01030202"
+    },
+    "code": {
+      "id": "ML-C01030202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010302",
+      "level": 3,
+      "name": {
+        "local": "Kirané",
+        "en": "Kirané",
+        "slug": "kiran-010302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0103",
+        "level": 2,
+        "name": {
+          "local": "Yélimané",
+          "en": "Yelimane",
+          "slug": "yelimane-ml0103"
+        }
+      },
+      {
+        "id": "ML-A010302",
+        "level": 3,
+        "name": {
+          "local": "Kirané",
+          "en": "Kirané",
+          "slug": "kiran-010302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.119",
+      "lon": "-10.577"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

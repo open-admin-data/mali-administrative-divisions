@@ -1,0 +1,48 @@
+{
+  "id": "ML1906",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Diallassagou",
+    "en": "Diallassagou",
+    "slug": "diallassagou-ml1906"
+  },
+  "code": {
+    "id": "ML1906",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML19",
+    "level": 1,
+    "name": {
+      "local": "Bandiagara",
+      "en": "Bandiagara",
+      "slug": "bandiagara-ml19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML19",
+      "level": 1,
+      "name": {
+        "local": "Bandiagara",
+        "en": "Bandiagara",
+        "slug": "bandiagara-ml19"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 2,
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.738",
+    "lon": "-3.626"
+  },
+  "metadata": {},
+  "source": {}
+}

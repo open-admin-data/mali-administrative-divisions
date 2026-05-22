@@ -1,0 +1,114 @@
+[
+  {
+    "id": "ML-A140301",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Dilly",
+      "en": "Dilly",
+      "slug": "dilly-140301"
+    },
+    "code": {
+      "id": "ML-A140301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1403",
+      "level": 2,
+      "name": {
+        "local": "Dilly",
+        "en": "Dilly",
+        "slug": "dilly-ml1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML14",
+        "level": 1,
+        "name": {
+          "local": "Nara",
+          "en": "Nara",
+          "slug": "nara-ml14"
+        }
+      },
+      {
+        "id": "ML1403",
+        "level": 2,
+        "name": {
+          "local": "Dilly",
+          "en": "Dilly",
+          "slug": "dilly-ml1403"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.999",
+      "lon": "-7.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A140302",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Koronga",
+      "en": "Koronga",
+      "slug": "koronga-140302"
+    },
+    "code": {
+      "id": "ML-A140302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1403",
+      "level": 2,
+      "name": {
+        "local": "Dilly",
+        "en": "Dilly",
+        "slug": "dilly-ml1403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML14",
+        "level": 1,
+        "name": {
+          "local": "Nara",
+          "en": "Nara",
+          "slug": "nara-ml14"
+        }
+      },
+      {
+        "id": "ML1403",
+        "level": 2,
+        "name": {
+          "local": "Dilly",
+          "en": "Dilly",
+          "slug": "dilly-ml1403"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.999",
+      "lon": "-7.669"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

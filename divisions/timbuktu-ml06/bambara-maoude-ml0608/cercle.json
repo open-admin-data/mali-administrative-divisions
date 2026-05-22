@@ -1,0 +1,48 @@
+{
+  "id": "ML0608",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Bambara-Maoudé",
+    "en": "Bambara-Maoude",
+    "slug": "bambara-maoude-ml0608"
+  },
+  "code": {
+    "id": "ML0608",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML06",
+    "level": 1,
+    "name": {
+      "local": "Tombouctou",
+      "en": "Timbuktu",
+      "slug": "timbuktu-ml06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML06",
+      "level": 1,
+      "name": {
+        "local": "Tombouctou",
+        "en": "Timbuktu",
+        "slug": "timbuktu-ml06"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 3,
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.851",
+    "lon": "-2.786"
+  },
+  "metadata": {},
+  "source": {}
+}

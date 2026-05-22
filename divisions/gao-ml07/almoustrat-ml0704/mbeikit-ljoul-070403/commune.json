@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C07040301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "M'Beikit Ljoul",
+      "en": "M'Beikit Ljoul",
+      "slug": "mbeikit-ljoul-07040301"
+    },
+    "code": {
+      "id": "ML-C07040301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A070403",
+      "level": 3,
+      "name": {
+        "local": "M'Beikit Ljoul",
+        "en": "M'Beikit Ljoul",
+        "slug": "mbeikit-ljoul-070403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      },
+      {
+        "id": "ML0704",
+        "level": 2,
+        "name": {
+          "local": "Almoustrat",
+          "en": "Almoustrat",
+          "slug": "almoustrat-ml0704"
+        }
+      },
+      {
+        "id": "ML-A070403",
+        "level": 3,
+        "name": {
+          "local": "M'Beikit Ljoul",
+          "en": "M'Beikit Ljoul",
+          "slug": "mbeikit-ljoul-070403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.358",
+      "lon": "0.15"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

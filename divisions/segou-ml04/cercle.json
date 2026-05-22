@@ -1,0 +1,530 @@
+[
+  {
+    "id": "ML0403",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Baraoueli",
+      "en": "Baraoueli",
+      "slug": "baraoueli-ml0403"
+    },
+    "code": {
+      "id": "ML0403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML04",
+      "level": 1,
+      "name": {
+        "local": "Segou",
+        "en": "Segou",
+        "slug": "segou-ml04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 0,
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.039",
+      "lon": "-6.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0402",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Bla",
+      "en": "Bla",
+      "slug": "bla-ml0402"
+    },
+    "code": {
+      "id": "ML0402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML04",
+      "level": 1,
+      "name": {
+        "local": "Segou",
+        "en": "Segou",
+        "slug": "segou-ml04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 5,
+      "commune": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.95",
+      "lon": "-5.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0406",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Dioro",
+      "en": "Dioro",
+      "slug": "dioro-ml0406"
+    },
+    "code": {
+      "id": "ML0406",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML04",
+      "level": 1,
+      "name": {
+        "local": "Segou",
+        "en": "Segou",
+        "slug": "segou-ml04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.689",
+      "lon": "-5.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0407",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Farako",
+      "en": "Farako",
+      "slug": "farako-ml0407"
+    },
+    "code": {
+      "id": "ML0407",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML04",
+      "level": 1,
+      "name": {
+        "local": "Segou",
+        "en": "Segou",
+        "slug": "segou-ml04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.943",
+      "lon": "-6.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0405",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Macina",
+      "en": "Macina",
+      "slug": "macina-ml0405"
+    },
+    "code": {
+      "id": "ML0405",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML04",
+      "level": 1,
+      "name": {
+        "local": "Segou",
+        "en": "Segou",
+        "slug": "segou-ml04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 4,
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.308",
+      "lon": "-11.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0410",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Markala",
+      "en": "Markala",
+      "slug": "markala-ml0410"
+    },
+    "code": {
+      "id": "ML0410",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML04",
+      "level": 1,
+      "name": {
+        "local": "Segou",
+        "en": "Segou",
+        "slug": "segou-ml04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.816",
+      "lon": "-5.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0408",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Nampala",
+      "en": "Nampala",
+      "slug": "nampala-ml0408"
+    },
+    "code": {
+      "id": "ML0408",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML04",
+      "level": 1,
+      "name": {
+        "local": "Segou",
+        "en": "Segou",
+        "slug": "segou-ml04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 4,
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.281",
+      "lon": "-5.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0404",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Niono",
+      "en": "Niono",
+      "slug": "niono-ml0404"
+    },
+    "code": {
+      "id": "ML0404",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML04",
+      "level": 1,
+      "name": {
+        "local": "Segou",
+        "en": "Segou",
+        "slug": "segou-ml04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.251",
+      "lon": "-5.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0411",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Sarro",
+      "en": "Sarro",
+      "slug": "sarro-ml0411"
+    },
+    "code": {
+      "id": "ML0411",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML04",
+      "level": 1,
+      "name": {
+        "local": "Segou",
+        "en": "Segou",
+        "slug": "segou-ml04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.721",
+      "lon": "-5.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0401",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Segou",
+      "en": "Segou",
+      "slug": "segou-ml0401"
+    },
+    "code": {
+      "id": "ML0401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML04",
+      "level": 1,
+      "name": {
+        "local": "Segou",
+        "en": "Segou",
+        "slug": "segou-ml04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 0,
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.44",
+      "lon": "-6.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0409",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Sokolo",
+      "en": "Sokolo",
+      "slug": "sokolo-ml0409"
+    },
+    "code": {
+      "id": "ML0409",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML04",
+      "level": 1,
+      "name": {
+        "local": "Segou",
+        "en": "Segou",
+        "slug": "segou-ml04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.733",
+      "lon": "-6.122"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

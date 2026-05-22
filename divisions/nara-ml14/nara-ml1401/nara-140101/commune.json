@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C14010102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guéneibé",
+      "en": "Guéneibé",
+      "slug": "guneib-14010102"
+    },
+    "code": {
+      "id": "ML-C14010102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A140101",
+      "level": 3,
+      "name": {
+        "local": "Nara",
+        "en": "Nara",
+        "slug": "nara-140101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML14",
+        "level": 1,
+        "name": {
+          "local": "Nara",
+          "en": "Nara",
+          "slug": "nara-ml14"
+        }
+      },
+      {
+        "id": "ML1401",
+        "level": 2,
+        "name": {
+          "local": "Nara",
+          "en": "Nara",
+          "slug": "nara-ml1401"
+        }
+      },
+      {
+        "id": "ML-A140101",
+        "level": 3,
+        "name": {
+          "local": "Nara",
+          "en": "Nara",
+          "slug": "nara-140101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.169",
+      "lon": "-7.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C14010101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nara",
+      "en": "Nara",
+      "slug": "nara-14010101"
+    },
+    "code": {
+      "id": "ML-C14010101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A140101",
+      "level": 3,
+      "name": {
+        "local": "Nara",
+        "en": "Nara",
+        "slug": "nara-140101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML14",
+        "level": 1,
+        "name": {
+          "local": "Nara",
+          "en": "Nara",
+          "slug": "nara-ml14"
+        }
+      },
+      {
+        "id": "ML1401",
+        "level": 2,
+        "name": {
+          "local": "Nara",
+          "en": "Nara",
+          "slug": "nara-ml1401"
+        }
+      },
+      {
+        "id": "ML-A140101",
+        "level": 3,
+        "name": {
+          "local": "Nara",
+          "en": "Nara",
+          "slug": "nara-140101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.169",
+      "lon": "-7.29"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

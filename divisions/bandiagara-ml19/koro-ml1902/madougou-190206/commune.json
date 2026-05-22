@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C19020602",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Barapiréli",
+      "en": "Barapiréli",
+      "slug": "barapirli-19020602"
+    },
+    "code": {
+      "id": "ML-C19020602",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190206",
+      "level": 3,
+      "name": {
+        "local": "Madougou",
+        "en": "Madougou",
+        "slug": "madougou-190206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1902",
+        "level": 2,
+        "name": {
+          "local": "Koro",
+          "en": "Koro",
+          "slug": "koro-ml1902"
+        }
+      },
+      {
+        "id": "ML-A190206",
+        "level": 3,
+        "name": {
+          "local": "Madougou",
+          "en": "Madougou",
+          "slug": "madougou-190206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.627",
+      "lon": "-7.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C19020601",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Madougou",
+      "en": "Madougou",
+      "slug": "madougou-19020601"
+    },
+    "code": {
+      "id": "ML-C19020601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190206",
+      "level": 3,
+      "name": {
+        "local": "Madougou",
+        "en": "Madougou",
+        "slug": "madougou-190206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1902",
+        "level": 2,
+        "name": {
+          "local": "Koro",
+          "en": "Koro",
+          "slug": "koro-ml1902"
+        }
+      },
+      {
+        "id": "ML-A190206",
+        "level": 3,
+        "name": {
+          "local": "Madougou",
+          "en": "Madougou",
+          "slug": "madougou-190206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.627",
+      "lon": "-7.984"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

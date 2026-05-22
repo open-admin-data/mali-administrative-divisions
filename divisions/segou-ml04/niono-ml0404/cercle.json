@@ -1,0 +1,48 @@
+{
+  "id": "ML0404",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Niono",
+    "en": "Niono",
+    "slug": "niono-ml0404"
+  },
+  "code": {
+    "id": "ML0404",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML04",
+    "level": 1,
+    "name": {
+      "local": "Segou",
+      "en": "Segou",
+      "slug": "segou-ml04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML04",
+      "level": 1,
+      "name": {
+        "local": "Segou",
+        "en": "Segou",
+        "slug": "segou-ml04"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 2,
+    "commune": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.251",
+    "lon": "-5.987"
+  },
+  "metadata": {},
+  "source": {}
+}

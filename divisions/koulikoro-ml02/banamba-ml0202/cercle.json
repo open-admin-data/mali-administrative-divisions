@@ -1,0 +1,48 @@
+{
+  "id": "ML0202",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Banamba",
+    "en": "Banamba",
+    "slug": "banamba-ml0202"
+  },
+  "code": {
+    "id": "ML0202",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML02",
+    "level": 1,
+    "name": {
+      "local": "Koulikoro",
+      "en": "Koulikoro",
+      "slug": "koulikoro-ml02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML02",
+      "level": 1,
+      "name": {
+        "local": "Koulikoro",
+        "en": "Koulikoro",
+        "slug": "koulikoro-ml02"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 6,
+    "commune": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.548",
+    "lon": "-7.448"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ML1702",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Tominian",
+    "en": "Tominian",
+    "slug": "tominian-ml1702"
+  },
+  "code": {
+    "id": "ML1702",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML17",
+    "level": 1,
+    "name": {
+      "local": "San",
+      "en": "San",
+      "slug": "san-ml17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML17",
+      "level": 1,
+      "name": {
+        "local": "San",
+        "en": "San",
+        "slug": "san-ml17"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 3,
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.287",
+    "lon": "-4.593"
+  },
+  "metadata": {},
+  "source": {}
+}

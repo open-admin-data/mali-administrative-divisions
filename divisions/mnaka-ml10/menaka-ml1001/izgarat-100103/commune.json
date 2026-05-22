@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C10010301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Izgarat",
+      "en": "Izgarat",
+      "slug": "izgarat-10010301"
+    },
+    "code": {
+      "id": "ML-C10010301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A100103",
+      "level": 3,
+      "name": {
+        "local": "Izgarat",
+        "en": "Izgarat",
+        "slug": "izgarat-100103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML10",
+        "level": 1,
+        "name": {
+          "local": "Ménaka",
+          "en": "Ménaka",
+          "slug": "mnaka-ml10"
+        }
+      },
+      {
+        "id": "ML1001",
+        "level": 2,
+        "name": {
+          "local": "Ménaka",
+          "en": "Menaka",
+          "slug": "menaka-ml1001"
+        }
+      },
+      {
+        "id": "ML-A100103",
+        "level": 3,
+        "name": {
+          "local": "Izgarat",
+          "en": "Izgarat",
+          "slug": "izgarat-100103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.92",
+      "lon": "2.396"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

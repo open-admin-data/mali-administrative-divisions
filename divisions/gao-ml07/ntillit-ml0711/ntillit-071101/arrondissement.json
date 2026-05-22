@@ -1,0 +1,56 @@
+{
+  "id": "ML-A071101",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "N'Tillit",
+    "en": "N'Tillit",
+    "slug": "ntillit-071101"
+  },
+  "code": {
+    "id": "ML-A071101",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0711",
+    "level": 2,
+    "name": {
+      "local": "N'tillit",
+      "en": "Ntillit",
+      "slug": "ntillit-ml0711"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML07",
+      "level": 1,
+      "name": {
+        "local": "Gao",
+        "en": "Gao",
+        "slug": "gao-ml07"
+      }
+    },
+    {
+      "id": "ML0711",
+      "level": 2,
+      "name": {
+        "local": "N'tillit",
+        "en": "Ntillit",
+        "slug": "ntillit-ml0711"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.272",
+    "lon": "-0.045"
+  },
+  "metadata": {},
+  "source": {}
+}

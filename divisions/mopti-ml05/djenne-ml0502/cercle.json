@@ -1,0 +1,48 @@
+{
+  "id": "ML0502",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Djenné",
+    "en": "Djenne",
+    "slug": "djenne-ml0502"
+  },
+  "code": {
+    "id": "ML0502",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML05",
+    "level": 1,
+    "name": {
+      "local": "Mopti",
+      "en": "Mopti",
+      "slug": "mopti-ml05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML05",
+      "level": 1,
+      "name": {
+        "local": "Mopti",
+        "en": "Mopti",
+        "slug": "mopti-ml05"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 5,
+    "commune": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.906",
+    "lon": "-4.553"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C13030201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dolendougou",
+      "en": "Dolendougou",
+      "slug": "dolendougou-13030201"
+    },
+    "code": {
+      "id": "ML-C13030201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A130302",
+      "level": 3,
+      "name": {
+        "local": "Dandougou",
+        "en": "Dandougou",
+        "slug": "dandougou-130302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML13",
+        "level": 1,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioïla",
+          "slug": "diola-ml13"
+        }
+      },
+      {
+        "id": "ML1303",
+        "level": 2,
+        "name": {
+          "local": "Béléko",
+          "en": "Beleko",
+          "slug": "beleko-ml1303"
+        }
+      },
+      {
+        "id": "ML-A130302",
+        "level": 3,
+        "name": {
+          "local": "Dandougou",
+          "en": "Dandougou",
+          "slug": "dandougou-130302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.586",
+      "lon": "-7.631"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

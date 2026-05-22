@@ -1,0 +1,301 @@
+# Timbuktu — Mali Administrative Divisions
+
+> 13 circles, 30 arrondissements, 47 communes
+> Code: ML06
+> Coordinates: 16.773, -3.007
+> Last updated: 2026-05-22. License: CC-BY-4.0.
+
+## Circles
+
+### Bambara-Maoudé (Bambara-Maoude)
+
+Code: ML0608, Coordinates: 15.851, -2.786
+Arrondissements: 3, Communes: 3
+
+#### Bambara-Maoudé
+
+Code: ML-A060801, Coordinates: 15.851, -2.786
+
+Communes:
+- Bambara-Maoudé [ML-C06080101]
+
+#### Haribomo
+
+Code: ML-A060803, Coordinates: 15.851, -2.786
+
+Communes:
+- Haribomo [ML-C06080301]
+
+#### Inadiatafane
+
+Code: ML-A060802, Coordinates: 15.851, -2.786
+
+Communes:
+- Inadiatafane [ML-C06080201]
+
+### Ber
+
+Code: ML0612, Coordinates: 16.835, -2.532
+Arrondissements: 2, Communes: 2
+
+#### Ber
+
+Code: ML-A061201, Coordinates: 16.835, -2.532
+
+Communes:
+- Ber [ML-C06120101]
+
+#### Zarho
+
+Code: ML-A061202, Coordinates: 16.835, -2.532
+
+Communes:
+- Zarho [ML-C06120201]
+
+### Bintagoungou
+
+Code: ML0606, Coordinates: 16.735, -3.735
+Arrondissements: 2, Communes: 4
+
+#### Bintagoungou
+
+Code: ML-A060601, Coordinates: 16.735, -3.735
+
+Communes:
+- Bintagoungou [ML-C06060101]
+- Issa Bery [ML-C06060102]
+
+#### M&#39;Bouna
+
+Code: ML-A060602, Coordinates: 16.735, -3.735
+
+Communes:
+- Adarmalane [ML-C06060201]
+- M&#39;Bouna [ML-C06060202]
+
+### Diré (Dire)
+
+Code: ML0603, Coordinates: 16.257, -3.401
+Arrondissements: 4, Communes: 13
+
+#### Dangha
+
+Code: ML-A060304, Coordinates: 16.257, -3.401
+
+Communes:
+- Dangha [ML-C06030204]
+- Garbakoira [ML-C06030205]
+
+#### Diré
+
+Code: ML-A060301, Coordinates: 16.257, -3.401
+
+Communes:
+- Arham [ML-C06030101]
+- Bourem Sidi Amar [ML-C06030102]
+- Diré [ML-C06030103]
+- Kirchamba [ML-C06030104]
+- Kondi [ML-C06030105]
+- Tienkour [ML-C06030106]
+- Tindirma [ML-C06030107]
+- Tinguereguif Gari [ML-C06030108]
+
+#### Haibongo
+
+Code: ML-A060303, Coordinates: 16.257, -3.401
+
+Communes:
+- Haibongo [ML-C06030203]
+
+#### Saréyamou
+
+Code: ML-A060302, Coordinates: 16.257, -3.401
+
+Communes:
+- Binga [ML-C06030201]
+- Saréyamou [ML-C06030202]
+
+### Gargando
+
+Code: ML0613, Coordinates: 16.463, -4.173
+Arrondissements: 3, Communes: 4
+
+#### Gargando
+
+Code: ML-A061301, Coordinates: 16.463, -4.173
+
+Communes:
+- Gargando [ML-C06130101]
+
+#### Raz-Elma
+
+Code: ML-A061302, Coordinates: 16.463, -4.173
+
+Communes:
+- Raz-El-Ma [ML-C06130201]
+
+#### Tilemsi
+
+Code: ML-A061303, Coordinates: 16.463, -4.173
+
+Communes:
+- Alzounoub [ML-C06130301]
+- Tilemsi [ML-C06130302]
+
+### Gossi
+
+Code: ML0610, Coordinates: 15.82, -1.291
+Arrondissements: 2, Communes: 2
+
+#### Gossi
+
+Code: ML-A061001, Coordinates: 15.82, -1.291
+
+Communes:
+- Gossi [ML-C06100101]
+
+#### Ouinerden
+
+Code: ML-A061002, Coordinates: 15.82, -1.291
+
+Communes:
+- Ouinerden [ML-C06100201]
+
+### Goundam
+
+Code: ML0602, Coordinates: 16.415, -3.671
+Arrondissements: 3, Communes: 7
+
+#### Douékiré
+
+Code: ML-A060202, Coordinates: 16.415, -3.671
+
+Communes:
+- Douékiré [ML-C06020201]
+
+#### Farach
+
+Code: ML-A060203, Coordinates: 16.415, -3.671
+
+Communes:
+- Essakane [ML-C06020301]
+- Tin Aicha [ML-C06020302]
+
+#### Goundam
+
+Code: ML-A060201, Coordinates: 16.415, -3.671
+
+Communes:
+- Doukouria [ML-C06020101]
+- Goundam [ML-C06020102]
+- Kaneye [ML-C06020103]
+- Télé [ML-C06020104]
+
+### Léré (Lere)
+
+Code: ML0609, Coordinates: 15.712, -4.912
+Arrondissements: 2, Communes: 2
+
+#### Dianké
+
+Code: ML-A060902, Coordinates: 15.712, -4.912
+
+Communes:
+- Dianké [ML-C06090201]
+
+#### Léré
+
+Code: ML-A060901, Coordinates: 15.712, -4.912
+
+Communes:
+- Léré [ML-C06090101]
+
+### Rharous
+
+Code: ML0605, Coordinates: 16.883, -1.923
+Arrondissements: 0, Communes: 0
+
+### Saraféré (Sarafere)
+
+Code: ML0607, Coordinates: 15.824, -3.694
+Arrondissements: 4, Communes: 4
+
+#### Banikane
+
+Code: ML-A060702, Coordinates: 15.824, -3.694
+
+Communes:
+- Banikane Narhawa [ML-C06070201]
+
+#### Koumaïra
+
+Code: ML-A060703, Coordinates: 15.824, -3.694
+
+Communes:
+- Koumaïra [ML-C06070301]
+
+#### N&#39;Gorkou
+
+Code: ML-A060704, Coordinates: 15.824, -3.694
+
+Communes:
+- N&#39;Gorkou [ML-C06070401]
+
+#### Saraféré
+
+Code: ML-A060701, Coordinates: 15.824, -3.694
+
+Communes:
+- Fittouga [ML-C06070101]
+
+### Soumpi
+
+Code: ML0604, Coordinates: 15.844, -4.325
+Arrondissements: 0, Communes: 0
+
+### Tombouctou (Timbuktu)
+
+Code: ML0601, Coordinates: 16.773, -3.007
+Arrondissements: 3, Communes: 4
+
+#### Aglal
+
+Code: ML-A060102, Coordinates: 16.773, -3.007
+
+Communes:
+- Lafia [ML-C06010201]
+
+#### Bourem Inaly
+
+Code: ML-A060103, Coordinates: 16.773, -3.007
+
+Communes:
+- Bourem Inaly [ML-C06010301]
+
+#### Tombouctou
+
+Code: ML-A060101, Coordinates: 16.773, -3.007
+
+Communes:
+- Alafia [ML-C06010101]
+- Tombouctou [ML-C06010102]
+
+### Tonka
+
+Code: ML0611, Coordinates: 16.129, -3.748
+Arrondissements: 2, Communes: 2
+
+#### Mékoreye
+
+Code: ML-A061102, Coordinates: 16.129, -3.748
+
+Communes:
+- Mékoreye [ML-C06110201]
+
+#### Tonka
+
+Code: ML-A061101, Coordinates: 16.129, -3.748
+
+Communes:
+- Tonka [ML-C06110101]
+

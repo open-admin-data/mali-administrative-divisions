@@ -1,0 +1,56 @@
+{
+  "id": "ML-A080201",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Abeïbara",
+    "en": "Abeïbara",
+    "slug": "abebara-080201"
+  },
+  "code": {
+    "id": "ML-A080201",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0802",
+    "level": 2,
+    "name": {
+      "local": "AbeÏbara",
+      "en": "Abelbara",
+      "slug": "abelbara-ml0802"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML08",
+      "level": 1,
+      "name": {
+        "local": "Kidal",
+        "en": "Kidal",
+        "slug": "kidal-ml08"
+      }
+    },
+    {
+      "id": "ML0802",
+      "level": 2,
+      "name": {
+        "local": "AbeÏbara",
+        "en": "Abelbara",
+        "slug": "abelbara-ml0802"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.29",
+    "lon": "1.83"
+  },
+  "metadata": {},
+  "source": {}
+}

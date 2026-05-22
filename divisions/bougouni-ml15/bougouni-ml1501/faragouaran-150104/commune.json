@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C15010401",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Danou",
+      "en": "Danou",
+      "slug": "danou-15010401"
+    },
+    "code": {
+      "id": "ML-C15010401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150104",
+      "level": 3,
+      "name": {
+        "local": "Faragouaran",
+        "en": "Faragouaran",
+        "slug": "faragouaran-150104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1501",
+        "level": 2,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml1501"
+        }
+      },
+      {
+        "id": "ML-A150104",
+        "level": 3,
+        "name": {
+          "local": "Faragouaran",
+          "en": "Faragouaran",
+          "slug": "faragouaran-150104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.741",
+      "lon": "-2.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C15010402",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Faragouaran",
+      "en": "Faragouaran",
+      "slug": "faragouaran-15010402"
+    },
+    "code": {
+      "id": "ML-C15010402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150104",
+      "level": 3,
+      "name": {
+        "local": "Faragouaran",
+        "en": "Faragouaran",
+        "slug": "faragouaran-150104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1501",
+        "level": 2,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml1501"
+        }
+      },
+      {
+        "id": "ML-A150104",
+        "level": 3,
+        "name": {
+          "local": "Faragouaran",
+          "en": "Faragouaran",
+          "slug": "faragouaran-150104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.741",
+      "lon": "-2.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C15010403",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kouroulamini",
+      "en": "Kouroulamini",
+      "slug": "kouroulamini-15010403"
+    },
+    "code": {
+      "id": "ML-C15010403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150104",
+      "level": 3,
+      "name": {
+        "local": "Faragouaran",
+        "en": "Faragouaran",
+        "slug": "faragouaran-150104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1501",
+        "level": 2,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml1501"
+        }
+      },
+      {
+        "id": "ML-A150104",
+        "level": 3,
+        "name": {
+          "local": "Faragouaran",
+          "en": "Faragouaran",
+          "slug": "faragouaran-150104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.741",
+      "lon": "-2.507"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

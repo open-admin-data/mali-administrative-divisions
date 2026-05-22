@@ -1,0 +1,48 @@
+{
+  "id": "ML1303",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Béléko",
+    "en": "Beleko",
+    "slug": "beleko-ml1303"
+  },
+  "code": {
+    "id": "ML1303",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML13",
+    "level": 1,
+    "name": {
+      "local": "Dioïla",
+      "en": "Dioïla",
+      "slug": "diola-ml13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML13",
+      "level": 1,
+      "name": {
+        "local": "Dioïla",
+        "en": "Dioïla",
+        "slug": "diola-ml13"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 2,
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.586",
+    "lon": "-7.631"
+  },
+  "metadata": {},
+  "source": {}
+}

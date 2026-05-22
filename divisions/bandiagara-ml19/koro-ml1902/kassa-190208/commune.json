@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C19020801",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kassa",
+      "en": "Kassa",
+      "slug": "kassa-19020801"
+    },
+    "code": {
+      "id": "ML-C19020801",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190208",
+      "level": 3,
+      "name": {
+        "local": "Kassa",
+        "en": "Kassa",
+        "slug": "kassa-190208"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1902",
+        "level": 2,
+        "name": {
+          "local": "Koro",
+          "en": "Koro",
+          "slug": "koro-ml1902"
+        }
+      },
+      {
+        "id": "ML-A190208",
+        "level": 3,
+        "name": {
+          "local": "Kassa",
+          "en": "Kassa",
+          "slug": "kassa-190208"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.627",
+      "lon": "-7.984"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

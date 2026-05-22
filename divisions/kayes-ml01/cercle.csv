@@ -1,0 +1,11 @@
+id,name.local,name.en,name.slug,code.id,children_count.arrondissement,children_count.commune,geo.lat,geo.lon
+ML0105,Ambidédi,Ambididi,ambididi-ml0105,ML0105,2,6,14.586,-11.791
+ML0106,Aourou,Aourou,aourou-ml0106,ML0106,3,4,14.968,-11.587
+ML0102,Bafoulabé,Bafoulebe,bafoulebe-ml0102,ML0102,5,8,13.808,-10.833
+ML0107,Diamou,Diamou,diamou-ml0107,ML0107,2,2,12.079,-7.236
+ML0101,Kayes,Kayes,kayes-ml0101,ML0101,4,11,14.448,-11.444
+ML0104,Kéniéba,Kenieba,kenieba-ml0104,ML0104,5,11,12.044,-8.635
+ML0108,Oussoubidiagna,Oussoubidiagna,oussoubidiagna-ml0108,ML0108,5,5,14.245,-10.462
+ML0110,Sadiola,Sadiola,sadiola-ml0110,ML0110,2,2,13.891,-11.706
+ML0109,Ségala,Segala,segala-ml0109,ML0109,2,5,12.529,-5.732
+ML0103,Yélimané,Yelimane,yelimane-ml0103,ML0103,3,11,15.119,-10.577

@@ -1,0 +1,48 @@
+{
+  "id": "ML1608",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Zangasso",
+    "en": "Zangasso",
+    "slug": "zangasso-ml1608"
+  },
+  "code": {
+    "id": "ML1608",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML16",
+    "level": 1,
+    "name": {
+      "local": "Koutiala",
+      "en": "Koutiala",
+      "slug": "koutiala-ml16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML16",
+      "level": 1,
+      "name": {
+        "local": "Koutiala",
+        "en": "Koutiala",
+        "slug": "koutiala-ml16"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 2,
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.58",
+    "lon": "-6.027"
+  },
+  "metadata": {},
+  "source": {}
+}

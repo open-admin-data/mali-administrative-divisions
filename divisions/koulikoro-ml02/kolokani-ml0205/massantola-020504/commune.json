@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C02050401",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Massantola",
+      "en": "Massantola",
+      "slug": "massantola-02050401"
+    },
+    "code": {
+      "id": "ML-C02050401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020504",
+      "level": 3,
+      "name": {
+        "local": "Massantola",
+        "en": "Massantola",
+        "slug": "massantola-020504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0205",
+        "level": 2,
+        "name": {
+          "local": "Kolokani",
+          "en": "Kolokani",
+          "slug": "kolokani-ml0205"
+        }
+      },
+      {
+        "id": "ML-A020504",
+        "level": 3,
+        "name": {
+          "local": "Massantola",
+          "en": "Massantola",
+          "slug": "massantola-020504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.573",
+      "lon": "-8.034"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

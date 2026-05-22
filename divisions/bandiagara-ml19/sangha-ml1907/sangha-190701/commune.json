@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C19070101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sangha",
+      "en": "Sangha",
+      "slug": "sangha-19070101"
+    },
+    "code": {
+      "id": "ML-C19070101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190701",
+      "level": 3,
+      "name": {
+        "local": "Sangha",
+        "en": "Sangha",
+        "slug": "sangha-190701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1907",
+        "level": 2,
+        "name": {
+          "local": "Sangha",
+          "en": "Sangha",
+          "slug": "sangha-ml1907"
+        }
+      },
+      {
+        "id": "ML-A190701",
+        "level": 3,
+        "name": {
+          "local": "Sangha",
+          "en": "Sangha",
+          "slug": "sangha-190701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.468",
+      "lon": "-3.306"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

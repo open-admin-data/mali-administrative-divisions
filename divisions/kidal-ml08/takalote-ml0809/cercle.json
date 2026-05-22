@@ -1,0 +1,48 @@
+{
+  "id": "ML0809",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Takalote",
+    "en": "Takalote",
+    "slug": "takalote-ml0809"
+  },
+  "code": {
+    "id": "ML0809",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML08",
+    "level": 1,
+    "name": {
+      "local": "Kidal",
+      "en": "Kidal",
+      "slug": "kidal-ml08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML08",
+      "level": 1,
+      "name": {
+        "local": "Kidal",
+        "en": "Kidal",
+        "slug": "kidal-ml08"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 4,
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.461",
+    "lon": "1.385"
+  },
+  "metadata": {},
+  "source": {}
+}

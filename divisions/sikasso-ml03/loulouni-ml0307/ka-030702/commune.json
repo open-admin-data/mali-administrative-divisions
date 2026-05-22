@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C03070201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kaï",
+      "en": "Kaï",
+      "slug": "ka-03070201"
+    },
+    "code": {
+      "id": "ML-C03070201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030702",
+      "level": 3,
+      "name": {
+        "local": "Kaï",
+        "en": "Kaï",
+        "slug": "ka-030702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0307",
+        "level": 2,
+        "name": {
+          "local": "Loulouni",
+          "en": "Loulouni",
+          "slug": "loulouni-ml0307"
+        }
+      },
+      {
+        "id": "ML-A030702",
+        "level": 3,
+        "name": {
+          "local": "Kaï",
+          "en": "Kaï",
+          "slug": "ka-030702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.9",
+      "lon": "-5.6"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

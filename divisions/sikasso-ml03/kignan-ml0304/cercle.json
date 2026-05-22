@@ -1,0 +1,48 @@
+{
+  "id": "ML0304",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Kignan",
+    "en": "Kignan",
+    "slug": "kignan-ml0304"
+  },
+  "code": {
+    "id": "ML0304",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML03",
+    "level": 1,
+    "name": {
+      "local": "Sikasso",
+      "en": "Sikasso",
+      "slug": "sikasso-ml03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML03",
+      "level": 1,
+      "name": {
+        "local": "Sikasso",
+        "en": "Sikasso",
+        "slug": "sikasso-ml03"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 3,
+    "commune": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.852",
+    "lon": "-6.014"
+  },
+  "metadata": {},
+  "source": {}
+}

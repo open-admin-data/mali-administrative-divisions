@@ -1,0 +1,48 @@
+{
+  "id": "ML1701",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "San",
+    "en": "San",
+    "slug": "san-ml1701"
+  },
+  "code": {
+    "id": "ML1701",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML17",
+    "level": 1,
+    "name": {
+      "local": "San",
+      "en": "San",
+      "slug": "san-ml17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML17",
+      "level": 1,
+      "name": {
+        "local": "San",
+        "en": "San",
+        "slug": "san-ml17"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 2,
+    "commune": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.297",
+    "lon": "-4.896"
+  },
+  "metadata": {},
+  "source": {}
+}

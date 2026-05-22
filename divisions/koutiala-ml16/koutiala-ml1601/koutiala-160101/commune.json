@@ -1,0 +1,632 @@
+[
+  {
+    "id": "ML-C16010101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Koutiala",
+      "en": "Koutiala",
+      "slug": "koutiala-16010101"
+    },
+    "code": {
+      "id": "ML-C16010101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160101",
+      "level": 3,
+      "name": {
+        "local": "Koutiala",
+        "en": "Koutiala",
+        "slug": "koutiala-160101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1601",
+        "level": 2,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml1601"
+        }
+      },
+      {
+        "id": "ML-A160101",
+        "level": 3,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-160101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.026",
+      "lon": "-5.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C16010102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Logouana",
+      "en": "Logouana",
+      "slug": "logouana-16010102"
+    },
+    "code": {
+      "id": "ML-C16010102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160101",
+      "level": 3,
+      "name": {
+        "local": "Koutiala",
+        "en": "Koutiala",
+        "slug": "koutiala-160101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1601",
+        "level": 2,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml1601"
+        }
+      },
+      {
+        "id": "ML-A160101",
+        "level": 3,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-160101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.026",
+      "lon": "-5.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C16010105",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "N'Golonianasso",
+      "en": "N'Golonianasso",
+      "slug": "ngolonianasso-16010105"
+    },
+    "code": {
+      "id": "ML-C16010105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160101",
+      "level": 3,
+      "name": {
+        "local": "Koutiala",
+        "en": "Koutiala",
+        "slug": "koutiala-160101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1601",
+        "level": 2,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml1601"
+        }
+      },
+      {
+        "id": "ML-A160101",
+        "level": 3,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-160101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.026",
+      "lon": "-5.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C16010106",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "N'Goutjina",
+      "en": "N'Goutjina",
+      "slug": "ngoutjina-16010106"
+    },
+    "code": {
+      "id": "ML-C16010106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160101",
+      "level": 3,
+      "name": {
+        "local": "Koutiala",
+        "en": "Koutiala",
+        "slug": "koutiala-160101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1601",
+        "level": 2,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml1601"
+        }
+      },
+      {
+        "id": "ML-A160101",
+        "level": 3,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-160101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.026",
+      "lon": "-5.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C16010103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nafanga",
+      "en": "Nafanga",
+      "slug": "nafanga-16010103"
+    },
+    "code": {
+      "id": "ML-C16010103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160101",
+      "level": 3,
+      "name": {
+        "local": "Koutiala",
+        "en": "Koutiala",
+        "slug": "koutiala-160101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1601",
+        "level": 2,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml1601"
+        }
+      },
+      {
+        "id": "ML-A160101",
+        "level": 3,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-160101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.026",
+      "lon": "-5.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C16010104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nampé",
+      "en": "Nampé",
+      "slug": "namp-16010104"
+    },
+    "code": {
+      "id": "ML-C16010104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160101",
+      "level": 3,
+      "name": {
+        "local": "Koutiala",
+        "en": "Koutiala",
+        "slug": "koutiala-160101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1601",
+        "level": 2,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml1601"
+        }
+      },
+      {
+        "id": "ML-A160101",
+        "level": 3,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-160101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.026",
+      "lon": "-5.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C16010107",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sincina",
+      "en": "Sincina",
+      "slug": "sincina-16010107"
+    },
+    "code": {
+      "id": "ML-C16010107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160101",
+      "level": 3,
+      "name": {
+        "local": "Koutiala",
+        "en": "Koutiala",
+        "slug": "koutiala-160101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1601",
+        "level": 2,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml1601"
+        }
+      },
+      {
+        "id": "ML-A160101",
+        "level": 3,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-160101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.026",
+      "lon": "-5.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C16010108",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Songo-Doubacoré",
+      "en": "Songo-Doubacoré",
+      "slug": "songo-doubacor-16010108"
+    },
+    "code": {
+      "id": "ML-C16010108",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160101",
+      "level": 3,
+      "name": {
+        "local": "Koutiala",
+        "en": "Koutiala",
+        "slug": "koutiala-160101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1601",
+        "level": 2,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml1601"
+        }
+      },
+      {
+        "id": "ML-A160101",
+        "level": 3,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-160101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.026",
+      "lon": "-5.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C16010109",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Songoua",
+      "en": "Songoua",
+      "slug": "songoua-16010109"
+    },
+    "code": {
+      "id": "ML-C16010109",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160101",
+      "level": 3,
+      "name": {
+        "local": "Koutiala",
+        "en": "Koutiala",
+        "slug": "koutiala-160101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1601",
+        "level": 2,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml1601"
+        }
+      },
+      {
+        "id": "ML-A160101",
+        "level": 3,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-160101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.026",
+      "lon": "-5.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C16010110",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Yognogo",
+      "en": "Yognogo",
+      "slug": "yognogo-16010110"
+    },
+    "code": {
+      "id": "ML-C16010110",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160101",
+      "level": 3,
+      "name": {
+        "local": "Koutiala",
+        "en": "Koutiala",
+        "slug": "koutiala-160101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1601",
+        "level": 2,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml1601"
+        }
+      },
+      {
+        "id": "ML-A160101",
+        "level": 3,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-160101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.026",
+      "lon": "-5.523"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

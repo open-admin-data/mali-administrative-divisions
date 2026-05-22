@@ -1,0 +1,254 @@
+[
+  {
+    "id": "ML-C01040102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dabia",
+      "en": "Dabia",
+      "slug": "dabia-01040102"
+    },
+    "code": {
+      "id": "ML-C01040102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010401",
+      "level": 3,
+      "name": {
+        "local": "Kéniéba",
+        "en": "Kéniéba",
+        "slug": "kniba-010401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0104",
+        "level": 2,
+        "name": {
+          "local": "Kéniéba",
+          "en": "Kenieba",
+          "slug": "kenieba-ml0104"
+        }
+      },
+      {
+        "id": "ML-A010401",
+        "level": 3,
+        "name": {
+          "local": "Kéniéba",
+          "en": "Kéniéba",
+          "slug": "kniba-010401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.044",
+      "lon": "-8.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C01040103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guénégoré",
+      "en": "Guénégoré",
+      "slug": "gungor-01040103"
+    },
+    "code": {
+      "id": "ML-C01040103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010401",
+      "level": 3,
+      "name": {
+        "local": "Kéniéba",
+        "en": "Kéniéba",
+        "slug": "kniba-010401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0104",
+        "level": 2,
+        "name": {
+          "local": "Kéniéba",
+          "en": "Kenieba",
+          "slug": "kenieba-ml0104"
+        }
+      },
+      {
+        "id": "ML-A010401",
+        "level": 3,
+        "name": {
+          "local": "Kéniéba",
+          "en": "Kéniéba",
+          "slug": "kniba-010401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.044",
+      "lon": "-8.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C01040101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kéniéba",
+      "en": "Kéniéba",
+      "slug": "kniba-01040101"
+    },
+    "code": {
+      "id": "ML-C01040101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010401",
+      "level": 3,
+      "name": {
+        "local": "Kéniéba",
+        "en": "Kéniéba",
+        "slug": "kniba-010401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0104",
+        "level": 2,
+        "name": {
+          "local": "Kéniéba",
+          "en": "Kenieba",
+          "slug": "kenieba-ml0104"
+        }
+      },
+      {
+        "id": "ML-A010401",
+        "level": 3,
+        "name": {
+          "local": "Kéniéba",
+          "en": "Kéniéba",
+          "slug": "kniba-010401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.044",
+      "lon": "-8.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C01040104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sitakilly",
+      "en": "Sitakilly",
+      "slug": "sitakilly-01040104"
+    },
+    "code": {
+      "id": "ML-C01040104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010401",
+      "level": 3,
+      "name": {
+        "local": "Kéniéba",
+        "en": "Kéniéba",
+        "slug": "kniba-010401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0104",
+        "level": 2,
+        "name": {
+          "local": "Kéniéba",
+          "en": "Kenieba",
+          "slug": "kenieba-ml0104"
+        }
+      },
+      {
+        "id": "ML-A010401",
+        "level": 3,
+        "name": {
+          "local": "Kéniéba",
+          "en": "Kéniéba",
+          "slug": "kniba-010401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.044",
+      "lon": "-8.635"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

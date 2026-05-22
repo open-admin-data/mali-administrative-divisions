@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C12030201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Madina",
+      "en": "Madina",
+      "slug": "madina-12030201"
+    },
+    "code": {
+      "id": "ML-C12030201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120302",
+      "level": 3,
+      "name": {
+        "local": "Madina",
+        "en": "Madina",
+        "slug": "madina-120302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1203",
+        "level": 2,
+        "name": {
+          "local": "Sébékoro",
+          "en": "Sebekoro",
+          "slug": "sebekoro-ml1203"
+        }
+      },
+      {
+        "id": "ML-A120302",
+        "level": 3,
+        "name": {
+          "local": "Madina",
+          "en": "Madina",
+          "slug": "madina-120302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.461",
+      "lon": "-9.131"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C05060401",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gouloumbou",
+      "en": "Gouloumbou",
+      "slug": "gouloumbou-05060401"
+    },
+    "code": {
+      "id": "ML-C05060401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050604",
+      "level": 3,
+      "name": {
+        "local": "Gouloumbou",
+        "en": "Gouloumbou",
+        "slug": "gouloumbou-050604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0506",
+        "level": 2,
+        "name": {
+          "local": "Korientzé",
+          "en": "Korientze",
+          "slug": "korientze-ml0506"
+        }
+      },
+      {
+        "id": "ML-A050604",
+        "level": 3,
+        "name": {
+          "local": "Gouloumbou",
+          "en": "Gouloumbou",
+          "slug": "gouloumbou-050604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.394",
+      "lon": "-3.782"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

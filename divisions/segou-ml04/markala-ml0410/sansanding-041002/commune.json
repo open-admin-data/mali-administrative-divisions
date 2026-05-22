@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C04100201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sansanding",
+      "en": "Sansanding",
+      "slug": "sansanding-04100201"
+    },
+    "code": {
+      "id": "ML-C04100201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A041002",
+      "level": 3,
+      "name": {
+        "local": "Sansanding",
+        "en": "Sansanding",
+        "slug": "sansanding-041002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0410",
+        "level": 2,
+        "name": {
+          "local": "Markala",
+          "en": "Markala",
+          "slug": "markala-ml0410"
+        }
+      },
+      {
+        "id": "ML-A041002",
+        "level": 3,
+        "name": {
+          "local": "Sansanding",
+          "en": "Sansanding",
+          "slug": "sansanding-041002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.816",
+      "lon": "-5.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C04100202",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sibila",
+      "en": "Sibila",
+      "slug": "sibila-04100202"
+    },
+    "code": {
+      "id": "ML-C04100202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A041002",
+      "level": 3,
+      "name": {
+        "local": "Sansanding",
+        "en": "Sansanding",
+        "slug": "sansanding-041002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0410",
+        "level": 2,
+        "name": {
+          "local": "Markala",
+          "en": "Markala",
+          "slug": "markala-ml0410"
+        }
+      },
+      {
+        "id": "ML-A041002",
+        "level": 3,
+        "name": {
+          "local": "Sansanding",
+          "en": "Sansanding",
+          "slug": "sansanding-041002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.816",
+      "lon": "-5.358"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

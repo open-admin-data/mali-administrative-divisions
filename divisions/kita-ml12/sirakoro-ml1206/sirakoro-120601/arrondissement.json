@@ -1,0 +1,56 @@
+{
+  "id": "ML-A120601",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Sirakoro",
+    "en": "Sirakoro",
+    "slug": "sirakoro-120601"
+  },
+  "code": {
+    "id": "ML-A120601",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1206",
+    "level": 2,
+    "name": {
+      "local": "Sirakoro",
+      "en": "Sirakoro",
+      "slug": "sirakoro-ml1206"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML12",
+      "level": 1,
+      "name": {
+        "local": "Kita",
+        "en": "Kita",
+        "slug": "kita-ml12"
+      }
+    },
+    {
+      "id": "ML1206",
+      "level": 2,
+      "name": {
+        "local": "Sirakoro",
+        "en": "Sirakoro",
+        "slug": "sirakoro-ml1206"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.765",
+    "lon": "-8.017"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ML1401",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Nara",
+    "en": "Nara",
+    "slug": "nara-ml1401"
+  },
+  "code": {
+    "id": "ML1401",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML14",
+    "level": 1,
+    "name": {
+      "local": "Nara",
+      "en": "Nara",
+      "slug": "nara-ml14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML14",
+      "level": 1,
+      "name": {
+        "local": "Nara",
+        "en": "Nara",
+        "slug": "nara-ml14"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 2,
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.169",
+    "lon": "-7.29"
+  },
+  "metadata": {},
+  "source": {}
+}

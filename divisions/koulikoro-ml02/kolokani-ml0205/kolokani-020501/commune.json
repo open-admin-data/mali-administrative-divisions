@@ -1,0 +1,254 @@
+[
+  {
+    "id": "ML-C02050101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guihoyo",
+      "en": "Guihoyo",
+      "slug": "guihoyo-02050101"
+    },
+    "code": {
+      "id": "ML-C02050101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020501",
+      "level": 3,
+      "name": {
+        "local": "Kolokani",
+        "en": "Kolokani",
+        "slug": "kolokani-020501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0205",
+        "level": 2,
+        "name": {
+          "local": "Kolokani",
+          "en": "Kolokani",
+          "slug": "kolokani-ml0205"
+        }
+      },
+      {
+        "id": "ML-A020501",
+        "level": 3,
+        "name": {
+          "local": "Kolokani",
+          "en": "Kolokani",
+          "slug": "kolokani-020501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.573",
+      "lon": "-8.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C02050102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kolokani",
+      "en": "Kolokani",
+      "slug": "kolokani-02050102"
+    },
+    "code": {
+      "id": "ML-C02050102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020501",
+      "level": 3,
+      "name": {
+        "local": "Kolokani",
+        "en": "Kolokani",
+        "slug": "kolokani-020501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0205",
+        "level": 2,
+        "name": {
+          "local": "Kolokani",
+          "en": "Kolokani",
+          "slug": "kolokani-ml0205"
+        }
+      },
+      {
+        "id": "ML-A020501",
+        "level": 3,
+        "name": {
+          "local": "Kolokani",
+          "en": "Kolokani",
+          "slug": "kolokani-020501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.573",
+      "lon": "-8.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C02050103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sébékoro I",
+      "en": "Sébékoro I",
+      "slug": "sbkoro-i-02050103"
+    },
+    "code": {
+      "id": "ML-C02050103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020501",
+      "level": 3,
+      "name": {
+        "local": "Kolokani",
+        "en": "Kolokani",
+        "slug": "kolokani-020501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0205",
+        "level": 2,
+        "name": {
+          "local": "Kolokani",
+          "en": "Kolokani",
+          "slug": "kolokani-ml0205"
+        }
+      },
+      {
+        "id": "ML-A020501",
+        "level": 3,
+        "name": {
+          "local": "Kolokani",
+          "en": "Kolokani",
+          "slug": "kolokani-020501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.573",
+      "lon": "-8.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C02050104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tioribougou",
+      "en": "Tioribougou",
+      "slug": "tioribougou-02050104"
+    },
+    "code": {
+      "id": "ML-C02050104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020501",
+      "level": 3,
+      "name": {
+        "local": "Kolokani",
+        "en": "Kolokani",
+        "slug": "kolokani-020501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0205",
+        "level": 2,
+        "name": {
+          "local": "Kolokani",
+          "en": "Kolokani",
+          "slug": "kolokani-ml0205"
+        }
+      },
+      {
+        "id": "ML-A020501",
+        "level": 3,
+        "name": {
+          "local": "Kolokani",
+          "en": "Kolokani",
+          "slug": "kolokani-020501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.573",
+      "lon": "-8.034"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "ML-A190501",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Ningari",
+    "en": "Ningari",
+    "slug": "ningari-190501"
+  },
+  "code": {
+    "id": "ML-A190501",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1905",
+    "level": 2,
+    "name": {
+      "local": "Ningari",
+      "en": "Ningari",
+      "slug": "ningari-ml1905"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML19",
+      "level": 1,
+      "name": {
+        "local": "Bandiagara",
+        "en": "Bandiagara",
+        "slug": "bandiagara-ml19"
+      }
+    },
+    {
+      "id": "ML1905",
+      "level": 2,
+      "name": {
+        "local": "Ningari",
+        "en": "Ningari",
+        "slug": "ningari-ml1905"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.662",
+    "lon": "-3.274"
+  },
+  "metadata": {},
+  "source": {}
+}

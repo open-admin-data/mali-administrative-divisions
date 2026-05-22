@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C10060101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Inlamawane (Fanfi)",
+      "en": "Inlamawane (Fanfi)",
+      "slug": "inlamawane-fanfi-10060101"
+    },
+    "code": {
+      "id": "ML-C10060101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A100601",
+      "level": 3,
+      "name": {
+        "local": "Inlamawane",
+        "en": "Inlamawane",
+        "slug": "inlamawane-100601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML10",
+        "level": 1,
+        "name": {
+          "local": "Ménaka",
+          "en": "Ménaka",
+          "slug": "mnaka-ml10"
+        }
+      },
+      {
+        "id": "ML1006",
+        "level": 2,
+        "name": {
+          "local": "Inlamawane (Fanfi)",
+          "en": "Inlamawane (Fanfi)",
+          "slug": "inlamawane-fanfi-ml1006"
+        }
+      },
+      {
+        "id": "ML-A100601",
+        "level": 3,
+        "name": {
+          "local": "Inlamawane",
+          "en": "Inlamawane",
+          "slug": "inlamawane-100601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.92",
+      "lon": "2.396"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

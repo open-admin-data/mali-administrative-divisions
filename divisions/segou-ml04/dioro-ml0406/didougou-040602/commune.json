@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C04060201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Diédougou",
+      "en": "Diédougou",
+      "slug": "didougou-04060201"
+    },
+    "code": {
+      "id": "ML-C04060201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040602",
+      "level": 3,
+      "name": {
+        "local": "Diédougou",
+        "en": "Diédougou",
+        "slug": "didougou-040602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0406",
+        "level": 2,
+        "name": {
+          "local": "Dioro",
+          "en": "Dioro",
+          "slug": "dioro-ml0406"
+        }
+      },
+      {
+        "id": "ML-A040602",
+        "level": 3,
+        "name": {
+          "local": "Diédougou",
+          "en": "Diédougou",
+          "slug": "didougou-040602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.689",
+      "lon": "-5.831"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

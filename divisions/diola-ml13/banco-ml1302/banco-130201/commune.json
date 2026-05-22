@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C13020101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Banco",
+      "en": "Banco",
+      "slug": "banco-13020101"
+    },
+    "code": {
+      "id": "ML-C13020101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A130201",
+      "level": 3,
+      "name": {
+        "local": "Banco",
+        "en": "Banco",
+        "slug": "banco-130201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML13",
+        "level": 1,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioïla",
+          "slug": "diola-ml13"
+        }
+      },
+      {
+        "id": "ML1302",
+        "level": 2,
+        "name": {
+          "local": "Banco",
+          "en": "Banco",
+          "slug": "banco-ml1302"
+        }
+      },
+      {
+        "id": "ML-A130201",
+        "level": 3,
+        "name": {
+          "local": "Banco",
+          "en": "Banco",
+          "slug": "banco-130201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.099",
+      "lon": "-6.524"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

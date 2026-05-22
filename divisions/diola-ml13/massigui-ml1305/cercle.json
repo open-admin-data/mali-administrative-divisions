@@ -1,0 +1,48 @@
+{
+  "id": "ML1305",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Massigui",
+    "en": "Massigui",
+    "slug": "massigui-ml1305"
+  },
+  "code": {
+    "id": "ML1305",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML13",
+    "level": 1,
+    "name": {
+      "local": "Dioïla",
+      "en": "Dioïla",
+      "slug": "diola-ml13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML13",
+      "level": 1,
+      "name": {
+        "local": "Dioïla",
+        "en": "Dioïla",
+        "slug": "diola-ml13"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 2,
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.859",
+    "lon": "-6.771"
+  },
+  "metadata": {},
+  "source": {}
+}

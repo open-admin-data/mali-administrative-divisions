@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C14020201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dabo",
+      "en": "Dabo",
+      "slug": "dabo-14020201"
+    },
+    "code": {
+      "id": "ML-C14020201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A140202",
+      "level": 3,
+      "name": {
+        "local": "Boulal",
+        "en": "Boulal",
+        "slug": "boulal-140202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML14",
+        "level": 1,
+        "name": {
+          "local": "Nara",
+          "en": "Nara",
+          "slug": "nara-ml14"
+        }
+      },
+      {
+        "id": "ML1402",
+        "level": 2,
+        "name": {
+          "local": "Ballé",
+          "en": "Balle",
+          "slug": "balle-ml1402"
+        }
+      },
+      {
+        "id": "ML-A140202",
+        "level": 3,
+        "name": {
+          "local": "Boulal",
+          "en": "Boulal",
+          "slug": "boulal-140202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.34",
+      "lon": "-8.587"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

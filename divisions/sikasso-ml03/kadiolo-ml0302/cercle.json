@@ -1,0 +1,48 @@
+{
+  "id": "ML0302",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Kadiolo",
+    "en": "Kadiolo",
+    "slug": "kadiolo-ml0302"
+  },
+  "code": {
+    "id": "ML0302",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML03",
+    "level": 1,
+    "name": {
+      "local": "Sikasso",
+      "en": "Sikasso",
+      "slug": "sikasso-ml03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML03",
+      "level": 1,
+      "name": {
+        "local": "Sikasso",
+        "en": "Sikasso",
+        "slug": "sikasso-ml03"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 4,
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.55",
+    "lon": "-5.767"
+  },
+  "metadata": {},
+  "source": {}
+}

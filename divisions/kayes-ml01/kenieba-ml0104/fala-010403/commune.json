@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C01040301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Faléa",
+      "en": "Faléa",
+      "slug": "fala-01040301"
+    },
+    "code": {
+      "id": "ML-C01040301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010403",
+      "level": 3,
+      "name": {
+        "local": "Faléa",
+        "en": "Faléa",
+        "slug": "fala-010403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0104",
+        "level": 2,
+        "name": {
+          "local": "Kéniéba",
+          "en": "Kenieba",
+          "slug": "kenieba-ml0104"
+        }
+      },
+      {
+        "id": "ML-A010403",
+        "level": 3,
+        "name": {
+          "local": "Faléa",
+          "en": "Faléa",
+          "slug": "fala-010403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.044",
+      "lon": "-8.635"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

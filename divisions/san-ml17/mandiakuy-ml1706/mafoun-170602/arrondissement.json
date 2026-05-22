@@ -1,0 +1,56 @@
+{
+  "id": "ML-A170602",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Mafouné",
+    "en": "Mafouné",
+    "slug": "mafoun-170602"
+  },
+  "code": {
+    "id": "ML-A170602",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1706",
+    "level": 2,
+    "name": {
+      "local": "Mandiakuy",
+      "en": "Mandiakuy",
+      "slug": "mandiakuy-ml1706"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML17",
+      "level": 1,
+      "name": {
+        "local": "San",
+        "en": "San",
+        "slug": "san-ml17"
+      }
+    },
+    {
+      "id": "ML1706",
+      "level": 2,
+      "name": {
+        "local": "Mandiakuy",
+        "en": "Mandiakuy",
+        "slug": "mandiakuy-ml1706"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.021",
+    "lon": "-4.463"
+  },
+  "metadata": {},
+  "source": {}
+}

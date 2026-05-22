@@ -1,0 +1,56 @@
+{
+  "id": "ML-A180503",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Niagassadiou",
+    "en": "Niagassadiou",
+    "slug": "niagassadiou-180503"
+  },
+  "code": {
+    "id": "ML-A180503",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1805",
+    "level": 2,
+    "name": {
+      "local": "Mondoro",
+      "en": "Mondoro",
+      "slug": "mondoro-ml1805"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML18",
+      "level": 1,
+      "name": {
+        "local": "Douentza",
+        "en": "Douentza",
+        "slug": "douentza-ml18"
+      }
+    },
+    {
+      "id": "ML1805",
+      "level": 2,
+      "name": {
+        "local": "Mondoro",
+        "en": "Mondoro",
+        "slug": "mondoro-ml1805"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.676",
+    "lon": "-1.951"
+  },
+  "metadata": {},
+  "source": {}
+}

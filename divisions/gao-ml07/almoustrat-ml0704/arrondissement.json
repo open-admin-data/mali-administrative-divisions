@@ -1,0 +1,170 @@
+[
+  {
+    "id": "ML-A070402",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Agharous",
+      "en": "Agharous",
+      "slug": "agharous-070402"
+    },
+    "code": {
+      "id": "ML-A070402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0704",
+      "level": 2,
+      "name": {
+        "local": "Almoustrat",
+        "en": "Almoustrat",
+        "slug": "almoustrat-ml0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      },
+      {
+        "id": "ML0704",
+        "level": 2,
+        "name": {
+          "local": "Almoustrat",
+          "en": "Almoustrat",
+          "slug": "almoustrat-ml0704"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.358",
+      "lon": "0.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A070401",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Almoustrat",
+      "en": "Almoustrat",
+      "slug": "almoustrat-070401"
+    },
+    "code": {
+      "id": "ML-A070401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0704",
+      "level": 2,
+      "name": {
+        "local": "Almoustrat",
+        "en": "Almoustrat",
+        "slug": "almoustrat-ml0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      },
+      {
+        "id": "ML0704",
+        "level": 2,
+        "name": {
+          "local": "Almoustrat",
+          "en": "Almoustrat",
+          "slug": "almoustrat-ml0704"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.358",
+      "lon": "0.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A070403",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "M'Beikit Ljoul",
+      "en": "M'Beikit Ljoul",
+      "slug": "mbeikit-ljoul-070403"
+    },
+    "code": {
+      "id": "ML-A070403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0704",
+      "level": 2,
+      "name": {
+        "local": "Almoustrat",
+        "en": "Almoustrat",
+        "slug": "almoustrat-ml0704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      },
+      {
+        "id": "ML0704",
+        "level": 2,
+        "name": {
+          "local": "Almoustrat",
+          "en": "Almoustrat",
+          "slug": "almoustrat-ml0704"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.358",
+      "lon": "0.15"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

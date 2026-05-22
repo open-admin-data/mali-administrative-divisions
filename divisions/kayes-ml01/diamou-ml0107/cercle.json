@@ -1,0 +1,48 @@
+{
+  "id": "ML0107",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Diamou",
+    "en": "Diamou",
+    "slug": "diamou-ml0107"
+  },
+  "code": {
+    "id": "ML0107",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML01",
+    "level": 1,
+    "name": {
+      "local": "Kayes",
+      "en": "Kayes",
+      "slug": "kayes-ml01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML01",
+      "level": 1,
+      "name": {
+        "local": "Kayes",
+        "en": "Kayes",
+        "slug": "kayes-ml01"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 2,
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.079",
+    "lon": "-7.236"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "ML-A090202",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Achamour",
+    "en": "Achamour",
+    "slug": "achamour-090202"
+  },
+  "code": {
+    "id": "ML-A090202",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0902",
+    "level": 2,
+    "name": {
+      "local": "Araouane",
+      "en": "Araouane",
+      "slug": "araouane-ml0902"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML09",
+      "level": 1,
+      "name": {
+        "local": "Taoudenni",
+        "en": "Taoudenni",
+        "slug": "taoudenni-ml09"
+      }
+    },
+    {
+      "id": "ML0902",
+      "level": 2,
+      "name": {
+        "local": "Araouane",
+        "en": "Araouane",
+        "slug": "araouane-ml0902"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.905",
+    "lon": "-3.526"
+  },
+  "metadata": {},
+  "source": {}
+}

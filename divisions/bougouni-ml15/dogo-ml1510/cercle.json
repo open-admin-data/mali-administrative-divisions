@@ -1,0 +1,48 @@
+{
+  "id": "ML1510",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Dogo",
+    "en": "Dogo",
+    "slug": "dogo-ml1510"
+  },
+  "code": {
+    "id": "ML1510",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML15",
+    "level": 1,
+    "name": {
+      "local": "Bougouni",
+      "en": "Bougouni",
+      "slug": "bougouni-ml15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML15",
+      "level": 1,
+      "name": {
+        "local": "Bougouni",
+        "en": "Bougouni",
+        "slug": "bougouni-ml15"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 2,
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.169",
+    "lon": "-4.431"
+  },
+  "metadata": {},
+  "source": {}
+}

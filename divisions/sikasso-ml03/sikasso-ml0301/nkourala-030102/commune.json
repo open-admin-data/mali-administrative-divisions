@@ -1,0 +1,254 @@
+[
+  {
+    "id": "ML-C03010201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Farakala",
+      "en": "Farakala",
+      "slug": "farakala-03010201"
+    },
+    "code": {
+      "id": "ML-C03010201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030102",
+      "level": 3,
+      "name": {
+        "local": "N'Kourala",
+        "en": "N'Kourala",
+        "slug": "nkourala-030102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0301",
+        "level": 2,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml0301"
+        }
+      },
+      {
+        "id": "ML-A030102",
+        "level": 3,
+        "name": {
+          "local": "N'Kourala",
+          "en": "N'Kourala",
+          "slug": "nkourala-030102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.318",
+      "lon": "-5.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C03010202",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kapolondougou",
+      "en": "Kapolondougou",
+      "slug": "kapolondougou-03010202"
+    },
+    "code": {
+      "id": "ML-C03010202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030102",
+      "level": 3,
+      "name": {
+        "local": "N'Kourala",
+        "en": "N'Kourala",
+        "slug": "nkourala-030102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0301",
+        "level": 2,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml0301"
+        }
+      },
+      {
+        "id": "ML-A030102",
+        "level": 3,
+        "name": {
+          "local": "N'Kourala",
+          "en": "N'Kourala",
+          "slug": "nkourala-030102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.318",
+      "lon": "-5.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C03010203",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kofan",
+      "en": "Kofan",
+      "slug": "kofan-03010203"
+    },
+    "code": {
+      "id": "ML-C03010203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030102",
+      "level": 3,
+      "name": {
+        "local": "N'Kourala",
+        "en": "N'Kourala",
+        "slug": "nkourala-030102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0301",
+        "level": 2,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml0301"
+        }
+      },
+      {
+        "id": "ML-A030102",
+        "level": 3,
+        "name": {
+          "local": "N'Kourala",
+          "en": "N'Kourala",
+          "slug": "nkourala-030102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.318",
+      "lon": "-5.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C03010204",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zanférébougou",
+      "en": "Zanférébougou",
+      "slug": "zanfrbougou-03010204"
+    },
+    "code": {
+      "id": "ML-C03010204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030102",
+      "level": 3,
+      "name": {
+        "local": "N'Kourala",
+        "en": "N'Kourala",
+        "slug": "nkourala-030102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0301",
+        "level": 2,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml0301"
+        }
+      },
+      {
+        "id": "ML-A030102",
+        "level": 3,
+        "name": {
+          "local": "N'Kourala",
+          "en": "N'Kourala",
+          "slug": "nkourala-030102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.318",
+      "lon": "-5.667"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

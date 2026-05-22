@@ -1,0 +1,270 @@
+# Bandiagara — Mali Administrative Divisions
+
+> 9 circles, 28 arrondissements, 48 communes
+> Code: ML19
+> Coordinates: 14.35, -3.61
+> Last updated: 2026-05-22. License: CC-BY-4.0.
+
+## Circles
+
+### Bandiagara
+
+Code: ML1901, Coordinates: 14.35, -3.61
+Arrondissements: 4, Communes: 10
+
+#### Bandiagara
+
+Code: ML-A190101, Coordinates: 14.35, -3.61
+
+Communes:
+- Bandiagara [ML-C19010101]
+- Dandoli [ML-C19010102]
+- Doucombo [ML-C19010103]
+- Soroly [ML-C19010104]
+
+#### Dourou
+
+Code: ML-A190103, Coordinates: 14.35, -3.61
+
+Communes:
+- Dourou [ML-C19010301]
+- Pélou [ML-C19010302]
+
+#### Goundaka
+
+Code: ML-A190104, Coordinates: 14.35, -3.61
+
+Communes:
+- Pignari Bana [ML-C19010401]
+
+#### Ouo
+
+Code: ML-A190102, Coordinates: 14.35, -3.61
+
+Communes:
+- Bara Sara [ML-C19010201]
+- Pignari [ML-C19010202]
+- Timniri [ML-C19010203]
+
+### Bankass
+
+Code: ML1903, Coordinates: 14.078, -3.516
+Arrondissements: 3, Communes: 4
+
+#### Bankass
+
+Code: ML-A190301, Coordinates: 14.078, -3.516
+
+Communes:
+- Bankass [ML-C19030101]
+
+#### Kani Bonzon
+
+Code: ML-A190302, Coordinates: 14.078, -3.516
+
+Communes:
+- Dimbal Habbé [ML-C19030202]
+- Kani-Bonzon [ML-C19030201]
+
+#### Ségué
+
+Code: ML-A190303, Coordinates: 14.078, -3.516
+
+Communes:
+- Ségué [ML-C19030301]
+
+### Diallassagou
+
+Code: ML1906, Coordinates: 13.738, -3.626
+Arrondissements: 2, Communes: 5
+
+#### Diallassagou
+
+Code: ML-A190601, Coordinates: 13.738, -3.626
+
+Communes:
+- Diallassagou [ML-C19060101]
+- Lessagou Habé [ML-C19060102]
+- Soubala [ML-C19060103]
+- Tori [ML-C19060104]
+
+#### Koulogon Habé
+
+Code: ML-A190602, Coordinates: 13.738, -3.626
+
+Communes:
+- Koulogon Habé [ML-C19060201]
+
+### Kani
+
+Code: ML1908, Coordinates: 12.247, -5.175
+Arrondissements: 4, Communes: 4
+
+#### Kani
+
+Code: ML-A190801, Coordinates: 12.247, -5.175
+
+Communes:
+- Wadouba [ML-C19080101]
+
+#### Menthely
+
+Code: ML-A190804, Coordinates: 12.247, -5.175
+
+Communes:
+- Menthely [ML-C19080401]
+
+#### Ouroli
+
+Code: ML-A190803, Coordinates: 12.247, -5.175
+
+Communes:
+- Ouroli [ML-C19080301]
+
+#### Sal
+
+Code: ML-A190802, Coordinates: 12.247, -5.175
+
+Communes:
+- Sal [ML-C19080201]
+
+### Kendie
+
+Code: ML1904, Coordinates: 14.676, -3.51
+Arrondissements: 0, Communes: 0
+
+### Koro
+
+Code: ML1902, Coordinates: 14.627, -7.984
+Arrondissements: 8, Communes: 16
+
+#### Diankabou
+
+Code: ML-A190202, Coordinates: 14.627, -7.984
+
+Communes:
+- Bamba [ML-C19020201]
+- Diankabou [ML-C19020202]
+- Yoro [ML-C19020203]
+
+#### Dinangourou
+
+Code: ML-A190203, Coordinates: 14.627, -7.984
+
+Communes:
+- Dinangourou [ML-C19020301]
+
+#### Dioungani
+
+Code: ML-A190204, Coordinates: 14.627, -7.984
+
+Communes:
+- Dioungani [ML-C19020401]
+
+#### Kassa
+
+Code: ML-A190208, Coordinates: 14.627, -7.984
+
+Communes:
+- Kassa [ML-C19020801]
+
+#### Koporokendié Na
+
+Code: ML-A190205, Coordinates: 14.627, -7.984
+
+Communes:
+- Koporo Pen [ML-C19020502]
+- Koporokendie Na [ML-C19020501]
+- Pel Maoudé [ML-C19020503]
+
+#### Koro
+
+Code: ML-A190201, Coordinates: 14.627, -7.984
+
+Communes:
+- Bondo [ML-C19020101]
+- Koro [ML-C19020102]
+- Youdiou [ML-C19020103]
+
+#### Madougou
+
+Code: ML-A190206, Coordinates: 14.627, -7.984
+
+Communes:
+- Barapiréli [ML-C19020602]
+- Madougou [ML-C19020601]
+
+#### Toroli
+
+Code: ML-A190207, Coordinates: 14.627, -7.984
+
+Communes:
+- Dougouténé I [ML-C19020701]
+- Dougouténé II [ML-C19020702]
+
+### Ningari
+
+Code: ML1905, Coordinates: 14.662, -3.274
+Arrondissements: 2, Communes: 4
+
+#### Métoumou
+
+Code: ML-A190502, Coordinates: 14.662, -3.274
+
+Communes:
+- Métoumou [ML-C19050201]
+
+#### Ningari
+
+Code: ML-A190501, Coordinates: 14.662, -3.274
+
+Communes:
+- Diamnati [ML-C19050101]
+- Ondougou [ML-C19050102]
+- Segué Iré [ML-C19050103]
+
+### Sangha
+
+Code: ML1907, Coordinates: 14.468, -3.306
+Arrondissements: 2, Communes: 2
+
+#### Iréli
+
+Code: ML-A190702, Coordinates: 14.468, -3.306
+
+Communes:
+- Iréli [ML-C19070201]
+
+#### Sangha
+
+Code: ML-A190701, Coordinates: 14.468, -3.306
+
+Communes:
+- Sangha [ML-C19070101]
+
+### Sokoura
+
+Code: ML1909, Coordinates: 15.704, -4.108
+Arrondissements: 3, Communes: 3
+
+#### Baye
+
+Code: ML-A190902, Coordinates: 15.704, -4.108
+
+Communes:
+- Baye [ML-C19090201]
+
+#### Ouenkoro
+
+Code: ML-A190903, Coordinates: 15.704, -4.108
+
+Communes:
+- Ouenkoro [ML-C19090301]
+
+#### Sokoura
+
+Code: ML-A190901, Coordinates: 15.704, -4.108
+
+Communes:
+- Sokoura [ML-C19090101]
+

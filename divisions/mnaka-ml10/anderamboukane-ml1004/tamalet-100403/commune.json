@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C10040301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tamalet",
+      "en": "Tamalet",
+      "slug": "tamalet-10040301"
+    },
+    "code": {
+      "id": "ML-C10040301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A100403",
+      "level": 3,
+      "name": {
+        "local": "Tamalet",
+        "en": "Tamalet",
+        "slug": "tamalet-100403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML10",
+        "level": 1,
+        "name": {
+          "local": "Ménaka",
+          "en": "Ménaka",
+          "slug": "mnaka-ml10"
+        }
+      },
+      {
+        "id": "ML1004",
+        "level": 2,
+        "name": {
+          "local": "Andéramboukane",
+          "en": "Anderamboukane",
+          "slug": "anderamboukane-ml1004"
+        }
+      },
+      {
+        "id": "ML-A100403",
+        "level": 3,
+        "name": {
+          "local": "Tamalet",
+          "en": "Tamalet",
+          "slug": "tamalet-100403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.422",
+      "lon": "3.022"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

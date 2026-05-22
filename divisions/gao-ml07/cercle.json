@@ -1,0 +1,770 @@
+[
+  {
+    "id": "ML0704",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Almoustrat",
+      "en": "Almoustrat",
+      "slug": "almoustrat-ml0704"
+    },
+    "code": {
+      "id": "ML0704",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML07",
+      "level": 1,
+      "name": {
+        "local": "Gao",
+        "en": "Gao",
+        "slug": "gao-ml07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.358",
+      "lon": "0.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0703",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Ansongo",
+      "en": "Ansongo",
+      "slug": "ansongo-ml0703"
+    },
+    "code": {
+      "id": "ML0703",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML07",
+      "level": 1,
+      "name": {
+        "local": "Gao",
+        "en": "Gao",
+        "slug": "gao-ml07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.66",
+      "lon": "0.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0705",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Bamba",
+      "en": "Bamba",
+      "slug": "bamba-ml0705"
+    },
+    "code": {
+      "id": "ML0705",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML07",
+      "level": 1,
+      "name": {
+        "local": "Gao",
+        "en": "Gao",
+        "slug": "gao-ml07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.034",
+      "lon": "-1.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0702",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Bourem",
+      "en": "Bourem",
+      "slug": "bourem-ml0702"
+    },
+    "code": {
+      "id": "ML0702",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML07",
+      "level": 1,
+      "name": {
+        "local": "Gao",
+        "en": "Gao",
+        "slug": "gao-ml07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.955",
+      "lon": "-0.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0708",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Djebock",
+      "en": "Djebock",
+      "slug": "djebock-ml0708"
+    },
+    "code": {
+      "id": "ML0708",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML07",
+      "level": 1,
+      "name": {
+        "local": "Gao",
+        "en": "Gao",
+        "slug": "gao-ml07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.343",
+      "lon": "0.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0713",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Ersane",
+      "en": "Ersane",
+      "slug": "ersane-ml0713"
+    },
+    "code": {
+      "id": "ML0713",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML07",
+      "level": 1,
+      "name": {
+        "local": "Gao",
+        "en": "Gao",
+        "slug": "gao-ml07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.959",
+      "lon": "1.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0712",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Gabéro",
+      "en": "Gabero",
+      "slug": "gabero-ml0712"
+    },
+    "code": {
+      "id": "ML0712",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML07",
+      "level": 1,
+      "name": {
+        "local": "Gao",
+        "en": "Gao",
+        "slug": "gao-ml07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 0,
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.895",
+      "lon": "0.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0701",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Gao",
+      "en": "Gao",
+      "slug": "gao-ml0701"
+    },
+    "code": {
+      "id": "ML0701",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML07",
+      "level": 1,
+      "name": {
+        "local": "Gao",
+        "en": "Gao",
+        "slug": "gao-ml07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.272",
+      "lon": "-0.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0716",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Kassambéré",
+      "en": "Kassambere",
+      "slug": "kassambere-ml0716"
+    },
+    "code": {
+      "id": "ML0716",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML07",
+      "level": 1,
+      "name": {
+        "local": "Gao",
+        "en": "Gao",
+        "slug": "gao-ml07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 4,
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.272",
+      "lon": "-0.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0711",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "N'tillit",
+      "en": "Ntillit",
+      "slug": "ntillit-ml0711"
+    },
+    "code": {
+      "id": "ML0711",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML07",
+      "level": 1,
+      "name": {
+        "local": "Gao",
+        "en": "Gao",
+        "slug": "gao-ml07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.272",
+      "lon": "-0.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0706",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Ouattagouna",
+      "en": "Ouattagouna",
+      "slug": "ouattagouna-ml0706"
+    },
+    "code": {
+      "id": "ML0706",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML07",
+      "level": 1,
+      "name": {
+        "local": "Gao",
+        "en": "Gao",
+        "slug": "gao-ml07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.182",
+      "lon": "0.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0707",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Sony Aliber",
+      "en": "Sony Aliber",
+      "slug": "sony-aliber-ml0707"
+    },
+    "code": {
+      "id": "ML0707",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML07",
+      "level": 1,
+      "name": {
+        "local": "Gao",
+        "en": "Gao",
+        "slug": "gao-ml07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 0,
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.507",
+      "lon": "-0.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0714",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Tabankort",
+      "en": "Tabankort",
+      "slug": "tabankort-ml0714"
+    },
+    "code": {
+      "id": "ML0714",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML07",
+      "level": 1,
+      "name": {
+        "local": "Gao",
+        "en": "Gao",
+        "slug": "gao-ml07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 4,
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.82",
+      "lon": "0.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0709",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Talataye",
+      "en": "Talataye",
+      "slug": "talataye-ml0709"
+    },
+    "code": {
+      "id": "ML0709",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML07",
+      "level": 1,
+      "name": {
+        "local": "Gao",
+        "en": "Gao",
+        "slug": "gao-ml07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.531",
+      "lon": "1.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0710",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Téssit",
+      "en": "Tessit",
+      "slug": "tessit-ml0710"
+    },
+    "code": {
+      "id": "ML0710",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML07",
+      "level": 1,
+      "name": {
+        "local": "Gao",
+        "en": "Gao",
+        "slug": "gao-ml07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 4,
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.217",
+      "lon": "-0.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0715",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Tin-Aouker",
+      "en": "Tin-Aouker",
+      "slug": "tin-aouker-ml0715"
+    },
+    "code": {
+      "id": "ML0715",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML07",
+      "level": 1,
+      "name": {
+        "local": "Gao",
+        "en": "Gao",
+        "slug": "gao-ml07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.071",
+      "lon": "-6.835"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

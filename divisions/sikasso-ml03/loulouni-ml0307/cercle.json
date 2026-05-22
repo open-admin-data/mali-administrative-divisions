@@ -1,0 +1,48 @@
+{
+  "id": "ML0307",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Loulouni",
+    "en": "Loulouni",
+    "slug": "loulouni-ml0307"
+  },
+  "code": {
+    "id": "ML0307",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML03",
+    "level": 1,
+    "name": {
+      "local": "Sikasso",
+      "en": "Sikasso",
+      "slug": "sikasso-ml03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML03",
+      "level": 1,
+      "name": {
+        "local": "Sikasso",
+        "en": "Sikasso",
+        "slug": "sikasso-ml03"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 2,
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.9",
+    "lon": "-5.6"
+  },
+  "metadata": {},
+  "source": {}
+}

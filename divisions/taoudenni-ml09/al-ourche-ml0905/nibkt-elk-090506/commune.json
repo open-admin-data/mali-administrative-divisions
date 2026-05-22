@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C09050601",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nibkit-El Elk",
+      "en": "Nibkit-El Elk",
+      "slug": "nibkit-el-elk-09050601"
+    },
+    "code": {
+      "id": "ML-C09050601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A090506",
+      "level": 3,
+      "name": {
+        "local": "Nibkt-Elk",
+        "en": "Nibkt-Elk",
+        "slug": "nibkt-elk-090506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML09",
+        "level": 1,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml09"
+        }
+      },
+      {
+        "id": "ML0905",
+        "level": 2,
+        "name": {
+          "local": "Al-Ourche",
+          "en": "Al-Ourche",
+          "slug": "al-ourche-ml0905"
+        }
+      },
+      {
+        "id": "ML-A090506",
+        "level": 3,
+        "name": {
+          "local": "Nibkt-Elk",
+          "en": "Nibkt-Elk",
+          "slug": "nibkt-elk-090506"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-3.979"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

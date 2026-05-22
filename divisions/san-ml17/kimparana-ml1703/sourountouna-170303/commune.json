@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C17030301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dah",
+      "en": "Dah",
+      "slug": "dah-17030301"
+    },
+    "code": {
+      "id": "ML-C17030301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A170303",
+      "level": 3,
+      "name": {
+        "local": "Sourountouna",
+        "en": "Sourountouna",
+        "slug": "sourountouna-170303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      },
+      {
+        "id": "ML1703",
+        "level": 2,
+        "name": {
+          "local": "Kimparana",
+          "en": "Kimparana",
+          "slug": "kimparana-ml1703"
+        }
+      },
+      {
+        "id": "ML-A170303",
+        "level": 3,
+        "name": {
+          "local": "Sourountouna",
+          "en": "Sourountouna",
+          "slug": "sourountouna-170303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.835",
+      "lon": "-4.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C17030302",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sourountouna",
+      "en": "Sourountouna",
+      "slug": "sourountouna-17030302"
+    },
+    "code": {
+      "id": "ML-C17030302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A170303",
+      "level": 3,
+      "name": {
+        "local": "Sourountouna",
+        "en": "Sourountouna",
+        "slug": "sourountouna-170303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      },
+      {
+        "id": "ML1703",
+        "level": 2,
+        "name": {
+          "local": "Kimparana",
+          "en": "Kimparana",
+          "slug": "kimparana-ml1703"
+        }
+      },
+      {
+        "id": "ML-A170303",
+        "level": 3,
+        "name": {
+          "local": "Sourountouna",
+          "en": "Sourountouna",
+          "slug": "sourountouna-170303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.835",
+      "lon": "-4.924"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

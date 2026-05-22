@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C12060102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Senko",
+      "en": "Senko",
+      "slug": "senko-12060102"
+    },
+    "code": {
+      "id": "ML-C12060102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120601",
+      "level": 3,
+      "name": {
+        "local": "Sirakoro",
+        "en": "Sirakoro",
+        "slug": "sirakoro-120601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1206",
+        "level": 2,
+        "name": {
+          "local": "Sirakoro",
+          "en": "Sirakoro",
+          "slug": "sirakoro-ml1206"
+        }
+      },
+      {
+        "id": "ML-A120601",
+        "level": 3,
+        "name": {
+          "local": "Sirakoro",
+          "en": "Sirakoro",
+          "slug": "sirakoro-120601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.765",
+      "lon": "-8.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C12060101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sirakoro",
+      "en": "Sirakoro",
+      "slug": "sirakoro-12060101"
+    },
+    "code": {
+      "id": "ML-C12060101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120601",
+      "level": 3,
+      "name": {
+        "local": "Sirakoro",
+        "en": "Sirakoro",
+        "slug": "sirakoro-120601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1206",
+        "level": 2,
+        "name": {
+          "local": "Sirakoro",
+          "en": "Sirakoro",
+          "slug": "sirakoro-ml1206"
+        }
+      },
+      {
+        "id": "ML-A120601",
+        "level": 3,
+        "name": {
+          "local": "Sirakoro",
+          "en": "Sirakoro",
+          "slug": "sirakoro-120601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.765",
+      "lon": "-8.017"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "ML0203",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Kangaba",
+    "en": "Kangaba",
+    "slug": "kangaba-ml0203"
+  },
+  "code": {
+    "id": "ML0203",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML02",
+    "level": 1,
+    "name": {
+      "local": "Koulikoro",
+      "en": "Koulikoro",
+      "slug": "koulikoro-ml02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML02",
+      "level": 1,
+      "name": {
+        "local": "Koulikoro",
+        "en": "Koulikoro",
+        "slug": "koulikoro-ml02"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 2,
+    "commune": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.933",
+    "lon": "-8.417"
+  },
+  "metadata": {},
+  "source": {}
+}

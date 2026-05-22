@@ -1,0 +1,56 @@
+{
+  "id": "ML-A170502",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Timissa",
+    "en": "Timissa",
+    "slug": "timissa-170502"
+  },
+  "code": {
+    "id": "ML-A170502",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1705",
+    "level": 2,
+    "name": {
+      "local": "Fangasso",
+      "en": "Fangasso",
+      "slug": "fangasso-ml1705"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML17",
+      "level": 1,
+      "name": {
+        "local": "San",
+        "en": "San",
+        "slug": "san-ml17"
+      }
+    },
+    {
+      "id": "ML1705",
+      "level": 2,
+      "name": {
+        "local": "Fangasso",
+        "en": "Fangasso",
+        "slug": "fangasso-ml1705"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.529",
+    "lon": "-4.446"
+  },
+  "metadata": {},
+  "source": {}
+}

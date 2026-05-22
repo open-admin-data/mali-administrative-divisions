@@ -1,0 +1,56 @@
+{
+  "id": "ML-A040504",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Saye",
+    "en": "Saye",
+    "slug": "saye-040504"
+  },
+  "code": {
+    "id": "ML-A040504",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0405",
+    "level": 2,
+    "name": {
+      "local": "Macina",
+      "en": "Macina",
+      "slug": "macina-ml0405"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML04",
+      "level": 1,
+      "name": {
+        "local": "Segou",
+        "en": "Segou",
+        "slug": "segou-ml04"
+      }
+    },
+    {
+      "id": "ML0405",
+      "level": 2,
+      "name": {
+        "local": "Macina",
+        "en": "Macina",
+        "slug": "macina-ml0405"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.308",
+    "lon": "-11.506"
+  },
+  "metadata": {},
+  "source": {}
+}

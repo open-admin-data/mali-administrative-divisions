@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C16060101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Konséguéla",
+      "en": "Konséguéla",
+      "slug": "konsgula-16060101"
+    },
+    "code": {
+      "id": "ML-C16060101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160601",
+      "level": 3,
+      "name": {
+        "local": "Konséguéla",
+        "en": "Konséguéla",
+        "slug": "konsgula-160601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1606",
+        "level": 2,
+        "name": {
+          "local": "Konséguéla",
+          "en": "Konseguel a",
+          "slug": "konseguel-a-ml1606"
+        }
+      },
+      {
+        "id": "ML-A160601",
+        "level": 3,
+        "name": {
+          "local": "Konséguéla",
+          "en": "Konséguéla",
+          "slug": "konsgula-160601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.409",
+      "lon": "-5.877"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

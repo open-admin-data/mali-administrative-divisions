@@ -1,0 +1,303 @@
+# Mopti — Mali Administrative Divisions
+
+> 8 circles, 34 arrondissements, 50 communes
+> Code: ML05
+> Coordinates: 14.484, -4.183
+> Last updated: 2026-05-22. License: CC-BY-4.0.
+
+## Circles
+
+### Djenné (Djenne)
+
+Code: ML0502, Coordinates: 13.906, -4.553
+Arrondissements: 5, Communes: 11
+
+#### Djenné
+
+Code: ML-A050201, Coordinates: 13.906, -4.553
+
+Communes:
+- Derary [ML-C05020101]
+- Djenné [ML-C05020102]
+- Madiama [ML-C05020105]
+- Ouro Ali [ML-C05020103]
+- Pondori [ML-C05020104]
+
+#### Konio
+
+Code: ML-A050202, Coordinates: 13.906, -4.553
+
+Communes:
+- Dandougou Fakala [ML-C05020201]
+- Niansanarie [ML-C05020202]
+
+#### Kouakourou
+
+Code: ML-A050203, Coordinates: 13.906, -4.553
+
+Communes:
+- Kewa [ML-C05020301]
+- Togué Mourari [ML-C05020302]
+
+#### Mougna
+
+Code: ML-A050204, Coordinates: 13.906, -4.553
+
+Communes:
+- Néma Badenyakafo [ML-C05020401]
+
+#### Taga
+
+Code: ML-A050205, Coordinates: 13.906, -4.553
+
+Communes:
+- Femaye [ML-C05020501]
+
+### Konna
+
+Code: ML0505, Coordinates: 14.944, -3.89
+Arrondissements: 3, Communes: 3
+
+#### Diambakourou
+
+Code: ML-A050502, Coordinates: 14.944, -3.89
+
+Communes:
+- Borondougou [ML-C05050201]
+
+#### Konna
+
+Code: ML-A050501, Coordinates: 14.944, -3.89
+
+Communes:
+- Konna [ML-C05050101]
+
+#### Kontza
+
+Code: ML-A050503, Coordinates: 14.944, -3.89
+
+Communes:
+- Kontza [ML-C05050301]
+
+### Korientzé (Korientze)
+
+Code: ML0506, Coordinates: 15.394, -3.782
+Arrondissements: 4, Communes: 4
+
+#### Doko
+
+Code: ML-A050603, Coordinates: 15.394, -3.782
+
+Communes:
+- Doko [ML-C05060301]
+
+#### Gouloumbou
+
+Code: ML-A050604, Coordinates: 15.394, -3.782
+
+Communes:
+- Gouloumbou [ML-C05060401]
+
+#### Korientzé
+
+Code: ML-A050601, Coordinates: 15.394, -3.782
+
+Communes:
+- Korombana [ML-C05060101]
+
+#### N&#39;Gorodia
+
+Code: ML-A050602, Coordinates: 15.394, -3.782
+
+Communes:
+- N&#39;Gorodia [ML-C05060201]
+
+### Mopti
+
+Code: ML0501, Coordinates: 14.484, -4.183
+Arrondissements: 7, Communes: 12
+
+#### Dialloubé
+
+Code: ML-A050102, Coordinates: 14.484, -4.183
+
+Communes:
+- Dialloubé [ML-C05010201]
+
+#### Fatoma
+
+Code: ML-A050103, Coordinates: 14.484, -4.183
+
+Communes:
+- Bassirou [ML-C05010301]
+- Fatoma [ML-C05010302]
+- Kounari [ML-C05010303]
+
+#### Mopti
+
+Code: ML-A050101, Coordinates: 14.484, -4.183
+
+Communes:
+- Mopti [ML-C05010101]
+- Socoura [ML-C05010102]
+
+#### Ouro-Modi
+
+Code: ML-A050107, Coordinates: 14.484, -4.183
+
+Communes:
+- Koubaye [ML-C05010703]
+- Ouro-Modi [ML-C05010701]
+- Sasalbé [ML-C05010702]
+
+#### Sendegué
+
+Code: ML-A050104, Coordinates: 14.484, -4.183
+
+Communes:
+- Ouroubé Doudé [ML-C05010401]
+
+#### Soufouroulaye
+
+Code: ML-A050105, Coordinates: 14.484, -4.183
+
+Communes:
+- Sio [ML-C05010501]
+
+#### Soye
+
+Code: ML-A050106, Coordinates: 14.484, -4.183
+
+Communes:
+- Soye [ML-C05010601]
+
+### Sofara
+
+Code: ML0507, Coordinates: 14.017, -4.233
+Arrondissements: 2, Communes: 2
+
+#### Bonguel
+
+Code: ML-A050702, Coordinates: 14.017, -4.233
+
+Communes:
+- Bonguel [ML-C05070201]
+
+#### Sofara
+
+Code: ML-A050701, Coordinates: 14.017, -4.233
+
+Communes:
+- Fakala [ML-C05070101]
+
+### Ténenkou (Tenenkou)
+
+Code: ML0503, Coordinates: 14.457, -4.917
+Arrondissements: 4, Communes: 8
+
+#### Diafarabé
+
+Code: ML-A050302, Coordinates: 14.457, -4.917
+
+Communes:
+- Diafarabé [ML-C05030201]
+
+#### Diondiori
+
+Code: ML-A050303, Coordinates: 14.457, -4.917
+
+Communes:
+- Diondiori [ML-C05030301]
+
+#### Sossobé
+
+Code: ML-A050304, Coordinates: 14.457, -4.917
+
+Communes:
+- Togoro Kotia [ML-C05030401]
+
+#### Ténenkou
+
+Code: ML-A050301, Coordinates: 14.457, -4.917
+
+Communes:
+- Diaka [ML-C05030104]
+- Ouro Ardo [ML-C05030101]
+- Ouro Guiré [ML-C05030102]
+- Sougoulbé [ML-C05030103]
+- urbaineTénenkou [ML-C05030105]
+
+### Toguéré-Coumbé (Togueré-Coumbé)
+
+Code: ML0508, Coordinates: 14.917, -4.6
+Arrondissements: 3, Communes: 3
+
+#### Doungoura
+
+Code: ML-A050803, Coordinates: 14.917, -4.6
+
+Communes:
+- Doungoura [ML-C05080301]
+
+#### Ouronguia
+
+Code: ML-A050802, Coordinates: 14.917, -4.6
+
+Communes:
+- Ouronguia [ML-C05080201]
+
+#### Toguéré-Coumbé
+
+Code: ML-A050801, Coordinates: 14.917, -4.6
+
+Communes:
+- Toguéré-Coumbé [ML-C05080101]
+
+### Youwarou
+
+Code: ML0504, Coordinates: 15.368, -4.263
+Arrondissements: 6, Communes: 7
+
+#### Ambiri
+
+Code: ML-A050405, Coordinates: 15.368, -4.263
+
+Communes:
+- Dirma [ML-C05040502]
+- Dongo [ML-C05040501]
+
+#### Dogo
+
+Code: ML-A050406, Coordinates: 15.368, -4.263
+
+Communes:
+- Bimbéré Tama [ML-C05040601]
+
+#### Gathi-Loumo
+
+Code: ML-A050402, Coordinates: 15.368, -4.263
+
+Communes:
+- Farimaké [ML-C05040201]
+
+#### Guidio-Saré
+
+Code: ML-A050403, Coordinates: 15.368, -4.263
+
+Communes:
+- Déboye [ML-C05040301]
+
+#### Sah
+
+Code: ML-A050404, Coordinates: 15.368, -4.263
+
+Communes:
+- N&#39;Dodjiga [ML-C05040401]
+
+#### Youwarou
+
+Code: ML-A050401, Coordinates: 15.368, -4.263
+
+Communes:
+- Youwarou [ML-C05040101]
+

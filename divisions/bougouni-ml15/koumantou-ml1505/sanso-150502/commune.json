@@ -1,0 +1,254 @@
+[
+  {
+    "id": "ML-C15050202",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Débélin",
+      "en": "Débélin",
+      "slug": "dblin-15050202"
+    },
+    "code": {
+      "id": "ML-C15050202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150502",
+      "level": 3,
+      "name": {
+        "local": "Sanso",
+        "en": "Sanso",
+        "slug": "sanso-150502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1505",
+        "level": 2,
+        "name": {
+          "local": "Koumantou",
+          "en": "Koumantou",
+          "slug": "koumantou-ml1505"
+        }
+      },
+      {
+        "id": "ML-A150502",
+        "level": 3,
+        "name": {
+          "local": "Sanso",
+          "en": "Sanso",
+          "slug": "sanso-150502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.406",
+      "lon": "-6.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C15050203",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Domba",
+      "en": "Domba",
+      "slug": "domba-15050203"
+    },
+    "code": {
+      "id": "ML-C15050203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150502",
+      "level": 3,
+      "name": {
+        "local": "Sanso",
+        "en": "Sanso",
+        "slug": "sanso-150502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1505",
+        "level": 2,
+        "name": {
+          "local": "Koumantou",
+          "en": "Koumantou",
+          "slug": "koumantou-ml1505"
+        }
+      },
+      {
+        "id": "ML-A150502",
+        "level": 3,
+        "name": {
+          "local": "Sanso",
+          "en": "Sanso",
+          "slug": "sanso-150502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.406",
+      "lon": "-6.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C15050201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sanso",
+      "en": "Sanso",
+      "slug": "sanso-15050201"
+    },
+    "code": {
+      "id": "ML-C15050201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150502",
+      "level": 3,
+      "name": {
+        "local": "Sanso",
+        "en": "Sanso",
+        "slug": "sanso-150502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1505",
+        "level": 2,
+        "name": {
+          "local": "Koumantou",
+          "en": "Koumantou",
+          "slug": "koumantou-ml1505"
+        }
+      },
+      {
+        "id": "ML-A150502",
+        "level": 3,
+        "name": {
+          "local": "Sanso",
+          "en": "Sanso",
+          "slug": "sanso-150502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.406",
+      "lon": "-6.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C15050204",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Wola",
+      "en": "Wola",
+      "slug": "wola-15050204"
+    },
+    "code": {
+      "id": "ML-C15050204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150502",
+      "level": 3,
+      "name": {
+        "local": "Sanso",
+        "en": "Sanso",
+        "slug": "sanso-150502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1505",
+        "level": 2,
+        "name": {
+          "local": "Koumantou",
+          "en": "Koumantou",
+          "slug": "koumantou-ml1505"
+        }
+      },
+      {
+        "id": "ML-A150502",
+        "level": 3,
+        "name": {
+          "local": "Sanso",
+          "en": "Sanso",
+          "slug": "sanso-150502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.406",
+      "lon": "-6.85"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

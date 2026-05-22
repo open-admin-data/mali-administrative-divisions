@@ -1,0 +1,48 @@
+{
+  "id": "ML0507",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Sofara",
+    "en": "Sofara",
+    "slug": "sofara-ml0507"
+  },
+  "code": {
+    "id": "ML0507",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML05",
+    "level": 1,
+    "name": {
+      "local": "Mopti",
+      "en": "Mopti",
+      "slug": "mopti-ml05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML05",
+      "level": 1,
+      "name": {
+        "local": "Mopti",
+        "en": "Mopti",
+        "slug": "mopti-ml05"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 2,
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.017",
+    "lon": "-4.233"
+  },
+  "metadata": {},
+  "source": {}
+}

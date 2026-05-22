@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C09040201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Agouni",
+      "en": "Agouni",
+      "slug": "agouni-09040201"
+    },
+    "code": {
+      "id": "ML-C09040201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A090402",
+      "level": 3,
+      "name": {
+        "local": "Agouni",
+        "en": "Agouni",
+        "slug": "agouni-090402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML09",
+        "level": 1,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml09"
+        }
+      },
+      {
+        "id": "ML0904",
+        "level": 2,
+        "name": {
+          "local": "Boû-Djebeha",
+          "en": "Bou-Djebeha",
+          "slug": "bou-djebeha-ml0904"
+        }
+      },
+      {
+        "id": "ML-A090402",
+        "level": 3,
+        "name": {
+          "local": "Agouni",
+          "en": "Agouni",
+          "slug": "agouni-090402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-3.979"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

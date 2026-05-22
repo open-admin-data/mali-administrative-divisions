@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C06070401",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "N'Gorkou",
+      "en": "N'Gorkou",
+      "slug": "ngorkou-06070401"
+    },
+    "code": {
+      "id": "ML-C06070401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A060704",
+      "level": 3,
+      "name": {
+        "local": "N'Gorkou",
+        "en": "N'Gorkou",
+        "slug": "ngorkou-060704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0607",
+        "level": 2,
+        "name": {
+          "local": "Saraféré",
+          "en": "Sarafere",
+          "slug": "sarafere-ml0607"
+        }
+      },
+      {
+        "id": "ML-A060704",
+        "level": 3,
+        "name": {
+          "local": "N'Gorkou",
+          "en": "N'Gorkou",
+          "slug": "ngorkou-060704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.824",
+      "lon": "-3.694"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

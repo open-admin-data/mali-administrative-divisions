@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C15020501",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gouanan",
+      "en": "Gouanan",
+      "slug": "gouanan-15020501"
+    },
+    "code": {
+      "id": "ML-C15020501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150205",
+      "level": 3,
+      "name": {
+        "local": "Yorobougoula",
+        "en": "Yorobougoula",
+        "slug": "yorobougoula-150205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1502",
+        "level": 2,
+        "name": {
+          "local": "Yanfolila",
+          "en": "Yanfolila",
+          "slug": "yanfolila-ml1502"
+        }
+      },
+      {
+        "id": "ML-A150205",
+        "level": 3,
+        "name": {
+          "local": "Yorobougoula",
+          "en": "Yorobougoula",
+          "slug": "yorobougoula-150205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.183",
+      "lon": "-8.15"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

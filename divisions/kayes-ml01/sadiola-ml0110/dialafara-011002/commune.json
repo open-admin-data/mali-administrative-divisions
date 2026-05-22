@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C01100201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dialafara",
+      "en": "Dialafara",
+      "slug": "dialafara-01100201"
+    },
+    "code": {
+      "id": "ML-C01100201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A011002",
+      "level": 3,
+      "name": {
+        "local": "Dialafara",
+        "en": "Dialafara",
+        "slug": "dialafara-011002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0110",
+        "level": 2,
+        "name": {
+          "local": "Sadiola",
+          "en": "Sadiola",
+          "slug": "sadiola-ml0110"
+        }
+      },
+      {
+        "id": "ML-A011002",
+        "level": 3,
+        "name": {
+          "local": "Dialafara",
+          "en": "Dialafara",
+          "slug": "dialafara-011002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.891",
+      "lon": "-11.706"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

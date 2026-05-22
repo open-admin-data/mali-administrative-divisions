@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C15010301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zantiébougou",
+      "en": "Zantiébougou",
+      "slug": "zantibougou-15010301"
+    },
+    "code": {
+      "id": "ML-C15010301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150103",
+      "level": 3,
+      "name": {
+        "local": "Zantiébougou",
+        "en": "Zantiébougou",
+        "slug": "zantibougou-150103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1501",
+        "level": 2,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml1501"
+        }
+      },
+      {
+        "id": "ML-A150103",
+        "level": 3,
+        "name": {
+          "local": "Zantiébougou",
+          "en": "Zantiébougou",
+          "slug": "zantibougou-150103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.741",
+      "lon": "-2.507"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C01080101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tomora",
+      "en": "Tomora",
+      "slug": "tomora-01080101"
+    },
+    "code": {
+      "id": "ML-C01080101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010801",
+      "level": 3,
+      "name": {
+        "local": "Oussoubidiagna",
+        "en": "Oussoubidiagna",
+        "slug": "oussoubidiagna-010801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0108",
+        "level": 2,
+        "name": {
+          "local": "Oussoubidiagna",
+          "en": "Oussoubidiagna",
+          "slug": "oussoubidiagna-ml0108"
+        }
+      },
+      {
+        "id": "ML-A010801",
+        "level": 3,
+        "name": {
+          "local": "Oussoubidiagna",
+          "en": "Oussoubidiagna",
+          "slug": "oussoubidiagna-010801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.245",
+      "lon": "-10.462"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

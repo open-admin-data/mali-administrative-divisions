@@ -1,0 +1,254 @@
+[
+  {
+    "id": "ML-C10010101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Assakaraye",
+      "en": "Assakaraye",
+      "slug": "assakaraye-10010101"
+    },
+    "code": {
+      "id": "ML-C10010101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A100101",
+      "level": 3,
+      "name": {
+        "local": "Ménaka",
+        "en": "Ménaka",
+        "slug": "mnaka-100101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML10",
+        "level": 1,
+        "name": {
+          "local": "Ménaka",
+          "en": "Ménaka",
+          "slug": "mnaka-ml10"
+        }
+      },
+      {
+        "id": "ML1001",
+        "level": 2,
+        "name": {
+          "local": "Ménaka",
+          "en": "Menaka",
+          "slug": "menaka-ml1001"
+        }
+      },
+      {
+        "id": "ML-A100101",
+        "level": 3,
+        "name": {
+          "local": "Ménaka",
+          "en": "Ménaka",
+          "slug": "mnaka-100101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.92",
+      "lon": "2.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C10010103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Inazole",
+      "en": "Inazole",
+      "slug": "inazole-10010103"
+    },
+    "code": {
+      "id": "ML-C10010103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A100101",
+      "level": 3,
+      "name": {
+        "local": "Ménaka",
+        "en": "Ménaka",
+        "slug": "mnaka-100101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML10",
+        "level": 1,
+        "name": {
+          "local": "Ménaka",
+          "en": "Ménaka",
+          "slug": "mnaka-ml10"
+        }
+      },
+      {
+        "id": "ML1001",
+        "level": 2,
+        "name": {
+          "local": "Ménaka",
+          "en": "Menaka",
+          "slug": "menaka-ml1001"
+        }
+      },
+      {
+        "id": "ML-A100101",
+        "level": 3,
+        "name": {
+          "local": "Ménaka",
+          "en": "Ménaka",
+          "slug": "mnaka-100101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.92",
+      "lon": "2.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C10010102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Iziguirète",
+      "en": "Iziguirète",
+      "slug": "iziguirte-10010102"
+    },
+    "code": {
+      "id": "ML-C10010102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A100101",
+      "level": 3,
+      "name": {
+        "local": "Ménaka",
+        "en": "Ménaka",
+        "slug": "mnaka-100101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML10",
+        "level": 1,
+        "name": {
+          "local": "Ménaka",
+          "en": "Ménaka",
+          "slug": "mnaka-ml10"
+        }
+      },
+      {
+        "id": "ML1001",
+        "level": 2,
+        "name": {
+          "local": "Ménaka",
+          "en": "Menaka",
+          "slug": "menaka-ml1001"
+        }
+      },
+      {
+        "id": "ML-A100101",
+        "level": 3,
+        "name": {
+          "local": "Ménaka",
+          "en": "Ménaka",
+          "slug": "mnaka-100101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.92",
+      "lon": "2.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C10010104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ménaka",
+      "en": "Ménaka",
+      "slug": "mnaka-10010104"
+    },
+    "code": {
+      "id": "ML-C10010104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A100101",
+      "level": 3,
+      "name": {
+        "local": "Ménaka",
+        "en": "Ménaka",
+        "slug": "mnaka-100101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML10",
+        "level": 1,
+        "name": {
+          "local": "Ménaka",
+          "en": "Ménaka",
+          "slug": "mnaka-ml10"
+        }
+      },
+      {
+        "id": "ML1001",
+        "level": 2,
+        "name": {
+          "local": "Ménaka",
+          "en": "Menaka",
+          "slug": "menaka-ml1001"
+        }
+      },
+      {
+        "id": "ML-A100101",
+        "level": 3,
+        "name": {
+          "local": "Ménaka",
+          "en": "Ménaka",
+          "slug": "mnaka-100101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.92",
+      "lon": "2.396"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

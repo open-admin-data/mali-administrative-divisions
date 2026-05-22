@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C05010101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mopti",
+      "en": "Mopti",
+      "slug": "mopti-05010101"
+    },
+    "code": {
+      "id": "ML-C05010101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050101",
+      "level": 3,
+      "name": {
+        "local": "Mopti",
+        "en": "Mopti",
+        "slug": "mopti-050101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0501",
+        "level": 2,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml0501"
+        }
+      },
+      {
+        "id": "ML-A050101",
+        "level": 3,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-050101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.484",
+      "lon": "-4.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C05010102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Socoura",
+      "en": "Socoura",
+      "slug": "socoura-05010102"
+    },
+    "code": {
+      "id": "ML-C05010102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050101",
+      "level": 3,
+      "name": {
+        "local": "Mopti",
+        "en": "Mopti",
+        "slug": "mopti-050101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0501",
+        "level": 2,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml0501"
+        }
+      },
+      {
+        "id": "ML-A050101",
+        "level": 3,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-050101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.484",
+      "lon": "-4.183"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

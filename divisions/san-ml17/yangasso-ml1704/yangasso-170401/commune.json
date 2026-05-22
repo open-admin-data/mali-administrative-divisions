@@ -1,0 +1,254 @@
+[
+  {
+    "id": "ML-C17040102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kazangasso",
+      "en": "Kazangasso",
+      "slug": "kazangasso-17040102"
+    },
+    "code": {
+      "id": "ML-C17040102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A170401",
+      "level": 3,
+      "name": {
+        "local": "Yangasso",
+        "en": "Yangasso",
+        "slug": "yangasso-170401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      },
+      {
+        "id": "ML1704",
+        "level": 2,
+        "name": {
+          "local": "Yangasso",
+          "en": "Yangasso",
+          "slug": "yangasso-ml1704"
+        }
+      },
+      {
+        "id": "ML-A170401",
+        "level": 3,
+        "name": {
+          "local": "Yangasso",
+          "en": "Yangasso",
+          "slug": "yangasso-170401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.073",
+      "lon": "-5.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C17040103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Korodougou",
+      "en": "Korodougou",
+      "slug": "korodougou-17040103"
+    },
+    "code": {
+      "id": "ML-C17040103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A170401",
+      "level": 3,
+      "name": {
+        "local": "Yangasso",
+        "en": "Yangasso",
+        "slug": "yangasso-170401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      },
+      {
+        "id": "ML1704",
+        "level": 2,
+        "name": {
+          "local": "Yangasso",
+          "en": "Yangasso",
+          "slug": "yangasso-ml1704"
+        }
+      },
+      {
+        "id": "ML-A170401",
+        "level": 3,
+        "name": {
+          "local": "Yangasso",
+          "en": "Yangasso",
+          "slug": "yangasso-170401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.073",
+      "lon": "-5.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C17040104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Koulandougou",
+      "en": "Koulandougou",
+      "slug": "koulandougou-17040104"
+    },
+    "code": {
+      "id": "ML-C17040104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A170401",
+      "level": 3,
+      "name": {
+        "local": "Yangasso",
+        "en": "Yangasso",
+        "slug": "yangasso-170401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      },
+      {
+        "id": "ML1704",
+        "level": 2,
+        "name": {
+          "local": "Yangasso",
+          "en": "Yangasso",
+          "slug": "yangasso-ml1704"
+        }
+      },
+      {
+        "id": "ML-A170401",
+        "level": 3,
+        "name": {
+          "local": "Yangasso",
+          "en": "Yangasso",
+          "slug": "yangasso-170401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.073",
+      "lon": "-5.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C17040101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Yangasso",
+      "en": "Yangasso",
+      "slug": "yangasso-17040101"
+    },
+    "code": {
+      "id": "ML-C17040101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A170401",
+      "level": 3,
+      "name": {
+        "local": "Yangasso",
+        "en": "Yangasso",
+        "slug": "yangasso-170401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      },
+      {
+        "id": "ML1704",
+        "level": 2,
+        "name": {
+          "local": "Yangasso",
+          "en": "Yangasso",
+          "slug": "yangasso-ml1704"
+        }
+      },
+      {
+        "id": "ML-A170401",
+        "level": 3,
+        "name": {
+          "local": "Yangasso",
+          "en": "Yangasso",
+          "slug": "yangasso-170401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.073",
+      "lon": "-5.321"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

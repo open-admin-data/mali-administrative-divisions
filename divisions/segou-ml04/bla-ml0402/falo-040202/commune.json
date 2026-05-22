@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C04020201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Falo",
+      "en": "Falo",
+      "slug": "falo-04020201"
+    },
+    "code": {
+      "id": "ML-C04020201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040202",
+      "level": 3,
+      "name": {
+        "local": "Falo",
+        "en": "Falo",
+        "slug": "falo-040202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0402",
+        "level": 2,
+        "name": {
+          "local": "Bla",
+          "en": "Bla",
+          "slug": "bla-ml0402"
+        }
+      },
+      {
+        "id": "ML-A040202",
+        "level": 3,
+        "name": {
+          "local": "Falo",
+          "en": "Falo",
+          "slug": "falo-040202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.95",
+      "lon": "-5.76"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

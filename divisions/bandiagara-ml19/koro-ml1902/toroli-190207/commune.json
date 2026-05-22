@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C19020701",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dougouténé I",
+      "en": "Dougouténé I",
+      "slug": "dougoutn-i-19020701"
+    },
+    "code": {
+      "id": "ML-C19020701",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190207",
+      "level": 3,
+      "name": {
+        "local": "Toroli",
+        "en": "Toroli",
+        "slug": "toroli-190207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1902",
+        "level": 2,
+        "name": {
+          "local": "Koro",
+          "en": "Koro",
+          "slug": "koro-ml1902"
+        }
+      },
+      {
+        "id": "ML-A190207",
+        "level": 3,
+        "name": {
+          "local": "Toroli",
+          "en": "Toroli",
+          "slug": "toroli-190207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.627",
+      "lon": "-7.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C19020702",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dougouténé II",
+      "en": "Dougouténé II",
+      "slug": "dougoutn-ii-19020702"
+    },
+    "code": {
+      "id": "ML-C19020702",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190207",
+      "level": 3,
+      "name": {
+        "local": "Toroli",
+        "en": "Toroli",
+        "slug": "toroli-190207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1902",
+        "level": 2,
+        "name": {
+          "local": "Koro",
+          "en": "Koro",
+          "slug": "koro-ml1902"
+        }
+      },
+      {
+        "id": "ML-A190207",
+        "level": 3,
+        "name": {
+          "local": "Toroli",
+          "en": "Toroli",
+          "slug": "toroli-190207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.627",
+      "lon": "-7.984"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

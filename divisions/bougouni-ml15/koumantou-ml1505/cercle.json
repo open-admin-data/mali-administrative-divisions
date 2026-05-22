@@ -1,0 +1,48 @@
+{
+  "id": "ML1505",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Koumantou",
+    "en": "Koumantou",
+    "slug": "koumantou-ml1505"
+  },
+  "code": {
+    "id": "ML1505",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML15",
+    "level": 1,
+    "name": {
+      "local": "Bougouni",
+      "en": "Bougouni",
+      "slug": "bougouni-ml15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML15",
+      "level": 1,
+      "name": {
+        "local": "Bougouni",
+        "en": "Bougouni",
+        "slug": "bougouni-ml15"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 2,
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.406",
+    "lon": "-6.85"
+  },
+  "metadata": {},
+  "source": {}
+}

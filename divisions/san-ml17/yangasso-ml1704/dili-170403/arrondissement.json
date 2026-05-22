@@ -1,0 +1,56 @@
+{
+  "id": "ML-A170403",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Diéli",
+    "en": "Diéli",
+    "slug": "dili-170403"
+  },
+  "code": {
+    "id": "ML-A170403",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1704",
+    "level": 2,
+    "name": {
+      "local": "Yangasso",
+      "en": "Yangasso",
+      "slug": "yangasso-ml1704"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML17",
+      "level": 1,
+      "name": {
+        "local": "San",
+        "en": "San",
+        "slug": "san-ml17"
+      }
+    },
+    {
+      "id": "ML1704",
+      "level": 2,
+      "name": {
+        "local": "Yangasso",
+        "en": "Yangasso",
+        "slug": "yangasso-ml1704"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.073",
+    "lon": "-5.321"
+  },
+  "metadata": {},
+  "source": {}
+}

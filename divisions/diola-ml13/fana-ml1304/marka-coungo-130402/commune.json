@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C13040203",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Diouman",
+      "en": "Diouman",
+      "slug": "diouman-13040203"
+    },
+    "code": {
+      "id": "ML-C13040203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A130402",
+      "level": 3,
+      "name": {
+        "local": "Marka-Coungo",
+        "en": "Marka-Coungo",
+        "slug": "marka-coungo-130402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML13",
+        "level": 1,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioïla",
+          "slug": "diola-ml13"
+        }
+      },
+      {
+        "id": "ML1304",
+        "level": 2,
+        "name": {
+          "local": "Fana",
+          "en": "Fana",
+          "slug": "fana-ml1304"
+        }
+      },
+      {
+        "id": "ML-A130402",
+        "level": 3,
+        "name": {
+          "local": "Marka-Coungo",
+          "en": "Marka-Coungo",
+          "slug": "marka-coungo-130402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.779",
+      "lon": "-6.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C13040202",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ténindougou",
+      "en": "Ténindougou",
+      "slug": "tnindougou-13040202"
+    },
+    "code": {
+      "id": "ML-C13040202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A130402",
+      "level": 3,
+      "name": {
+        "local": "Marka-Coungo",
+        "en": "Marka-Coungo",
+        "slug": "marka-coungo-130402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML13",
+        "level": 1,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioïla",
+          "slug": "diola-ml13"
+        }
+      },
+      {
+        "id": "ML1304",
+        "level": 2,
+        "name": {
+          "local": "Fana",
+          "en": "Fana",
+          "slug": "fana-ml1304"
+        }
+      },
+      {
+        "id": "ML-A130402",
+        "level": 3,
+        "name": {
+          "local": "Marka-Coungo",
+          "en": "Marka-Coungo",
+          "slug": "marka-coungo-130402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.779",
+      "lon": "-6.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C13040201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zan Coulibaly",
+      "en": "Zan Coulibaly",
+      "slug": "zan-coulibaly-13040201"
+    },
+    "code": {
+      "id": "ML-C13040201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A130402",
+      "level": 3,
+      "name": {
+        "local": "Marka-Coungo",
+        "en": "Marka-Coungo",
+        "slug": "marka-coungo-130402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML13",
+        "level": 1,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioïla",
+          "slug": "diola-ml13"
+        }
+      },
+      {
+        "id": "ML1304",
+        "level": 2,
+        "name": {
+          "local": "Fana",
+          "en": "Fana",
+          "slug": "fana-ml1304"
+        }
+      },
+      {
+        "id": "ML-A130402",
+        "level": 3,
+        "name": {
+          "local": "Marka-Coungo",
+          "en": "Marka-Coungo",
+          "slug": "marka-coungo-130402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.779",
+      "lon": "-6.956"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

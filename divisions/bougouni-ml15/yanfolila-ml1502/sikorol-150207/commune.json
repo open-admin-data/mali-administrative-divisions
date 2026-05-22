@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C15020701",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Séré Moussa Ani Samou de Siékorolé",
+      "en": "Séré Moussa Ani Samou de Siékorolé",
+      "slug": "sr-moussa-ani-samou-de-sikorol-15020701"
+    },
+    "code": {
+      "id": "ML-C15020701",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150207",
+      "level": 3,
+      "name": {
+        "local": "Siékorolé",
+        "en": "Siékorolé",
+        "slug": "sikorol-150207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1502",
+        "level": 2,
+        "name": {
+          "local": "Yanfolila",
+          "en": "Yanfolila",
+          "slug": "yanfolila-ml1502"
+        }
+      },
+      {
+        "id": "ML-A150207",
+        "level": 3,
+        "name": {
+          "local": "Siékorolé",
+          "en": "Siékorolé",
+          "slug": "sikorol-150207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.183",
+      "lon": "-8.15"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

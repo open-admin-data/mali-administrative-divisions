@@ -1,0 +1,56 @@
+{
+  "id": "ML-A010502",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Diboli",
+    "en": "Diboli",
+    "slug": "diboli-010502"
+  },
+  "code": {
+    "id": "ML-A010502",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0105",
+    "level": 2,
+    "name": {
+      "local": "Ambidédi",
+      "en": "Ambididi",
+      "slug": "ambididi-ml0105"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML01",
+      "level": 1,
+      "name": {
+        "local": "Kayes",
+        "en": "Kayes",
+        "slug": "kayes-ml01"
+      }
+    },
+    {
+      "id": "ML0105",
+      "level": 2,
+      "name": {
+        "local": "Ambidédi",
+        "en": "Ambididi",
+        "slug": "ambididi-ml0105"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.586",
+    "lon": "-11.791"
+  },
+  "metadata": {},
+  "source": {}
+}

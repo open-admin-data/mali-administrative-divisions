@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C12040201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kobri",
+      "en": "Kobri",
+      "slug": "kobri-12040201"
+    },
+    "code": {
+      "id": "ML-C12040201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120402",
+      "level": 3,
+      "name": {
+        "local": "Kobri",
+        "en": "Kobri",
+        "slug": "kobri-120402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1204",
+        "level": 2,
+        "name": {
+          "local": "Toukoto",
+          "en": "Toukoto",
+          "slug": "toukoto-ml1204"
+        }
+      },
+      {
+        "id": "ML-A120402",
+        "level": 3,
+        "name": {
+          "local": "Kobri",
+          "en": "Kobri",
+          "slug": "kobri-120402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.065",
+      "lon": "-9.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C12040202",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Niantanso",
+      "en": "Niantanso",
+      "slug": "niantanso-12040202"
+    },
+    "code": {
+      "id": "ML-C12040202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120402",
+      "level": 3,
+      "name": {
+        "local": "Kobri",
+        "en": "Kobri",
+        "slug": "kobri-120402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1204",
+        "level": 2,
+        "name": {
+          "local": "Toukoto",
+          "en": "Toukoto",
+          "slug": "toukoto-ml1204"
+        }
+      },
+      {
+        "id": "ML-A120402",
+        "level": 3,
+        "name": {
+          "local": "Kobri",
+          "en": "Kobri",
+          "slug": "kobri-120402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.065",
+      "lon": "-9.981"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

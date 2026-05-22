@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C15080201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nangalasso",
+      "en": "Nangalasso",
+      "slug": "nangalasso-15080201"
+    },
+    "code": {
+      "id": "ML-C15080201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150802",
+      "level": 3,
+      "name": {
+        "local": "Nangalasso",
+        "en": "Nangalasso",
+        "slug": "nangalasso-150802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1508",
+        "level": 2,
+        "name": {
+          "local": "Kadiana",
+          "en": "Kadiana",
+          "slug": "kadiana-ml1508"
+        }
+      },
+      {
+        "id": "ML-A150802",
+        "level": 3,
+        "name": {
+          "local": "Nangalasso",
+          "en": "Nangalasso",
+          "slug": "nangalasso-150802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.75",
+      "lon": "-6.5"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

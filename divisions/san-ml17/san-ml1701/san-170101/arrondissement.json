@@ -1,0 +1,56 @@
+{
+  "id": "ML-A170101",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "San",
+    "en": "San",
+    "slug": "san-170101"
+  },
+  "code": {
+    "id": "ML-A170101",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1701",
+    "level": 2,
+    "name": {
+      "local": "San",
+      "en": "San",
+      "slug": "san-ml1701"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML17",
+      "level": 1,
+      "name": {
+        "local": "San",
+        "en": "San",
+        "slug": "san-ml17"
+      }
+    },
+    {
+      "id": "ML1701",
+      "level": 2,
+      "name": {
+        "local": "San",
+        "en": "San",
+        "slug": "san-ml1701"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.297",
+    "lon": "-4.896"
+  },
+  "metadata": {},
+  "source": {}
+}

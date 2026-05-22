@@ -1,0 +1,394 @@
+[
+  {
+    "id": "ML-A150203",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Doussoudiana",
+      "en": "Doussoudiana",
+      "slug": "doussoudiana-150203"
+    },
+    "code": {
+      "id": "ML-A150203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1502",
+      "level": 2,
+      "name": {
+        "local": "Yanfolila",
+        "en": "Yanfolila",
+        "slug": "yanfolila-ml1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1502",
+        "level": 2,
+        "name": {
+          "local": "Yanfolila",
+          "en": "Yanfolila",
+          "slug": "yanfolila-ml1502"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.183",
+      "lon": "-8.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A150204",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Filamana",
+      "en": "Filamana",
+      "slug": "filamana-150204"
+    },
+    "code": {
+      "id": "ML-A150204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1502",
+      "level": 2,
+      "name": {
+        "local": "Yanfolila",
+        "en": "Yanfolila",
+        "slug": "yanfolila-ml1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1502",
+        "level": 2,
+        "name": {
+          "local": "Yanfolila",
+          "en": "Yanfolila",
+          "slug": "yanfolila-ml1502"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.183",
+      "lon": "-8.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A150206",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Guéléninkoro",
+      "en": "Guéléninkoro",
+      "slug": "gulninkoro-150206"
+    },
+    "code": {
+      "id": "ML-A150206",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1502",
+      "level": 2,
+      "name": {
+        "local": "Yanfolila",
+        "en": "Yanfolila",
+        "slug": "yanfolila-ml1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1502",
+        "level": 2,
+        "name": {
+          "local": "Yanfolila",
+          "en": "Yanfolila",
+          "slug": "yanfolila-ml1502"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.183",
+      "lon": "-8.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A150202",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Kalana",
+      "en": "Kalana",
+      "slug": "kalana-150202"
+    },
+    "code": {
+      "id": "ML-A150202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1502",
+      "level": 2,
+      "name": {
+        "local": "Yanfolila",
+        "en": "Yanfolila",
+        "slug": "yanfolila-ml1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1502",
+        "level": 2,
+        "name": {
+          "local": "Yanfolila",
+          "en": "Yanfolila",
+          "slug": "yanfolila-ml1502"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.183",
+      "lon": "-8.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A150207",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Siékorolé",
+      "en": "Siékorolé",
+      "slug": "sikorol-150207"
+    },
+    "code": {
+      "id": "ML-A150207",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1502",
+      "level": 2,
+      "name": {
+        "local": "Yanfolila",
+        "en": "Yanfolila",
+        "slug": "yanfolila-ml1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1502",
+        "level": 2,
+        "name": {
+          "local": "Yanfolila",
+          "en": "Yanfolila",
+          "slug": "yanfolila-ml1502"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.183",
+      "lon": "-8.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A150201",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Yanfolila",
+      "en": "Yanfolila",
+      "slug": "yanfolila-150201"
+    },
+    "code": {
+      "id": "ML-A150201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1502",
+      "level": 2,
+      "name": {
+        "local": "Yanfolila",
+        "en": "Yanfolila",
+        "slug": "yanfolila-ml1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1502",
+        "level": 2,
+        "name": {
+          "local": "Yanfolila",
+          "en": "Yanfolila",
+          "slug": "yanfolila-ml1502"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.183",
+      "lon": "-8.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A150205",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Yorobougoula",
+      "en": "Yorobougoula",
+      "slug": "yorobougoula-150205"
+    },
+    "code": {
+      "id": "ML-A150205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1502",
+      "level": 2,
+      "name": {
+        "local": "Yanfolila",
+        "en": "Yanfolila",
+        "slug": "yanfolila-ml1502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1502",
+        "level": 2,
+        "name": {
+          "local": "Yanfolila",
+          "en": "Yanfolila",
+          "slug": "yanfolila-ml1502"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.183",
+      "lon": "-8.15"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

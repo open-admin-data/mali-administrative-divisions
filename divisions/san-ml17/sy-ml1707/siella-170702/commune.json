@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C17070201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Siadougou",
+      "en": "Siadougou",
+      "slug": "siadougou-17070201"
+    },
+    "code": {
+      "id": "ML-C17070201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A170702",
+      "level": 3,
+      "name": {
+        "local": "Siella",
+        "en": "Siella",
+        "slug": "siella-170702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      },
+      {
+        "id": "ML1707",
+        "level": 2,
+        "name": {
+          "local": "Sy",
+          "en": "Sy",
+          "slug": "sy-ml1707"
+        }
+      },
+      {
+        "id": "ML-A170702",
+        "level": 3,
+        "name": {
+          "local": "Siella",
+          "en": "Siella",
+          "slug": "siella-170702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.601",
+      "lon": "-4.976"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

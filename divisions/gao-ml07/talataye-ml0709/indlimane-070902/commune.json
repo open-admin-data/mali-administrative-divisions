@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C07090201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Indélimane",
+      "en": "Indélimane",
+      "slug": "indlimane-07090201"
+    },
+    "code": {
+      "id": "ML-C07090201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A070902",
+      "level": 3,
+      "name": {
+        "local": "Indélimane",
+        "en": "Indélimane",
+        "slug": "indlimane-070902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      },
+      {
+        "id": "ML0709",
+        "level": 2,
+        "name": {
+          "local": "Talataye",
+          "en": "Talataye",
+          "slug": "talataye-ml0709"
+        }
+      },
+      {
+        "id": "ML-A070902",
+        "level": 3,
+        "name": {
+          "local": "Indélimane",
+          "en": "Indélimane",
+          "slug": "indlimane-070902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.531",
+      "lon": "1.516"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

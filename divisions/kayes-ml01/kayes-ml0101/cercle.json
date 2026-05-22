@@ -1,0 +1,48 @@
+{
+  "id": "ML0101",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Kayes",
+    "en": "Kayes",
+    "slug": "kayes-ml0101"
+  },
+  "code": {
+    "id": "ML0101",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML01",
+    "level": 1,
+    "name": {
+      "local": "Kayes",
+      "en": "Kayes",
+      "slug": "kayes-ml01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML01",
+      "level": 1,
+      "name": {
+        "local": "Kayes",
+        "en": "Kayes",
+        "slug": "kayes-ml01"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 4,
+    "commune": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.448",
+    "lon": "-11.444"
+  },
+  "metadata": {},
+  "source": {}
+}

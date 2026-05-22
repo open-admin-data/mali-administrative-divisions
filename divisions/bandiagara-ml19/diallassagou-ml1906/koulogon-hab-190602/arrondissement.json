@@ -1,0 +1,56 @@
+{
+  "id": "ML-A190602",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Koulogon Habé",
+    "en": "Koulogon Habé",
+    "slug": "koulogon-hab-190602"
+  },
+  "code": {
+    "id": "ML-A190602",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1906",
+    "level": 2,
+    "name": {
+      "local": "Diallassagou",
+      "en": "Diallassagou",
+      "slug": "diallassagou-ml1906"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML19",
+      "level": 1,
+      "name": {
+        "local": "Bandiagara",
+        "en": "Bandiagara",
+        "slug": "bandiagara-ml19"
+      }
+    },
+    {
+      "id": "ML1906",
+      "level": 2,
+      "name": {
+        "local": "Diallassagou",
+        "en": "Diallassagou",
+        "slug": "diallassagou-ml1906"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.738",
+    "lon": "-3.626"
+  },
+  "metadata": {},
+  "source": {}
+}

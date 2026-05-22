@@ -1,0 +1,380 @@
+[
+  {
+    "id": "ML-C16030102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kafo Faboli",
+      "en": "Kafo Faboli",
+      "slug": "kafo-faboli-16030102"
+    },
+    "code": {
+      "id": "ML-C16030102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160301",
+      "level": 3,
+      "name": {
+        "local": "M'Péssoba",
+        "en": "M'Péssoba",
+        "slug": "mpssoba-160301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1603",
+        "level": 2,
+        "name": {
+          "local": "M’Péssoba",
+          "en": "M’Pessoba",
+          "slug": "mpessoba-ml1603"
+        }
+      },
+      {
+        "id": "ML-A160301",
+        "level": 3,
+        "name": {
+          "local": "M'Péssoba",
+          "en": "M'Péssoba",
+          "slug": "mpssoba-160301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.665",
+      "lon": "-5.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C16030103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Karagouana Mallé",
+      "en": "Karagouana Mallé",
+      "slug": "karagouana-mall-16030103"
+    },
+    "code": {
+      "id": "ML-C16030103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160301",
+      "level": 3,
+      "name": {
+        "local": "M'Péssoba",
+        "en": "M'Péssoba",
+        "slug": "mpssoba-160301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1603",
+        "level": 2,
+        "name": {
+          "local": "M’Péssoba",
+          "en": "M’Pessoba",
+          "slug": "mpessoba-ml1603"
+        }
+      },
+      {
+        "id": "ML-A160301",
+        "level": 3,
+        "name": {
+          "local": "M'Péssoba",
+          "en": "M'Péssoba",
+          "slug": "mpssoba-160301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.665",
+      "lon": "-5.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C16030101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "M'Pèssoba",
+      "en": "M'Pèssoba",
+      "slug": "mpssoba-16030101"
+    },
+    "code": {
+      "id": "ML-C16030101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160301",
+      "level": 3,
+      "name": {
+        "local": "M'Péssoba",
+        "en": "M'Péssoba",
+        "slug": "mpssoba-160301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1603",
+        "level": 2,
+        "name": {
+          "local": "M’Péssoba",
+          "en": "M’Pessoba",
+          "slug": "mpessoba-ml1603"
+        }
+      },
+      {
+        "id": "ML-A160301",
+        "level": 3,
+        "name": {
+          "local": "M'Péssoba",
+          "en": "M'Péssoba",
+          "slug": "mpssoba-160301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.665",
+      "lon": "-5.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C16030104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "N'Tossoni",
+      "en": "N'Tossoni",
+      "slug": "ntossoni-16030104"
+    },
+    "code": {
+      "id": "ML-C16030104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160301",
+      "level": 3,
+      "name": {
+        "local": "M'Péssoba",
+        "en": "M'Péssoba",
+        "slug": "mpssoba-160301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1603",
+        "level": 2,
+        "name": {
+          "local": "M’Péssoba",
+          "en": "M’Pessoba",
+          "slug": "mpessoba-ml1603"
+        }
+      },
+      {
+        "id": "ML-A160301",
+        "level": 3,
+        "name": {
+          "local": "M'Péssoba",
+          "en": "M'Péssoba",
+          "slug": "mpssoba-160301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.665",
+      "lon": "-5.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C16030105",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tao",
+      "en": "Tao",
+      "slug": "tao-16030105"
+    },
+    "code": {
+      "id": "ML-C16030105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160301",
+      "level": 3,
+      "name": {
+        "local": "M'Péssoba",
+        "en": "M'Péssoba",
+        "slug": "mpssoba-160301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1603",
+        "level": 2,
+        "name": {
+          "local": "M’Péssoba",
+          "en": "M’Pessoba",
+          "slug": "mpessoba-ml1603"
+        }
+      },
+      {
+        "id": "ML-A160301",
+        "level": 3,
+        "name": {
+          "local": "M'Péssoba",
+          "en": "M'Péssoba",
+          "slug": "mpssoba-160301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.665",
+      "lon": "-5.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C16030106",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zanina",
+      "en": "Zanina",
+      "slug": "zanina-16030106"
+    },
+    "code": {
+      "id": "ML-C16030106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160301",
+      "level": 3,
+      "name": {
+        "local": "M'Péssoba",
+        "en": "M'Péssoba",
+        "slug": "mpssoba-160301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1603",
+        "level": 2,
+        "name": {
+          "local": "M’Péssoba",
+          "en": "M’Pessoba",
+          "slug": "mpessoba-ml1603"
+        }
+      },
+      {
+        "id": "ML-A160301",
+        "level": 3,
+        "name": {
+          "local": "M'Péssoba",
+          "en": "M'Péssoba",
+          "slug": "mpssoba-160301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.665",
+      "lon": "-5.721"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

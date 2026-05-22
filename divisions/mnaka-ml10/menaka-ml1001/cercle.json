@@ -1,0 +1,48 @@
+{
+  "id": "ML1001",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Ménaka",
+    "en": "Menaka",
+    "slug": "menaka-ml1001"
+  },
+  "code": {
+    "id": "ML1001",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML10",
+    "level": 1,
+    "name": {
+      "local": "Ménaka",
+      "en": "Ménaka",
+      "slug": "mnaka-ml10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML10",
+      "level": 1,
+      "name": {
+        "local": "Ménaka",
+        "en": "Ménaka",
+        "slug": "mnaka-ml10"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 4,
+    "commune": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.92",
+    "lon": "2.396"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C05020301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kewa",
+      "en": "Kewa",
+      "slug": "kewa-05020301"
+    },
+    "code": {
+      "id": "ML-C05020301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050203",
+      "level": 3,
+      "name": {
+        "local": "Kouakourou",
+        "en": "Kouakourou",
+        "slug": "kouakourou-050203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0502",
+        "level": 2,
+        "name": {
+          "local": "Djenné",
+          "en": "Djenne",
+          "slug": "djenne-ml0502"
+        }
+      },
+      {
+        "id": "ML-A050203",
+        "level": 3,
+        "name": {
+          "local": "Kouakourou",
+          "en": "Kouakourou",
+          "slug": "kouakourou-050203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.906",
+      "lon": "-4.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C05020302",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Togué Mourari",
+      "en": "Togué Mourari",
+      "slug": "togu-mourari-05020302"
+    },
+    "code": {
+      "id": "ML-C05020302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050203",
+      "level": 3,
+      "name": {
+        "local": "Kouakourou",
+        "en": "Kouakourou",
+        "slug": "kouakourou-050203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0502",
+        "level": 2,
+        "name": {
+          "local": "Djenné",
+          "en": "Djenne",
+          "slug": "djenne-ml0502"
+        }
+      },
+      {
+        "id": "ML-A050203",
+        "level": 3,
+        "name": {
+          "local": "Kouakourou",
+          "en": "Kouakourou",
+          "slug": "kouakourou-050203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.906",
+      "lon": "-4.553"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

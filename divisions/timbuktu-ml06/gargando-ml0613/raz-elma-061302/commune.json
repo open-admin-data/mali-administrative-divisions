@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C06130201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Raz-El-Ma",
+      "en": "Raz-El-Ma",
+      "slug": "raz-el-ma-06130201"
+    },
+    "code": {
+      "id": "ML-C06130201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A061302",
+      "level": 3,
+      "name": {
+        "local": "Raz-Elma",
+        "en": "Raz-Elma",
+        "slug": "raz-elma-061302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0613",
+        "level": 2,
+        "name": {
+          "local": "Gargando",
+          "en": "Gargando",
+          "slug": "gargando-ml0613"
+        }
+      },
+      {
+        "id": "ML-A061302",
+        "level": 3,
+        "name": {
+          "local": "Raz-Elma",
+          "en": "Raz-Elma",
+          "slug": "raz-elma-061302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.463",
+      "lon": "-4.173"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

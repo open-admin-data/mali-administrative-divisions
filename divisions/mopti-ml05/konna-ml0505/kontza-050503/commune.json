@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C05050301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kontza",
+      "en": "Kontza",
+      "slug": "kontza-05050301"
+    },
+    "code": {
+      "id": "ML-C05050301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050503",
+      "level": 3,
+      "name": {
+        "local": "Kontza",
+        "en": "Kontza",
+        "slug": "kontza-050503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0505",
+        "level": 2,
+        "name": {
+          "local": "Konna",
+          "en": "Konna",
+          "slug": "konna-ml0505"
+        }
+      },
+      {
+        "id": "ML-A050503",
+        "level": 3,
+        "name": {
+          "local": "Kontza",
+          "en": "Kontza",
+          "slug": "kontza-050503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.944",
+      "lon": "-3.89"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

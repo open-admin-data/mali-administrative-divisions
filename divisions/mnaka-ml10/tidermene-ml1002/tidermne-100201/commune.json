@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C10020101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chiman",
+      "en": "Chiman",
+      "slug": "chiman-10020101"
+    },
+    "code": {
+      "id": "ML-C10020101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A100201",
+      "level": 3,
+      "name": {
+        "local": "Tidermène",
+        "en": "Tidermène",
+        "slug": "tidermne-100201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML10",
+        "level": 1,
+        "name": {
+          "local": "Ménaka",
+          "en": "Ménaka",
+          "slug": "mnaka-ml10"
+        }
+      },
+      {
+        "id": "ML1002",
+        "level": 2,
+        "name": {
+          "local": "Tidermène",
+          "en": "Tidermene",
+          "slug": "tidermene-ml1002"
+        }
+      },
+      {
+        "id": "ML-A100201",
+        "level": 3,
+        "name": {
+          "local": "Tidermène",
+          "en": "Tidermène",
+          "slug": "tidermne-100201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.592",
+      "lon": "2.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C10020102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Intadeyne",
+      "en": "Intadeyne",
+      "slug": "intadeyne-10020102"
+    },
+    "code": {
+      "id": "ML-C10020102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A100201",
+      "level": 3,
+      "name": {
+        "local": "Tidermène",
+        "en": "Tidermène",
+        "slug": "tidermne-100201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML10",
+        "level": 1,
+        "name": {
+          "local": "Ménaka",
+          "en": "Ménaka",
+          "slug": "mnaka-ml10"
+        }
+      },
+      {
+        "id": "ML1002",
+        "level": 2,
+        "name": {
+          "local": "Tidermène",
+          "en": "Tidermene",
+          "slug": "tidermene-ml1002"
+        }
+      },
+      {
+        "id": "ML-A100201",
+        "level": 3,
+        "name": {
+          "local": "Tidermène",
+          "en": "Tidermène",
+          "slug": "tidermne-100201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.592",
+      "lon": "2.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C10020103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tidermène",
+      "en": "Tidermène",
+      "slug": "tidermne-10020103"
+    },
+    "code": {
+      "id": "ML-C10020103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A100201",
+      "level": 3,
+      "name": {
+        "local": "Tidermène",
+        "en": "Tidermène",
+        "slug": "tidermne-100201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML10",
+        "level": 1,
+        "name": {
+          "local": "Ménaka",
+          "en": "Ménaka",
+          "slug": "mnaka-ml10"
+        }
+      },
+      {
+        "id": "ML1002",
+        "level": 2,
+        "name": {
+          "local": "Tidermène",
+          "en": "Tidermene",
+          "slug": "tidermene-ml1002"
+        }
+      },
+      {
+        "id": "ML-A100201",
+        "level": 3,
+        "name": {
+          "local": "Tidermène",
+          "en": "Tidermène",
+          "slug": "tidermne-100201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.592",
+      "lon": "2.415"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C07140301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Krefinatt",
+      "en": "Krefinatt",
+      "slug": "krefinatt-07140301"
+    },
+    "code": {
+      "id": "ML-C07140301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A071403",
+      "level": 3,
+      "name": {
+        "local": "Krefinatt",
+        "en": "Krefinatt",
+        "slug": "krefinatt-071403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      },
+      {
+        "id": "ML0714",
+        "level": 2,
+        "name": {
+          "local": "Tabankort",
+          "en": "Tabankort",
+          "slug": "tabankort-ml0714"
+        }
+      },
+      {
+        "id": "ML-A071403",
+        "level": 3,
+        "name": {
+          "local": "Krefinatt",
+          "en": "Krefinatt",
+          "slug": "krefinatt-071403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.82",
+      "lon": "0.314"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

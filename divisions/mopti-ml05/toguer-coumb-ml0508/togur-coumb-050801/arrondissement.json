@@ -1,0 +1,56 @@
+{
+  "id": "ML-A050801",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Toguéré-Coumbé",
+    "en": "Toguéré-Coumbé",
+    "slug": "togur-coumb-050801"
+  },
+  "code": {
+    "id": "ML-A050801",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0508",
+    "level": 2,
+    "name": {
+      "local": "Toguéré-Coumbé",
+      "en": "Togueré-Coumbé",
+      "slug": "toguer-coumb-ml0508"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML05",
+      "level": 1,
+      "name": {
+        "local": "Mopti",
+        "en": "Mopti",
+        "slug": "mopti-ml05"
+      }
+    },
+    {
+      "id": "ML0508",
+      "level": 2,
+      "name": {
+        "local": "Toguéré-Coumbé",
+        "en": "Togueré-Coumbé",
+        "slug": "toguer-coumb-ml0508"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.917",
+    "lon": "-4.6"
+  },
+  "metadata": {},
+  "source": {}
+}

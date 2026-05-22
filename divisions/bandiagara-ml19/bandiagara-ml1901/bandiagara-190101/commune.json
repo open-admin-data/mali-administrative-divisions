@@ -1,0 +1,254 @@
+[
+  {
+    "id": "ML-C19010101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bandiagara",
+      "en": "Bandiagara",
+      "slug": "bandiagara-19010101"
+    },
+    "code": {
+      "id": "ML-C19010101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190101",
+      "level": 3,
+      "name": {
+        "local": "Bandiagara",
+        "en": "Bandiagara",
+        "slug": "bandiagara-190101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1901",
+        "level": 2,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml1901"
+        }
+      },
+      {
+        "id": "ML-A190101",
+        "level": 3,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-190101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.35",
+      "lon": "-3.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C19010102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dandoli",
+      "en": "Dandoli",
+      "slug": "dandoli-19010102"
+    },
+    "code": {
+      "id": "ML-C19010102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190101",
+      "level": 3,
+      "name": {
+        "local": "Bandiagara",
+        "en": "Bandiagara",
+        "slug": "bandiagara-190101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1901",
+        "level": 2,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml1901"
+        }
+      },
+      {
+        "id": "ML-A190101",
+        "level": 3,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-190101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.35",
+      "lon": "-3.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C19010103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Doucombo",
+      "en": "Doucombo",
+      "slug": "doucombo-19010103"
+    },
+    "code": {
+      "id": "ML-C19010103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190101",
+      "level": 3,
+      "name": {
+        "local": "Bandiagara",
+        "en": "Bandiagara",
+        "slug": "bandiagara-190101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1901",
+        "level": 2,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml1901"
+        }
+      },
+      {
+        "id": "ML-A190101",
+        "level": 3,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-190101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.35",
+      "lon": "-3.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C19010104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soroly",
+      "en": "Soroly",
+      "slug": "soroly-19010104"
+    },
+    "code": {
+      "id": "ML-C19010104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190101",
+      "level": 3,
+      "name": {
+        "local": "Bandiagara",
+        "en": "Bandiagara",
+        "slug": "bandiagara-190101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1901",
+        "level": 2,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml1901"
+        }
+      },
+      {
+        "id": "ML-A190101",
+        "level": 3,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-190101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.35",
+      "lon": "-3.61"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

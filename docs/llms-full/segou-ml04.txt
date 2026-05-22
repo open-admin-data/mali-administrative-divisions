@@ -1,0 +1,286 @@
+# Segou — Mali Administrative Divisions
+
+> 11 circles, 28 arrondissements, 54 communes
+> Code: ML04
+> Coordinates: 13.44, -6.259
+> Last updated: 2026-05-22. License: CC-BY-4.0.
+
+## Circles
+
+### Baraoueli
+
+Code: ML0403, Coordinates: 13.039, -6.639
+Arrondissements: 0, Communes: 0
+
+### Bla
+
+Code: ML0402, Coordinates: 12.95, -5.76
+Arrondissements: 5, Communes: 11
+
+#### Bla
+
+Code: ML-A040201, Coordinates: 12.95, -5.76
+
+Communes:
+- Béguéné [ML-C04020101]
+- Bla [ML-C04020102]
+- Kéméni [ML-C04020103]
+- Niala [ML-C04020104]
+- Tiéména [ML-C04020105]
+
+#### Dougouolo
+
+Code: ML-A040205, Coordinates: 12.95, -5.76
+
+Communes:
+- Dougouolo [ML-C04020501]
+
+#### Falo
+
+Code: ML-A040202, Coordinates: 12.95, -5.76
+
+Communes:
+- Falo [ML-C04020201]
+
+#### Somasso
+
+Code: ML-A040204, Coordinates: 12.95, -5.76
+
+Communes:
+- Samabogo [ML-C04020401]
+- Somasso [ML-C04020402]
+
+#### Touna
+
+Code: ML-A040203, Coordinates: 12.95, -5.76
+
+Communes:
+- Diéna [ML-C04020301]
+- Touna [ML-C04020302]
+
+### Dioro
+
+Code: ML0406, Coordinates: 13.689, -5.831
+Arrondissements: 3, Communes: 4
+
+#### Diédougou
+
+Code: ML-A040602, Coordinates: 13.689, -5.831
+
+Communes:
+- Diédougou [ML-C04060201]
+
+#### Dioro
+
+Code: ML-A040601, Coordinates: 13.689, -5.831
+
+Communes:
+- Dioro [ML-C04060101]
+- Kamiandougou [ML-C04060102]
+
+#### Farakou Massa
+
+Code: ML-A040603, Coordinates: 13.689, -5.831
+
+Communes:
+- Farakou Massa [ML-C04060301]
+
+### Farako
+
+Code: ML0407, Coordinates: 14.943, -6.791
+Arrondissements: 2, Communes: 7
+
+#### Doura
+
+Code: ML-A040702, Coordinates: 14.943, -6.791
+
+Communes:
+- Baguindadougou [ML-C04070201]
+- Bellen [ML-C04070202]
+- N&#39;Koumandougou [ML-C04070203]
+
+#### Farako
+
+Code: ML-A040701, Coordinates: 14.943, -6.791
+
+Communes:
+- Diganidougou [ML-C04070101]
+- Farako [ML-C04070102]
+- Sama Foulala [ML-C04070103]
+- Souba [ML-C04070104]
+
+### Macina
+
+Code: ML0405, Coordinates: 14.308, -11.506
+Arrondissements: 4, Communes: 7
+
+#### Kolongotomo
+
+Code: ML-A040502, Coordinates: 14.308, -11.506
+
+Communes:
+- Boky Wèrè [ML-C04050201]
+- Kokry Centre [ML-C04050202]
+- Kolongo [ML-C04050203]
+
+#### Macina
+
+Code: ML-A040501, Coordinates: 14.308, -11.506
+
+Communes:
+- Macina [ML-C04050101]
+
+#### Monimpébougou
+
+Code: ML-A040503, Coordinates: 14.308, -11.506
+
+Communes:
+- Monimpébougou [ML-C04050301]
+
+#### Saye
+
+Code: ML-A040504, Coordinates: 14.308, -11.506
+
+Communes:
+- Matomo [ML-C04050401]
+- Sana [ML-C04050402]
+
+### Markala
+
+Code: ML0410, Coordinates: 13.816, -5.358
+Arrondissements: 3, Communes: 6
+
+#### Boussin
+
+Code: ML-A041003, Coordinates: 13.816, -5.358
+
+Communes:
+- Boussin [ML-C04100301]
+
+#### Markala
+
+Code: ML-A041001, Coordinates: 13.816, -5.358
+
+Communes:
+- Dougabougou [ML-C04100101]
+- Markala [ML-C04100102]
+- Togou [ML-C04100103]
+
+#### Sansanding
+
+Code: ML-A041002, Coordinates: 13.816, -5.358
+
+Communes:
+- Sansanding [ML-C04100201]
+- Sibila [ML-C04100202]
+
+### Nampala
+
+Code: ML0408, Coordinates: 15.281, -5.555
+Arrondissements: 4, Communes: 4
+
+#### Beïty Bimiya
+
+Code: ML-A040803, Coordinates: 15.281, -5.555
+
+Communes:
+- Beïty Bimiya [ML-C04080301]
+
+#### Diguiciré
+
+Code: ML-A040804, Coordinates: 15.281, -5.555
+
+Communes:
+- Diguiciré [ML-C04080401]
+
+#### Dioura
+
+Code: ML-A040802, Coordinates: 15.281, -5.555
+
+Communes:
+- Kareri [ML-C04080201]
+
+#### Nampala
+
+Code: ML-A040801, Coordinates: 15.281, -5.555
+
+Communes:
+- Nampalari [ML-C04080101]
+
+### Niono
+
+Code: ML0404, Coordinates: 14.251, -5.987
+Arrondissements: 2, Communes: 8
+
+#### Niono
+
+Code: ML-A040401, Coordinates: 14.251, -5.987
+
+Communes:
+- Kala Siguida [ML-C04040101]
+- Mariko [ML-C04040102]
+- Niono [ML-C04040103]
+- Siribala [ML-C04040104]
+- Sirifila-Boundy [ML-C04040105]
+- Toridaga-Ko [ML-C04040106]
+- Yèrèdon Saniona [ML-C04040107]
+
+#### Pogo
+
+Code: ML-A040402, Coordinates: 14.251, -5.987
+
+Communes:
+- Pogo [ML-C04040201]
+
+### Sarro
+
+Code: ML0411, Coordinates: 13.721, -5.239
+Arrondissements: 2, Communes: 4
+
+#### Sarro
+
+Code: ML-A041101, Coordinates: 13.721, -5.239
+
+Communes:
+- Folomana [ML-C04110101]
+- Saloba [ML-C04110102]
+- Tongué [ML-C04110103]
+
+#### Souleye
+
+Code: ML-A041102, Coordinates: 13.721, -5.239
+
+Communes:
+- Souleye [ML-C04110201]
+
+### Segou
+
+Code: ML0401, Coordinates: 13.44, -6.259
+Arrondissements: 0, Communes: 0
+
+### Sokolo
+
+Code: ML0409, Coordinates: 14.733, -6.122
+Arrondissements: 3, Communes: 3
+
+#### Diabaly
+
+Code: ML-A040903, Coordinates: 14.733, -6.122
+
+Communes:
+- Diabaly [ML-C04090301]
+
+#### Dogofry
+
+Code: ML-A040902, Coordinates: 14.733, -6.122
+
+Communes:
+- Dogofry [ML-C04090201]
+
+#### Sokolo
+
+Code: ML-A040901, Coordinates: 14.733, -6.122
+
+Communes:
+- Sokolo [ML-C04090101]
+

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C18050201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boulkessi",
+      "en": "Boulkessi",
+      "slug": "boulkessi-18050201"
+    },
+    "code": {
+      "id": "ML-C18050201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A180502",
+      "level": 3,
+      "name": {
+        "local": "Boulkessi",
+        "en": "Boulkessi",
+        "slug": "boulkessi-180502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML18",
+        "level": 1,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml18"
+        }
+      },
+      {
+        "id": "ML1805",
+        "level": 2,
+        "name": {
+          "local": "Mondoro",
+          "en": "Mondoro",
+          "slug": "mondoro-ml1805"
+        }
+      },
+      {
+        "id": "ML-A180502",
+        "level": 3,
+        "name": {
+          "local": "Boulkessi",
+          "en": "Boulkessi",
+          "slug": "boulkessi-180502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.676",
+      "lon": "-1.951"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

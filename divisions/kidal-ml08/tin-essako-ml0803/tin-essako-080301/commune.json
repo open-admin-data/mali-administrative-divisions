@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C08030101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Intadjedite",
+      "en": "Intadjedite",
+      "slug": "intadjedite-08030101"
+    },
+    "code": {
+      "id": "ML-C08030101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A080301",
+      "level": 3,
+      "name": {
+        "local": "Tin-Essako",
+        "en": "Tin-Essako",
+        "slug": "tin-essako-080301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML08",
+        "level": 1,
+        "name": {
+          "local": "Kidal",
+          "en": "Kidal",
+          "slug": "kidal-ml08"
+        }
+      },
+      {
+        "id": "ML0803",
+        "level": 2,
+        "name": {
+          "local": "Tin-Essako",
+          "en": "Tin-Essako",
+          "slug": "tin-essako-ml0803"
+        }
+      },
+      {
+        "id": "ML-A080301",
+        "level": 3,
+        "name": {
+          "local": "Tin-Essako",
+          "en": "Tin-Essako",
+          "slug": "tin-essako-080301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.451",
+      "lon": "2.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C08030102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tin-Essako",
+      "en": "Tin-Essako",
+      "slug": "tin-essako-08030102"
+    },
+    "code": {
+      "id": "ML-C08030102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A080301",
+      "level": 3,
+      "name": {
+        "local": "Tin-Essako",
+        "en": "Tin-Essako",
+        "slug": "tin-essako-080301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML08",
+        "level": 1,
+        "name": {
+          "local": "Kidal",
+          "en": "Kidal",
+          "slug": "kidal-ml08"
+        }
+      },
+      {
+        "id": "ML0803",
+        "level": 2,
+        "name": {
+          "local": "Tin-Essako",
+          "en": "Tin-Essako",
+          "slug": "tin-essako-ml0803"
+        }
+      },
+      {
+        "id": "ML-A080301",
+        "level": 3,
+        "name": {
+          "local": "Tin-Essako",
+          "en": "Tin-Essako",
+          "slug": "tin-essako-080301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.451",
+      "lon": "2.49"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

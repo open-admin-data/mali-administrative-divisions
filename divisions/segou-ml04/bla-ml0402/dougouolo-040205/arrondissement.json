@@ -1,0 +1,56 @@
+{
+  "id": "ML-A040205",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Dougouolo",
+    "en": "Dougouolo",
+    "slug": "dougouolo-040205"
+  },
+  "code": {
+    "id": "ML-A040205",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0402",
+    "level": 2,
+    "name": {
+      "local": "Bla",
+      "en": "Bla",
+      "slug": "bla-ml0402"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML04",
+      "level": 1,
+      "name": {
+        "local": "Segou",
+        "en": "Segou",
+        "slug": "segou-ml04"
+      }
+    },
+    {
+      "id": "ML0402",
+      "level": 2,
+      "name": {
+        "local": "Bla",
+        "en": "Bla",
+        "slug": "bla-ml0402"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.95",
+    "lon": "-5.76"
+  },
+  "metadata": {},
+  "source": {}
+}

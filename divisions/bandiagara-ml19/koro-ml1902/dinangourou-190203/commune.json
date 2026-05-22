@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C19020301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dinangourou",
+      "en": "Dinangourou",
+      "slug": "dinangourou-19020301"
+    },
+    "code": {
+      "id": "ML-C19020301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190203",
+      "level": 3,
+      "name": {
+        "local": "Dinangourou",
+        "en": "Dinangourou",
+        "slug": "dinangourou-190203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1902",
+        "level": 2,
+        "name": {
+          "local": "Koro",
+          "en": "Koro",
+          "slug": "koro-ml1902"
+        }
+      },
+      {
+        "id": "ML-A190203",
+        "level": 3,
+        "name": {
+          "local": "Dinangourou",
+          "en": "Dinangourou",
+          "slug": "dinangourou-190203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.627",
+      "lon": "-7.984"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

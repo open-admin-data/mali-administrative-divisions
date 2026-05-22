@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C08050101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Achibogho",
+      "en": "Achibogho",
+      "slug": "achibogho-08050101"
+    },
+    "code": {
+      "id": "ML-C08050101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A080501",
+      "level": 3,
+      "name": {
+        "local": "Achibogho",
+        "en": "Achibogho",
+        "slug": "achibogho-080501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML08",
+        "level": 1,
+        "name": {
+          "local": "Kidal",
+          "en": "Kidal",
+          "slug": "kidal-ml08"
+        }
+      },
+      {
+        "id": "ML0805",
+        "level": 2,
+        "name": {
+          "local": "Achibogho",
+          "en": "Achibogho",
+          "slug": "achibogho-ml0805"
+        }
+      },
+      {
+        "id": "ML-A080501",
+        "level": 3,
+        "name": {
+          "local": "Achibogho",
+          "en": "Achibogho",
+          "slug": "achibogho-080501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.461",
+      "lon": "1.385"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "ML1607",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Kouniana",
+    "en": "Kouniana",
+    "slug": "kouniana-ml1607"
+  },
+  "code": {
+    "id": "ML1607",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML16",
+    "level": 1,
+    "name": {
+      "local": "Koutiala",
+      "en": "Koutiala",
+      "slug": "koutiala-ml16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML16",
+      "level": 1,
+      "name": {
+        "local": "Koutiala",
+        "en": "Koutiala",
+        "slug": "koutiala-ml16"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 3,
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.568",
+    "lon": "-5.126"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C06060201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Adarmalane",
+      "en": "Adarmalane",
+      "slug": "adarmalane-06060201"
+    },
+    "code": {
+      "id": "ML-C06060201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A060602",
+      "level": 3,
+      "name": {
+        "local": "M'Bouna",
+        "en": "M'Bouna",
+        "slug": "mbouna-060602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0606",
+        "level": 2,
+        "name": {
+          "local": "Bintagoungou",
+          "en": "Bintagoungou",
+          "slug": "bintagoungou-ml0606"
+        }
+      },
+      {
+        "id": "ML-A060602",
+        "level": 3,
+        "name": {
+          "local": "M'Bouna",
+          "en": "M'Bouna",
+          "slug": "mbouna-060602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.735",
+      "lon": "-3.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C06060202",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "M'Bouna",
+      "en": "M'Bouna",
+      "slug": "mbouna-06060202"
+    },
+    "code": {
+      "id": "ML-C06060202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A060602",
+      "level": 3,
+      "name": {
+        "local": "M'Bouna",
+        "en": "M'Bouna",
+        "slug": "mbouna-060602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0606",
+        "level": 2,
+        "name": {
+          "local": "Bintagoungou",
+          "en": "Bintagoungou",
+          "slug": "bintagoungou-ml0606"
+        }
+      },
+      {
+        "id": "ML-A060602",
+        "level": 3,
+        "name": {
+          "local": "M'Bouna",
+          "en": "M'Bouna",
+          "slug": "mbouna-060602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.735",
+      "lon": "-3.735"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

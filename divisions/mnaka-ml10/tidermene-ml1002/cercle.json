@@ -1,0 +1,48 @@
+{
+  "id": "ML1002",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Tidermène",
+    "en": "Tidermene",
+    "slug": "tidermene-ml1002"
+  },
+  "code": {
+    "id": "ML1002",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML10",
+    "level": 1,
+    "name": {
+      "local": "Ménaka",
+      "en": "Ménaka",
+      "slug": "mnaka-ml10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML10",
+      "level": 1,
+      "name": {
+        "local": "Ménaka",
+        "en": "Ménaka",
+        "slug": "mnaka-ml10"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 3,
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.592",
+    "lon": "2.415"
+  },
+  "metadata": {},
+  "source": {}
+}

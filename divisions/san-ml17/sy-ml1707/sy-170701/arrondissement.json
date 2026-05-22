@@ -1,0 +1,56 @@
+{
+  "id": "ML-A170701",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Sy",
+    "en": "Sy",
+    "slug": "sy-170701"
+  },
+  "code": {
+    "id": "ML-A170701",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1707",
+    "level": 2,
+    "name": {
+      "local": "Sy",
+      "en": "Sy",
+      "slug": "sy-ml1707"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML17",
+      "level": 1,
+      "name": {
+        "local": "San",
+        "en": "San",
+        "slug": "san-ml17"
+      }
+    },
+    {
+      "id": "ML1707",
+      "level": 2,
+      "name": {
+        "local": "Sy",
+        "en": "Sy",
+        "slug": "sy-ml1707"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.601",
+    "lon": "-4.976"
+  },
+  "metadata": {},
+  "source": {}
+}

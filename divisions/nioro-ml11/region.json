@@ -1,0 +1,31 @@
+{
+  "id": "ML11",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Nioro",
+    "en": "Nioro",
+    "slug": "nioro-ml11"
+  },
+  "code": {
+    "id": "ML11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "cercle": 6,
+    "commune": 10,
+    "arrondissement": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.231",
+    "lon": "-9.594"
+  },
+  "metadata": {},
+  "source": {}
+}

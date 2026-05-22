@@ -1,0 +1,254 @@
+[
+  {
+    "id": "ML-C16070101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gouadji Kao",
+      "en": "Gouadji Kao",
+      "slug": "gouadji-kao-16070101"
+    },
+    "code": {
+      "id": "ML-C16070101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160701",
+      "level": 3,
+      "name": {
+        "local": "Kouniana",
+        "en": "Kouniana",
+        "slug": "kouniana-160701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1607",
+        "level": 2,
+        "name": {
+          "local": "Kouniana",
+          "en": "Kouniana",
+          "slug": "kouniana-ml1607"
+        }
+      },
+      {
+        "id": "ML-A160701",
+        "level": 3,
+        "name": {
+          "local": "Kouniana",
+          "en": "Kouniana",
+          "slug": "kouniana-160701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.568",
+      "lon": "-5.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C16070102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kouniana",
+      "en": "Kouniana",
+      "slug": "kouniana-16070102"
+    },
+    "code": {
+      "id": "ML-C16070102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160701",
+      "level": 3,
+      "name": {
+        "local": "Kouniana",
+        "en": "Kouniana",
+        "slug": "kouniana-160701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1607",
+        "level": 2,
+        "name": {
+          "local": "Kouniana",
+          "en": "Kouniana",
+          "slug": "kouniana-ml1607"
+        }
+      },
+      {
+        "id": "ML-A160701",
+        "level": 3,
+        "name": {
+          "local": "Kouniana",
+          "en": "Kouniana",
+          "slug": "kouniana-160701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.568",
+      "lon": "-5.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C16070103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Niantaga",
+      "en": "Niantaga",
+      "slug": "niantaga-16070103"
+    },
+    "code": {
+      "id": "ML-C16070103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160701",
+      "level": 3,
+      "name": {
+        "local": "Kouniana",
+        "en": "Kouniana",
+        "slug": "kouniana-160701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1607",
+        "level": 2,
+        "name": {
+          "local": "Kouniana",
+          "en": "Kouniana",
+          "slug": "kouniana-ml1607"
+        }
+      },
+      {
+        "id": "ML-A160701",
+        "level": 3,
+        "name": {
+          "local": "Kouniana",
+          "en": "Kouniana",
+          "slug": "kouniana-160701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.568",
+      "lon": "-5.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C16070104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zanfigué",
+      "en": "Zanfigué",
+      "slug": "zanfigu-16070104"
+    },
+    "code": {
+      "id": "ML-C16070104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160701",
+      "level": 3,
+      "name": {
+        "local": "Kouniana",
+        "en": "Kouniana",
+        "slug": "kouniana-160701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1607",
+        "level": 2,
+        "name": {
+          "local": "Kouniana",
+          "en": "Kouniana",
+          "slug": "kouniana-ml1607"
+        }
+      },
+      {
+        "id": "ML-A160701",
+        "level": 3,
+        "name": {
+          "local": "Kouniana",
+          "en": "Kouniana",
+          "slug": "kouniana-160701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.568",
+      "lon": "-5.126"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "ML0208",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Neguela",
+    "en": "Neguela",
+    "slug": "neguela-ml0208"
+  },
+  "code": {
+    "id": "ML0208",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML02",
+    "level": 1,
+    "name": {
+      "local": "Koulikoro",
+      "en": "Koulikoro",
+      "slug": "koulikoro-ml02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML02",
+      "level": 1,
+      "name": {
+        "local": "Koulikoro",
+        "en": "Koulikoro",
+        "slug": "koulikoro-ml02"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 0,
+    "commune": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.478",
+    "lon": "-5.645"
+  },
+  "metadata": {},
+  "source": {}
+}

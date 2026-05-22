@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C15080301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tiongui",
+      "en": "Tiongui",
+      "slug": "tiongui-15080301"
+    },
+    "code": {
+      "id": "ML-C15080301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150803",
+      "level": 3,
+      "name": {
+        "local": "Tiongui",
+        "en": "Tiongui",
+        "slug": "tiongui-150803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1508",
+        "level": 2,
+        "name": {
+          "local": "Kadiana",
+          "en": "Kadiana",
+          "slug": "kadiana-ml1508"
+        }
+      },
+      {
+        "id": "ML-A150803",
+        "level": 3,
+        "name": {
+          "local": "Tiongui",
+          "en": "Tiongui",
+          "slug": "tiongui-150803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.75",
+      "lon": "-6.5"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

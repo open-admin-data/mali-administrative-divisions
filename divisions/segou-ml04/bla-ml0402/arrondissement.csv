@@ -1,0 +1,6 @@
+id,name.local,name.en,name.slug,code.id,children_count.commune,geo.lat,geo.lon
+ML-A040201,Bla,Bla,bla-040201,ML-A040201,5,12.95,-5.76
+ML-A040205,Dougouolo,Dougouolo,dougouolo-040205,ML-A040205,1,12.95,-5.76
+ML-A040202,Falo,Falo,falo-040202,ML-A040202,1,12.95,-5.76
+ML-A040204,Somasso,Somasso,somasso-040204,ML-A040204,2,12.95,-5.76
+ML-A040203,Touna,Touna,touna-040203,ML-A040203,2,12.95,-5.76

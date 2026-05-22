@@ -1,0 +1,11 @@
+id,name.local,name.en,name.slug,code.id,children_count.arrondissement,children_count.commune,geo.lat,geo.lon
+ML1501,Bougouni,Bougouni,bougouni-ml1501,ML1501,4,13,16.741,-2.507
+ML1510,Dogo,Dogo,dogo-ml1510,ML1510,2,2,15.169,-4.431
+ML1509,Fakola,Fakola,fakola-ml1509,ML1509,2,3,10.533,-6.917
+ML1504,Garalo,Garalo,garalo-ml1504,ML1504,2,6,11,-7.433
+ML1508,Kadiana,Kadiana,kadiana-ml1508,ML1508,3,3,10.75,-6.5
+ML1503,Kolondièba,Kolondieba,kolondieba-ml1503,ML1503,0,0,11.089,-6.893
+ML1505,Koumantou,Koumantou,koumantou-ml1505,ML1505,2,5,11.406,-6.85
+ML1507,Ouelessebougou,Ouelessebougou,ouelessebougou-ml1507,ML1507,0,0,11.992,-7.909
+ML1506,Sélingué,Selingue,selingue-ml1506,ML1506,0,0,11.617,-8.233
+ML1502,Yanfolila,Yanfolila,yanfolila-ml1502,ML1502,7,9,11.183,-8.15

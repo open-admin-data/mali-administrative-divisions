@@ -1,0 +1,56 @@
+{
+  "id": "ML-A150104",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Faragouaran",
+    "en": "Faragouaran",
+    "slug": "faragouaran-150104"
+  },
+  "code": {
+    "id": "ML-A150104",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1501",
+    "level": 2,
+    "name": {
+      "local": "Bougouni",
+      "en": "Bougouni",
+      "slug": "bougouni-ml1501"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML15",
+      "level": 1,
+      "name": {
+        "local": "Bougouni",
+        "en": "Bougouni",
+        "slug": "bougouni-ml15"
+      }
+    },
+    {
+      "id": "ML1501",
+      "level": 2,
+      "name": {
+        "local": "Bougouni",
+        "en": "Bougouni",
+        "slug": "bougouni-ml1501"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.741",
+    "lon": "-2.507"
+  },
+  "metadata": {},
+  "source": {}
+}

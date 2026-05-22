@@ -1,0 +1,386 @@
+[
+  {
+    "id": "ML0502",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Djenné",
+      "en": "Djenne",
+      "slug": "djenne-ml0502"
+    },
+    "code": {
+      "id": "ML0502",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML05",
+      "level": 1,
+      "name": {
+        "local": "Mopti",
+        "en": "Mopti",
+        "slug": "mopti-ml05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 5,
+      "commune": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.906",
+      "lon": "-4.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0505",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Konna",
+      "en": "Konna",
+      "slug": "konna-ml0505"
+    },
+    "code": {
+      "id": "ML0505",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML05",
+      "level": 1,
+      "name": {
+        "local": "Mopti",
+        "en": "Mopti",
+        "slug": "mopti-ml05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.944",
+      "lon": "-3.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0506",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Korientzé",
+      "en": "Korientze",
+      "slug": "korientze-ml0506"
+    },
+    "code": {
+      "id": "ML0506",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML05",
+      "level": 1,
+      "name": {
+        "local": "Mopti",
+        "en": "Mopti",
+        "slug": "mopti-ml05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 4,
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.394",
+      "lon": "-3.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0501",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Mopti",
+      "en": "Mopti",
+      "slug": "mopti-ml0501"
+    },
+    "code": {
+      "id": "ML0501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML05",
+      "level": 1,
+      "name": {
+        "local": "Mopti",
+        "en": "Mopti",
+        "slug": "mopti-ml05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 7,
+      "commune": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.484",
+      "lon": "-4.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0507",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Sofara",
+      "en": "Sofara",
+      "slug": "sofara-ml0507"
+    },
+    "code": {
+      "id": "ML0507",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML05",
+      "level": 1,
+      "name": {
+        "local": "Mopti",
+        "en": "Mopti",
+        "slug": "mopti-ml05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.017",
+      "lon": "-4.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0503",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Ténenkou",
+      "en": "Tenenkou",
+      "slug": "tenenkou-ml0503"
+    },
+    "code": {
+      "id": "ML0503",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML05",
+      "level": 1,
+      "name": {
+        "local": "Mopti",
+        "en": "Mopti",
+        "slug": "mopti-ml05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 4,
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.457",
+      "lon": "-4.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0508",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Toguéré-Coumbé",
+      "en": "Togueré-Coumbé",
+      "slug": "toguer-coumb-ml0508"
+    },
+    "code": {
+      "id": "ML0508",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML05",
+      "level": 1,
+      "name": {
+        "local": "Mopti",
+        "en": "Mopti",
+        "slug": "mopti-ml05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.917",
+      "lon": "-4.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0504",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Youwarou",
+      "en": "Youwarou",
+      "slug": "youwarou-ml0504"
+    },
+    "code": {
+      "id": "ML0504",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML05",
+      "level": 1,
+      "name": {
+        "local": "Mopti",
+        "en": "Mopti",
+        "slug": "mopti-ml05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 6,
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.368",
+      "lon": "-4.263"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

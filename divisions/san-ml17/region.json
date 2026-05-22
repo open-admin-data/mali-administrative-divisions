@@ -1,0 +1,31 @@
+{
+  "id": "ML17",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "San",
+    "en": "San",
+    "slug": "san-ml17"
+  },
+  "code": {
+    "id": "ML17",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "cercle": 7,
+    "commune": 42,
+    "arrondissement": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.297",
+    "lon": "-4.896"
+  },
+  "metadata": {},
+  "source": {}
+}

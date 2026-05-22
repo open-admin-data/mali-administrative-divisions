@@ -1,0 +1,380 @@
+[
+  {
+    "id": "ML-C03040101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dialakoro",
+      "en": "Dialakoro",
+      "slug": "dialakoro-03040101"
+    },
+    "code": {
+      "id": "ML-C03040101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030401",
+      "level": 3,
+      "name": {
+        "local": "Kignan",
+        "en": "Kignan",
+        "slug": "kignan-030401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0304",
+        "level": 2,
+        "name": {
+          "local": "Kignan",
+          "en": "Kignan",
+          "slug": "kignan-ml0304"
+        }
+      },
+      {
+        "id": "ML-A030401",
+        "level": 3,
+        "name": {
+          "local": "Kignan",
+          "en": "Kignan",
+          "slug": "kignan-030401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.852",
+      "lon": "-6.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C03040102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kignan",
+      "en": "Kignan",
+      "slug": "kignan-03040102"
+    },
+    "code": {
+      "id": "ML-C03040102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030401",
+      "level": 3,
+      "name": {
+        "local": "Kignan",
+        "en": "Kignan",
+        "slug": "kignan-030401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0304",
+        "level": 2,
+        "name": {
+          "local": "Kignan",
+          "en": "Kignan",
+          "slug": "kignan-ml0304"
+        }
+      },
+      {
+        "id": "ML-A030401",
+        "level": 3,
+        "name": {
+          "local": "Kignan",
+          "en": "Kignan",
+          "slug": "kignan-030401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.852",
+      "lon": "-6.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C03040103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Koumankou",
+      "en": "Koumankou",
+      "slug": "koumankou-03040103"
+    },
+    "code": {
+      "id": "ML-C03040103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030401",
+      "level": 3,
+      "name": {
+        "local": "Kignan",
+        "en": "Kignan",
+        "slug": "kignan-030401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0304",
+        "level": 2,
+        "name": {
+          "local": "Kignan",
+          "en": "Kignan",
+          "slug": "kignan-ml0304"
+        }
+      },
+      {
+        "id": "ML-A030401",
+        "level": 3,
+        "name": {
+          "local": "Kignan",
+          "en": "Kignan",
+          "slug": "kignan-030401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.852",
+      "lon": "-6.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C03040104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kourouma",
+      "en": "Kourouma",
+      "slug": "kourouma-03040104"
+    },
+    "code": {
+      "id": "ML-C03040104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030401",
+      "level": 3,
+      "name": {
+        "local": "Kignan",
+        "en": "Kignan",
+        "slug": "kignan-030401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0304",
+        "level": 2,
+        "name": {
+          "local": "Kignan",
+          "en": "Kignan",
+          "slug": "kignan-ml0304"
+        }
+      },
+      {
+        "id": "ML-A030401",
+        "level": 3,
+        "name": {
+          "local": "Kignan",
+          "en": "Kignan",
+          "slug": "kignan-030401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.852",
+      "lon": "-6.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C03040105",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sanzana",
+      "en": "Sanzana",
+      "slug": "sanzana-03040105"
+    },
+    "code": {
+      "id": "ML-C03040105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030401",
+      "level": 3,
+      "name": {
+        "local": "Kignan",
+        "en": "Kignan",
+        "slug": "kignan-030401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0304",
+        "level": 2,
+        "name": {
+          "local": "Kignan",
+          "en": "Kignan",
+          "slug": "kignan-ml0304"
+        }
+      },
+      {
+        "id": "ML-A030401",
+        "level": 3,
+        "name": {
+          "local": "Kignan",
+          "en": "Kignan",
+          "slug": "kignan-030401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.852",
+      "lon": "-6.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C03040106",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tella",
+      "en": "Tella",
+      "slug": "tella-03040106"
+    },
+    "code": {
+      "id": "ML-C03040106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030401",
+      "level": 3,
+      "name": {
+        "local": "Kignan",
+        "en": "Kignan",
+        "slug": "kignan-030401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0304",
+        "level": 2,
+        "name": {
+          "local": "Kignan",
+          "en": "Kignan",
+          "slug": "kignan-ml0304"
+        }
+      },
+      {
+        "id": "ML-A030401",
+        "level": 3,
+        "name": {
+          "local": "Kignan",
+          "en": "Kignan",
+          "slug": "kignan-030401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.852",
+      "lon": "-6.014"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

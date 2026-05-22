@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C08010201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Essouk",
+      "en": "Essouk",
+      "slug": "essouk-08010201"
+    },
+    "code": {
+      "id": "ML-C08010201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A080102",
+      "level": 3,
+      "name": {
+        "local": "Essouk",
+        "en": "Essouk",
+        "slug": "essouk-080102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML08",
+        "level": 1,
+        "name": {
+          "local": "Kidal",
+          "en": "Kidal",
+          "slug": "kidal-ml08"
+        }
+      },
+      {
+        "id": "ML0801",
+        "level": 2,
+        "name": {
+          "local": "Kidal",
+          "en": "Kidal",
+          "slug": "kidal-ml0801"
+        }
+      },
+      {
+        "id": "ML-A080102",
+        "level": 3,
+        "name": {
+          "local": "Essouk",
+          "en": "Essouk",
+          "slug": "essouk-080102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.461",
+      "lon": "1.385"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

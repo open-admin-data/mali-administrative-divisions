@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C18030101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hombori",
+      "en": "Hombori",
+      "slug": "hombori-18030101"
+    },
+    "code": {
+      "id": "ML-C18030101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A180301",
+      "level": 3,
+      "name": {
+        "local": "Hombori",
+        "en": "Hombori",
+        "slug": "hombori-180301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML18",
+        "level": 1,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml18"
+        }
+      },
+      {
+        "id": "ML1803",
+        "level": 2,
+        "name": {
+          "local": "Hombori",
+          "en": "Hombori",
+          "slug": "hombori-ml1803"
+        }
+      },
+      {
+        "id": "ML-A180301",
+        "level": 3,
+        "name": {
+          "local": "Hombori",
+          "en": "Hombori",
+          "slug": "hombori-180301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.279",
+      "lon": "-1.7"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

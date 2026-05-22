@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C05080301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Doungoura",
+      "en": "Doungoura",
+      "slug": "doungoura-05080301"
+    },
+    "code": {
+      "id": "ML-C05080301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050803",
+      "level": 3,
+      "name": {
+        "local": "Doungoura",
+        "en": "Doungoura",
+        "slug": "doungoura-050803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0508",
+        "level": 2,
+        "name": {
+          "local": "Toguéré-Coumbé",
+          "en": "Togueré-Coumbé",
+          "slug": "toguer-coumb-ml0508"
+        }
+      },
+      {
+        "id": "ML-A050803",
+        "level": 3,
+        "name": {
+          "local": "Doungoura",
+          "en": "Doungoura",
+          "slug": "doungoura-050803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.917",
+      "lon": "-4.6"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

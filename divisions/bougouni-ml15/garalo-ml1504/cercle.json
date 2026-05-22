@@ -1,0 +1,48 @@
+{
+  "id": "ML1504",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Garalo",
+    "en": "Garalo",
+    "slug": "garalo-ml1504"
+  },
+  "code": {
+    "id": "ML1504",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML15",
+    "level": 1,
+    "name": {
+      "local": "Bougouni",
+      "en": "Bougouni",
+      "slug": "bougouni-ml15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML15",
+      "level": 1,
+      "name": {
+        "local": "Bougouni",
+        "en": "Bougouni",
+        "slug": "bougouni-ml15"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 2,
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11",
+    "lon": "-7.433"
+  },
+  "metadata": {},
+  "source": {}
+}

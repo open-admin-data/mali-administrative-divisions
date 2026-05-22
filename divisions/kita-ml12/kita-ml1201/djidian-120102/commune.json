@@ -1,0 +1,254 @@
+[
+  {
+    "id": "ML-C12010201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djidian",
+      "en": "Djidian",
+      "slug": "djidian-12010201"
+    },
+    "code": {
+      "id": "ML-C12010201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120102",
+      "level": 3,
+      "name": {
+        "local": "Djidian",
+        "en": "Djidian",
+        "slug": "djidian-120102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1201",
+        "level": 2,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml1201"
+        }
+      },
+      {
+        "id": "ML-A120102",
+        "level": 3,
+        "name": {
+          "local": "Djidian",
+          "en": "Djidian",
+          "slug": "djidian-120102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.039",
+      "lon": "-9.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C12010202",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Namala Guimbala",
+      "en": "Namala Guimbala",
+      "slug": "namala-guimbala-12010202"
+    },
+    "code": {
+      "id": "ML-C12010202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120102",
+      "level": 3,
+      "name": {
+        "local": "Djidian",
+        "en": "Djidian",
+        "slug": "djidian-120102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1201",
+        "level": 2,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml1201"
+        }
+      },
+      {
+        "id": "ML-A120102",
+        "level": 3,
+        "name": {
+          "local": "Djidian",
+          "en": "Djidian",
+          "slug": "djidian-120102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.039",
+      "lon": "-9.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C12010203",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Saboula",
+      "en": "Saboula",
+      "slug": "saboula-12010203"
+    },
+    "code": {
+      "id": "ML-C12010203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120102",
+      "level": 3,
+      "name": {
+        "local": "Djidian",
+        "en": "Djidian",
+        "slug": "djidian-120102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1201",
+        "level": 2,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml1201"
+        }
+      },
+      {
+        "id": "ML-A120102",
+        "level": 3,
+        "name": {
+          "local": "Djidian",
+          "en": "Djidian",
+          "slug": "djidian-120102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.039",
+      "lon": "-9.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C12010204",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Souransan Tomota",
+      "en": "Souransan Tomota",
+      "slug": "souransan-tomota-12010204"
+    },
+    "code": {
+      "id": "ML-C12010204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120102",
+      "level": 3,
+      "name": {
+        "local": "Djidian",
+        "en": "Djidian",
+        "slug": "djidian-120102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1201",
+        "level": 2,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml1201"
+        }
+      },
+      {
+        "id": "ML-A120102",
+        "level": 3,
+        "name": {
+          "local": "Djidian",
+          "en": "Djidian",
+          "slug": "djidian-120102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.039",
+      "lon": "-9.488"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

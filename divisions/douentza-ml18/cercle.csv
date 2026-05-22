@@ -1,0 +1,7 @@
+id,name.local,name.en,name.slug,code.id,children_count.arrondissement,children_count.commune,geo.lat,geo.lon
+ML1806,Boni,Boni,boni-ml1806,ML1806,3,3,15.077,-2.22
+ML1802,Boré,Bore,bore-ml1802,ML1802,3,3,15.133,-3.483
+ML1801,Douentza,Douentza,douentza-ml1801,ML1801,4,10,15.006,-2.952
+ML1803,Hombori,Hombori,hombori-ml1803,ML1803,2,2,15.279,-1.7
+ML1805,Mondoro,Mondoro,mondoro-ml1805,ML1805,3,3,14.676,-1.951
+ML1804,Ngouna,Ngouna,ngouna-ml1804,ML1804,0,0,13.633,-7.367

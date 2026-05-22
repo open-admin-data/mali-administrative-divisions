@@ -1,0 +1,10 @@
+id,name.local,name.en,name.slug,code.id,children_count.arrondissement,children_count.commune,geo.lat,geo.lon
+ML1901,Bandiagara,Bandiagara,bandiagara-ml1901,ML1901,4,10,14.35,-3.61
+ML1903,Bankass,Bankass,bankass-ml1903,ML1903,3,4,14.078,-3.516
+ML1906,Diallassagou,Diallassagou,diallassagou-ml1906,ML1906,2,5,13.738,-3.626
+ML1908,Kani,Kani,kani-ml1908,ML1908,4,4,12.247,-5.175
+ML1904,Kendie,Kendie,kendie-ml1904,ML1904,0,0,14.676,-3.51
+ML1902,Koro,Koro,koro-ml1902,ML1902,8,16,14.627,-7.984
+ML1905,Ningari,Ningari,ningari-ml1905,ML1905,2,4,14.662,-3.274
+ML1907,Sangha,Sangha,sangha-ml1907,ML1907,2,2,14.468,-3.306
+ML1909,Sokoura,Sokoura,sokoura-ml1909,ML1909,3,3,15.704,-4.108

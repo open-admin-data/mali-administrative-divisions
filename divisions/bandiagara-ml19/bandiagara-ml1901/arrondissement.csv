@@ -1,0 +1,5 @@
+id,name.local,name.en,name.slug,code.id,children_count.commune,geo.lat,geo.lon
+ML-A190101,Bandiagara,Bandiagara,bandiagara-190101,ML-A190101,4,14.35,-3.61
+ML-A190103,Dourou,Dourou,dourou-190103,ML-A190103,2,14.35,-3.61
+ML-A190104,Goundaka,Goundaka,goundaka-190104,ML-A190104,1,14.35,-3.61
+ML-A190102,Ouo,Ouo,ouo-190102,ML-A190102,3,14.35,-3.61

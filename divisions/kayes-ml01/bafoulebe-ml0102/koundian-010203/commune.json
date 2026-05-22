@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C01020301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Koundian",
+      "en": "Koundian",
+      "slug": "koundian-01020301"
+    },
+    "code": {
+      "id": "ML-C01020301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010203",
+      "level": 3,
+      "name": {
+        "local": "Koundian",
+        "en": "Koundian",
+        "slug": "koundian-010203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0102",
+        "level": 2,
+        "name": {
+          "local": "Bafoulabé",
+          "en": "Bafoulebe",
+          "slug": "bafoulebe-ml0102"
+        }
+      },
+      {
+        "id": "ML-A010203",
+        "level": 3,
+        "name": {
+          "local": "Koundian",
+          "en": "Koundian",
+          "slug": "koundian-010203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.808",
+      "lon": "-10.833"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

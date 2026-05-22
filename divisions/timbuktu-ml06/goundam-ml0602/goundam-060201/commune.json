@@ -1,0 +1,254 @@
+[
+  {
+    "id": "ML-C06020101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Doukouria",
+      "en": "Doukouria",
+      "slug": "doukouria-06020101"
+    },
+    "code": {
+      "id": "ML-C06020101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A060201",
+      "level": 3,
+      "name": {
+        "local": "Goundam",
+        "en": "Goundam",
+        "slug": "goundam-060201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0602",
+        "level": 2,
+        "name": {
+          "local": "Goundam",
+          "en": "Goundam",
+          "slug": "goundam-ml0602"
+        }
+      },
+      {
+        "id": "ML-A060201",
+        "level": 3,
+        "name": {
+          "local": "Goundam",
+          "en": "Goundam",
+          "slug": "goundam-060201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.415",
+      "lon": "-3.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C06020102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Goundam",
+      "en": "Goundam",
+      "slug": "goundam-06020102"
+    },
+    "code": {
+      "id": "ML-C06020102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A060201",
+      "level": 3,
+      "name": {
+        "local": "Goundam",
+        "en": "Goundam",
+        "slug": "goundam-060201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0602",
+        "level": 2,
+        "name": {
+          "local": "Goundam",
+          "en": "Goundam",
+          "slug": "goundam-ml0602"
+        }
+      },
+      {
+        "id": "ML-A060201",
+        "level": 3,
+        "name": {
+          "local": "Goundam",
+          "en": "Goundam",
+          "slug": "goundam-060201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.415",
+      "lon": "-3.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C06020103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kaneye",
+      "en": "Kaneye",
+      "slug": "kaneye-06020103"
+    },
+    "code": {
+      "id": "ML-C06020103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A060201",
+      "level": 3,
+      "name": {
+        "local": "Goundam",
+        "en": "Goundam",
+        "slug": "goundam-060201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0602",
+        "level": 2,
+        "name": {
+          "local": "Goundam",
+          "en": "Goundam",
+          "slug": "goundam-ml0602"
+        }
+      },
+      {
+        "id": "ML-A060201",
+        "level": 3,
+        "name": {
+          "local": "Goundam",
+          "en": "Goundam",
+          "slug": "goundam-060201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.415",
+      "lon": "-3.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C06020104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Télé",
+      "en": "Télé",
+      "slug": "tl-06020104"
+    },
+    "code": {
+      "id": "ML-C06020104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A060201",
+      "level": 3,
+      "name": {
+        "local": "Goundam",
+        "en": "Goundam",
+        "slug": "goundam-060201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0602",
+        "level": 2,
+        "name": {
+          "local": "Goundam",
+          "en": "Goundam",
+          "slug": "goundam-ml0602"
+        }
+      },
+      {
+        "id": "ML-A060201",
+        "level": 3,
+        "name": {
+          "local": "Goundam",
+          "en": "Goundam",
+          "slug": "goundam-060201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.415",
+      "lon": "-3.671"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

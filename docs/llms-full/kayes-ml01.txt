@@ -1,0 +1,322 @@
+# Kayes — Mali Administrative Divisions
+
+> 10 circles, 33 arrondissements, 65 communes
+> Code: ML01
+> Coordinates: 14.448, -11.444
+> Last updated: 2026-05-22. License: CC-BY-4.0.
+
+## Circles
+
+### Ambidédi (Ambididi)
+
+Code: ML0105, Coordinates: 14.586, -11.791
+Arrondissements: 2, Communes: 6
+
+#### Ambidédi
+
+Code: ML-A010501, Coordinates: 14.586, -11.791
+
+Communes:
+- Guidimakan Keri Kaffo [ML-C01050102]
+- Kéméné Tambo [ML-C01050101]
+- Sony [ML-C01050103]
+- Tafacirga [ML-C01050104]
+
+#### Diboli
+
+Code: ML-A010502, Coordinates: 14.586, -11.791
+
+Communes:
+- Falémé [ML-C01050201]
+- Fégui [ML-C01050202]
+
+### Aourou
+
+Code: ML0106, Coordinates: 14.968, -11.587
+Arrondissements: 3, Communes: 4
+
+#### Aourou
+
+Code: ML-A010601, Coordinates: 14.968, -11.587
+
+Communes:
+- Djélébou [ML-C01060101]
+- Sahel [ML-C01060102]
+
+#### Koussané
+
+Code: ML-A010602, Coordinates: 14.968, -11.587
+
+Communes:
+- Koussané [ML-C01060201]
+
+#### Téchibé
+
+Code: ML-A010603, Coordinates: 14.968, -11.587
+
+Communes:
+- Karakoro [ML-C01060301]
+
+### Bafoulabé (Bafoulebe)
+
+Code: ML0102, Coordinates: 13.808, -10.833
+Arrondissements: 5, Communes: 8
+
+#### Bafoulabé
+
+Code: ML-A010201, Coordinates: 13.808, -10.833
+
+Communes:
+- Bafoulabé [ML-C01020101]
+
+#### Bamafélé
+
+Code: ML-A010202, Coordinates: 13.808, -10.833
+
+Communes:
+- Bamafélé [ML-C01020201]
+- Diokeli [ML-C01020202]
+
+#### Koundian
+
+Code: ML-A010203, Coordinates: 13.808, -10.833
+
+Communes:
+- Koundian [ML-C01020301]
+
+#### Mahina
+
+Code: ML-A010204, Coordinates: 13.808, -10.833
+
+Communes:
+- Gounfan [ML-C01020402]
+- Mahina [ML-C01020401]
+- Niambia [ML-C01020403]
+
+#### Oualia
+
+Code: ML-A010205, Coordinates: 13.808, -10.833
+
+Communes:
+- Oualia [ML-C01020501]
+
+### Diamou
+
+Code: ML0107, Coordinates: 12.079, -7.236
+Arrondissements: 2, Communes: 2
+
+#### Diamou
+
+Code: ML-A010701, Coordinates: 12.079, -7.236
+
+Communes:
+- Diamou [ML-C01070101]
+
+#### Logo Sabouciré
+
+Code: ML-A010702, Coordinates: 12.079, -7.236
+
+Communes:
+- Logo [ML-C01070201]
+
+### Kayes
+
+Code: ML0101, Coordinates: 14.448, -11.444
+Arrondissements: 4, Communes: 11
+
+#### Diandioumbéra
+
+Code: ML-A010102, Coordinates: 14.448, -11.444
+
+Communes:
+- Séro Diamanou [ML-C01010201]
+
+#### Kayes
+
+Code: ML-A010101, Coordinates: 14.448, -11.444
+
+Communes:
+- Bangassi [ML-C01010102]
+- Colimbiné [ML-C01010103]
+- Gory Gopela [ML-C01010104]
+- Goumera [ML-C01010105]
+- Kayes [ML-C01010101]
+- Khouloum [ML-C01010106]
+- Liberté Dembaya [ML-C01010107]
+
+#### Lontou
+
+Code: ML-A010103, Coordinates: 14.448, -11.444
+
+Communes:
+- Hawa Dembaya [ML-C01010301]
+
+#### Samé
+
+Code: ML-A010104, Coordinates: 14.448, -11.444
+
+Communes:
+- Samé Diongoma [ML-C01010401]
+- Somankidy [ML-C01010402]
+
+### Kéniéba (Kenieba)
+
+Code: ML0104, Coordinates: 12.044, -8.635
+Arrondissements: 5, Communes: 11
+
+#### Dombia
+
+Code: ML-A010402, Coordinates: 12.044, -8.635
+
+Communes:
+- Baye [ML-C01040202]
+- Dombia [ML-C01040201]
+
+#### Faléa
+
+Code: ML-A010403, Coordinates: 12.044, -8.635
+
+Communes:
+- Faléa [ML-C01040301]
+
+#### Faraba
+
+Code: ML-A010404, Coordinates: 12.044, -8.635
+
+Communes:
+- Faraba [ML-C01040401]
+- Kroukoto [ML-C01040402]
+- Sagalo [ML-C01040403]
+
+#### Kassama
+
+Code: ML-A010405, Coordinates: 12.044, -8.635
+
+Communes:
+- Kassama [ML-C01040501]
+
+#### Kéniéba
+
+Code: ML-A010401, Coordinates: 12.044, -8.635
+
+Communes:
+- Dabia [ML-C01040102]
+- Guénégoré [ML-C01040103]
+- Kéniéba [ML-C01040101]
+- Sitakilly [ML-C01040104]
+
+### Oussoubidiagna
+
+Code: ML0108, Coordinates: 14.245, -10.462
+Arrondissements: 5, Communes: 5
+
+#### Diakon
+
+Code: ML-A010802, Coordinates: 14.245, -10.462
+
+Communes:
+- Diakon [ML-C01080201]
+
+#### Diallan
+
+Code: ML-A010803, Coordinates: 14.245, -10.462
+
+Communes:
+- Diallan [ML-C01080301]
+
+#### Goundara
+
+Code: ML-A010804, Coordinates: 14.245, -10.462
+
+Communes:
+- Kontela [ML-C01080401]
+
+#### Oussoubidiagna
+
+Code: ML-A010801, Coordinates: 14.245, -10.462
+
+Communes:
+- Tomora [ML-C01080101]
+
+#### Tigana
+
+Code: ML-A010805, Coordinates: 14.245, -10.462
+
+Communes:
+- Sidibéla [ML-C01080501]
+
+### Sadiola
+
+Code: ML0110, Coordinates: 13.891, -11.706
+Arrondissements: 2, Communes: 2
+
+#### Dialafara
+
+Code: ML-A011002, Coordinates: 13.891, -11.706
+
+Communes:
+- Dialafara [ML-C01100201]
+
+#### Sadiola
+
+Code: ML-A011001, Coordinates: 13.891, -11.706
+
+Communes:
+- Sadiola [ML-C01100101]
+
+### Ségala (Segala)
+
+Code: ML0109, Coordinates: 12.529, -5.732
+Arrondissements: 2, Communes: 5
+
+#### Maréna
+
+Code: ML-A010902, Coordinates: 12.529, -5.732
+
+Communes:
+- Tringa [ML-C01090201]
+
+#### Ségala
+
+Code: ML-A010901, Coordinates: 12.529, -5.732
+
+Communes:
+- Kouniakary [ML-C01090102]
+- Maréna Diombougou [ML-C01090103]
+- Marintoumania [ML-C01090104]
+- Ségala [ML-C01090101]
+
+### Yélimané (Yelimane)
+
+Code: ML0103, Coordinates: 15.119, -10.577
+Arrondissements: 3, Communes: 11
+
+#### Kirané
+
+Code: ML-A010302, Coordinates: 15.119, -10.577
+
+Communes:
+- Kirané Kaniaga [ML-C01030201]
+- Krémis [ML-C01030202]
+
+#### Tambacara
+
+Code: ML-A010303, Coordinates: 15.119, -10.577
+
+Communes:
+- Diafounou Diongaga [ML-C01030302]
+- Diafounou Gory [ML-C01030301]
+- Konsiga [ML-C01030303]
+- Marekaffo [ML-C01030304]
+
+#### Yélimané
+
+Code: ML-A010301, Coordinates: 15.119, -10.577
+
+Communes:
+- Fanga [ML-C01030102]
+- Gory [ML-C01030103]
+- Guidime [ML-C01030101]
+- Soumpou [ML-C01030105]
+- Toya [ML-C01030104]
+

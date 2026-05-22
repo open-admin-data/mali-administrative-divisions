@@ -1,0 +1,48 @@
+{
+  "id": "ML0806",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Anéfif",
+    "en": "Anefi",
+    "slug": "anefi-ml0806"
+  },
+  "code": {
+    "id": "ML0806",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML08",
+    "level": 1,
+    "name": {
+      "local": "Kidal",
+      "en": "Kidal",
+      "slug": "kidal-ml08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML08",
+      "level": 1,
+      "name": {
+        "local": "Kidal",
+        "en": "Kidal",
+        "slug": "kidal-ml08"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 3,
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.007",
+    "lon": "-0.532"
+  },
+  "metadata": {},
+  "source": {}
+}

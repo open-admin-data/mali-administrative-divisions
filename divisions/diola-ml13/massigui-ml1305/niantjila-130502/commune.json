@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C13050201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Niantjila",
+      "en": "Niantjila",
+      "slug": "niantjila-13050201"
+    },
+    "code": {
+      "id": "ML-C13050201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A130502",
+      "level": 3,
+      "name": {
+        "local": "Niantjila",
+        "en": "Niantjila",
+        "slug": "niantjila-130502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML13",
+        "level": 1,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioïla",
+          "slug": "diola-ml13"
+        }
+      },
+      {
+        "id": "ML1305",
+        "level": 2,
+        "name": {
+          "local": "Massigui",
+          "en": "Massigui",
+          "slug": "massigui-ml1305"
+        }
+      },
+      {
+        "id": "ML-A130502",
+        "level": 3,
+        "name": {
+          "local": "Niantjila",
+          "en": "Niantjila",
+          "slug": "niantjila-130502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.859",
+      "lon": "-6.771"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

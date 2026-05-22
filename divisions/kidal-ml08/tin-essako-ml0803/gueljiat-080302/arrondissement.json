@@ -1,0 +1,56 @@
+{
+  "id": "ML-A080302",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Gueljiat",
+    "en": "Gueljiat",
+    "slug": "gueljiat-080302"
+  },
+  "code": {
+    "id": "ML-A080302",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0803",
+    "level": 2,
+    "name": {
+      "local": "Tin-Essako",
+      "en": "Tin-Essako",
+      "slug": "tin-essako-ml0803"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML08",
+      "level": 1,
+      "name": {
+        "local": "Kidal",
+        "en": "Kidal",
+        "slug": "kidal-ml08"
+      }
+    },
+    {
+      "id": "ML0803",
+      "level": 2,
+      "name": {
+        "local": "Tin-Essako",
+        "en": "Tin-Essako",
+        "slug": "tin-essako-ml0803"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.451",
+    "lon": "2.49"
+  },
+  "metadata": {},
+  "source": {}
+}

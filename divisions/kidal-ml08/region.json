@@ -1,0 +1,31 @@
+{
+  "id": "ML08",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Kidal",
+    "en": "Kidal",
+    "slug": "kidal-ml08"
+  },
+  "code": {
+    "id": "ML08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "cercle": 9,
+    "commune": 30,
+    "arrondissement": 29
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.461",
+    "lon": "1.385"
+  },
+  "metadata": {},
+  "source": {}
+}

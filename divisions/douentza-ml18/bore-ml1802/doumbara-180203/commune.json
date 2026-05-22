@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C18020301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Doumbara",
+      "en": "Doumbara",
+      "slug": "doumbara-18020301"
+    },
+    "code": {
+      "id": "ML-C18020301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A180203",
+      "level": 3,
+      "name": {
+        "local": "Doumbara",
+        "en": "Doumbara",
+        "slug": "doumbara-180203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML18",
+        "level": 1,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml18"
+        }
+      },
+      {
+        "id": "ML1802",
+        "level": 2,
+        "name": {
+          "local": "Boré",
+          "en": "Bore",
+          "slug": "bore-ml1802"
+        }
+      },
+      {
+        "id": "ML-A180203",
+        "level": 3,
+        "name": {
+          "local": "Doumbara",
+          "en": "Doumbara",
+          "slug": "doumbara-180203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.133",
+      "lon": "-3.483"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

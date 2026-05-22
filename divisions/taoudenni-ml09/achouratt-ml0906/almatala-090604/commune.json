@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C09060401",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Almatla",
+      "en": "Almatla",
+      "slug": "almatla-09060401"
+    },
+    "code": {
+      "id": "ML-C09060401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A090604",
+      "level": 3,
+      "name": {
+        "local": "Almatala",
+        "en": "Almatala",
+        "slug": "almatala-090604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML09",
+        "level": 1,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml09"
+        }
+      },
+      {
+        "id": "ML0906",
+        "level": 2,
+        "name": {
+          "local": "Achouratt",
+          "en": "Achouratt",
+          "slug": "achouratt-ml0906"
+        }
+      },
+      {
+        "id": "ML-A090604",
+        "level": 3,
+        "name": {
+          "local": "Almatala",
+          "en": "Almatala",
+          "slug": "almatala-090604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-3.979"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

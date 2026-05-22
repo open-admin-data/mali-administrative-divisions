@@ -1,0 +1,48 @@
+{
+  "id": "ML1909",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Sokoura",
+    "en": "Sokoura",
+    "slug": "sokoura-ml1909"
+  },
+  "code": {
+    "id": "ML1909",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML19",
+    "level": 1,
+    "name": {
+      "local": "Bandiagara",
+      "en": "Bandiagara",
+      "slug": "bandiagara-ml19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML19",
+      "level": 1,
+      "name": {
+        "local": "Bandiagara",
+        "en": "Bandiagara",
+        "slug": "bandiagara-ml19"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 3,
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.704",
+    "lon": "-4.108"
+  },
+  "metadata": {},
+  "source": {}
+}

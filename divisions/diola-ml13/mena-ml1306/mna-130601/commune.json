@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C13060101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "N'Dlondougou",
+      "en": "N'Dlondougou",
+      "slug": "ndlondougou-13060101"
+    },
+    "code": {
+      "id": "ML-C13060101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A130601",
+      "level": 3,
+      "name": {
+        "local": "Ména",
+        "en": "Ména",
+        "slug": "mna-130601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML13",
+        "level": 1,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioïla",
+          "slug": "diola-ml13"
+        }
+      },
+      {
+        "id": "ML1306",
+        "level": 2,
+        "name": {
+          "local": "Ména",
+          "en": "Mena",
+          "slug": "mena-ml1306"
+        }
+      },
+      {
+        "id": "ML-A130601",
+        "level": 3,
+        "name": {
+          "local": "Ména",
+          "en": "Ména",
+          "slug": "mna-130601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.217",
+      "lon": "-6.204"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

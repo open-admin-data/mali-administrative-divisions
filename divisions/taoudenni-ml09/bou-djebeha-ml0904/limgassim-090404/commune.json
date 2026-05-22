@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C09040401",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Limgassim",
+      "en": "Limgassim",
+      "slug": "limgassim-09040401"
+    },
+    "code": {
+      "id": "ML-C09040401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A090404",
+      "level": 3,
+      "name": {
+        "local": "Limgassim",
+        "en": "Limgassim",
+        "slug": "limgassim-090404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML09",
+        "level": 1,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml09"
+        }
+      },
+      {
+        "id": "ML0904",
+        "level": 2,
+        "name": {
+          "local": "Boû-Djebeha",
+          "en": "Bou-Djebeha",
+          "slug": "bou-djebeha-ml0904"
+        }
+      },
+      {
+        "id": "ML-A090404",
+        "level": 3,
+        "name": {
+          "local": "Limgassim",
+          "en": "Limgassim",
+          "slug": "limgassim-090404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-3.979"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

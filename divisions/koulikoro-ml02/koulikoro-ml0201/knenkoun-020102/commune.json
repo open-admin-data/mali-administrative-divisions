@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C02010201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dinandougou",
+      "en": "Dinandougou",
+      "slug": "dinandougou-02010201"
+    },
+    "code": {
+      "id": "ML-C02010201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020102",
+      "level": 3,
+      "name": {
+        "local": "Kénenkoun",
+        "en": "Kénenkoun",
+        "slug": "knenkoun-020102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0201",
+        "level": 2,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml0201"
+        }
+      },
+      {
+        "id": "ML-A020102",
+        "level": 3,
+        "name": {
+          "local": "Kénenkoun",
+          "en": "Kénenkoun",
+          "slug": "knenkoun-020102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.863",
+      "lon": "-7.56"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

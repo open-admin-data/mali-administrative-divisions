@@ -1,0 +1,48 @@
+{
+  "id": "ML0305",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Klela",
+    "en": "Klela",
+    "slug": "klela-ml0305"
+  },
+  "code": {
+    "id": "ML0305",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML03",
+    "level": 1,
+    "name": {
+      "local": "Sikasso",
+      "en": "Sikasso",
+      "slug": "sikasso-ml03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML03",
+      "level": 1,
+      "name": {
+        "local": "Sikasso",
+        "en": "Sikasso",
+        "slug": "sikasso-ml03"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 0,
+    "commune": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.176",
+    "lon": "-5.863"
+  },
+  "metadata": {},
+  "source": {}
+}

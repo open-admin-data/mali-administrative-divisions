@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C12020301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Koulou",
+      "en": "Koulou",
+      "slug": "koulou-12020301"
+    },
+    "code": {
+      "id": "ML-C12020301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120203",
+      "level": 3,
+      "name": {
+        "local": "Balia",
+        "en": "Balia",
+        "slug": "balia-120203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1202",
+        "level": 2,
+        "name": {
+          "local": "Sagabari",
+          "en": "Sagabari",
+          "slug": "sagabari-ml1202"
+        }
+      },
+      {
+        "id": "ML-A120203",
+        "level": 3,
+        "name": {
+          "local": "Balia",
+          "en": "Balia",
+          "slug": "balia-120203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.583",
+      "lon": "-9.8"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C02040201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bougoula",
+      "en": "Bougoula",
+      "slug": "bougoula-02040201"
+    },
+    "code": {
+      "id": "ML-C02040201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020402",
+      "level": 3,
+      "name": {
+        "local": "Sanankoroba",
+        "en": "Sanankoroba",
+        "slug": "sanankoroba-020402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0204",
+        "level": 2,
+        "name": {
+          "local": "Kati",
+          "en": "Kati",
+          "slug": "kati-ml0204"
+        }
+      },
+      {
+        "id": "ML-A020402",
+        "level": 3,
+        "name": {
+          "local": "Sanankoroba",
+          "en": "Sanankoroba",
+          "slug": "sanankoroba-020402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.113",
+      "lon": "-3.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C02040203",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dialakoroba",
+      "en": "Dialakoroba",
+      "slug": "dialakoroba-02040203"
+    },
+    "code": {
+      "id": "ML-C02040203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020402",
+      "level": 3,
+      "name": {
+        "local": "Sanankoroba",
+        "en": "Sanankoroba",
+        "slug": "sanankoroba-020402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0204",
+        "level": 2,
+        "name": {
+          "local": "Kati",
+          "en": "Kati",
+          "slug": "kati-ml0204"
+        }
+      },
+      {
+        "id": "ML-A020402",
+        "level": 3,
+        "name": {
+          "local": "Sanankoroba",
+          "en": "Sanankoroba",
+          "slug": "sanankoroba-020402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.113",
+      "lon": "-3.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C02040202",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sanankoroba",
+      "en": "Sanankoroba",
+      "slug": "sanankoroba-02040202"
+    },
+    "code": {
+      "id": "ML-C02040202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020402",
+      "level": 3,
+      "name": {
+        "local": "Sanankoroba",
+        "en": "Sanankoroba",
+        "slug": "sanankoroba-020402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0204",
+        "level": 2,
+        "name": {
+          "local": "Kati",
+          "en": "Kati",
+          "slug": "kati-ml0204"
+        }
+      },
+      {
+        "id": "ML-A020402",
+        "level": 3,
+        "name": {
+          "local": "Sanankoroba",
+          "en": "Sanankoroba",
+          "slug": "sanankoroba-020402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.113",
+      "lon": "-3.733"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

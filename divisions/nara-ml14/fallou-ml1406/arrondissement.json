@@ -1,0 +1,114 @@
+[
+  {
+    "id": "ML-A140602",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Digan",
+      "en": "Digan",
+      "slug": "digan-140602"
+    },
+    "code": {
+      "id": "ML-A140602",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1406",
+      "level": 2,
+      "name": {
+        "local": "Fallou",
+        "en": "Fallou",
+        "slug": "fallou-ml1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML14",
+        "level": 1,
+        "name": {
+          "local": "Nara",
+          "en": "Nara",
+          "slug": "nara-ml14"
+        }
+      },
+      {
+        "id": "ML1406",
+        "level": 2,
+        "name": {
+          "local": "Fallou",
+          "en": "Fallou",
+          "slug": "fallou-ml1406"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.521",
+      "lon": "-4.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A140601",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Fallou",
+      "en": "Fallou",
+      "slug": "fallou-140601"
+    },
+    "code": {
+      "id": "ML-A140601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1406",
+      "level": 2,
+      "name": {
+        "local": "Fallou",
+        "en": "Fallou",
+        "slug": "fallou-ml1406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML14",
+        "level": 1,
+        "name": {
+          "local": "Nara",
+          "en": "Nara",
+          "slug": "nara-ml14"
+        }
+      },
+      {
+        "id": "ML1406",
+        "level": 2,
+        "name": {
+          "local": "Fallou",
+          "en": "Fallou",
+          "slug": "fallou-ml1406"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.521",
+      "lon": "-4.362"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

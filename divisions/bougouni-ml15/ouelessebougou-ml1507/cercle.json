@@ -1,0 +1,48 @@
+{
+  "id": "ML1507",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Ouelessebougou",
+    "en": "Ouelessebougou",
+    "slug": "ouelessebougou-ml1507"
+  },
+  "code": {
+    "id": "ML1507",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML15",
+    "level": 1,
+    "name": {
+      "local": "Bougouni",
+      "en": "Bougouni",
+      "slug": "bougouni-ml15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML15",
+      "level": 1,
+      "name": {
+        "local": "Bougouni",
+        "en": "Bougouni",
+        "slug": "bougouni-ml15"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 0,
+    "commune": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.992",
+    "lon": "-7.909"
+  },
+  "metadata": {},
+  "source": {}
+}

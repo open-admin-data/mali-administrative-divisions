@@ -1,0 +1,56 @@
+{
+  "id": "ML-A190201",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Koro",
+    "en": "Koro",
+    "slug": "koro-190201"
+  },
+  "code": {
+    "id": "ML-A190201",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1902",
+    "level": 2,
+    "name": {
+      "local": "Koro",
+      "en": "Koro",
+      "slug": "koro-ml1902"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML19",
+      "level": 1,
+      "name": {
+        "local": "Bandiagara",
+        "en": "Bandiagara",
+        "slug": "bandiagara-ml19"
+      }
+    },
+    {
+      "id": "ML1902",
+      "level": 2,
+      "name": {
+        "local": "Koro",
+        "en": "Koro",
+        "slug": "koro-ml1902"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.627",
+    "lon": "-7.984"
+  },
+  "metadata": {},
+  "source": {}
+}

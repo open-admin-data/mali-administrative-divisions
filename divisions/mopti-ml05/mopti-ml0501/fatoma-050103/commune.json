@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C05010301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bassirou",
+      "en": "Bassirou",
+      "slug": "bassirou-05010301"
+    },
+    "code": {
+      "id": "ML-C05010301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050103",
+      "level": 3,
+      "name": {
+        "local": "Fatoma",
+        "en": "Fatoma",
+        "slug": "fatoma-050103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0501",
+        "level": 2,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml0501"
+        }
+      },
+      {
+        "id": "ML-A050103",
+        "level": 3,
+        "name": {
+          "local": "Fatoma",
+          "en": "Fatoma",
+          "slug": "fatoma-050103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.484",
+      "lon": "-4.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C05010302",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fatoma",
+      "en": "Fatoma",
+      "slug": "fatoma-05010302"
+    },
+    "code": {
+      "id": "ML-C05010302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050103",
+      "level": 3,
+      "name": {
+        "local": "Fatoma",
+        "en": "Fatoma",
+        "slug": "fatoma-050103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0501",
+        "level": 2,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml0501"
+        }
+      },
+      {
+        "id": "ML-A050103",
+        "level": 3,
+        "name": {
+          "local": "Fatoma",
+          "en": "Fatoma",
+          "slug": "fatoma-050103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.484",
+      "lon": "-4.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C05010303",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kounari",
+      "en": "Kounari",
+      "slug": "kounari-05010303"
+    },
+    "code": {
+      "id": "ML-C05010303",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050103",
+      "level": 3,
+      "name": {
+        "local": "Fatoma",
+        "en": "Fatoma",
+        "slug": "fatoma-050103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0501",
+        "level": 2,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml0501"
+        }
+      },
+      {
+        "id": "ML-A050103",
+        "level": 3,
+        "name": {
+          "local": "Fatoma",
+          "en": "Fatoma",
+          "slug": "fatoma-050103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.484",
+      "lon": "-4.183"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

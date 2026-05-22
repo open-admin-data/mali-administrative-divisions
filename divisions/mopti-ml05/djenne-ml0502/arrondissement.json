@@ -1,0 +1,282 @@
+[
+  {
+    "id": "ML-A050201",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Djenné",
+      "en": "Djenné",
+      "slug": "djenn-050201"
+    },
+    "code": {
+      "id": "ML-A050201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0502",
+      "level": 2,
+      "name": {
+        "local": "Djenné",
+        "en": "Djenne",
+        "slug": "djenne-ml0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0502",
+        "level": 2,
+        "name": {
+          "local": "Djenné",
+          "en": "Djenne",
+          "slug": "djenne-ml0502"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.906",
+      "lon": "-4.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A050202",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Konio",
+      "en": "Konio",
+      "slug": "konio-050202"
+    },
+    "code": {
+      "id": "ML-A050202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0502",
+      "level": 2,
+      "name": {
+        "local": "Djenné",
+        "en": "Djenne",
+        "slug": "djenne-ml0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0502",
+        "level": 2,
+        "name": {
+          "local": "Djenné",
+          "en": "Djenne",
+          "slug": "djenne-ml0502"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.906",
+      "lon": "-4.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A050203",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Kouakourou",
+      "en": "Kouakourou",
+      "slug": "kouakourou-050203"
+    },
+    "code": {
+      "id": "ML-A050203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0502",
+      "level": 2,
+      "name": {
+        "local": "Djenné",
+        "en": "Djenne",
+        "slug": "djenne-ml0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0502",
+        "level": 2,
+        "name": {
+          "local": "Djenné",
+          "en": "Djenne",
+          "slug": "djenne-ml0502"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.906",
+      "lon": "-4.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A050204",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Mougna",
+      "en": "Mougna",
+      "slug": "mougna-050204"
+    },
+    "code": {
+      "id": "ML-A050204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0502",
+      "level": 2,
+      "name": {
+        "local": "Djenné",
+        "en": "Djenne",
+        "slug": "djenne-ml0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0502",
+        "level": 2,
+        "name": {
+          "local": "Djenné",
+          "en": "Djenne",
+          "slug": "djenne-ml0502"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.906",
+      "lon": "-4.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A050205",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Taga",
+      "en": "Taga",
+      "slug": "taga-050205"
+    },
+    "code": {
+      "id": "ML-A050205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0502",
+      "level": 2,
+      "name": {
+        "local": "Djenné",
+        "en": "Djenne",
+        "slug": "djenne-ml0502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0502",
+        "level": 2,
+        "name": {
+          "local": "Djenné",
+          "en": "Djenne",
+          "slug": "djenne-ml0502"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.906",
+      "lon": "-4.553"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

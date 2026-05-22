@@ -1,0 +1,31 @@
+{
+  "id": "ML01",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Kayes",
+    "en": "Kayes",
+    "slug": "kayes-ml01"
+  },
+  "code": {
+    "id": "ML01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "cercle": 10,
+    "commune": 65,
+    "arrondissement": 33
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.448",
+    "lon": "-11.444"
+  },
+  "metadata": {},
+  "source": {}
+}

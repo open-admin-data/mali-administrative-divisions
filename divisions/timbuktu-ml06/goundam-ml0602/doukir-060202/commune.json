@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C06020201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Douékiré",
+      "en": "Douékiré",
+      "slug": "doukir-06020201"
+    },
+    "code": {
+      "id": "ML-C06020201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A060202",
+      "level": 3,
+      "name": {
+        "local": "Douékiré",
+        "en": "Douékiré",
+        "slug": "doukir-060202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0602",
+        "level": 2,
+        "name": {
+          "local": "Goundam",
+          "en": "Goundam",
+          "slug": "goundam-ml0602"
+        }
+      },
+      {
+        "id": "ML-A060202",
+        "level": 3,
+        "name": {
+          "local": "Douékiré",
+          "en": "Douékiré",
+          "slug": "doukir-060202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.415",
+      "lon": "-3.671"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C06130301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Alzounoub",
+      "en": "Alzounoub",
+      "slug": "alzounoub-06130301"
+    },
+    "code": {
+      "id": "ML-C06130301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A061303",
+      "level": 3,
+      "name": {
+        "local": "Tilemsi",
+        "en": "Tilemsi",
+        "slug": "tilemsi-061303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0613",
+        "level": 2,
+        "name": {
+          "local": "Gargando",
+          "en": "Gargando",
+          "slug": "gargando-ml0613"
+        }
+      },
+      {
+        "id": "ML-A061303",
+        "level": 3,
+        "name": {
+          "local": "Tilemsi",
+          "en": "Tilemsi",
+          "slug": "tilemsi-061303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.463",
+      "lon": "-4.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C06130302",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tilemsi",
+      "en": "Tilemsi",
+      "slug": "tilemsi-06130302"
+    },
+    "code": {
+      "id": "ML-C06130302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A061303",
+      "level": 3,
+      "name": {
+        "local": "Tilemsi",
+        "en": "Tilemsi",
+        "slug": "tilemsi-061303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0613",
+        "level": 2,
+        "name": {
+          "local": "Gargando",
+          "en": "Gargando",
+          "slug": "gargando-ml0613"
+        }
+      },
+      {
+        "id": "ML-A061303",
+        "level": 3,
+        "name": {
+          "local": "Tilemsi",
+          "en": "Tilemsi",
+          "slug": "tilemsi-061303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.463",
+      "lon": "-4.173"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

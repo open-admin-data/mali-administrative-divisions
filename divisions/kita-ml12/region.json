@@ -1,0 +1,31 @@
+{
+  "id": "ML12",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Kita",
+    "en": "Kita",
+    "slug": "kita-ml12"
+  },
+  "code": {
+    "id": "ML12",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "cercle": 6,
+    "commune": 33,
+    "arrondissement": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.039",
+    "lon": "-9.488"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "ML-C15040102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bladié-Tiémala",
+      "en": "Bladié-Tiémala",
+      "slug": "bladi-timala-15040102"
+    },
+    "code": {
+      "id": "ML-C15040102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150401",
+      "level": 3,
+      "name": {
+        "local": "Garalo",
+        "en": "Garalo",
+        "slug": "garalo-150401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1504",
+        "level": 2,
+        "name": {
+          "local": "Garalo",
+          "en": "Garalo",
+          "slug": "garalo-ml1504"
+        }
+      },
+      {
+        "id": "ML-A150401",
+        "level": 3,
+        "name": {
+          "local": "Garalo",
+          "en": "Garalo",
+          "slug": "garalo-150401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11",
+      "lon": "-7.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C15040103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Défina",
+      "en": "Défina",
+      "slug": "dfina-15040103"
+    },
+    "code": {
+      "id": "ML-C15040103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150401",
+      "level": 3,
+      "name": {
+        "local": "Garalo",
+        "en": "Garalo",
+        "slug": "garalo-150401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1504",
+        "level": 2,
+        "name": {
+          "local": "Garalo",
+          "en": "Garalo",
+          "slug": "garalo-ml1504"
+        }
+      },
+      {
+        "id": "ML-A150401",
+        "level": 3,
+        "name": {
+          "local": "Garalo",
+          "en": "Garalo",
+          "slug": "garalo-150401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11",
+      "lon": "-7.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C15040101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Garalo",
+      "en": "Garalo",
+      "slug": "garalo-15040101"
+    },
+    "code": {
+      "id": "ML-C15040101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150401",
+      "level": 3,
+      "name": {
+        "local": "Garalo",
+        "en": "Garalo",
+        "slug": "garalo-150401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1504",
+        "level": 2,
+        "name": {
+          "local": "Garalo",
+          "en": "Garalo",
+          "slug": "garalo-ml1504"
+        }
+      },
+      {
+        "id": "ML-A150401",
+        "level": 3,
+        "name": {
+          "local": "Garalo",
+          "en": "Garalo",
+          "slug": "garalo-150401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11",
+      "lon": "-7.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C15040104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Yiridougou",
+      "en": "Yiridougou",
+      "slug": "yiridougou-15040104"
+    },
+    "code": {
+      "id": "ML-C15040104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150401",
+      "level": 3,
+      "name": {
+        "local": "Garalo",
+        "en": "Garalo",
+        "slug": "garalo-150401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1504",
+        "level": 2,
+        "name": {
+          "local": "Garalo",
+          "en": "Garalo",
+          "slug": "garalo-ml1504"
+        }
+      },
+      {
+        "id": "ML-A150401",
+        "level": 3,
+        "name": {
+          "local": "Garalo",
+          "en": "Garalo",
+          "slug": "garalo-150401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11",
+      "lon": "-7.433"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "ML1405",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Guiré",
+    "en": "Guire",
+    "slug": "guire-ml1405"
+  },
+  "code": {
+    "id": "ML1405",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML14",
+    "level": 1,
+    "name": {
+      "local": "Nara",
+      "en": "Nara",
+      "slug": "nara-ml14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML14",
+      "level": 1,
+      "name": {
+        "local": "Nara",
+        "en": "Nara",
+        "slug": "nara-ml14"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 2,
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.643",
+    "lon": "-6.691"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C19050201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Métoumou",
+      "en": "Métoumou",
+      "slug": "mtoumou-19050201"
+    },
+    "code": {
+      "id": "ML-C19050201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190502",
+      "level": 3,
+      "name": {
+        "local": "Métoumou",
+        "en": "Métoumou",
+        "slug": "mtoumou-190502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1905",
+        "level": 2,
+        "name": {
+          "local": "Ningari",
+          "en": "Ningari",
+          "slug": "ningari-ml1905"
+        }
+      },
+      {
+        "id": "ML-A190502",
+        "level": 3,
+        "name": {
+          "local": "Métoumou",
+          "en": "Métoumou",
+          "slug": "mtoumou-190502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.662",
+      "lon": "-3.274"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

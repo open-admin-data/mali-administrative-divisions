@@ -1,0 +1,48 @@
+{
+  "id": "ML0409",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Sokolo",
+    "en": "Sokolo",
+    "slug": "sokolo-ml0409"
+  },
+  "code": {
+    "id": "ML0409",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML04",
+    "level": 1,
+    "name": {
+      "local": "Segou",
+      "en": "Segou",
+      "slug": "segou-ml04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML04",
+      "level": 1,
+      "name": {
+        "local": "Segou",
+        "en": "Segou",
+        "slug": "segou-ml04"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 3,
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.733",
+    "lon": "-6.122"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C04110101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Folomana",
+      "en": "Folomana",
+      "slug": "folomana-04110101"
+    },
+    "code": {
+      "id": "ML-C04110101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A041101",
+      "level": 3,
+      "name": {
+        "local": "Sarro",
+        "en": "Sarro",
+        "slug": "sarro-041101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0411",
+        "level": 2,
+        "name": {
+          "local": "Sarro",
+          "en": "Sarro",
+          "slug": "sarro-ml0411"
+        }
+      },
+      {
+        "id": "ML-A041101",
+        "level": 3,
+        "name": {
+          "local": "Sarro",
+          "en": "Sarro",
+          "slug": "sarro-041101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.721",
+      "lon": "-5.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C04110102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Saloba",
+      "en": "Saloba",
+      "slug": "saloba-04110102"
+    },
+    "code": {
+      "id": "ML-C04110102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A041101",
+      "level": 3,
+      "name": {
+        "local": "Sarro",
+        "en": "Sarro",
+        "slug": "sarro-041101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0411",
+        "level": 2,
+        "name": {
+          "local": "Sarro",
+          "en": "Sarro",
+          "slug": "sarro-ml0411"
+        }
+      },
+      {
+        "id": "ML-A041101",
+        "level": 3,
+        "name": {
+          "local": "Sarro",
+          "en": "Sarro",
+          "slug": "sarro-041101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.721",
+      "lon": "-5.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C04110103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tongué",
+      "en": "Tongué",
+      "slug": "tongu-04110103"
+    },
+    "code": {
+      "id": "ML-C04110103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A041101",
+      "level": 3,
+      "name": {
+        "local": "Sarro",
+        "en": "Sarro",
+        "slug": "sarro-041101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0411",
+        "level": 2,
+        "name": {
+          "local": "Sarro",
+          "en": "Sarro",
+          "slug": "sarro-ml0411"
+        }
+      },
+      {
+        "id": "ML-A041101",
+        "level": 3,
+        "name": {
+          "local": "Sarro",
+          "en": "Sarro",
+          "slug": "sarro-041101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.721",
+      "lon": "-5.239"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

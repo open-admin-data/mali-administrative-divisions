@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C07080201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anchawadji",
+      "en": "Anchawadji",
+      "slug": "anchawadji-07080201"
+    },
+    "code": {
+      "id": "ML-C07080201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A070802",
+      "level": 3,
+      "name": {
+        "local": "Anchawadji",
+        "en": "Anchawadji",
+        "slug": "anchawadji-070802"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      },
+      {
+        "id": "ML0708",
+        "level": 2,
+        "name": {
+          "local": "Djebock",
+          "en": "Djebock",
+          "slug": "djebock-ml0708"
+        }
+      },
+      {
+        "id": "ML-A070802",
+        "level": 3,
+        "name": {
+          "local": "Anchawadji",
+          "en": "Anchawadji",
+          "slug": "anchawadji-070802"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.343",
+      "lon": "0.278"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

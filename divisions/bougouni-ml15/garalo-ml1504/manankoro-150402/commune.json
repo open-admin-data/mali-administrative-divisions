@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C15040201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sibirila",
+      "en": "Sibirila",
+      "slug": "sibirila-15040201"
+    },
+    "code": {
+      "id": "ML-C15040201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150402",
+      "level": 3,
+      "name": {
+        "local": "Manankoro",
+        "en": "Manankoro",
+        "slug": "manankoro-150402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1504",
+        "level": 2,
+        "name": {
+          "local": "Garalo",
+          "en": "Garalo",
+          "slug": "garalo-ml1504"
+        }
+      },
+      {
+        "id": "ML-A150402",
+        "level": 3,
+        "name": {
+          "local": "Manankoro",
+          "en": "Manankoro",
+          "slug": "manankoro-150402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11",
+      "lon": "-7.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C15040202",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Yinindougou",
+      "en": "Yinindougou",
+      "slug": "yinindougou-15040202"
+    },
+    "code": {
+      "id": "ML-C15040202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150402",
+      "level": 3,
+      "name": {
+        "local": "Manankoro",
+        "en": "Manankoro",
+        "slug": "manankoro-150402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1504",
+        "level": 2,
+        "name": {
+          "local": "Garalo",
+          "en": "Garalo",
+          "slug": "garalo-ml1504"
+        }
+      },
+      {
+        "id": "ML-A150402",
+        "level": 3,
+        "name": {
+          "local": "Manankoro",
+          "en": "Manankoro",
+          "slug": "manankoro-150402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11",
+      "lon": "-7.433"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "ML-A160701",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Kouniana",
+    "en": "Kouniana",
+    "slug": "kouniana-160701"
+  },
+  "code": {
+    "id": "ML-A160701",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1607",
+    "level": 2,
+    "name": {
+      "local": "Kouniana",
+      "en": "Kouniana",
+      "slug": "kouniana-ml1607"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML16",
+      "level": 1,
+      "name": {
+        "local": "Koutiala",
+        "en": "Koutiala",
+        "slug": "koutiala-ml16"
+      }
+    },
+    {
+      "id": "ML1607",
+      "level": 2,
+      "name": {
+        "local": "Kouniana",
+        "en": "Kouniana",
+        "slug": "kouniana-ml1607"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.568",
+    "lon": "-5.126"
+  },
+  "metadata": {},
+  "source": {}
+}

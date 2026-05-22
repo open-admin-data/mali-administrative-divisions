@@ -1,0 +1,170 @@
+[
+  {
+    "id": "ML-A080501",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Achibogho",
+      "en": "Achibogho",
+      "slug": "achibogho-080501"
+    },
+    "code": {
+      "id": "ML-A080501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0805",
+      "level": 2,
+      "name": {
+        "local": "Achibogho",
+        "en": "Achibogho",
+        "slug": "achibogho-ml0805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML08",
+        "level": 1,
+        "name": {
+          "local": "Kidal",
+          "en": "Kidal",
+          "slug": "kidal-ml08"
+        }
+      },
+      {
+        "id": "ML0805",
+        "level": 2,
+        "name": {
+          "local": "Achibogho",
+          "en": "Achibogho",
+          "slug": "achibogho-ml0805"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.461",
+      "lon": "1.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A080502",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Imbulal",
+      "en": "Imbulal",
+      "slug": "imbulal-080502"
+    },
+    "code": {
+      "id": "ML-A080502",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0805",
+      "level": 2,
+      "name": {
+        "local": "Achibogho",
+        "en": "Achibogho",
+        "slug": "achibogho-ml0805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML08",
+        "level": 1,
+        "name": {
+          "local": "Kidal",
+          "en": "Kidal",
+          "slug": "kidal-ml08"
+        }
+      },
+      {
+        "id": "ML0805",
+        "level": 2,
+        "name": {
+          "local": "Achibogho",
+          "en": "Achibogho",
+          "slug": "achibogho-ml0805"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.461",
+      "lon": "1.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A080503",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Infalfalane",
+      "en": "Infalfalane",
+      "slug": "infalfalane-080503"
+    },
+    "code": {
+      "id": "ML-A080503",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0805",
+      "level": 2,
+      "name": {
+        "local": "Achibogho",
+        "en": "Achibogho",
+        "slug": "achibogho-ml0805"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML08",
+        "level": 1,
+        "name": {
+          "local": "Kidal",
+          "en": "Kidal",
+          "slug": "kidal-ml08"
+        }
+      },
+      {
+        "id": "ML0805",
+        "level": 2,
+        "name": {
+          "local": "Achibogho",
+          "en": "Achibogho",
+          "slug": "achibogho-ml0805"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.461",
+      "lon": "1.385"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

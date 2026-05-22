@@ -1,0 +1,48 @@
+{
+  "id": "ML1101",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Nioro",
+    "en": "Nioro",
+    "slug": "nioro-ml1101"
+  },
+  "code": {
+    "id": "ML1101",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML11",
+    "level": 1,
+    "name": {
+      "local": "Nioro",
+      "en": "Nioro",
+      "slug": "nioro-ml11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML11",
+      "level": 1,
+      "name": {
+        "local": "Nioro",
+        "en": "Nioro",
+        "slug": "nioro-ml11"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 4,
+    "commune": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.231",
+    "lon": "-9.594"
+  },
+  "metadata": {},
+  "source": {}
+}

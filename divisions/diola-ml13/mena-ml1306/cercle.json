@@ -1,0 +1,48 @@
+{
+  "id": "ML1306",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Ména",
+    "en": "Mena",
+    "slug": "mena-ml1306"
+  },
+  "code": {
+    "id": "ML1306",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML13",
+    "level": 1,
+    "name": {
+      "local": "Dioïla",
+      "en": "Dioïla",
+      "slug": "diola-ml13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML13",
+      "level": 1,
+      "name": {
+        "local": "Dioïla",
+        "en": "Dioïla",
+        "slug": "diola-ml13"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 2,
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.217",
+    "lon": "-6.204"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C19020201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bamba",
+      "en": "Bamba",
+      "slug": "bamba-19020201"
+    },
+    "code": {
+      "id": "ML-C19020201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190202",
+      "level": 3,
+      "name": {
+        "local": "Diankabou",
+        "en": "Diankabou",
+        "slug": "diankabou-190202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1902",
+        "level": 2,
+        "name": {
+          "local": "Koro",
+          "en": "Koro",
+          "slug": "koro-ml1902"
+        }
+      },
+      {
+        "id": "ML-A190202",
+        "level": 3,
+        "name": {
+          "local": "Diankabou",
+          "en": "Diankabou",
+          "slug": "diankabou-190202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.627",
+      "lon": "-7.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C19020202",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Diankabou",
+      "en": "Diankabou",
+      "slug": "diankabou-19020202"
+    },
+    "code": {
+      "id": "ML-C19020202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190202",
+      "level": 3,
+      "name": {
+        "local": "Diankabou",
+        "en": "Diankabou",
+        "slug": "diankabou-190202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1902",
+        "level": 2,
+        "name": {
+          "local": "Koro",
+          "en": "Koro",
+          "slug": "koro-ml1902"
+        }
+      },
+      {
+        "id": "ML-A190202",
+        "level": 3,
+        "name": {
+          "local": "Diankabou",
+          "en": "Diankabou",
+          "slug": "diankabou-190202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.627",
+      "lon": "-7.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C19020203",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Yoro",
+      "en": "Yoro",
+      "slug": "yoro-19020203"
+    },
+    "code": {
+      "id": "ML-C19020203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190202",
+      "level": 3,
+      "name": {
+        "local": "Diankabou",
+        "en": "Diankabou",
+        "slug": "diankabou-190202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1902",
+        "level": 2,
+        "name": {
+          "local": "Koro",
+          "en": "Koro",
+          "slug": "koro-ml1902"
+        }
+      },
+      {
+        "id": "ML-A190202",
+        "level": 3,
+        "name": {
+          "local": "Diankabou",
+          "en": "Diankabou",
+          "slug": "diankabou-190202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.627",
+      "lon": "-7.984"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

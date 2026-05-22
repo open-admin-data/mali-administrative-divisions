@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C09010401",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Alhank",
+      "en": "Alhank",
+      "slug": "alhank-09010401"
+    },
+    "code": {
+      "id": "ML-C09010401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A090104",
+      "level": 3,
+      "name": {
+        "local": "Alhank",
+        "en": "Alhank",
+        "slug": "alhank-090104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML09",
+        "level": 1,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml09"
+        }
+      },
+      {
+        "id": "ML0901",
+        "level": 2,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml0901"
+        }
+      },
+      {
+        "id": "ML-A090104",
+        "level": 3,
+        "name": {
+          "local": "Alhank",
+          "en": "Alhank",
+          "slug": "alhank-090104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-3.979"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

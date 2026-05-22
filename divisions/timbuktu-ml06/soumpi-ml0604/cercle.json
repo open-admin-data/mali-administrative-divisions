@@ -1,0 +1,48 @@
+{
+  "id": "ML0604",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Soumpi",
+    "en": "Soumpi",
+    "slug": "soumpi-ml0604"
+  },
+  "code": {
+    "id": "ML0604",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML06",
+    "level": 1,
+    "name": {
+      "local": "Tombouctou",
+      "en": "Timbuktu",
+      "slug": "timbuktu-ml06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML06",
+      "level": 1,
+      "name": {
+        "local": "Tombouctou",
+        "en": "Timbuktu",
+        "slug": "timbuktu-ml06"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 0,
+    "commune": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.844",
+    "lon": "-4.325"
+  },
+  "metadata": {},
+  "source": {}
+}

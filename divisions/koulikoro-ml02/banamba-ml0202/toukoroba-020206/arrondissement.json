@@ -1,0 +1,56 @@
+{
+  "id": "ML-A020206",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Toukoroba",
+    "en": "Toukoroba",
+    "slug": "toukoroba-020206"
+  },
+  "code": {
+    "id": "ML-A020206",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0202",
+    "level": 2,
+    "name": {
+      "local": "Banamba",
+      "en": "Banamba",
+      "slug": "banamba-ml0202"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML02",
+      "level": 1,
+      "name": {
+        "local": "Koulikoro",
+        "en": "Koulikoro",
+        "slug": "koulikoro-ml02"
+      }
+    },
+    {
+      "id": "ML0202",
+      "level": 2,
+      "name": {
+        "local": "Banamba",
+        "en": "Banamba",
+        "slug": "banamba-ml0202"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.548",
+    "lon": "-7.448"
+  },
+  "metadata": {},
+  "source": {}
+}

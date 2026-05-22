@@ -1,0 +1,114 @@
+[
+  {
+    "id": "ML-A130301",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Béléko",
+      "en": "Béléko",
+      "slug": "blko-130301"
+    },
+    "code": {
+      "id": "ML-A130301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1303",
+      "level": 2,
+      "name": {
+        "local": "Béléko",
+        "en": "Beleko",
+        "slug": "beleko-ml1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML13",
+        "level": 1,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioïla",
+          "slug": "diola-ml13"
+        }
+      },
+      {
+        "id": "ML1303",
+        "level": 2,
+        "name": {
+          "local": "Béléko",
+          "en": "Beleko",
+          "slug": "beleko-ml1303"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.586",
+      "lon": "-7.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A130302",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Dandougou",
+      "en": "Dandougou",
+      "slug": "dandougou-130302"
+    },
+    "code": {
+      "id": "ML-A130302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1303",
+      "level": 2,
+      "name": {
+        "local": "Béléko",
+        "en": "Beleko",
+        "slug": "beleko-ml1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML13",
+        "level": 1,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioïla",
+          "slug": "diola-ml13"
+        }
+      },
+      {
+        "id": "ML1303",
+        "level": 2,
+        "name": {
+          "local": "Béléko",
+          "en": "Beleko",
+          "slug": "beleko-ml1303"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.586",
+      "lon": "-7.631"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,9 @@
+id,name.local,name.en,name.slug,code.id,children_count.arrondissement,children_count.commune,geo.lat,geo.lon
+ML0303,Danderesso,Danderesso,danderesso-ml0303,ML0303,0,0,11.486,-5.482
+ML0302,Kadiolo,Kadiolo,kadiolo-ml0302,ML0302,4,6,10.55,-5.767
+ML0304,Kignan,Kignan,kignan-ml0304,ML0304,3,9,11.852,-6.014
+ML0305,Klela,Klela,klela-ml0305,ML0305,0,0,12.176,-5.863
+ML0306,Lobougoula,Lobougoula,lobougoula-ml0306,ML0306,2,2,11.044,-5.981
+ML0307,Loulouni,Loulouni,loulouni-ml0307,ML0307,2,3,10.9,-5.6
+ML0308,Niena,Niena,niena-ml0308,ML0308,0,0,13.632,-4.996
+ML0301,Sikasso,Sikasso,sikasso-ml0301,ML0301,2,16,11.318,-5.667

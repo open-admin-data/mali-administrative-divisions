@@ -1,0 +1,569 @@
+[
+  {
+    "id": "ML-C02040102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Diago",
+      "en": "Diago",
+      "slug": "diago-02040102"
+    },
+    "code": {
+      "id": "ML-C02040102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020401",
+      "level": 3,
+      "name": {
+        "local": "Kati",
+        "en": "Kati",
+        "slug": "kati-020401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0204",
+        "level": 2,
+        "name": {
+          "local": "Kati",
+          "en": "Kati",
+          "slug": "kati-ml0204"
+        }
+      },
+      {
+        "id": "ML-A020401",
+        "level": 3,
+        "name": {
+          "local": "Kati",
+          "en": "Kati",
+          "slug": "kati-020401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.113",
+      "lon": "-3.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C02040103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dio-Gare",
+      "en": "Dio-Gare",
+      "slug": "dio-gare-02040103"
+    },
+    "code": {
+      "id": "ML-C02040103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020401",
+      "level": 3,
+      "name": {
+        "local": "Kati",
+        "en": "Kati",
+        "slug": "kati-020401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0204",
+        "level": 2,
+        "name": {
+          "local": "Kati",
+          "en": "Kati",
+          "slug": "kati-ml0204"
+        }
+      },
+      {
+        "id": "ML-A020401",
+        "level": 3,
+        "name": {
+          "local": "Kati",
+          "en": "Kati",
+          "slug": "kati-020401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.113",
+      "lon": "-3.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C02040104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dombila",
+      "en": "Dombila",
+      "slug": "dombila-02040104"
+    },
+    "code": {
+      "id": "ML-C02040104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020401",
+      "level": 3,
+      "name": {
+        "local": "Kati",
+        "en": "Kati",
+        "slug": "kati-020401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0204",
+        "level": 2,
+        "name": {
+          "local": "Kati",
+          "en": "Kati",
+          "slug": "kati-ml0204"
+        }
+      },
+      {
+        "id": "ML-A020401",
+        "level": 3,
+        "name": {
+          "local": "Kati",
+          "en": "Kati",
+          "slug": "kati-020401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.113",
+      "lon": "-3.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C02040105",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Doubabougou",
+      "en": "Doubabougou",
+      "slug": "doubabougou-02040105"
+    },
+    "code": {
+      "id": "ML-C02040105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020401",
+      "level": 3,
+      "name": {
+        "local": "Kati",
+        "en": "Kati",
+        "slug": "kati-020401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0204",
+        "level": 2,
+        "name": {
+          "local": "Kati",
+          "en": "Kati",
+          "slug": "kati-ml0204"
+        }
+      },
+      {
+        "id": "ML-A020401",
+        "level": 3,
+        "name": {
+          "local": "Kati",
+          "en": "Kati",
+          "slug": "kati-020401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.113",
+      "lon": "-3.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C02040106",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kalifabougou",
+      "en": "Kalifabougou",
+      "slug": "kalifabougou-02040106"
+    },
+    "code": {
+      "id": "ML-C02040106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020401",
+      "level": 3,
+      "name": {
+        "local": "Kati",
+        "en": "Kati",
+        "slug": "kati-020401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0204",
+        "level": 2,
+        "name": {
+          "local": "Kati",
+          "en": "Kati",
+          "slug": "kati-ml0204"
+        }
+      },
+      {
+        "id": "ML-A020401",
+        "level": 3,
+        "name": {
+          "local": "Kati",
+          "en": "Kati",
+          "slug": "kati-020401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.113",
+      "lon": "-3.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C02040107",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kambila",
+      "en": "Kambila",
+      "slug": "kambila-02040107"
+    },
+    "code": {
+      "id": "ML-C02040107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020401",
+      "level": 3,
+      "name": {
+        "local": "Kati",
+        "en": "Kati",
+        "slug": "kati-020401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0204",
+        "level": 2,
+        "name": {
+          "local": "Kati",
+          "en": "Kati",
+          "slug": "kati-ml0204"
+        }
+      },
+      {
+        "id": "ML-A020401",
+        "level": 3,
+        "name": {
+          "local": "Kati",
+          "en": "Kati",
+          "slug": "kati-020401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.113",
+      "lon": "-3.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C02040101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kati",
+      "en": "Kati",
+      "slug": "kati-02040101"
+    },
+    "code": {
+      "id": "ML-C02040101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020401",
+      "level": 3,
+      "name": {
+        "local": "Kati",
+        "en": "Kati",
+        "slug": "kati-020401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0204",
+        "level": 2,
+        "name": {
+          "local": "Kati",
+          "en": "Kati",
+          "slug": "kati-ml0204"
+        }
+      },
+      {
+        "id": "ML-A020401",
+        "level": 3,
+        "name": {
+          "local": "Kati",
+          "en": "Kati",
+          "slug": "kati-020401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.113",
+      "lon": "-3.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C02040109",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Safo",
+      "en": "Safo",
+      "slug": "safo-02040109"
+    },
+    "code": {
+      "id": "ML-C02040109",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020401",
+      "level": 3,
+      "name": {
+        "local": "Kati",
+        "en": "Kati",
+        "slug": "kati-020401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0204",
+        "level": 2,
+        "name": {
+          "local": "Kati",
+          "en": "Kati",
+          "slug": "kati-ml0204"
+        }
+      },
+      {
+        "id": "ML-A020401",
+        "level": 3,
+        "name": {
+          "local": "Kati",
+          "en": "Kati",
+          "slug": "kati-020401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.113",
+      "lon": "-3.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C02040108",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Yélékébougou",
+      "en": "Yélékébougou",
+      "slug": "ylkbougou-02040108"
+    },
+    "code": {
+      "id": "ML-C02040108",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020401",
+      "level": 3,
+      "name": {
+        "local": "Kati",
+        "en": "Kati",
+        "slug": "kati-020401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0204",
+        "level": 2,
+        "name": {
+          "local": "Kati",
+          "en": "Kati",
+          "slug": "kati-ml0204"
+        }
+      },
+      {
+        "id": "ML-A020401",
+        "level": 3,
+        "name": {
+          "local": "Kati",
+          "en": "Kati",
+          "slug": "kati-020401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.113",
+      "lon": "-3.733"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

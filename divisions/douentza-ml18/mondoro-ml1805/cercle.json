@@ -1,0 +1,48 @@
+{
+  "id": "ML1805",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Mondoro",
+    "en": "Mondoro",
+    "slug": "mondoro-ml1805"
+  },
+  "code": {
+    "id": "ML1805",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML18",
+    "level": 1,
+    "name": {
+      "local": "Douentza",
+      "en": "Douentza",
+      "slug": "douentza-ml18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML18",
+      "level": 1,
+      "name": {
+        "local": "Douentza",
+        "en": "Douentza",
+        "slug": "douentza-ml18"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 3,
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.676",
+    "lon": "-1.951"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Mali Administrative Divisions Dataset"
+version: "2026.05"
+date-released: "2026-05-22"
+url: "https://github.com/open-admin-data/mali-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/mali-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - mali
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Mali's administrative hierarchy:
+  20 regions, 160 circles, 474 arrondissements, 816 communes.
+  Bilingual with coordinates and postal codes where available.

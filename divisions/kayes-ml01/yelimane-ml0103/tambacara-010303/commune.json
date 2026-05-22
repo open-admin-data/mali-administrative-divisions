@@ -1,0 +1,254 @@
+[
+  {
+    "id": "ML-C01030302",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Diafounou Diongaga",
+      "en": "Diafounou Diongaga",
+      "slug": "diafounou-diongaga-01030302"
+    },
+    "code": {
+      "id": "ML-C01030302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010303",
+      "level": 3,
+      "name": {
+        "local": "Tambacara",
+        "en": "Tambacara",
+        "slug": "tambacara-010303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0103",
+        "level": 2,
+        "name": {
+          "local": "Yélimané",
+          "en": "Yelimane",
+          "slug": "yelimane-ml0103"
+        }
+      },
+      {
+        "id": "ML-A010303",
+        "level": 3,
+        "name": {
+          "local": "Tambacara",
+          "en": "Tambacara",
+          "slug": "tambacara-010303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.119",
+      "lon": "-10.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C01030301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Diafounou Gory",
+      "en": "Diafounou Gory",
+      "slug": "diafounou-gory-01030301"
+    },
+    "code": {
+      "id": "ML-C01030301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010303",
+      "level": 3,
+      "name": {
+        "local": "Tambacara",
+        "en": "Tambacara",
+        "slug": "tambacara-010303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0103",
+        "level": 2,
+        "name": {
+          "local": "Yélimané",
+          "en": "Yelimane",
+          "slug": "yelimane-ml0103"
+        }
+      },
+      {
+        "id": "ML-A010303",
+        "level": 3,
+        "name": {
+          "local": "Tambacara",
+          "en": "Tambacara",
+          "slug": "tambacara-010303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.119",
+      "lon": "-10.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C01030303",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Konsiga",
+      "en": "Konsiga",
+      "slug": "konsiga-01030303"
+    },
+    "code": {
+      "id": "ML-C01030303",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010303",
+      "level": 3,
+      "name": {
+        "local": "Tambacara",
+        "en": "Tambacara",
+        "slug": "tambacara-010303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0103",
+        "level": 2,
+        "name": {
+          "local": "Yélimané",
+          "en": "Yelimane",
+          "slug": "yelimane-ml0103"
+        }
+      },
+      {
+        "id": "ML-A010303",
+        "level": 3,
+        "name": {
+          "local": "Tambacara",
+          "en": "Tambacara",
+          "slug": "tambacara-010303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.119",
+      "lon": "-10.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C01030304",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marekaffo",
+      "en": "Marekaffo",
+      "slug": "marekaffo-01030304"
+    },
+    "code": {
+      "id": "ML-C01030304",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010303",
+      "level": 3,
+      "name": {
+        "local": "Tambacara",
+        "en": "Tambacara",
+        "slug": "tambacara-010303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0103",
+        "level": 2,
+        "name": {
+          "local": "Yélimané",
+          "en": "Yelimane",
+          "slug": "yelimane-ml0103"
+        }
+      },
+      {
+        "id": "ML-A010303",
+        "level": 3,
+        "name": {
+          "local": "Tambacara",
+          "en": "Tambacara",
+          "slug": "tambacara-010303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.119",
+      "lon": "-10.577"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

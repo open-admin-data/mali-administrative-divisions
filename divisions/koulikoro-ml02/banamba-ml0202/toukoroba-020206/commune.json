@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C02020601",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Toukoroba",
+      "en": "Toukoroba",
+      "slug": "toukoroba-02020601"
+    },
+    "code": {
+      "id": "ML-C02020601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020206",
+      "level": 3,
+      "name": {
+        "local": "Toukoroba",
+        "en": "Toukoroba",
+        "slug": "toukoroba-020206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0202",
+        "level": 2,
+        "name": {
+          "local": "Banamba",
+          "en": "Banamba",
+          "slug": "banamba-ml0202"
+        }
+      },
+      {
+        "id": "ML-A020206",
+        "level": 3,
+        "name": {
+          "local": "Toukoroba",
+          "en": "Toukoroba",
+          "slug": "toukoroba-020206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.548",
+      "lon": "-7.448"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

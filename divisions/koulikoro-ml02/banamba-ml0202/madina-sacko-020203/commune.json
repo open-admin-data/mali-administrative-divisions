@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C02020301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Madina-Sacko",
+      "en": "Madina-Sacko",
+      "slug": "madina-sacko-02020301"
+    },
+    "code": {
+      "id": "ML-C02020301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020203",
+      "level": 3,
+      "name": {
+        "local": "Madina-Sacko",
+        "en": "Madina-Sacko",
+        "slug": "madina-sacko-020203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0202",
+        "level": 2,
+        "name": {
+          "local": "Banamba",
+          "en": "Banamba",
+          "slug": "banamba-ml0202"
+        }
+      },
+      {
+        "id": "ML-A020203",
+        "level": 3,
+        "name": {
+          "local": "Madina-Sacko",
+          "en": "Madina-Sacko",
+          "slug": "madina-sacko-020203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.548",
+      "lon": "-7.448"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

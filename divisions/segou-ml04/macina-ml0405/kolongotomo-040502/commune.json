@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C04050201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boky Wèrè",
+      "en": "Boky Wèrè",
+      "slug": "boky-wr-04050201"
+    },
+    "code": {
+      "id": "ML-C04050201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040502",
+      "level": 3,
+      "name": {
+        "local": "Kolongotomo",
+        "en": "Kolongotomo",
+        "slug": "kolongotomo-040502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0405",
+        "level": 2,
+        "name": {
+          "local": "Macina",
+          "en": "Macina",
+          "slug": "macina-ml0405"
+        }
+      },
+      {
+        "id": "ML-A040502",
+        "level": 3,
+        "name": {
+          "local": "Kolongotomo",
+          "en": "Kolongotomo",
+          "slug": "kolongotomo-040502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.308",
+      "lon": "-11.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C04050202",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kokry Centre",
+      "en": "Kokry Centre",
+      "slug": "kokry-centre-04050202"
+    },
+    "code": {
+      "id": "ML-C04050202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040502",
+      "level": 3,
+      "name": {
+        "local": "Kolongotomo",
+        "en": "Kolongotomo",
+        "slug": "kolongotomo-040502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0405",
+        "level": 2,
+        "name": {
+          "local": "Macina",
+          "en": "Macina",
+          "slug": "macina-ml0405"
+        }
+      },
+      {
+        "id": "ML-A040502",
+        "level": 3,
+        "name": {
+          "local": "Kolongotomo",
+          "en": "Kolongotomo",
+          "slug": "kolongotomo-040502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.308",
+      "lon": "-11.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C04050203",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kolongo",
+      "en": "Kolongo",
+      "slug": "kolongo-04050203"
+    },
+    "code": {
+      "id": "ML-C04050203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040502",
+      "level": 3,
+      "name": {
+        "local": "Kolongotomo",
+        "en": "Kolongotomo",
+        "slug": "kolongotomo-040502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0405",
+        "level": 2,
+        "name": {
+          "local": "Macina",
+          "en": "Macina",
+          "slug": "macina-ml0405"
+        }
+      },
+      {
+        "id": "ML-A040502",
+        "level": 3,
+        "name": {
+          "local": "Kolongotomo",
+          "en": "Kolongotomo",
+          "slug": "kolongotomo-040502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.308",
+      "lon": "-11.506"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

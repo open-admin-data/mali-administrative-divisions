@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C08020301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tinzawatène",
+      "en": "Tinzawatène",
+      "slug": "tinzawatne-08020301"
+    },
+    "code": {
+      "id": "ML-C08020301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A080203",
+      "level": 3,
+      "name": {
+        "local": "Tinzawatène",
+        "en": "Tinzawatène",
+        "slug": "tinzawatne-080203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML08",
+        "level": 1,
+        "name": {
+          "local": "Kidal",
+          "en": "Kidal",
+          "slug": "kidal-ml08"
+        }
+      },
+      {
+        "id": "ML0802",
+        "level": 2,
+        "name": {
+          "local": "AbeÏbara",
+          "en": "Abelbara",
+          "slug": "abelbara-ml0802"
+        }
+      },
+      {
+        "id": "ML-A080203",
+        "level": 3,
+        "name": {
+          "local": "Tinzawatène",
+          "en": "Tinzawatène",
+          "slug": "tinzawatne-080203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.29",
+      "lon": "1.83"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

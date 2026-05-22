@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C12030102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kassaro",
+      "en": "Kassaro",
+      "slug": "kassaro-12030102"
+    },
+    "code": {
+      "id": "ML-C12030102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120301",
+      "level": 3,
+      "name": {
+        "local": "Sébékoro",
+        "en": "Sébékoro",
+        "slug": "sbkoro-120301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1203",
+        "level": 2,
+        "name": {
+          "local": "Sébékoro",
+          "en": "Sebekoro",
+          "slug": "sebekoro-ml1203"
+        }
+      },
+      {
+        "id": "ML-A120301",
+        "level": 3,
+        "name": {
+          "local": "Sébékoro",
+          "en": "Sébékoro",
+          "slug": "sbkoro-120301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.461",
+      "lon": "-9.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C12030103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kotouba",
+      "en": "Kotouba",
+      "slug": "kotouba-12030103"
+    },
+    "code": {
+      "id": "ML-C12030103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120301",
+      "level": 3,
+      "name": {
+        "local": "Sébékoro",
+        "en": "Sébékoro",
+        "slug": "sbkoro-120301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1203",
+        "level": 2,
+        "name": {
+          "local": "Sébékoro",
+          "en": "Sebekoro",
+          "slug": "sebekoro-ml1203"
+        }
+      },
+      {
+        "id": "ML-A120301",
+        "level": 3,
+        "name": {
+          "local": "Sébékoro",
+          "en": "Sébékoro",
+          "slug": "sbkoro-120301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.461",
+      "lon": "-9.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C12030101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sébékoro",
+      "en": "Sébékoro",
+      "slug": "sbkoro-12030101"
+    },
+    "code": {
+      "id": "ML-C12030101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120301",
+      "level": 3,
+      "name": {
+        "local": "Sébékoro",
+        "en": "Sébékoro",
+        "slug": "sbkoro-120301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1203",
+        "level": 2,
+        "name": {
+          "local": "Sébékoro",
+          "en": "Sebekoro",
+          "slug": "sebekoro-ml1203"
+        }
+      },
+      {
+        "id": "ML-A120301",
+        "level": 3,
+        "name": {
+          "local": "Sébékoro",
+          "en": "Sébékoro",
+          "slug": "sbkoro-120301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.461",
+      "lon": "-9.131"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "id": "ML-C12010102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Badia",
+      "en": "Badia",
+      "slug": "badia-12010102"
+    },
+    "code": {
+      "id": "ML-C12010102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120101",
+      "level": 3,
+      "name": {
+        "local": "Kita",
+        "en": "Kita",
+        "slug": "kita-120101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1201",
+        "level": 2,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml1201"
+        }
+      },
+      {
+        "id": "ML-A120101",
+        "level": 3,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-120101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.039",
+      "lon": "-9.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C12010103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bendougouba",
+      "en": "Bendougouba",
+      "slug": "bendougouba-12010103"
+    },
+    "code": {
+      "id": "ML-C12010103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120101",
+      "level": 3,
+      "name": {
+        "local": "Kita",
+        "en": "Kita",
+        "slug": "kita-120101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1201",
+        "level": 2,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml1201"
+        }
+      },
+      {
+        "id": "ML-A120101",
+        "level": 3,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-120101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.039",
+      "lon": "-9.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C12010104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Benkady Founia",
+      "en": "Benkady Founia",
+      "slug": "benkady-founia-12010104"
+    },
+    "code": {
+      "id": "ML-C12010104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120101",
+      "level": 3,
+      "name": {
+        "local": "Kita",
+        "en": "Kita",
+        "slug": "kita-120101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1201",
+        "level": 2,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml1201"
+        }
+      },
+      {
+        "id": "ML-A120101",
+        "level": 3,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-120101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.039",
+      "lon": "-9.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C12010105",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boudofo",
+      "en": "Boudofo",
+      "slug": "boudofo-12010105"
+    },
+    "code": {
+      "id": "ML-C12010105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120101",
+      "level": 3,
+      "name": {
+        "local": "Kita",
+        "en": "Kita",
+        "slug": "kita-120101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1201",
+        "level": 2,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml1201"
+        }
+      },
+      {
+        "id": "ML-A120101",
+        "level": 3,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-120101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.039",
+      "lon": "-9.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C12010101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kita",
+      "en": "Kita",
+      "slug": "kita-12010101"
+    },
+    "code": {
+      "id": "ML-C12010101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120101",
+      "level": 3,
+      "name": {
+        "local": "Kita",
+        "en": "Kita",
+        "slug": "kita-120101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1201",
+        "level": 2,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml1201"
+        }
+      },
+      {
+        "id": "ML-A120101",
+        "level": 3,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-120101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.039",
+      "lon": "-9.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C12010106",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kita Nord",
+      "en": "Kita Nord",
+      "slug": "kita-nord-12010106"
+    },
+    "code": {
+      "id": "ML-C12010106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120101",
+      "level": 3,
+      "name": {
+        "local": "Kita",
+        "en": "Kita",
+        "slug": "kita-120101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1201",
+        "level": 2,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml1201"
+        }
+      },
+      {
+        "id": "ML-A120101",
+        "level": 3,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-120101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.039",
+      "lon": "-9.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C12010107",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kita Ouest",
+      "en": "Kita Ouest",
+      "slug": "kita-ouest-12010107"
+    },
+    "code": {
+      "id": "ML-C12010107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120101",
+      "level": 3,
+      "name": {
+        "local": "Kita",
+        "en": "Kita",
+        "slug": "kita-120101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1201",
+        "level": 2,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml1201"
+        }
+      },
+      {
+        "id": "ML-A120101",
+        "level": 3,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-120101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.039",
+      "lon": "-9.488"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

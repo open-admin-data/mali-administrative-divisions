@@ -1,0 +1,56 @@
+{
+  "id": "ML-A030702",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Kaï",
+    "en": "Kaï",
+    "slug": "ka-030702"
+  },
+  "code": {
+    "id": "ML-A030702",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0307",
+    "level": 2,
+    "name": {
+      "local": "Loulouni",
+      "en": "Loulouni",
+      "slug": "loulouni-ml0307"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML03",
+      "level": 1,
+      "name": {
+        "local": "Sikasso",
+        "en": "Sikasso",
+        "slug": "sikasso-ml03"
+      }
+    },
+    {
+      "id": "ML0307",
+      "level": 2,
+      "name": {
+        "local": "Loulouni",
+        "en": "Loulouni",
+        "slug": "loulouni-ml0307"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.9",
+    "lon": "-5.6"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "ML-A010201",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Bafoulabé",
+    "en": "Bafoulabé",
+    "slug": "bafoulab-010201"
+  },
+  "code": {
+    "id": "ML-A010201",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0102",
+    "level": 2,
+    "name": {
+      "local": "Bafoulabé",
+      "en": "Bafoulebe",
+      "slug": "bafoulebe-ml0102"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML01",
+      "level": 1,
+      "name": {
+        "local": "Kayes",
+        "en": "Kayes",
+        "slug": "kayes-ml01"
+      }
+    },
+    {
+      "id": "ML0102",
+      "level": 2,
+      "name": {
+        "local": "Bafoulabé",
+        "en": "Bafoulebe",
+        "slug": "bafoulebe-ml0102"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.808",
+    "lon": "-10.833"
+  },
+  "metadata": {},
+  "source": {}
+}

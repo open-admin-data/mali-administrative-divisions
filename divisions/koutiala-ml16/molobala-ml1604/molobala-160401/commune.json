@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C16040103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kapala",
+      "en": "Kapala",
+      "slug": "kapala-16040103"
+    },
+    "code": {
+      "id": "ML-C16040103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160401",
+      "level": 3,
+      "name": {
+        "local": "Molobala",
+        "en": "Molobala",
+        "slug": "molobala-160401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1604",
+        "level": 2,
+        "name": {
+          "local": "Molobala",
+          "en": "Molobala",
+          "slug": "molobala-ml1604"
+        }
+      },
+      {
+        "id": "ML-A160401",
+        "level": 3,
+        "name": {
+          "local": "Molobala",
+          "en": "Molobala",
+          "slug": "molobala-160401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.177",
+      "lon": "-5.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C16040101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kolonigué",
+      "en": "Kolonigué",
+      "slug": "kolonigu-16040101"
+    },
+    "code": {
+      "id": "ML-C16040101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160401",
+      "level": 3,
+      "name": {
+        "local": "Molobala",
+        "en": "Molobala",
+        "slug": "molobala-160401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1604",
+        "level": 2,
+        "name": {
+          "local": "Molobala",
+          "en": "Molobala",
+          "slug": "molobala-ml1604"
+        }
+      },
+      {
+        "id": "ML-A160401",
+        "level": 3,
+        "name": {
+          "local": "Molobala",
+          "en": "Molobala",
+          "slug": "molobala-160401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.177",
+      "lon": "-5.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C16040102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Koningué",
+      "en": "Koningué",
+      "slug": "koningu-16040102"
+    },
+    "code": {
+      "id": "ML-C16040102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160401",
+      "level": 3,
+      "name": {
+        "local": "Molobala",
+        "en": "Molobala",
+        "slug": "molobala-160401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1604",
+        "level": 2,
+        "name": {
+          "local": "Molobala",
+          "en": "Molobala",
+          "slug": "molobala-ml1604"
+        }
+      },
+      {
+        "id": "ML-A160401",
+        "level": 3,
+        "name": {
+          "local": "Molobala",
+          "en": "Molobala",
+          "slug": "molobala-160401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.177",
+      "lon": "-5.333"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

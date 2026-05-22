@@ -1,0 +1,317 @@
+[
+  {
+    "id": "ML-C13010101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dègnèkoro",
+      "en": "Dègnèkoro",
+      "slug": "dgnkoro-13010101"
+    },
+    "code": {
+      "id": "ML-C13010101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A130101",
+      "level": 3,
+      "name": {
+        "local": "Dioïla",
+        "en": "Dioïla",
+        "slug": "diola-130101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML13",
+        "level": 1,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioïla",
+          "slug": "diola-ml13"
+        }
+      },
+      {
+        "id": "ML1301",
+        "level": 2,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioila",
+          "slug": "dioila-ml1301"
+        }
+      },
+      {
+        "id": "ML-A130101",
+        "level": 3,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioïla",
+          "slug": "diola-130101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.487",
+      "lon": "-6.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C13010102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kaladougou",
+      "en": "Kaladougou",
+      "slug": "kaladougou-13010102"
+    },
+    "code": {
+      "id": "ML-C13010102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A130101",
+      "level": 3,
+      "name": {
+        "local": "Dioïla",
+        "en": "Dioïla",
+        "slug": "diola-130101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML13",
+        "level": 1,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioïla",
+          "slug": "diola-ml13"
+        }
+      },
+      {
+        "id": "ML1301",
+        "level": 2,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioila",
+          "slug": "dioila-ml1301"
+        }
+      },
+      {
+        "id": "ML-A130101",
+        "level": 3,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioïla",
+          "slug": "diola-130101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.487",
+      "lon": "-6.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C13010103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kilidougou",
+      "en": "Kilidougou",
+      "slug": "kilidougou-13010103"
+    },
+    "code": {
+      "id": "ML-C13010103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A130101",
+      "level": 3,
+      "name": {
+        "local": "Dioïla",
+        "en": "Dioïla",
+        "slug": "diola-130101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML13",
+        "level": 1,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioïla",
+          "slug": "diola-ml13"
+        }
+      },
+      {
+        "id": "ML1301",
+        "level": 2,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioila",
+          "slug": "dioila-ml1301"
+        }
+      },
+      {
+        "id": "ML-A130101",
+        "level": 3,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioïla",
+          "slug": "diola-130101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.487",
+      "lon": "-6.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C13010104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "N'Garadougou",
+      "en": "N'Garadougou",
+      "slug": "ngaradougou-13010104"
+    },
+    "code": {
+      "id": "ML-C13010104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A130101",
+      "level": 3,
+      "name": {
+        "local": "Dioïla",
+        "en": "Dioïla",
+        "slug": "diola-130101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML13",
+        "level": 1,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioïla",
+          "slug": "diola-ml13"
+        }
+      },
+      {
+        "id": "ML1301",
+        "level": 2,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioila",
+          "slug": "dioila-ml1301"
+        }
+      },
+      {
+        "id": "ML-A130101",
+        "level": 3,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioïla",
+          "slug": "diola-130101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.487",
+      "lon": "-6.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C13010105",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Wacoro",
+      "en": "Wacoro",
+      "slug": "wacoro-13010105"
+    },
+    "code": {
+      "id": "ML-C13010105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A130101",
+      "level": 3,
+      "name": {
+        "local": "Dioïla",
+        "en": "Dioïla",
+        "slug": "diola-130101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML13",
+        "level": 1,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioïla",
+          "slug": "diola-ml13"
+        }
+      },
+      {
+        "id": "ML1301",
+        "level": 2,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioila",
+          "slug": "dioila-ml1301"
+        }
+      },
+      {
+        "id": "ML-A130101",
+        "level": 3,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioïla",
+          "slug": "diola-130101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.487",
+      "lon": "-6.803"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

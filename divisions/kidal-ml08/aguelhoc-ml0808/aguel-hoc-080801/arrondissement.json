@@ -1,0 +1,56 @@
+{
+  "id": "ML-A080801",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Aguel-Hoc",
+    "en": "Aguel-Hoc",
+    "slug": "aguel-hoc-080801"
+  },
+  "code": {
+    "id": "ML-A080801",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0808",
+    "level": 2,
+    "name": {
+      "local": "Aguel-Hoc",
+      "en": "Aguelhoc",
+      "slug": "aguelhoc-ml0808"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML08",
+      "level": 1,
+      "name": {
+        "local": "Kidal",
+        "en": "Kidal",
+        "slug": "kidal-ml08"
+      }
+    },
+    {
+      "id": "ML0808",
+      "level": 2,
+      "name": {
+        "local": "Aguel-Hoc",
+        "en": "Aguelhoc",
+        "slug": "aguelhoc-ml0808"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.454",
+    "lon": "0.856"
+  },
+  "metadata": {},
+  "source": {}
+}

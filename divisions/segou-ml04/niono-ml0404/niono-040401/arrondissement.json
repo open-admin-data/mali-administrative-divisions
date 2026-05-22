@@ -1,0 +1,56 @@
+{
+  "id": "ML-A040401",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Niono",
+    "en": "Niono",
+    "slug": "niono-040401"
+  },
+  "code": {
+    "id": "ML-A040401",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0404",
+    "level": 2,
+    "name": {
+      "local": "Niono",
+      "en": "Niono",
+      "slug": "niono-ml0404"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML04",
+      "level": 1,
+      "name": {
+        "local": "Segou",
+        "en": "Segou",
+        "slug": "segou-ml04"
+      }
+    },
+    {
+      "id": "ML0404",
+      "level": 2,
+      "name": {
+        "local": "Niono",
+        "en": "Niono",
+        "slug": "niono-ml0404"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.251",
+    "lon": "-5.987"
+  },
+  "metadata": {},
+  "source": {}
+}

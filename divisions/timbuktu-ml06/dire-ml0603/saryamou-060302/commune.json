@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C06030201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Binga",
+      "en": "Binga",
+      "slug": "binga-06030201"
+    },
+    "code": {
+      "id": "ML-C06030201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A060302",
+      "level": 3,
+      "name": {
+        "local": "Saréyamou",
+        "en": "Saréyamou",
+        "slug": "saryamou-060302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0603",
+        "level": 2,
+        "name": {
+          "local": "Diré",
+          "en": "Dire",
+          "slug": "dire-ml0603"
+        }
+      },
+      {
+        "id": "ML-A060302",
+        "level": 3,
+        "name": {
+          "local": "Saréyamou",
+          "en": "Saréyamou",
+          "slug": "saryamou-060302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.257",
+      "lon": "-3.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C06030202",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Saréyamou",
+      "en": "Saréyamou",
+      "slug": "saryamou-06030202"
+    },
+    "code": {
+      "id": "ML-C06030202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A060302",
+      "level": 3,
+      "name": {
+        "local": "Saréyamou",
+        "en": "Saréyamou",
+        "slug": "saryamou-060302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0603",
+        "level": 2,
+        "name": {
+          "local": "Diré",
+          "en": "Dire",
+          "slug": "dire-ml0603"
+        }
+      },
+      {
+        "id": "ML-A060302",
+        "level": 3,
+        "name": {
+          "local": "Saréyamou",
+          "en": "Saréyamou",
+          "slug": "saryamou-060302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.257",
+      "lon": "-3.401"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

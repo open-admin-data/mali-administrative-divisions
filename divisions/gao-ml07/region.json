@@ -1,0 +1,31 @@
+{
+  "id": "ML07",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Gao",
+    "en": "Gao",
+    "slug": "gao-ml07"
+  },
+  "code": {
+    "id": "ML07",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "cercle": 16,
+    "commune": 40,
+    "arrondissement": 37
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.272",
+    "lon": "-0.045"
+  },
+  "metadata": {},
+  "source": {}
+}

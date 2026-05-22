@@ -1,0 +1,56 @@
+{
+  "id": "ML-A040602",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Diédougou",
+    "en": "Diédougou",
+    "slug": "didougou-040602"
+  },
+  "code": {
+    "id": "ML-A040602",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0406",
+    "level": 2,
+    "name": {
+      "local": "Dioro",
+      "en": "Dioro",
+      "slug": "dioro-ml0406"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML04",
+      "level": 1,
+      "name": {
+        "local": "Segou",
+        "en": "Segou",
+        "slug": "segou-ml04"
+      }
+    },
+    {
+      "id": "ML0406",
+      "level": 2,
+      "name": {
+        "local": "Dioro",
+        "en": "Dioro",
+        "slug": "dioro-ml0406"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.689",
+    "lon": "-5.831"
+  },
+  "metadata": {},
+  "source": {}
+}

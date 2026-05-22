@@ -1,0 +1,254 @@
+[
+  {
+    "id": "ML-C02030201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Balan Bakama",
+      "en": "Balan Bakama",
+      "slug": "balan-bakama-02030201"
+    },
+    "code": {
+      "id": "ML-C02030201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020302",
+      "level": 3,
+      "name": {
+        "local": "Naréna",
+        "en": "Naréna",
+        "slug": "narna-020302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0203",
+        "level": 2,
+        "name": {
+          "local": "Kangaba",
+          "en": "Kangaba",
+          "slug": "kangaba-ml0203"
+        }
+      },
+      {
+        "id": "ML-A020302",
+        "level": 3,
+        "name": {
+          "local": "Naréna",
+          "en": "Naréna",
+          "slug": "narna-020302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.933",
+      "lon": "-8.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C02030202",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Benkadi",
+      "en": "Benkadi",
+      "slug": "benkadi-02030202"
+    },
+    "code": {
+      "id": "ML-C02030202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020302",
+      "level": 3,
+      "name": {
+        "local": "Naréna",
+        "en": "Naréna",
+        "slug": "narna-020302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0203",
+        "level": 2,
+        "name": {
+          "local": "Kangaba",
+          "en": "Kangaba",
+          "slug": "kangaba-ml0203"
+        }
+      },
+      {
+        "id": "ML-A020302",
+        "level": 3,
+        "name": {
+          "local": "Naréna",
+          "en": "Naréna",
+          "slug": "narna-020302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.933",
+      "lon": "-8.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C02030203",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Karan",
+      "en": "Karan",
+      "slug": "karan-02030203"
+    },
+    "code": {
+      "id": "ML-C02030203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020302",
+      "level": 3,
+      "name": {
+        "local": "Naréna",
+        "en": "Naréna",
+        "slug": "narna-020302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0203",
+        "level": 2,
+        "name": {
+          "local": "Kangaba",
+          "en": "Kangaba",
+          "slug": "kangaba-ml0203"
+        }
+      },
+      {
+        "id": "ML-A020302",
+        "level": 3,
+        "name": {
+          "local": "Naréna",
+          "en": "Naréna",
+          "slug": "narna-020302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.933",
+      "lon": "-8.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C02030204",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Naréna",
+      "en": "Naréna",
+      "slug": "narna-02030204"
+    },
+    "code": {
+      "id": "ML-C02030204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020302",
+      "level": 3,
+      "name": {
+        "local": "Naréna",
+        "en": "Naréna",
+        "slug": "narna-020302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0203",
+        "level": 2,
+        "name": {
+          "local": "Kangaba",
+          "en": "Kangaba",
+          "slug": "kangaba-ml0203"
+        }
+      },
+      {
+        "id": "ML-A020302",
+        "level": 3,
+        "name": {
+          "local": "Naréna",
+          "en": "Naréna",
+          "slug": "narna-020302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.933",
+      "lon": "-8.417"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

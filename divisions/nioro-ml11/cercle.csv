@@ -1,0 +1,7 @@
+id,name.local,name.en,name.slug,code.id,children_count.arrondissement,children_count.commune,geo.lat,geo.lon
+ML1106,Bema,Bema,bema-ml1106,ML1106,0,0,15.733,-4.193
+ML1103,Diangounte Camara,Diangounte Camara,diangounte-camara-ml1103,ML1103,0,0,14.545,-9.514
+ML1102,Diema,Diema,diema-ml1102,ML1102,0,0,14.54,-9.192
+ML1101,Nioro,Nioro,nioro-ml1101,ML1101,4,10,15.231,-9.594
+ML1104,Sandare,Sandare,sandare-ml1104,ML1104,0,0,14.704,-10.306
+ML1105,Troungoumbe,Troungoumbe,troungoumbe-ml1105,ML1105,0,0,14.763,-9.964

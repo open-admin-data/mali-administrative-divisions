@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C08010301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Agharous",
+      "en": "Agharous",
+      "slug": "agharous-08010301"
+    },
+    "code": {
+      "id": "ML-C08010301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A080103",
+      "level": 3,
+      "name": {
+        "local": "Agharous",
+        "en": "Agharous",
+        "slug": "agharous-080103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML08",
+        "level": 1,
+        "name": {
+          "local": "Kidal",
+          "en": "Kidal",
+          "slug": "kidal-ml08"
+        }
+      },
+      {
+        "id": "ML0801",
+        "level": 2,
+        "name": {
+          "local": "Kidal",
+          "en": "Kidal",
+          "slug": "kidal-ml0801"
+        }
+      },
+      {
+        "id": "ML-A080103",
+        "level": 3,
+        "name": {
+          "local": "Agharous",
+          "en": "Agharous",
+          "slug": "agharous-080103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.461",
+      "lon": "1.385"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

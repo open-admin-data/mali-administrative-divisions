@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C08060201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dadate",
+      "en": "Dadate",
+      "slug": "dadate-08060201"
+    },
+    "code": {
+      "id": "ML-C08060201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A080602",
+      "level": 3,
+      "name": {
+        "local": "Dadate",
+        "en": "Dadate",
+        "slug": "dadate-080602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML08",
+        "level": 1,
+        "name": {
+          "local": "Kidal",
+          "en": "Kidal",
+          "slug": "kidal-ml08"
+        }
+      },
+      {
+        "id": "ML0806",
+        "level": 2,
+        "name": {
+          "local": "Anéfif",
+          "en": "Anefi",
+          "slug": "anefi-ml0806"
+        }
+      },
+      {
+        "id": "ML-A080602",
+        "level": 3,
+        "name": {
+          "local": "Dadate",
+          "en": "Dadate",
+          "slug": "dadate-080602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.007",
+      "lon": "-0.532"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

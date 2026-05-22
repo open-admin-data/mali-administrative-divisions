@@ -1,0 +1,31 @@
+{
+  "id": "ML04",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Segou",
+    "en": "Segou",
+    "slug": "segou-ml04"
+  },
+  "code": {
+    "id": "ML04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "cercle": 11,
+    "commune": 54,
+    "arrondissement": 28
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.44",
+    "lon": "-6.259"
+  },
+  "metadata": {},
+  "source": {}
+}

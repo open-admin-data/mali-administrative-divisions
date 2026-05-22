@@ -1,0 +1,56 @@
+{
+  "id": "ML-A030601",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Lobougoula",
+    "en": "Lobougoula",
+    "slug": "lobougoula-030601"
+  },
+  "code": {
+    "id": "ML-A030601",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0306",
+    "level": 2,
+    "name": {
+      "local": "Lobougoula",
+      "en": "Lobougoula",
+      "slug": "lobougoula-ml0306"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML03",
+      "level": 1,
+      "name": {
+        "local": "Sikasso",
+        "en": "Sikasso",
+        "slug": "sikasso-ml03"
+      }
+    },
+    {
+      "id": "ML0306",
+      "level": 2,
+      "name": {
+        "local": "Lobougoula",
+        "en": "Lobougoula",
+        "slug": "lobougoula-ml0306"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.044",
+    "lon": "-5.981"
+  },
+  "metadata": {},
+  "source": {}
+}

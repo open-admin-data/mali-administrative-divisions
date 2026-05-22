@@ -1,0 +1,254 @@
+[
+  {
+    "id": "ML-C01090102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kouniakary",
+      "en": "Kouniakary",
+      "slug": "kouniakary-01090102"
+    },
+    "code": {
+      "id": "ML-C01090102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010901",
+      "level": 3,
+      "name": {
+        "local": "Ségala",
+        "en": "Ségala",
+        "slug": "sgala-010901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0109",
+        "level": 2,
+        "name": {
+          "local": "Ségala",
+          "en": "Segala",
+          "slug": "segala-ml0109"
+        }
+      },
+      {
+        "id": "ML-A010901",
+        "level": 3,
+        "name": {
+          "local": "Ségala",
+          "en": "Ségala",
+          "slug": "sgala-010901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.529",
+      "lon": "-5.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C01090103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maréna Diombougou",
+      "en": "Maréna Diombougou",
+      "slug": "marna-diombougou-01090103"
+    },
+    "code": {
+      "id": "ML-C01090103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010901",
+      "level": 3,
+      "name": {
+        "local": "Ségala",
+        "en": "Ségala",
+        "slug": "sgala-010901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0109",
+        "level": 2,
+        "name": {
+          "local": "Ségala",
+          "en": "Segala",
+          "slug": "segala-ml0109"
+        }
+      },
+      {
+        "id": "ML-A010901",
+        "level": 3,
+        "name": {
+          "local": "Ségala",
+          "en": "Ségala",
+          "slug": "sgala-010901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.529",
+      "lon": "-5.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C01090104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marintoumania",
+      "en": "Marintoumania",
+      "slug": "marintoumania-01090104"
+    },
+    "code": {
+      "id": "ML-C01090104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010901",
+      "level": 3,
+      "name": {
+        "local": "Ségala",
+        "en": "Ségala",
+        "slug": "sgala-010901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0109",
+        "level": 2,
+        "name": {
+          "local": "Ségala",
+          "en": "Segala",
+          "slug": "segala-ml0109"
+        }
+      },
+      {
+        "id": "ML-A010901",
+        "level": 3,
+        "name": {
+          "local": "Ségala",
+          "en": "Ségala",
+          "slug": "sgala-010901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.529",
+      "lon": "-5.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C01090101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ségala",
+      "en": "Ségala",
+      "slug": "sgala-01090101"
+    },
+    "code": {
+      "id": "ML-C01090101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010901",
+      "level": 3,
+      "name": {
+        "local": "Ségala",
+        "en": "Ségala",
+        "slug": "sgala-010901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0109",
+        "level": 2,
+        "name": {
+          "local": "Ségala",
+          "en": "Segala",
+          "slug": "segala-ml0109"
+        }
+      },
+      {
+        "id": "ML-A010901",
+        "level": 3,
+        "name": {
+          "local": "Ségala",
+          "en": "Ségala",
+          "slug": "sgala-010901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.529",
+      "lon": "-5.732"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

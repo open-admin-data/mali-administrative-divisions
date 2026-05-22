@@ -1,0 +1,506 @@
+[
+  {
+    "id": "ML-C06030101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Arham",
+      "en": "Arham",
+      "slug": "arham-06030101"
+    },
+    "code": {
+      "id": "ML-C06030101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A060301",
+      "level": 3,
+      "name": {
+        "local": "Diré",
+        "en": "Diré",
+        "slug": "dir-060301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0603",
+        "level": 2,
+        "name": {
+          "local": "Diré",
+          "en": "Dire",
+          "slug": "dire-ml0603"
+        }
+      },
+      {
+        "id": "ML-A060301",
+        "level": 3,
+        "name": {
+          "local": "Diré",
+          "en": "Diré",
+          "slug": "dir-060301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.257",
+      "lon": "-3.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C06030102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bourem Sidi Amar",
+      "en": "Bourem Sidi Amar",
+      "slug": "bourem-sidi-amar-06030102"
+    },
+    "code": {
+      "id": "ML-C06030102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A060301",
+      "level": 3,
+      "name": {
+        "local": "Diré",
+        "en": "Diré",
+        "slug": "dir-060301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0603",
+        "level": 2,
+        "name": {
+          "local": "Diré",
+          "en": "Dire",
+          "slug": "dire-ml0603"
+        }
+      },
+      {
+        "id": "ML-A060301",
+        "level": 3,
+        "name": {
+          "local": "Diré",
+          "en": "Diré",
+          "slug": "dir-060301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.257",
+      "lon": "-3.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C06030103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Diré",
+      "en": "Diré",
+      "slug": "dir-06030103"
+    },
+    "code": {
+      "id": "ML-C06030103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A060301",
+      "level": 3,
+      "name": {
+        "local": "Diré",
+        "en": "Diré",
+        "slug": "dir-060301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0603",
+        "level": 2,
+        "name": {
+          "local": "Diré",
+          "en": "Dire",
+          "slug": "dire-ml0603"
+        }
+      },
+      {
+        "id": "ML-A060301",
+        "level": 3,
+        "name": {
+          "local": "Diré",
+          "en": "Diré",
+          "slug": "dir-060301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.257",
+      "lon": "-3.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C06030104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kirchamba",
+      "en": "Kirchamba",
+      "slug": "kirchamba-06030104"
+    },
+    "code": {
+      "id": "ML-C06030104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A060301",
+      "level": 3,
+      "name": {
+        "local": "Diré",
+        "en": "Diré",
+        "slug": "dir-060301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0603",
+        "level": 2,
+        "name": {
+          "local": "Diré",
+          "en": "Dire",
+          "slug": "dire-ml0603"
+        }
+      },
+      {
+        "id": "ML-A060301",
+        "level": 3,
+        "name": {
+          "local": "Diré",
+          "en": "Diré",
+          "slug": "dir-060301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.257",
+      "lon": "-3.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C06030105",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kondi",
+      "en": "Kondi",
+      "slug": "kondi-06030105"
+    },
+    "code": {
+      "id": "ML-C06030105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A060301",
+      "level": 3,
+      "name": {
+        "local": "Diré",
+        "en": "Diré",
+        "slug": "dir-060301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0603",
+        "level": 2,
+        "name": {
+          "local": "Diré",
+          "en": "Dire",
+          "slug": "dire-ml0603"
+        }
+      },
+      {
+        "id": "ML-A060301",
+        "level": 3,
+        "name": {
+          "local": "Diré",
+          "en": "Diré",
+          "slug": "dir-060301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.257",
+      "lon": "-3.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C06030106",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tienkour",
+      "en": "Tienkour",
+      "slug": "tienkour-06030106"
+    },
+    "code": {
+      "id": "ML-C06030106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A060301",
+      "level": 3,
+      "name": {
+        "local": "Diré",
+        "en": "Diré",
+        "slug": "dir-060301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0603",
+        "level": 2,
+        "name": {
+          "local": "Diré",
+          "en": "Dire",
+          "slug": "dire-ml0603"
+        }
+      },
+      {
+        "id": "ML-A060301",
+        "level": 3,
+        "name": {
+          "local": "Diré",
+          "en": "Diré",
+          "slug": "dir-060301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.257",
+      "lon": "-3.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C06030107",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tindirma",
+      "en": "Tindirma",
+      "slug": "tindirma-06030107"
+    },
+    "code": {
+      "id": "ML-C06030107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A060301",
+      "level": 3,
+      "name": {
+        "local": "Diré",
+        "en": "Diré",
+        "slug": "dir-060301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0603",
+        "level": 2,
+        "name": {
+          "local": "Diré",
+          "en": "Dire",
+          "slug": "dire-ml0603"
+        }
+      },
+      {
+        "id": "ML-A060301",
+        "level": 3,
+        "name": {
+          "local": "Diré",
+          "en": "Diré",
+          "slug": "dir-060301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.257",
+      "lon": "-3.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C06030108",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tinguereguif Gari",
+      "en": "Tinguereguif Gari",
+      "slug": "tinguereguif-gari-06030108"
+    },
+    "code": {
+      "id": "ML-C06030108",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A060301",
+      "level": 3,
+      "name": {
+        "local": "Diré",
+        "en": "Diré",
+        "slug": "dir-060301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0603",
+        "level": 2,
+        "name": {
+          "local": "Diré",
+          "en": "Dire",
+          "slug": "dire-ml0603"
+        }
+      },
+      {
+        "id": "ML-A060301",
+        "level": 3,
+        "name": {
+          "local": "Diré",
+          "en": "Diré",
+          "slug": "dir-060301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.257",
+      "lon": "-3.401"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

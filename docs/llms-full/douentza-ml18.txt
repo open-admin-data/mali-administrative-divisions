@@ -1,0 +1,150 @@
+# Douentza — Mali Administrative Divisions
+
+> 6 circles, 15 arrondissements, 21 communes
+> Code: ML18
+> Coordinates: 15.006, -2.952
+> Last updated: 2026-05-22. License: CC-BY-4.0.
+
+## Circles
+
+### Boni
+
+Code: ML1806, Coordinates: 15.077, -2.22
+Arrondissements: 3, Communes: 3
+
+#### Boni
+
+Code: ML-A180601, Coordinates: 15.077, -2.22
+
+Communes:
+- Haire [ML-C18060101]
+
+#### Nokara
+
+Code: ML-A180602, Coordinates: 15.077, -2.22
+
+Communes:
+- Nokara [ML-C18060201]
+
+#### Tabi
+
+Code: ML-A180603, Coordinates: 15.077, -2.22
+
+Communes:
+- Tabi [ML-C18060301]
+
+### Boré (Bore)
+
+Code: ML1802, Coordinates: 15.133, -3.483
+Arrondissements: 3, Communes: 3
+
+#### Boré
+
+Code: ML-A180201, Coordinates: 15.133, -3.483
+
+Communes:
+- Dangol-Boré [ML-C18020101]
+
+#### Doumbara
+
+Code: ML-A180203, Coordinates: 15.133, -3.483
+
+Communes:
+- Doumbara [ML-C18020301]
+
+#### N&#39;Doumpa
+
+Code: ML-A180202, Coordinates: 15.133, -3.483
+
+Communes:
+- N&#39;Doumpa [ML-C18020201]
+
+### Douentza
+
+Code: ML1801, Coordinates: 15.006, -2.952
+Arrondissements: 4, Communes: 10
+
+#### Dallah
+
+Code: ML-A180104, Coordinates: 15.006, -2.952
+
+Communes:
+- Dallah [ML-C18010401]
+
+#### Diona
+
+Code: ML-A180103, Coordinates: 15.006, -2.952
+
+Communes:
+- Korarou [ML-C18010301]
+
+#### Douentza
+
+Code: ML-A180101, Coordinates: 15.006, -2.952
+
+Communes:
+- Débéré [ML-C18010102]
+- Dianwély [ML-C18010103]
+- Douentza [ML-C18010101]
+- Gandamia [ML-C18010104]
+- Kéréna [ML-C18010105]
+- Koubewel Koundia [ML-C18010106]
+- Petaka [ML-C18010107]
+
+#### Tédié
+
+Code: ML-A180102, Coordinates: 15.006, -2.952
+
+Communes:
+- Tedié [ML-C18010201]
+
+### Hombori
+
+Code: ML1803, Coordinates: 15.279, -1.7
+Arrondissements: 2, Communes: 2
+
+#### Gallou
+
+Code: ML-A180302, Coordinates: 15.279, -1.7
+
+Communes:
+- Gallou [ML-C18030201]
+
+#### Hombori
+
+Code: ML-A180301, Coordinates: 15.279, -1.7
+
+Communes:
+- Hombori [ML-C18030101]
+
+### Mondoro
+
+Code: ML1805, Coordinates: 14.676, -1.951
+Arrondissements: 3, Communes: 3
+
+#### Boulkessi
+
+Code: ML-A180502, Coordinates: 14.676, -1.951
+
+Communes:
+- Boulkessi [ML-C18050201]
+
+#### Mondoro
+
+Code: ML-A180501, Coordinates: 14.676, -1.951
+
+Communes:
+- Mondoro [ML-C18050101]
+
+#### Niagassadiou
+
+Code: ML-A180503, Coordinates: 14.676, -1.951
+
+Communes:
+- Niagassadiou [ML-C18050301]
+
+### Ngouna
+
+Code: ML1804, Coordinates: 13.633, -7.367
+Arrondissements: 0, Communes: 0
+

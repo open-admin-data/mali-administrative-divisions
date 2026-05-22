@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C13040301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nangola",
+      "en": "Nangola",
+      "slug": "nangola-13040301"
+    },
+    "code": {
+      "id": "ML-C13040301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A130403",
+      "level": 3,
+      "name": {
+        "local": "Nangola",
+        "en": "Nangola",
+        "slug": "nangola-130403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML13",
+        "level": 1,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioïla",
+          "slug": "diola-ml13"
+        }
+      },
+      {
+        "id": "ML1304",
+        "level": 2,
+        "name": {
+          "local": "Fana",
+          "en": "Fana",
+          "slug": "fana-ml1304"
+        }
+      },
+      {
+        "id": "ML-A130403",
+        "level": 3,
+        "name": {
+          "local": "Nangola",
+          "en": "Nangola",
+          "slug": "nangola-130403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.779",
+      "lon": "-6.956"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

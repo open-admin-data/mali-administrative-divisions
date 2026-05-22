@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C15020301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bolo Fouta",
+      "en": "Bolo Fouta",
+      "slug": "bolo-fouta-15020301"
+    },
+    "code": {
+      "id": "ML-C15020301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150203",
+      "level": 3,
+      "name": {
+        "local": "Doussoudiana",
+        "en": "Doussoudiana",
+        "slug": "doussoudiana-150203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1502",
+        "level": 2,
+        "name": {
+          "local": "Yanfolila",
+          "en": "Yanfolila",
+          "slug": "yanfolila-ml1502"
+        }
+      },
+      {
+        "id": "ML-A150203",
+        "level": 3,
+        "name": {
+          "local": "Doussoudiana",
+          "en": "Doussoudiana",
+          "slug": "doussoudiana-150203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.183",
+      "lon": "-8.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C15020302",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djiguiya de Koloni",
+      "en": "Djiguiya de Koloni",
+      "slug": "djiguiya-de-koloni-15020302"
+    },
+    "code": {
+      "id": "ML-C15020302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150203",
+      "level": 3,
+      "name": {
+        "local": "Doussoudiana",
+        "en": "Doussoudiana",
+        "slug": "doussoudiana-150203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1502",
+        "level": 2,
+        "name": {
+          "local": "Yanfolila",
+          "en": "Yanfolila",
+          "slug": "yanfolila-ml1502"
+        }
+      },
+      {
+        "id": "ML-A150203",
+        "level": 3,
+        "name": {
+          "local": "Doussoudiana",
+          "en": "Doussoudiana",
+          "slug": "doussoudiana-150203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.183",
+      "lon": "-8.15"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

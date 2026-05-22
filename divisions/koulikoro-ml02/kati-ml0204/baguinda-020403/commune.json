@@ -1,0 +1,254 @@
+[
+  {
+    "id": "ML-C02040303",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Baguinéda-camp",
+      "en": "Baguinéda-camp",
+      "slug": "baguinda-camp-02040303"
+    },
+    "code": {
+      "id": "ML-C02040303",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020403",
+      "level": 3,
+      "name": {
+        "local": "Baguinéda",
+        "en": "Baguinéda",
+        "slug": "baguinda-020403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0204",
+        "level": 2,
+        "name": {
+          "local": "Kati",
+          "en": "Kati",
+          "slug": "kati-ml0204"
+        }
+      },
+      {
+        "id": "ML-A020403",
+        "level": 3,
+        "name": {
+          "local": "Baguinéda",
+          "en": "Baguinéda",
+          "slug": "baguinda-020403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.113",
+      "lon": "-3.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C02040304",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mountougoula",
+      "en": "Mountougoula",
+      "slug": "mountougoula-02040304"
+    },
+    "code": {
+      "id": "ML-C02040304",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020403",
+      "level": 3,
+      "name": {
+        "local": "Baguinéda",
+        "en": "Baguinéda",
+        "slug": "baguinda-020403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0204",
+        "level": 2,
+        "name": {
+          "local": "Kati",
+          "en": "Kati",
+          "slug": "kati-ml0204"
+        }
+      },
+      {
+        "id": "ML-A020403",
+        "level": 3,
+        "name": {
+          "local": "Baguinéda",
+          "en": "Baguinéda",
+          "slug": "baguinda-020403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.113",
+      "lon": "-3.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C02040301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "N'Gouraba",
+      "en": "N'Gouraba",
+      "slug": "ngouraba-02040301"
+    },
+    "code": {
+      "id": "ML-C02040301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020403",
+      "level": 3,
+      "name": {
+        "local": "Baguinéda",
+        "en": "Baguinéda",
+        "slug": "baguinda-020403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0204",
+        "level": 2,
+        "name": {
+          "local": "Kati",
+          "en": "Kati",
+          "slug": "kati-ml0204"
+        }
+      },
+      {
+        "id": "ML-A020403",
+        "level": 3,
+        "name": {
+          "local": "Baguinéda",
+          "en": "Baguinéda",
+          "slug": "baguinda-020403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.113",
+      "lon": "-3.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C02040302",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tiélé",
+      "en": "Tiélé",
+      "slug": "til-02040302"
+    },
+    "code": {
+      "id": "ML-C02040302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020403",
+      "level": 3,
+      "name": {
+        "local": "Baguinéda",
+        "en": "Baguinéda",
+        "slug": "baguinda-020403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0204",
+        "level": 2,
+        "name": {
+          "local": "Kati",
+          "en": "Kati",
+          "slug": "kati-ml0204"
+        }
+      },
+      {
+        "id": "ML-A020403",
+        "level": 3,
+        "name": {
+          "local": "Baguinéda",
+          "en": "Baguinéda",
+          "slug": "baguinda-020403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.113",
+      "lon": "-3.733"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

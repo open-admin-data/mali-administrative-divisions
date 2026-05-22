@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C06010101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Alafia",
+      "en": "Alafia",
+      "slug": "alafia-06010101"
+    },
+    "code": {
+      "id": "ML-C06010101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A060101",
+      "level": 3,
+      "name": {
+        "local": "Tombouctou",
+        "en": "Tombouctou",
+        "slug": "tombouctou-060101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0601",
+        "level": 2,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml0601"
+        }
+      },
+      {
+        "id": "ML-A060101",
+        "level": 3,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Tombouctou",
+          "slug": "tombouctou-060101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.773",
+      "lon": "-3.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C06010102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tombouctou",
+      "en": "Tombouctou",
+      "slug": "tombouctou-06010102"
+    },
+    "code": {
+      "id": "ML-C06010102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A060101",
+      "level": 3,
+      "name": {
+        "local": "Tombouctou",
+        "en": "Tombouctou",
+        "slug": "tombouctou-060101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0601",
+        "level": 2,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml0601"
+        }
+      },
+      {
+        "id": "ML-A060101",
+        "level": 3,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Tombouctou",
+          "slug": "tombouctou-060101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.773",
+      "lon": "-3.007"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "ML-A050304",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Sossobé",
+    "en": "Sossobé",
+    "slug": "sossob-050304"
+  },
+  "code": {
+    "id": "ML-A050304",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0503",
+    "level": 2,
+    "name": {
+      "local": "Ténenkou",
+      "en": "Tenenkou",
+      "slug": "tenenkou-ml0503"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML05",
+      "level": 1,
+      "name": {
+        "local": "Mopti",
+        "en": "Mopti",
+        "slug": "mopti-ml05"
+      }
+    },
+    {
+      "id": "ML0503",
+      "level": 2,
+      "name": {
+        "local": "Ténenkou",
+        "en": "Tenenkou",
+        "slug": "tenenkou-ml0503"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.457",
+    "lon": "-4.917"
+  },
+  "metadata": {},
+  "source": {}
+}

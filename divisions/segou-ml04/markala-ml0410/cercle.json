@@ -1,0 +1,48 @@
+{
+  "id": "ML0410",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Markala",
+    "en": "Markala",
+    "slug": "markala-ml0410"
+  },
+  "code": {
+    "id": "ML0410",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML04",
+    "level": 1,
+    "name": {
+      "local": "Segou",
+      "en": "Segou",
+      "slug": "segou-ml04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML04",
+      "level": 1,
+      "name": {
+        "local": "Segou",
+        "en": "Segou",
+        "slug": "segou-ml04"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 3,
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.816",
+    "lon": "-5.358"
+  },
+  "metadata": {},
+  "source": {}
+}

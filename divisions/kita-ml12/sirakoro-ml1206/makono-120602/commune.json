@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C12060201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Makono",
+      "en": "Makono",
+      "slug": "makono-12060201"
+    },
+    "code": {
+      "id": "ML-C12060201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120602",
+      "level": 3,
+      "name": {
+        "local": "Makono",
+        "en": "Makono",
+        "slug": "makono-120602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1206",
+        "level": 2,
+        "name": {
+          "local": "Sirakoro",
+          "en": "Sirakoro",
+          "slug": "sirakoro-ml1206"
+        }
+      },
+      {
+        "id": "ML-A120602",
+        "level": 3,
+        "name": {
+          "local": "Makono",
+          "en": "Makono",
+          "slug": "makono-120602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.765",
+      "lon": "-8.017"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

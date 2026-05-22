@@ -1,0 +1,48 @@
+{
+  "id": "ML1606",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Konséguéla",
+    "en": "Konseguel a",
+    "slug": "konseguel-a-ml1606"
+  },
+  "code": {
+    "id": "ML1606",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML16",
+    "level": 1,
+    "name": {
+      "local": "Koutiala",
+      "en": "Koutiala",
+      "slug": "koutiala-ml16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML16",
+      "level": 1,
+      "name": {
+        "local": "Koutiala",
+        "en": "Koutiala",
+        "slug": "koutiala-ml16"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 3,
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.409",
+    "lon": "-5.877"
+  },
+  "metadata": {},
+  "source": {}
+}

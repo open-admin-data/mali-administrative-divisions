@@ -1,0 +1,48 @@
+{
+  "id": "ML0105",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Ambidédi",
+    "en": "Ambididi",
+    "slug": "ambididi-ml0105"
+  },
+  "code": {
+    "id": "ML0105",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML01",
+    "level": 1,
+    "name": {
+      "local": "Kayes",
+      "en": "Kayes",
+      "slug": "kayes-ml01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML01",
+      "level": 1,
+      "name": {
+        "local": "Kayes",
+        "en": "Kayes",
+        "slug": "kayes-ml01"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 2,
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.586",
+    "lon": "-11.791"
+  },
+  "metadata": {},
+  "source": {}
+}

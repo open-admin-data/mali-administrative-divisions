@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C19020401",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dioungani",
+      "en": "Dioungani",
+      "slug": "dioungani-19020401"
+    },
+    "code": {
+      "id": "ML-C19020401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190204",
+      "level": 3,
+      "name": {
+        "local": "Dioungani",
+        "en": "Dioungani",
+        "slug": "dioungani-190204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1902",
+        "level": 2,
+        "name": {
+          "local": "Koro",
+          "en": "Koro",
+          "slug": "koro-ml1902"
+        }
+      },
+      {
+        "id": "ML-A190204",
+        "level": 3,
+        "name": {
+          "local": "Dioungani",
+          "en": "Dioungani",
+          "slug": "dioungani-190204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.627",
+      "lon": "-7.984"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

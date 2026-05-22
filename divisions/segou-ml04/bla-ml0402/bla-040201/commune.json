@@ -1,0 +1,317 @@
+[
+  {
+    "id": "ML-C04020101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Béguéné",
+      "en": "Béguéné",
+      "slug": "bgun-04020101"
+    },
+    "code": {
+      "id": "ML-C04020101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040201",
+      "level": 3,
+      "name": {
+        "local": "Bla",
+        "en": "Bla",
+        "slug": "bla-040201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0402",
+        "level": 2,
+        "name": {
+          "local": "Bla",
+          "en": "Bla",
+          "slug": "bla-ml0402"
+        }
+      },
+      {
+        "id": "ML-A040201",
+        "level": 3,
+        "name": {
+          "local": "Bla",
+          "en": "Bla",
+          "slug": "bla-040201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.95",
+      "lon": "-5.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C04020102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bla",
+      "en": "Bla",
+      "slug": "bla-04020102"
+    },
+    "code": {
+      "id": "ML-C04020102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040201",
+      "level": 3,
+      "name": {
+        "local": "Bla",
+        "en": "Bla",
+        "slug": "bla-040201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0402",
+        "level": 2,
+        "name": {
+          "local": "Bla",
+          "en": "Bla",
+          "slug": "bla-ml0402"
+        }
+      },
+      {
+        "id": "ML-A040201",
+        "level": 3,
+        "name": {
+          "local": "Bla",
+          "en": "Bla",
+          "slug": "bla-040201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.95",
+      "lon": "-5.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C04020103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kéméni",
+      "en": "Kéméni",
+      "slug": "kmni-04020103"
+    },
+    "code": {
+      "id": "ML-C04020103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040201",
+      "level": 3,
+      "name": {
+        "local": "Bla",
+        "en": "Bla",
+        "slug": "bla-040201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0402",
+        "level": 2,
+        "name": {
+          "local": "Bla",
+          "en": "Bla",
+          "slug": "bla-ml0402"
+        }
+      },
+      {
+        "id": "ML-A040201",
+        "level": 3,
+        "name": {
+          "local": "Bla",
+          "en": "Bla",
+          "slug": "bla-040201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.95",
+      "lon": "-5.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C04020104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Niala",
+      "en": "Niala",
+      "slug": "niala-04020104"
+    },
+    "code": {
+      "id": "ML-C04020104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040201",
+      "level": 3,
+      "name": {
+        "local": "Bla",
+        "en": "Bla",
+        "slug": "bla-040201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0402",
+        "level": 2,
+        "name": {
+          "local": "Bla",
+          "en": "Bla",
+          "slug": "bla-ml0402"
+        }
+      },
+      {
+        "id": "ML-A040201",
+        "level": 3,
+        "name": {
+          "local": "Bla",
+          "en": "Bla",
+          "slug": "bla-040201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.95",
+      "lon": "-5.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C04020105",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tiéména",
+      "en": "Tiéména",
+      "slug": "timna-04020105"
+    },
+    "code": {
+      "id": "ML-C04020105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040201",
+      "level": 3,
+      "name": {
+        "local": "Bla",
+        "en": "Bla",
+        "slug": "bla-040201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0402",
+        "level": 2,
+        "name": {
+          "local": "Bla",
+          "en": "Bla",
+          "slug": "bla-ml0402"
+        }
+      },
+      {
+        "id": "ML-A040201",
+        "level": 3,
+        "name": {
+          "local": "Bla",
+          "en": "Bla",
+          "slug": "bla-040201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.95",
+      "lon": "-5.76"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C13040101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Binko",
+      "en": "Binko",
+      "slug": "binko-13040101"
+    },
+    "code": {
+      "id": "ML-C13040101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A130401",
+      "level": 3,
+      "name": {
+        "local": "Fana",
+        "en": "Fana",
+        "slug": "fana-130401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML13",
+        "level": 1,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioïla",
+          "slug": "diola-ml13"
+        }
+      },
+      {
+        "id": "ML1304",
+        "level": 2,
+        "name": {
+          "local": "Fana",
+          "en": "Fana",
+          "slug": "fana-ml1304"
+        }
+      },
+      {
+        "id": "ML-A130401",
+        "level": 3,
+        "name": {
+          "local": "Fana",
+          "en": "Fana",
+          "slug": "fana-130401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.779",
+      "lon": "-6.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C13040102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guégnéka",
+      "en": "Guégnéka",
+      "slug": "gugnka-13040102"
+    },
+    "code": {
+      "id": "ML-C13040102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A130401",
+      "level": 3,
+      "name": {
+        "local": "Fana",
+        "en": "Fana",
+        "slug": "fana-130401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML13",
+        "level": 1,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioïla",
+          "slug": "diola-ml13"
+        }
+      },
+      {
+        "id": "ML1304",
+        "level": 2,
+        "name": {
+          "local": "Fana",
+          "en": "Fana",
+          "slug": "fana-ml1304"
+        }
+      },
+      {
+        "id": "ML-A130401",
+        "level": 3,
+        "name": {
+          "local": "Fana",
+          "en": "Fana",
+          "slug": "fana-130401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.779",
+      "lon": "-6.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C13040103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kéréla",
+      "en": "Kéréla",
+      "slug": "krla-13040103"
+    },
+    "code": {
+      "id": "ML-C13040103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A130401",
+      "level": 3,
+      "name": {
+        "local": "Fana",
+        "en": "Fana",
+        "slug": "fana-130401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML13",
+        "level": 1,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioïla",
+          "slug": "diola-ml13"
+        }
+      },
+      {
+        "id": "ML1304",
+        "level": 2,
+        "name": {
+          "local": "Fana",
+          "en": "Fana",
+          "slug": "fana-ml1304"
+        }
+      },
+      {
+        "id": "ML-A130401",
+        "level": 3,
+        "name": {
+          "local": "Fana",
+          "en": "Fana",
+          "slug": "fana-130401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.779",
+      "lon": "-6.956"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C14030101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dilly",
+      "en": "Dilly",
+      "slug": "dilly-14030101"
+    },
+    "code": {
+      "id": "ML-C14030101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A140301",
+      "level": 3,
+      "name": {
+        "local": "Dilly",
+        "en": "Dilly",
+        "slug": "dilly-140301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML14",
+        "level": 1,
+        "name": {
+          "local": "Nara",
+          "en": "Nara",
+          "slug": "nara-ml14"
+        }
+      },
+      {
+        "id": "ML1403",
+        "level": 2,
+        "name": {
+          "local": "Dilly",
+          "en": "Dilly",
+          "slug": "dilly-ml1403"
+        }
+      },
+      {
+        "id": "ML-A140301",
+        "level": 3,
+        "name": {
+          "local": "Dilly",
+          "en": "Dilly",
+          "slug": "dilly-140301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.999",
+      "lon": "-7.669"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C16010301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Diaramana",
+      "en": "Diaramana",
+      "slug": "diaramana-16010301"
+    },
+    "code": {
+      "id": "ML-C16010301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160103",
+      "level": 3,
+      "name": {
+        "local": "Diaramana",
+        "en": "Diaramana",
+        "slug": "diaramana-160103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1601",
+        "level": 2,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml1601"
+        }
+      },
+      {
+        "id": "ML-A160103",
+        "level": 3,
+        "name": {
+          "local": "Diaramana",
+          "en": "Diaramana",
+          "slug": "diaramana-160103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.026",
+      "lon": "-5.523"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

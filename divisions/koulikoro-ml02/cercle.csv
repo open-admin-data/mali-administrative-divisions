@@ -1,0 +1,9 @@
+id,name.local,name.en,name.slug,code.id,children_count.arrondissement,children_count.commune,geo.lat,geo.lon
+ML0202,Banamba,Banamba,banamba-ml0202,ML0202,6,9,13.548,-7.448
+ML0203,Kangaba,Kangaba,kangaba-ml0203,ML0203,2,8,11.933,-8.417
+ML0204,Kati,Kati,kati-ml0204,ML0204,4,17,16.113,-3.733
+ML0205,Kolokani,Kolokani,kolokani-ml0205,ML0205,4,10,13.573,-8.034
+ML0201,Koulikoro,Koulikoro,koulikoro-ml0201,ML0201,5,7,12.863,-7.56
+ML0208,Neguela,Neguela,neguela-ml0208,ML0208,0,0,12.478,-5.645
+ML0206,Nyamina,Nyamina,nyamina-ml0206,ML0206,2,2,13.319,-6.982
+ML0207,Siby,Siby,siby-ml0207,ML0207,3,5,12.375,-8.337

@@ -1,0 +1,188 @@
+# San — Mali Administrative Divisions
+
+> 7 circles, 17 arrondissements, 42 communes
+> Code: ML17
+> Coordinates: 13.297, -4.896
+> Last updated: 2026-05-22. License: CC-BY-4.0.
+
+## Circles
+
+### Fangasso
+
+Code: ML1705, Coordinates: 13.529, -4.446
+Arrondissements: 2, Communes: 3
+
+#### Fangasso
+
+Code: ML-A170501, Coordinates: 13.529, -4.446
+
+Communes:
+- Fangasso [ML-C17050101]
+- Ouan [ML-C17050102]
+
+#### Timissa
+
+Code: ML-A170502, Coordinates: 13.529, -4.446
+
+Communes:
+- Timissa [ML-C17050201]
+
+### Kimparana
+
+Code: ML1703, Coordinates: 12.835, -4.924
+Arrondissements: 3, Communes: 10
+
+#### Kassorola
+
+Code: ML-A170302, Coordinates: 12.835, -4.924
+
+Communes:
+- Kassorola [ML-C17030201]
+- Moribila [ML-C17030202]
+- Tourakolomba [ML-C17030203]
+
+#### Kimparana
+
+Code: ML-A170301, Coordinates: 12.835, -4.924
+
+Communes:
+- Diakourouna [ML-C17030105]
+- Kaniégué [ML-C17030101]
+- Karaba [ML-C17030102]
+- Kava [ML-C17030103]
+- Waki [ML-C17030104]
+
+#### Sourountouna
+
+Code: ML-A170303, Coordinates: 12.835, -4.924
+
+Communes:
+- Dah [ML-C17030301]
+- Sourountouna [ML-C17030302]
+
+### Mandiakuy
+
+Code: ML1706, Coordinates: 13.021, -4.463
+Arrondissements: 2, Communes: 4
+
+#### Mafouné
+
+Code: ML-A170602, Coordinates: 13.021, -4.463
+
+Communes:
+- Mafouné [ML-C17060201]
+
+#### Mandiakuy
+
+Code: ML-A170601, Coordinates: 13.021, -4.463
+
+Communes:
+- Diora [ML-C17060102]
+- Mandiakuy [ML-C17060101]
+- Sanékuy [ML-C17060103]
+
+### San
+
+Code: ML1701, Coordinates: 13.297, -4.896
+Arrondissements: 2, Communes: 9
+
+#### San
+
+Code: ML-A170101, Coordinates: 13.297, -4.896
+
+Communes:
+- Djéguéna [ML-C17010102]
+- N&#39;Goa [ML-C17010103]
+- Niasso [ML-C17010104]
+- San [ML-C17010101]
+- Somo [ML-C17010105]
+- Ténéni [ML-C17010106]
+
+#### Tènè
+
+Code: ML-A170102, Coordinates: 13.297, -4.896
+
+Communes:
+- Baramandougou [ML-C17010201]
+- Fion [ML-C17010202]
+- Tènè [ML-C17010203]
+
+### Sy
+
+Code: ML1707, Coordinates: 13.601, -4.976
+Arrondissements: 2, Communes: 3
+
+#### Siella
+
+Code: ML-A170702, Coordinates: 13.601, -4.976
+
+Communes:
+- Siadougou [ML-C17070201]
+
+#### Sy
+
+Code: ML-A170701, Coordinates: 13.601, -4.976
+
+Communes:
+- Ouolon [ML-C17070102]
+- Sy [ML-C17070101]
+
+### Tominian
+
+Code: ML1702, Coordinates: 13.287, -4.593
+Arrondissements: 3, Communes: 5
+
+#### Bénéna
+
+Code: ML-A170202, Coordinates: 13.287, -4.593
+
+Communes:
+- Bénéna [ML-C17020201]
+
+#### Koula
+
+Code: ML-A170203, Coordinates: 13.287, -4.593
+
+Communes:
+- Koula [ML-C17020301]
+- Lanfiala [ML-C17020302]
+
+#### Tominian
+
+Code: ML-A170201, Coordinates: 13.287, -4.593
+
+Communes:
+- Tominian [ML-C17020101]
+- Yasso [ML-C17020102]
+
+### Yangasso
+
+Code: ML1704, Coordinates: 13.073, -5.321
+Arrondissements: 3, Communes: 8
+
+#### Diéli
+
+Code: ML-A170403, Coordinates: 13.073, -5.321
+
+Communes:
+- Diéli [ML-C17040301]
+- N&#39;Torosso [ML-C17040304]
+- Niamana [ML-C17040302]
+
+#### Fani
+
+Code: ML-A170402, Coordinates: 13.073, -5.321
+
+Communes:
+- Fani [ML-C17040201]
+
+#### Yangasso
+
+Code: ML-A170401, Coordinates: 13.073, -5.321
+
+Communes:
+- Kazangasso [ML-C17040102]
+- Korodougou [ML-C17040103]
+- Koulandougou [ML-C17040104]
+- Yangasso [ML-C17040101]
+

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "ML-A170302",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Kassorola",
+      "en": "Kassorola",
+      "slug": "kassorola-170302"
+    },
+    "code": {
+      "id": "ML-A170302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1703",
+      "level": 2,
+      "name": {
+        "local": "Kimparana",
+        "en": "Kimparana",
+        "slug": "kimparana-ml1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      },
+      {
+        "id": "ML1703",
+        "level": 2,
+        "name": {
+          "local": "Kimparana",
+          "en": "Kimparana",
+          "slug": "kimparana-ml1703"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.835",
+      "lon": "-4.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A170301",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Kimparana",
+      "en": "Kimparana",
+      "slug": "kimparana-170301"
+    },
+    "code": {
+      "id": "ML-A170301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1703",
+      "level": 2,
+      "name": {
+        "local": "Kimparana",
+        "en": "Kimparana",
+        "slug": "kimparana-ml1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      },
+      {
+        "id": "ML1703",
+        "level": 2,
+        "name": {
+          "local": "Kimparana",
+          "en": "Kimparana",
+          "slug": "kimparana-ml1703"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.835",
+      "lon": "-4.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A170303",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Sourountouna",
+      "en": "Sourountouna",
+      "slug": "sourountouna-170303"
+    },
+    "code": {
+      "id": "ML-A170303",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1703",
+      "level": 2,
+      "name": {
+        "local": "Kimparana",
+        "en": "Kimparana",
+        "slug": "kimparana-ml1703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      },
+      {
+        "id": "ML1703",
+        "level": 2,
+        "name": {
+          "local": "Kimparana",
+          "en": "Kimparana",
+          "slug": "kimparana-ml1703"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.835",
+      "lon": "-4.924"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

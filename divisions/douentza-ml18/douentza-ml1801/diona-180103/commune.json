@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C18010301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Korarou",
+      "en": "Korarou",
+      "slug": "korarou-18010301"
+    },
+    "code": {
+      "id": "ML-C18010301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A180103",
+      "level": 3,
+      "name": {
+        "local": "Diona",
+        "en": "Diona",
+        "slug": "diona-180103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML18",
+        "level": 1,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml18"
+        }
+      },
+      {
+        "id": "ML1801",
+        "level": 2,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml1801"
+        }
+      },
+      {
+        "id": "ML-A180103",
+        "level": 3,
+        "name": {
+          "local": "Diona",
+          "en": "Diona",
+          "slug": "diona-180103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.006",
+      "lon": "-2.952"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

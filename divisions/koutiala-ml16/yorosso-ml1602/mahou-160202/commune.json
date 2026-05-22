@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C16020201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahou",
+      "en": "Mahou",
+      "slug": "mahou-16020201"
+    },
+    "code": {
+      "id": "ML-C16020201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160202",
+      "level": 3,
+      "name": {
+        "local": "Mahou",
+        "en": "Mahou",
+        "slug": "mahou-160202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1602",
+        "level": 2,
+        "name": {
+          "local": "Yorosso",
+          "en": "Yorosso",
+          "slug": "yorosso-ml1602"
+        }
+      },
+      {
+        "id": "ML-A160202",
+        "level": 3,
+        "name": {
+          "local": "Mahou",
+          "en": "Mahou",
+          "slug": "mahou-160202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.358",
+      "lon": "-4.777"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

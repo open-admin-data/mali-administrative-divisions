@@ -1,0 +1,622 @@
+[
+  {
+    "id": "ML01",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Kayes",
+      "en": "Kayes",
+      "slug": "kayes-ml01"
+    },
+    "code": {
+      "id": "ML01",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "cercle": 10,
+      "commune": 65,
+      "arrondissement": 33
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.448",
+      "lon": "-11.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML02",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Koulikoro",
+      "en": "Koulikoro",
+      "slug": "koulikoro-ml02"
+    },
+    "code": {
+      "id": "ML02",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "cercle": 8,
+      "commune": 58,
+      "arrondissement": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.863",
+      "lon": "-7.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML03",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Sikasso",
+      "en": "Sikasso",
+      "slug": "sikasso-ml03"
+    },
+    "code": {
+      "id": "ML03",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "cercle": 8,
+      "commune": 36,
+      "arrondissement": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.318",
+      "lon": "-5.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML04",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Segou",
+      "en": "Segou",
+      "slug": "segou-ml04"
+    },
+    "code": {
+      "id": "ML04",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "cercle": 11,
+      "commune": 54,
+      "arrondissement": 28
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.44",
+      "lon": "-6.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML05",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Mopti",
+      "en": "Mopti",
+      "slug": "mopti-ml05"
+    },
+    "code": {
+      "id": "ML05",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "cercle": 8,
+      "commune": 50,
+      "arrondissement": 34
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.484",
+      "lon": "-4.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML06",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Tombouctou",
+      "en": "Timbuktu",
+      "slug": "timbuktu-ml06"
+    },
+    "code": {
+      "id": "ML06",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "cercle": 13,
+      "commune": 47,
+      "arrondissement": 30
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.773",
+      "lon": "-3.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML07",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Gao",
+      "en": "Gao",
+      "slug": "gao-ml07"
+    },
+    "code": {
+      "id": "ML07",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "cercle": 16,
+      "commune": 40,
+      "arrondissement": 37
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.272",
+      "lon": "-0.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML08",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Kidal",
+      "en": "Kidal",
+      "slug": "kidal-ml08"
+    },
+    "code": {
+      "id": "ML08",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "cercle": 9,
+      "commune": 30,
+      "arrondissement": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.461",
+      "lon": "1.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML09",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Taoudenni",
+      "en": "Taoudenni",
+      "slug": "taoudenni-ml09"
+    },
+    "code": {
+      "id": "ML09",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "cercle": 6,
+      "commune": 30,
+      "arrondissement": 30
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-3.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML10",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Ménaka",
+      "en": "Ménaka",
+      "slug": "mnaka-ml10"
+    },
+    "code": {
+      "id": "ML10",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "cercle": 6,
+      "commune": 27,
+      "arrondissement": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.92",
+      "lon": "2.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML11",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Nioro",
+      "en": "Nioro",
+      "slug": "nioro-ml11"
+    },
+    "code": {
+      "id": "ML11",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "cercle": 6,
+      "commune": 10,
+      "arrondissement": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.231",
+      "lon": "-9.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML12",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Kita",
+      "en": "Kita",
+      "slug": "kita-ml12"
+    },
+    "code": {
+      "id": "ML12",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "cercle": 6,
+      "commune": 33,
+      "arrondissement": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.039",
+      "lon": "-9.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML13",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Dioïla",
+      "en": "Dioïla",
+      "slug": "diola-ml13"
+    },
+    "code": {
+      "id": "ML13",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "cercle": 6,
+      "commune": 23,
+      "arrondissement": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.487",
+      "lon": "-6.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML14",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Nara",
+      "en": "Nara",
+      "slug": "nara-ml14"
+    },
+    "code": {
+      "id": "ML14",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "cercle": 6,
+      "commune": 14,
+      "arrondissement": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.169",
+      "lon": "-7.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML15",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Bougouni",
+      "en": "Bougouni",
+      "slug": "bougouni-ml15"
+    },
+    "code": {
+      "id": "ML15",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "cercle": 10,
+      "commune": 41,
+      "arrondissement": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.741",
+      "lon": "-2.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML16",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Koutiala",
+      "en": "Koutiala",
+      "slug": "koutiala-ml16"
+    },
+    "code": {
+      "id": "ML16",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "cercle": 8,
+      "commune": 46,
+      "arrondissement": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.026",
+      "lon": "-5.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML17",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "San",
+      "en": "San",
+      "slug": "san-ml17"
+    },
+    "code": {
+      "id": "ML17",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "cercle": 7,
+      "commune": 42,
+      "arrondissement": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.297",
+      "lon": "-4.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML18",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Douentza",
+      "en": "Douentza",
+      "slug": "douentza-ml18"
+    },
+    "code": {
+      "id": "ML18",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "cercle": 6,
+      "commune": 21,
+      "arrondissement": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.006",
+      "lon": "-2.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML19",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Bandiagara",
+      "en": "Bandiagara",
+      "slug": "bandiagara-ml19"
+    },
+    "code": {
+      "id": "ML19",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "cercle": 9,
+      "commune": 48,
+      "arrondissement": 28
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.35",
+      "lon": "-3.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML20",
+    "level": 1,
+    "level_name": {
+      "local": "Région",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Bamako",
+      "en": "Bamako",
+      "slug": "bamako-ml20"
+    },
+    "code": {
+      "id": "ML20",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "cercle": 1,
+      "commune": 0,
+      "arrondissement": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.583",
+      "lon": "-4.417"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

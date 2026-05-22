@@ -1,0 +1,48 @@
+{
+  "id": "ML0602",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Goundam",
+    "en": "Goundam",
+    "slug": "goundam-ml0602"
+  },
+  "code": {
+    "id": "ML0602",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML06",
+    "level": 1,
+    "name": {
+      "local": "Tombouctou",
+      "en": "Timbuktu",
+      "slug": "timbuktu-ml06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML06",
+      "level": 1,
+      "name": {
+        "local": "Tombouctou",
+        "en": "Timbuktu",
+        "slug": "timbuktu-ml06"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 3,
+    "commune": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.415",
+    "lon": "-3.671"
+  },
+  "metadata": {},
+  "source": {}
+}

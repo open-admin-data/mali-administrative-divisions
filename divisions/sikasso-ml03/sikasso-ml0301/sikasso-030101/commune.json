@@ -1,0 +1,758 @@
+[
+  {
+    "id": "ML-C03010112",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dallé",
+      "en": "Dallé",
+      "slug": "dall-03010112"
+    },
+    "code": {
+      "id": "ML-C03010112",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030101",
+      "level": 3,
+      "name": {
+        "local": "Sikasso",
+        "en": "Sikasso",
+        "slug": "sikasso-030101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0301",
+        "level": 2,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml0301"
+        }
+      },
+      {
+        "id": "ML-A030101",
+        "level": 3,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-030101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.318",
+      "lon": "-5.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C03010101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Diomatènè",
+      "en": "Diomatènè",
+      "slug": "diomatn-03010101"
+    },
+    "code": {
+      "id": "ML-C03010101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030101",
+      "level": 3,
+      "name": {
+        "local": "Sikasso",
+        "en": "Sikasso",
+        "slug": "sikasso-030101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0301",
+        "level": 2,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml0301"
+        }
+      },
+      {
+        "id": "ML-A030101",
+        "level": 3,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-030101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.318",
+      "lon": "-5.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C03010102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Finkolo",
+      "en": "Finkolo",
+      "slug": "finkolo-03010102"
+    },
+    "code": {
+      "id": "ML-C03010102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030101",
+      "level": 3,
+      "name": {
+        "local": "Sikasso",
+        "en": "Sikasso",
+        "slug": "sikasso-030101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0301",
+        "level": 2,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml0301"
+        }
+      },
+      {
+        "id": "ML-A030101",
+        "level": 3,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-030101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.318",
+      "lon": "-5.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C03010103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kaboïla",
+      "en": "Kaboïla",
+      "slug": "kabola-03010103"
+    },
+    "code": {
+      "id": "ML-C03010103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030101",
+      "level": 3,
+      "name": {
+        "local": "Sikasso",
+        "en": "Sikasso",
+        "slug": "sikasso-030101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0301",
+        "level": 2,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml0301"
+        }
+      },
+      {
+        "id": "ML-A030101",
+        "level": 3,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-030101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.318",
+      "lon": "-5.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C03010104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kafouziéla",
+      "en": "Kafouziéla",
+      "slug": "kafouzila-03010104"
+    },
+    "code": {
+      "id": "ML-C03010104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030101",
+      "level": 3,
+      "name": {
+        "local": "Sikasso",
+        "en": "Sikasso",
+        "slug": "sikasso-030101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0301",
+        "level": 2,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml0301"
+        }
+      },
+      {
+        "id": "ML-A030101",
+        "level": 3,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-030101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.318",
+      "lon": "-5.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C03010105",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kapala",
+      "en": "Kapala",
+      "slug": "kapala-03010105"
+    },
+    "code": {
+      "id": "ML-C03010105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030101",
+      "level": 3,
+      "name": {
+        "local": "Sikasso",
+        "en": "Sikasso",
+        "slug": "sikasso-030101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0301",
+        "level": 2,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml0301"
+        }
+      },
+      {
+        "id": "ML-A030101",
+        "level": 3,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-030101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.318",
+      "lon": "-5.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C03010106",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Missirikoro",
+      "en": "Missirikoro",
+      "slug": "missirikoro-03010106"
+    },
+    "code": {
+      "id": "ML-C03010106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030101",
+      "level": 3,
+      "name": {
+        "local": "Sikasso",
+        "en": "Sikasso",
+        "slug": "sikasso-030101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0301",
+        "level": 2,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml0301"
+        }
+      },
+      {
+        "id": "ML-A030101",
+        "level": 3,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-030101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.318",
+      "lon": "-5.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C03010107",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Natien",
+      "en": "Natien",
+      "slug": "natien-03010107"
+    },
+    "code": {
+      "id": "ML-C03010107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030101",
+      "level": 3,
+      "name": {
+        "local": "Sikasso",
+        "en": "Sikasso",
+        "slug": "sikasso-030101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0301",
+        "level": 2,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml0301"
+        }
+      },
+      {
+        "id": "ML-A030101",
+        "level": 3,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-030101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.318",
+      "lon": "-5.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C03010108",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Pimperna",
+      "en": "Pimperna",
+      "slug": "pimperna-03010108"
+    },
+    "code": {
+      "id": "ML-C03010108",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030101",
+      "level": 3,
+      "name": {
+        "local": "Sikasso",
+        "en": "Sikasso",
+        "slug": "sikasso-030101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0301",
+        "level": 2,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml0301"
+        }
+      },
+      {
+        "id": "ML-A030101",
+        "level": 3,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-030101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.318",
+      "lon": "-5.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C03010109",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sikasso",
+      "en": "Sikasso",
+      "slug": "sikasso-03010109"
+    },
+    "code": {
+      "id": "ML-C03010109",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030101",
+      "level": 3,
+      "name": {
+        "local": "Sikasso",
+        "en": "Sikasso",
+        "slug": "sikasso-030101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0301",
+        "level": 2,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml0301"
+        }
+      },
+      {
+        "id": "ML-A030101",
+        "level": 3,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-030101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.318",
+      "lon": "-5.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C03010110",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sokourani-Missirikoro",
+      "en": "Sokourani-Missirikoro",
+      "slug": "sokourani-missirikoro-03010110"
+    },
+    "code": {
+      "id": "ML-C03010110",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030101",
+      "level": 3,
+      "name": {
+        "local": "Sikasso",
+        "en": "Sikasso",
+        "slug": "sikasso-030101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0301",
+        "level": 2,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml0301"
+        }
+      },
+      {
+        "id": "ML-A030101",
+        "level": 3,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-030101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.318",
+      "lon": "-5.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C03010111",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zangaradougou",
+      "en": "Zangaradougou",
+      "slug": "zangaradougou-03010111"
+    },
+    "code": {
+      "id": "ML-C03010111",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030101",
+      "level": 3,
+      "name": {
+        "local": "Sikasso",
+        "en": "Sikasso",
+        "slug": "sikasso-030101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0301",
+        "level": 2,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml0301"
+        }
+      },
+      {
+        "id": "ML-A030101",
+        "level": 3,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-030101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.318",
+      "lon": "-5.667"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

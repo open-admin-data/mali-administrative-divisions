@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C03060201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kolokoba",
+      "en": "Kolokoba",
+      "slug": "kolokoba-03060201"
+    },
+    "code": {
+      "id": "ML-C03060201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030602",
+      "level": 3,
+      "name": {
+        "local": "Kolokoba",
+        "en": "Kolokoba",
+        "slug": "kolokoba-030602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0306",
+        "level": 2,
+        "name": {
+          "local": "Lobougoula",
+          "en": "Lobougoula",
+          "slug": "lobougoula-ml0306"
+        }
+      },
+      {
+        "id": "ML-A030602",
+        "level": 3,
+        "name": {
+          "local": "Kolokoba",
+          "en": "Kolokoba",
+          "slug": "kolokoba-030602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.044",
+      "lon": "-5.981"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

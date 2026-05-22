@@ -1,0 +1,48 @@
+{
+  "id": "ML0103",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Yélimané",
+    "en": "Yelimane",
+    "slug": "yelimane-ml0103"
+  },
+  "code": {
+    "id": "ML0103",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML01",
+    "level": 1,
+    "name": {
+      "local": "Kayes",
+      "en": "Kayes",
+      "slug": "kayes-ml01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML01",
+      "level": 1,
+      "name": {
+        "local": "Kayes",
+        "en": "Kayes",
+        "slug": "kayes-ml01"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 3,
+    "commune": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.119",
+    "lon": "-10.577"
+  },
+  "metadata": {},
+  "source": {}
+}

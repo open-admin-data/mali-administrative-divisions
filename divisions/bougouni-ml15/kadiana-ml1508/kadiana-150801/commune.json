@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C15080101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kadiana",
+      "en": "Kadiana",
+      "slug": "kadiana-15080101"
+    },
+    "code": {
+      "id": "ML-C15080101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150801",
+      "level": 3,
+      "name": {
+        "local": "Kadiana",
+        "en": "Kadiana",
+        "slug": "kadiana-150801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1508",
+        "level": 2,
+        "name": {
+          "local": "Kadiana",
+          "en": "Kadiana",
+          "slug": "kadiana-ml1508"
+        }
+      },
+      {
+        "id": "ML-A150801",
+        "level": 3,
+        "name": {
+          "local": "Kadiana",
+          "en": "Kadiana",
+          "slug": "kadiana-150801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.75",
+      "lon": "-6.5"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

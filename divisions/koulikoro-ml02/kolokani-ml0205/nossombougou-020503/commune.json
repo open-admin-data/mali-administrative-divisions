@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C02050301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nonkon",
+      "en": "Nonkon",
+      "slug": "nonkon-02050301"
+    },
+    "code": {
+      "id": "ML-C02050301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020503",
+      "level": 3,
+      "name": {
+        "local": "Nossombougou",
+        "en": "Nossombougou",
+        "slug": "nossombougou-020503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0205",
+        "level": 2,
+        "name": {
+          "local": "Kolokani",
+          "en": "Kolokani",
+          "slug": "kolokani-ml0205"
+        }
+      },
+      {
+        "id": "ML-A020503",
+        "level": 3,
+        "name": {
+          "local": "Nossombougou",
+          "en": "Nossombougou",
+          "slug": "nossombougou-020503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.573",
+      "lon": "-8.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C02050302",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nossombougou",
+      "en": "Nossombougou",
+      "slug": "nossombougou-02050302"
+    },
+    "code": {
+      "id": "ML-C02050302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020503",
+      "level": 3,
+      "name": {
+        "local": "Nossombougou",
+        "en": "Nossombougou",
+        "slug": "nossombougou-020503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0205",
+        "level": 2,
+        "name": {
+          "local": "Kolokani",
+          "en": "Kolokani",
+          "slug": "kolokani-ml0205"
+        }
+      },
+      {
+        "id": "ML-A020503",
+        "level": 3,
+        "name": {
+          "local": "Nossombougou",
+          "en": "Nossombougou",
+          "slug": "nossombougou-020503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.573",
+      "lon": "-8.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C02050303",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouolodo",
+      "en": "Ouolodo",
+      "slug": "ouolodo-02050303"
+    },
+    "code": {
+      "id": "ML-C02050303",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020503",
+      "level": 3,
+      "name": {
+        "local": "Nossombougou",
+        "en": "Nossombougou",
+        "slug": "nossombougou-020503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0205",
+        "level": 2,
+        "name": {
+          "local": "Kolokani",
+          "en": "Kolokani",
+          "slug": "kolokani-ml0205"
+        }
+      },
+      {
+        "id": "ML-A020503",
+        "level": 3,
+        "name": {
+          "local": "Nossombougou",
+          "en": "Nossombougou",
+          "slug": "nossombougou-020503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.573",
+      "lon": "-8.034"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

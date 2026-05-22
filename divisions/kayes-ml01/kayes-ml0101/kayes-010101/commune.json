@@ -1,0 +1,443 @@
+[
+  {
+    "id": "ML-C01010102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bangassi",
+      "en": "Bangassi",
+      "slug": "bangassi-01010102"
+    },
+    "code": {
+      "id": "ML-C01010102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010101",
+      "level": 3,
+      "name": {
+        "local": "Kayes",
+        "en": "Kayes",
+        "slug": "kayes-010101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0101",
+        "level": 2,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml0101"
+        }
+      },
+      {
+        "id": "ML-A010101",
+        "level": 3,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-010101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.448",
+      "lon": "-11.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C01010103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Colimbiné",
+      "en": "Colimbiné",
+      "slug": "colimbin-01010103"
+    },
+    "code": {
+      "id": "ML-C01010103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010101",
+      "level": 3,
+      "name": {
+        "local": "Kayes",
+        "en": "Kayes",
+        "slug": "kayes-010101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0101",
+        "level": 2,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml0101"
+        }
+      },
+      {
+        "id": "ML-A010101",
+        "level": 3,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-010101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.448",
+      "lon": "-11.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C01010104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gory Gopela",
+      "en": "Gory Gopela",
+      "slug": "gory-gopela-01010104"
+    },
+    "code": {
+      "id": "ML-C01010104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010101",
+      "level": 3,
+      "name": {
+        "local": "Kayes",
+        "en": "Kayes",
+        "slug": "kayes-010101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0101",
+        "level": 2,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml0101"
+        }
+      },
+      {
+        "id": "ML-A010101",
+        "level": 3,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-010101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.448",
+      "lon": "-11.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C01010105",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Goumera",
+      "en": "Goumera",
+      "slug": "goumera-01010105"
+    },
+    "code": {
+      "id": "ML-C01010105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010101",
+      "level": 3,
+      "name": {
+        "local": "Kayes",
+        "en": "Kayes",
+        "slug": "kayes-010101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0101",
+        "level": 2,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml0101"
+        }
+      },
+      {
+        "id": "ML-A010101",
+        "level": 3,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-010101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.448",
+      "lon": "-11.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C01010101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kayes",
+      "en": "Kayes",
+      "slug": "kayes-01010101"
+    },
+    "code": {
+      "id": "ML-C01010101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010101",
+      "level": 3,
+      "name": {
+        "local": "Kayes",
+        "en": "Kayes",
+        "slug": "kayes-010101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0101",
+        "level": 2,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml0101"
+        }
+      },
+      {
+        "id": "ML-A010101",
+        "level": 3,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-010101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.448",
+      "lon": "-11.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C01010106",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Khouloum",
+      "en": "Khouloum",
+      "slug": "khouloum-01010106"
+    },
+    "code": {
+      "id": "ML-C01010106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010101",
+      "level": 3,
+      "name": {
+        "local": "Kayes",
+        "en": "Kayes",
+        "slug": "kayes-010101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0101",
+        "level": 2,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml0101"
+        }
+      },
+      {
+        "id": "ML-A010101",
+        "level": 3,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-010101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.448",
+      "lon": "-11.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C01010107",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Liberté Dembaya",
+      "en": "Liberté Dembaya",
+      "slug": "libert-dembaya-01010107"
+    },
+    "code": {
+      "id": "ML-C01010107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010101",
+      "level": 3,
+      "name": {
+        "local": "Kayes",
+        "en": "Kayes",
+        "slug": "kayes-010101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0101",
+        "level": 2,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml0101"
+        }
+      },
+      {
+        "id": "ML-A010101",
+        "level": 3,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-010101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.448",
+      "lon": "-11.444"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

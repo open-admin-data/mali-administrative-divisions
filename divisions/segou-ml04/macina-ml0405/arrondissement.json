@@ -1,0 +1,226 @@
+[
+  {
+    "id": "ML-A040502",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Kolongotomo",
+      "en": "Kolongotomo",
+      "slug": "kolongotomo-040502"
+    },
+    "code": {
+      "id": "ML-A040502",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0405",
+      "level": 2,
+      "name": {
+        "local": "Macina",
+        "en": "Macina",
+        "slug": "macina-ml0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0405",
+        "level": 2,
+        "name": {
+          "local": "Macina",
+          "en": "Macina",
+          "slug": "macina-ml0405"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.308",
+      "lon": "-11.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A040501",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Macina",
+      "en": "Macina",
+      "slug": "macina-040501"
+    },
+    "code": {
+      "id": "ML-A040501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0405",
+      "level": 2,
+      "name": {
+        "local": "Macina",
+        "en": "Macina",
+        "slug": "macina-ml0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0405",
+        "level": 2,
+        "name": {
+          "local": "Macina",
+          "en": "Macina",
+          "slug": "macina-ml0405"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.308",
+      "lon": "-11.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A040503",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Monimpébougou",
+      "en": "Monimpébougou",
+      "slug": "monimpbougou-040503"
+    },
+    "code": {
+      "id": "ML-A040503",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0405",
+      "level": 2,
+      "name": {
+        "local": "Macina",
+        "en": "Macina",
+        "slug": "macina-ml0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0405",
+        "level": 2,
+        "name": {
+          "local": "Macina",
+          "en": "Macina",
+          "slug": "macina-ml0405"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.308",
+      "lon": "-11.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A040504",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Saye",
+      "en": "Saye",
+      "slug": "saye-040504"
+    },
+    "code": {
+      "id": "ML-A040504",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0405",
+      "level": 2,
+      "name": {
+        "local": "Macina",
+        "en": "Macina",
+        "slug": "macina-ml0405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0405",
+        "level": 2,
+        "name": {
+          "local": "Macina",
+          "en": "Macina",
+          "slug": "macina-ml0405"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.308",
+      "lon": "-11.506"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

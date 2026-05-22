@@ -1,0 +1,31 @@
+{
+  "id": "ML09",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Taoudenni",
+    "en": "Taoudenni",
+    "slug": "taoudenni-ml09"
+  },
+  "code": {
+    "id": "ML09",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "cercle": 6,
+    "commune": 30,
+    "arrondissement": 30
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.677",
+    "lon": "-3.979"
+  },
+  "metadata": {},
+  "source": {}
+}

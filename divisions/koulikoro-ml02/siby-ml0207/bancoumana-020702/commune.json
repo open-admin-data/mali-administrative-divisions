@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C02070201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bancoumana",
+      "en": "Bancoumana",
+      "slug": "bancoumana-02070201"
+    },
+    "code": {
+      "id": "ML-C02070201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020702",
+      "level": 3,
+      "name": {
+        "local": "Bancoumana",
+        "en": "Bancoumana",
+        "slug": "bancoumana-020702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0207",
+        "level": 2,
+        "name": {
+          "local": "Siby",
+          "en": "Siby",
+          "slug": "siby-ml0207"
+        }
+      },
+      {
+        "id": "ML-A020702",
+        "level": 3,
+        "name": {
+          "local": "Bancoumana",
+          "en": "Bancoumana",
+          "slug": "bancoumana-020702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.375",
+      "lon": "-8.337"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C04050301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Monimpébougou",
+      "en": "Monimpébougou",
+      "slug": "monimpbougou-04050301"
+    },
+    "code": {
+      "id": "ML-C04050301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040503",
+      "level": 3,
+      "name": {
+        "local": "Monimpébougou",
+        "en": "Monimpébougou",
+        "slug": "monimpbougou-040503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0405",
+        "level": 2,
+        "name": {
+          "local": "Macina",
+          "en": "Macina",
+          "slug": "macina-ml0405"
+        }
+      },
+      {
+        "id": "ML-A040503",
+        "level": 3,
+        "name": {
+          "local": "Monimpébougou",
+          "en": "Monimpébougou",
+          "slug": "monimpbougou-040503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.308",
+      "lon": "-11.506"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

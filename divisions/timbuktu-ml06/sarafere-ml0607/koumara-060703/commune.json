@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C06070301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Koumaïra",
+      "en": "Koumaïra",
+      "slug": "koumara-06070301"
+    },
+    "code": {
+      "id": "ML-C06070301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A060703",
+      "level": 3,
+      "name": {
+        "local": "Koumaïra",
+        "en": "Koumaïra",
+        "slug": "koumara-060703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0607",
+        "level": 2,
+        "name": {
+          "local": "Saraféré",
+          "en": "Sarafere",
+          "slug": "sarafere-ml0607"
+        }
+      },
+      {
+        "id": "ML-A060703",
+        "level": 3,
+        "name": {
+          "local": "Koumaïra",
+          "en": "Koumaïra",
+          "slug": "koumara-060703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.824",
+      "lon": "-3.694"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

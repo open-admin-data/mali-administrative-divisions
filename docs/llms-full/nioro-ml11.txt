@@ -1,0 +1,73 @@
+# Nioro — Mali Administrative Divisions
+
+> 6 circles, 4 arrondissements, 10 communes
+> Code: ML11
+> Coordinates: 15.231, -9.594
+> Last updated: 2026-05-22. License: CC-BY-4.0.
+
+## Circles
+
+### Bema
+
+Code: ML1106, Coordinates: 15.733, -4.193
+Arrondissements: 0, Communes: 0
+
+### Diangounte Camara
+
+Code: ML1103, Coordinates: 14.545, -9.514
+Arrondissements: 0, Communes: 0
+
+### Diema
+
+Code: ML1102, Coordinates: 14.54, -9.192
+Arrondissements: 0, Communes: 0
+
+### Nioro
+
+Code: ML1101, Coordinates: 15.231, -9.594
+Arrondissements: 4, Communes: 10
+
+#### Gavinané
+
+Code: ML-A110102, Coordinates: 15.231, -9.594
+
+Communes:
+- Diaye Coura [ML-C11010201]
+- Gavinané [ML-C11010202]
+- Youri [ML-C11010203]
+
+#### Gogui
+
+Code: ML-A110103, Coordinates: 15.231, -9.594
+
+Communes:
+- Gogui [ML-C11010301]
+
+#### Nioro
+
+Code: ML-A110101, Coordinates: 15.231, -9.594
+
+Communes:
+- Gadiaba Kadiel [ML-C11010102]
+- Guétéma [ML-C11010101]
+- Nioro [ML-C11010103]
+- Nioro Tougouné Rangabé [ML-C11010104]
+- Yéréré [ML-C11010105]
+
+#### Simbi
+
+Code: ML-A110104, Coordinates: 15.231, -9.594
+
+Communes:
+- Simbi [ML-C11010401]
+
+### Sandare
+
+Code: ML1104, Coordinates: 14.704, -10.306
+Arrondissements: 0, Communes: 0
+
+### Troungoumbe
+
+Code: ML1105, Coordinates: 14.763, -9.964
+Arrondissements: 0, Communes: 0
+

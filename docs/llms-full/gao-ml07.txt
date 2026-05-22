@@ -1,0 +1,351 @@
+# Gao — Mali Administrative Divisions
+
+> 16 circles, 37 arrondissements, 40 communes
+> Code: ML07
+> Coordinates: 16.272, -0.045
+> Last updated: 2026-05-22. License: CC-BY-4.0.
+
+## Circles
+
+### Almoustrat
+
+Code: ML0704, Coordinates: 17.358, 0.15
+Arrondissements: 3, Communes: 4
+
+#### Agharous
+
+Code: ML-A070402, Coordinates: 17.358, 0.15
+
+Communes:
+- Agharous [ML-C07040201]
+
+#### Almoustrat
+
+Code: ML-A070401, Coordinates: 17.358, 0.15
+
+Communes:
+- Almoustrat [ML-C07040102]
+- Tarkint [ML-C07040101]
+
+#### M&#39;Beikit Ljoul
+
+Code: ML-A070403, Coordinates: 17.358, 0.15
+
+Communes:
+- M&#39;Beikit Ljoul [ML-C07040301]
+
+### Ansongo
+
+Code: ML0703, Coordinates: 15.66, 0.502
+Arrondissements: 2, Communes: 4
+
+#### Ansongo
+
+Code: ML-A070301, Coordinates: 15.66, 0.502
+
+Communes:
+- Ansongo [ML-C07030101]
+- Bara [ML-C07030102]
+- Bourra [ML-C07030103]
+
+#### Tin-Hamma
+
+Code: ML-A070302, Coordinates: 15.66, 0.502
+
+Communes:
+- Tin-Hamma [ML-C07030201]
+
+### Bamba
+
+Code: ML0705, Coordinates: 17.034, -1.404
+Arrondissements: 2, Communes: 2
+
+#### Bamba
+
+Code: ML-A070501, Coordinates: 17.034, -1.404
+
+Communes:
+- Bamba [ML-C07050101]
+
+#### Téméra
+
+Code: ML-A070502, Coordinates: 17.034, -1.404
+
+Communes:
+- Téméra [ML-C07050201]
+
+### Bourem
+
+Code: ML0702, Coordinates: 16.955, -0.349
+Arrondissements: 2, Communes: 2
+
+#### Bourem
+
+Code: ML-A070201, Coordinates: 16.955, -0.349
+
+Communes:
+- Bourem [ML-C07020101]
+
+#### Taboye
+
+Code: ML-A070202, Coordinates: 16.955, -0.349
+
+Communes:
+- Taboye [ML-C07020201]
+
+### Djebock
+
+Code: ML0708, Coordinates: 16.343, 0.278
+Arrondissements: 3, Communes: 3
+
+#### Anchawadji
+
+Code: ML-A070802, Coordinates: 16.343, 0.278
+
+Communes:
+- Anchawadji [ML-C07080201]
+
+#### Djebock
+
+Code: ML-A070801, Coordinates: 16.343, 0.278
+
+Communes:
+- Djebock [ML-C07080101]
+
+#### Tacharane
+
+Code: ML-A070803, Coordinates: 16.343, 0.278
+
+Communes:
+- Tacharane [ML-C07080301]
+
+### Ersane
+
+Code: ML0713, Coordinates: 16.959, 1.808
+Arrondissements: 2, Communes: 2
+
+#### Ersane
+
+Code: ML-A071301, Coordinates: 16.959, 1.808
+
+Communes:
+- Ersane [ML-C07130101]
+
+#### Ghnou
+
+Code: ML-A071302, Coordinates: 16.959, 1.808
+
+Communes:
+- Ghnou [ML-C07130201]
+
+### Gabéro (Gabero)
+
+Code: ML0712, Coordinates: 15.895, 0.192
+Arrondissements: 0, Communes: 0
+
+### Gao
+
+Code: ML0701, Coordinates: 16.272, -0.045
+Arrondissements: 2, Communes: 2
+
+#### Gao
+
+Code: ML-A070101, Coordinates: 16.272, -0.045
+
+Communes:
+- Gao [ML-C07010101]
+
+#### Gounzoureye
+
+Code: ML-A070102, Coordinates: 16.272, -0.045
+
+Communes:
+- Gounzoureye [ML-C07010201]
+
+### Kassambéré (Kassambere)
+
+Code: ML0716, Coordinates: 16.272, -0.045
+Arrondissements: 4, Communes: 4
+
+#### Iniyiss
+
+Code: ML-A071604, Coordinates: 16.272, -0.045
+
+Communes:
+- Iniyiss [ML-C07160401]
+
+#### Kassambéré
+
+Code: ML-A071601, Coordinates: 16.272, -0.045
+
+Communes:
+- Kassambéré [ML-C07160101]
+
+#### Tahbanat
+
+Code: ML-A071603, Coordinates: 16.272, -0.045
+
+Communes:
+- Tahbanat [ML-C07160301]
+
+#### Tougoumbar
+
+Code: ML-A071602, Coordinates: 16.272, -0.045
+
+Communes:
+- Tougoumbar [ML-C07160201]
+
+### N&#39;tillit (Ntillit)
+
+Code: ML0711, Coordinates: 16.272, -0.045
+Arrondissements: 2, Communes: 2
+
+#### N&#39;Tillit
+
+Code: ML-A071101, Coordinates: 16.272, -0.045
+
+Communes:
+- N&#39;Tillit [ML-C07110101]
+
+#### Tihigrine
+
+Code: ML-A071102, Coordinates: 16.272, -0.045
+
+Communes:
+- Tihigrine [ML-C07110201]
+
+### Ouattagouna
+
+Code: ML0706, Coordinates: 15.182, 0.722
+Arrondissements: 3, Communes: 3
+
+#### Fafa
+
+Code: ML-A070602, Coordinates: 15.182, 0.722
+
+Communes:
+- Fafa [ML-C07060201]
+
+#### Labbézanga
+
+Code: ML-A070603, Coordinates: 15.182, 0.722
+
+Communes:
+- Labbézanga [ML-C07060301]
+
+#### Ouattagouna
+
+Code: ML-A070601, Coordinates: 15.182, 0.722
+
+Communes:
+- Ouattagouna [ML-C07060101]
+
+### Sony Aliber
+
+Code: ML0707, Coordinates: 16.507, -0.074
+Arrondissements: 0, Communes: 0
+
+### Tabankort
+
+Code: ML0714, Coordinates: 17.82, 0.314
+Arrondissements: 4, Communes: 4
+
+#### Aslar
+
+Code: ML-A071404, Coordinates: 17.82, 0.314
+
+Communes:
+- Aslar [ML-C07140401]
+
+#### Krefinatt
+
+Code: ML-A071403, Coordinates: 17.82, 0.314
+
+Communes:
+- Krefinatt [ML-C07140301]
+
+#### Tabankort
+
+Code: ML-A071401, Coordinates: 17.82, 0.314
+
+Communes:
+- Tabankort [ML-C07140101]
+
+#### Tameglelte
+
+Code: ML-A071402, Coordinates: 17.82, 0.314
+
+Communes:
+- Tameglelte [ML-C07140201]
+
+### Talataye
+
+Code: ML0709, Coordinates: 16.531, 1.516
+Arrondissements: 2, Communes: 2
+
+#### Indélimane
+
+Code: ML-A070902, Coordinates: 16.531, 1.516
+
+Communes:
+- Indélimane [ML-C07090201]
+
+#### Talataye
+
+Code: ML-A070901, Coordinates: 16.531, 1.516
+
+Communes:
+- Talataye [ML-C07090101]
+
+### Téssit (Tessit)
+
+Code: ML0710, Coordinates: 15.217, -0.3
+Arrondissements: 4, Communes: 4
+
+#### Aroun
+
+Code: ML-A071002, Coordinates: 15.217, -0.3
+
+Communes:
+- Aroun [ML-C07100201]
+
+#### Famlbougou
+
+Code: ML-A071004, Coordinates: 15.217, -0.3
+
+Communes:
+- Famlbougou [ML-C07100401]
+
+#### Keygouroutane
+
+Code: ML-A071003, Coordinates: 15.217, -0.3
+
+Communes:
+- Keygouroutane [ML-C07100301]
+
+#### Tessit
+
+Code: ML-A071001, Coordinates: 15.217, -0.3
+
+Communes:
+- Tessit [ML-C07100101]
+
+### Tin-Aouker
+
+Code: ML0715, Coordinates: 13.071, -6.835
+Arrondissements: 2, Communes: 2
+
+#### Amastrakat
+
+Code: ML-A071502, Coordinates: 13.071, -6.835
+
+Communes:
+- Amastrakat [ML-C07150201]
+
+#### Tin-Aouker
+
+Code: ML-A071501, Coordinates: 13.071, -6.835
+
+Communes:
+- Tilemsi [ML-C07150101]
+

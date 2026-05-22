@@ -1,0 +1,254 @@
+[
+  {
+    "id": "ML-C01050102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guidimakan Keri Kaffo",
+      "en": "Guidimakan Keri Kaffo",
+      "slug": "guidimakan-keri-kaffo-01050102"
+    },
+    "code": {
+      "id": "ML-C01050102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010501",
+      "level": 3,
+      "name": {
+        "local": "Ambidédi",
+        "en": "Ambidédi",
+        "slug": "ambiddi-010501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0105",
+        "level": 2,
+        "name": {
+          "local": "Ambidédi",
+          "en": "Ambididi",
+          "slug": "ambididi-ml0105"
+        }
+      },
+      {
+        "id": "ML-A010501",
+        "level": 3,
+        "name": {
+          "local": "Ambidédi",
+          "en": "Ambidédi",
+          "slug": "ambiddi-010501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.586",
+      "lon": "-11.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C01050101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kéméné Tambo",
+      "en": "Kéméné Tambo",
+      "slug": "kmn-tambo-01050101"
+    },
+    "code": {
+      "id": "ML-C01050101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010501",
+      "level": 3,
+      "name": {
+        "local": "Ambidédi",
+        "en": "Ambidédi",
+        "slug": "ambiddi-010501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0105",
+        "level": 2,
+        "name": {
+          "local": "Ambidédi",
+          "en": "Ambididi",
+          "slug": "ambididi-ml0105"
+        }
+      },
+      {
+        "id": "ML-A010501",
+        "level": 3,
+        "name": {
+          "local": "Ambidédi",
+          "en": "Ambidédi",
+          "slug": "ambiddi-010501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.586",
+      "lon": "-11.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C01050103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sony",
+      "en": "Sony",
+      "slug": "sony-01050103"
+    },
+    "code": {
+      "id": "ML-C01050103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010501",
+      "level": 3,
+      "name": {
+        "local": "Ambidédi",
+        "en": "Ambidédi",
+        "slug": "ambiddi-010501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0105",
+        "level": 2,
+        "name": {
+          "local": "Ambidédi",
+          "en": "Ambididi",
+          "slug": "ambididi-ml0105"
+        }
+      },
+      {
+        "id": "ML-A010501",
+        "level": 3,
+        "name": {
+          "local": "Ambidédi",
+          "en": "Ambidédi",
+          "slug": "ambiddi-010501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.586",
+      "lon": "-11.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C01050104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tafacirga",
+      "en": "Tafacirga",
+      "slug": "tafacirga-01050104"
+    },
+    "code": {
+      "id": "ML-C01050104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010501",
+      "level": 3,
+      "name": {
+        "local": "Ambidédi",
+        "en": "Ambidédi",
+        "slug": "ambiddi-010501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0105",
+        "level": 2,
+        "name": {
+          "local": "Ambidédi",
+          "en": "Ambididi",
+          "slug": "ambididi-ml0105"
+        }
+      },
+      {
+        "id": "ML-A010501",
+        "level": 3,
+        "name": {
+          "local": "Ambidédi",
+          "en": "Ambidédi",
+          "slug": "ambiddi-010501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.586",
+      "lon": "-11.791"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

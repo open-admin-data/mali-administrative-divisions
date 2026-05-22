@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C08090101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Takalote",
+      "en": "Takalote",
+      "slug": "takalote-08090101"
+    },
+    "code": {
+      "id": "ML-C08090101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A080901",
+      "level": 3,
+      "name": {
+        "local": "Takalote",
+        "en": "Takalote",
+        "slug": "takalote-080901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML08",
+        "level": 1,
+        "name": {
+          "local": "Kidal",
+          "en": "Kidal",
+          "slug": "kidal-ml08"
+        }
+      },
+      {
+        "id": "ML0809",
+        "level": 2,
+        "name": {
+          "local": "Takalote",
+          "en": "Takalote",
+          "slug": "takalote-ml0809"
+        }
+      },
+      {
+        "id": "ML-A080901",
+        "level": 3,
+        "name": {
+          "local": "Takalote",
+          "en": "Takalote",
+          "slug": "takalote-080901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.461",
+      "lon": "1.385"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

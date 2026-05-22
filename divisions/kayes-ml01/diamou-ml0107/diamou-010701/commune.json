@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C01070101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Diamou",
+      "en": "Diamou",
+      "slug": "diamou-01070101"
+    },
+    "code": {
+      "id": "ML-C01070101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010701",
+      "level": 3,
+      "name": {
+        "local": "Diamou",
+        "en": "Diamou",
+        "slug": "diamou-010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0107",
+        "level": 2,
+        "name": {
+          "local": "Diamou",
+          "en": "Diamou",
+          "slug": "diamou-ml0107"
+        }
+      },
+      {
+        "id": "ML-A010701",
+        "level": 3,
+        "name": {
+          "local": "Diamou",
+          "en": "Diamou",
+          "slug": "diamou-010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.079",
+      "lon": "-7.236"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

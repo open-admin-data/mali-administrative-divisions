@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C16020301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boura",
+      "en": "Boura",
+      "slug": "boura-16020301"
+    },
+    "code": {
+      "id": "ML-C16020301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160203",
+      "level": 3,
+      "name": {
+        "local": "Boura",
+        "en": "Boura",
+        "slug": "boura-160203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1602",
+        "level": 2,
+        "name": {
+          "local": "Yorosso",
+          "en": "Yorosso",
+          "slug": "yorosso-ml1602"
+        }
+      },
+      {
+        "id": "ML-A160203",
+        "level": 3,
+        "name": {
+          "local": "Boura",
+          "en": "Boura",
+          "slug": "boura-160203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.358",
+      "lon": "-4.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C16020302",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Koumbia",
+      "en": "Koumbia",
+      "slug": "koumbia-16020302"
+    },
+    "code": {
+      "id": "ML-C16020302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160203",
+      "level": 3,
+      "name": {
+        "local": "Boura",
+        "en": "Boura",
+        "slug": "boura-160203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1602",
+        "level": 2,
+        "name": {
+          "local": "Yorosso",
+          "en": "Yorosso",
+          "slug": "yorosso-ml1602"
+        }
+      },
+      {
+        "id": "ML-A160203",
+        "level": 3,
+        "name": {
+          "local": "Boura",
+          "en": "Boura",
+          "slug": "boura-160203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.358",
+      "lon": "-4.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C16020303",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Menamba 1",
+      "en": "Menamba 1",
+      "slug": "menamba-1-16020303"
+    },
+    "code": {
+      "id": "ML-C16020303",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160203",
+      "level": 3,
+      "name": {
+        "local": "Boura",
+        "en": "Boura",
+        "slug": "boura-160203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1602",
+        "level": 2,
+        "name": {
+          "local": "Yorosso",
+          "en": "Yorosso",
+          "slug": "yorosso-ml1602"
+        }
+      },
+      {
+        "id": "ML-A160203",
+        "level": 3,
+        "name": {
+          "local": "Boura",
+          "en": "Boura",
+          "slug": "boura-160203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.358",
+      "lon": "-4.777"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

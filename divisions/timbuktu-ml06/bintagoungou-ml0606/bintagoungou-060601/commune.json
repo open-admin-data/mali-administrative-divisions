@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C06060101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bintagoungou",
+      "en": "Bintagoungou",
+      "slug": "bintagoungou-06060101"
+    },
+    "code": {
+      "id": "ML-C06060101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A060601",
+      "level": 3,
+      "name": {
+        "local": "Bintagoungou",
+        "en": "Bintagoungou",
+        "slug": "bintagoungou-060601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0606",
+        "level": 2,
+        "name": {
+          "local": "Bintagoungou",
+          "en": "Bintagoungou",
+          "slug": "bintagoungou-ml0606"
+        }
+      },
+      {
+        "id": "ML-A060601",
+        "level": 3,
+        "name": {
+          "local": "Bintagoungou",
+          "en": "Bintagoungou",
+          "slug": "bintagoungou-060601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.735",
+      "lon": "-3.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C06060102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Issa Bery",
+      "en": "Issa Bery",
+      "slug": "issa-bery-06060102"
+    },
+    "code": {
+      "id": "ML-C06060102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A060601",
+      "level": 3,
+      "name": {
+        "local": "Bintagoungou",
+        "en": "Bintagoungou",
+        "slug": "bintagoungou-060601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0606",
+        "level": 2,
+        "name": {
+          "local": "Bintagoungou",
+          "en": "Bintagoungou",
+          "slug": "bintagoungou-ml0606"
+        }
+      },
+      {
+        "id": "ML-A060601",
+        "level": 3,
+        "name": {
+          "local": "Bintagoungou",
+          "en": "Bintagoungou",
+          "slug": "bintagoungou-060601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.735",
+      "lon": "-3.735"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

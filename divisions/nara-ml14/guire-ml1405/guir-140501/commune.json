@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C14050101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guiré",
+      "en": "Guiré",
+      "slug": "guir-14050101"
+    },
+    "code": {
+      "id": "ML-C14050101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A140501",
+      "level": 3,
+      "name": {
+        "local": "Guiré",
+        "en": "Guiré",
+        "slug": "guir-140501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML14",
+        "level": 1,
+        "name": {
+          "local": "Nara",
+          "en": "Nara",
+          "slug": "nara-ml14"
+        }
+      },
+      {
+        "id": "ML1405",
+        "level": 2,
+        "name": {
+          "local": "Guiré",
+          "en": "Guire",
+          "slug": "guire-ml1405"
+        }
+      },
+      {
+        "id": "ML-A140501",
+        "level": 3,
+        "name": {
+          "local": "Guiré",
+          "en": "Guiré",
+          "slug": "guir-140501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.643",
+      "lon": "-6.691"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

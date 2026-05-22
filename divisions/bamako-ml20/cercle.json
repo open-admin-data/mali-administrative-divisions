@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ML2001",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Bamako",
+      "en": "Bamako",
+      "slug": "bamako-ml2001"
+    },
+    "code": {
+      "id": "ML2001",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML20",
+      "level": 1,
+      "name": {
+        "local": "Bamako",
+        "en": "Bamako",
+        "slug": "bamako-ml20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML20",
+        "level": 1,
+        "name": {
+          "local": "Bamako",
+          "en": "Bamako",
+          "slug": "bamako-ml20"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 0,
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.583",
+      "lon": "-4.417"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

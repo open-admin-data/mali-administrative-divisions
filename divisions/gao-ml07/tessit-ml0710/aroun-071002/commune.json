@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C07100201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Aroun",
+      "en": "Aroun",
+      "slug": "aroun-07100201"
+    },
+    "code": {
+      "id": "ML-C07100201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A071002",
+      "level": 3,
+      "name": {
+        "local": "Aroun",
+        "en": "Aroun",
+        "slug": "aroun-071002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      },
+      {
+        "id": "ML0710",
+        "level": 2,
+        "name": {
+          "local": "Téssit",
+          "en": "Tessit",
+          "slug": "tessit-ml0710"
+        }
+      },
+      {
+        "id": "ML-A071002",
+        "level": 3,
+        "name": {
+          "local": "Aroun",
+          "en": "Aroun",
+          "slug": "aroun-071002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.217",
+      "lon": "-0.3"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

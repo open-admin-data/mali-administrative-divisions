@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C05040201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Farimaké",
+      "en": "Farimaké",
+      "slug": "farimak-05040201"
+    },
+    "code": {
+      "id": "ML-C05040201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050402",
+      "level": 3,
+      "name": {
+        "local": "Gathi-Loumo",
+        "en": "Gathi-Loumo",
+        "slug": "gathi-loumo-050402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0504",
+        "level": 2,
+        "name": {
+          "local": "Youwarou",
+          "en": "Youwarou",
+          "slug": "youwarou-ml0504"
+        }
+      },
+      {
+        "id": "ML-A050402",
+        "level": 3,
+        "name": {
+          "local": "Gathi-Loumo",
+          "en": "Gathi-Loumo",
+          "slug": "gathi-loumo-050402"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.368",
+      "lon": "-4.263"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

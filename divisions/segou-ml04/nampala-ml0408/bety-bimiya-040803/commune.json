@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C04080301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beïty Bimiya",
+      "en": "Beïty Bimiya",
+      "slug": "bety-bimiya-04080301"
+    },
+    "code": {
+      "id": "ML-C04080301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040803",
+      "level": 3,
+      "name": {
+        "local": "Beïty Bimiya",
+        "en": "Beïty Bimiya",
+        "slug": "bety-bimiya-040803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0408",
+        "level": 2,
+        "name": {
+          "local": "Nampala",
+          "en": "Nampala",
+          "slug": "nampala-ml0408"
+        }
+      },
+      {
+        "id": "ML-A040803",
+        "level": 3,
+        "name": {
+          "local": "Beïty Bimiya",
+          "en": "Beïty Bimiya",
+          "slug": "bety-bimiya-040803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.281",
+      "lon": "-5.555"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

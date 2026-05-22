@@ -1,0 +1,254 @@
+[
+  {
+    "id": "ML-C02030102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kaniogo",
+      "en": "Kaniogo",
+      "slug": "kaniogo-02030102"
+    },
+    "code": {
+      "id": "ML-C02030102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020301",
+      "level": 3,
+      "name": {
+        "local": "Kangaba",
+        "en": "Kangaba",
+        "slug": "kangaba-020301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0203",
+        "level": 2,
+        "name": {
+          "local": "Kangaba",
+          "en": "Kangaba",
+          "slug": "kangaba-ml0203"
+        }
+      },
+      {
+        "id": "ML-A020301",
+        "level": 3,
+        "name": {
+          "local": "Kangaba",
+          "en": "Kangaba",
+          "slug": "kangaba-020301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.933",
+      "lon": "-8.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C02030103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maramandougou",
+      "en": "Maramandougou",
+      "slug": "maramandougou-02030103"
+    },
+    "code": {
+      "id": "ML-C02030103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020301",
+      "level": 3,
+      "name": {
+        "local": "Kangaba",
+        "en": "Kangaba",
+        "slug": "kangaba-020301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0203",
+        "level": 2,
+        "name": {
+          "local": "Kangaba",
+          "en": "Kangaba",
+          "slug": "kangaba-ml0203"
+        }
+      },
+      {
+        "id": "ML-A020301",
+        "level": 3,
+        "name": {
+          "local": "Kangaba",
+          "en": "Kangaba",
+          "slug": "kangaba-020301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.933",
+      "lon": "-8.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C02030101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Minidian",
+      "en": "Minidian",
+      "slug": "minidian-02030101"
+    },
+    "code": {
+      "id": "ML-C02030101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020301",
+      "level": 3,
+      "name": {
+        "local": "Kangaba",
+        "en": "Kangaba",
+        "slug": "kangaba-020301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0203",
+        "level": 2,
+        "name": {
+          "local": "Kangaba",
+          "en": "Kangaba",
+          "slug": "kangaba-ml0203"
+        }
+      },
+      {
+        "id": "ML-A020301",
+        "level": 3,
+        "name": {
+          "local": "Kangaba",
+          "en": "Kangaba",
+          "slug": "kangaba-020301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.933",
+      "lon": "-8.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C02030104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nouga",
+      "en": "Nouga",
+      "slug": "nouga-02030104"
+    },
+    "code": {
+      "id": "ML-C02030104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020301",
+      "level": 3,
+      "name": {
+        "local": "Kangaba",
+        "en": "Kangaba",
+        "slug": "kangaba-020301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0203",
+        "level": 2,
+        "name": {
+          "local": "Kangaba",
+          "en": "Kangaba",
+          "slug": "kangaba-ml0203"
+        }
+      },
+      {
+        "id": "ML-A020301",
+        "level": 3,
+        "name": {
+          "local": "Kangaba",
+          "en": "Kangaba",
+          "slug": "kangaba-020301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.933",
+      "lon": "-8.417"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

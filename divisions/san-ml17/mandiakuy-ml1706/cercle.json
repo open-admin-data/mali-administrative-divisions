@@ -1,0 +1,48 @@
+{
+  "id": "ML1706",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Mandiakuy",
+    "en": "Mandiakuy",
+    "slug": "mandiakuy-ml1706"
+  },
+  "code": {
+    "id": "ML1706",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML17",
+    "level": 1,
+    "name": {
+      "local": "San",
+      "en": "San",
+      "slug": "san-ml17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML17",
+      "level": 1,
+      "name": {
+        "local": "San",
+        "en": "San",
+        "slug": "san-ml17"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 2,
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.021",
+    "lon": "-4.463"
+  },
+  "metadata": {},
+  "source": {}
+}

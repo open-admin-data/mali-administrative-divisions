@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C17060102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Diora",
+      "en": "Diora",
+      "slug": "diora-17060102"
+    },
+    "code": {
+      "id": "ML-C17060102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A170601",
+      "level": 3,
+      "name": {
+        "local": "Mandiakuy",
+        "en": "Mandiakuy",
+        "slug": "mandiakuy-170601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      },
+      {
+        "id": "ML1706",
+        "level": 2,
+        "name": {
+          "local": "Mandiakuy",
+          "en": "Mandiakuy",
+          "slug": "mandiakuy-ml1706"
+        }
+      },
+      {
+        "id": "ML-A170601",
+        "level": 3,
+        "name": {
+          "local": "Mandiakuy",
+          "en": "Mandiakuy",
+          "slug": "mandiakuy-170601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.021",
+      "lon": "-4.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C17060101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mandiakuy",
+      "en": "Mandiakuy",
+      "slug": "mandiakuy-17060101"
+    },
+    "code": {
+      "id": "ML-C17060101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A170601",
+      "level": 3,
+      "name": {
+        "local": "Mandiakuy",
+        "en": "Mandiakuy",
+        "slug": "mandiakuy-170601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      },
+      {
+        "id": "ML1706",
+        "level": 2,
+        "name": {
+          "local": "Mandiakuy",
+          "en": "Mandiakuy",
+          "slug": "mandiakuy-ml1706"
+        }
+      },
+      {
+        "id": "ML-A170601",
+        "level": 3,
+        "name": {
+          "local": "Mandiakuy",
+          "en": "Mandiakuy",
+          "slug": "mandiakuy-170601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.021",
+      "lon": "-4.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C17060103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sanékuy",
+      "en": "Sanékuy",
+      "slug": "sankuy-17060103"
+    },
+    "code": {
+      "id": "ML-C17060103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A170601",
+      "level": 3,
+      "name": {
+        "local": "Mandiakuy",
+        "en": "Mandiakuy",
+        "slug": "mandiakuy-170601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      },
+      {
+        "id": "ML1706",
+        "level": 2,
+        "name": {
+          "local": "Mandiakuy",
+          "en": "Mandiakuy",
+          "slug": "mandiakuy-ml1706"
+        }
+      },
+      {
+        "id": "ML-A170601",
+        "level": 3,
+        "name": {
+          "local": "Mandiakuy",
+          "en": "Mandiakuy",
+          "slug": "mandiakuy-170601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.021",
+      "lon": "-4.463"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

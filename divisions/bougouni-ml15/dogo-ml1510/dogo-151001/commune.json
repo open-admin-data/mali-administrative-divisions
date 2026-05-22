@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C15100101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dogo",
+      "en": "Dogo",
+      "slug": "dogo-15100101"
+    },
+    "code": {
+      "id": "ML-C15100101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A151001",
+      "level": 3,
+      "name": {
+        "local": "Dogo",
+        "en": "Dogo",
+        "slug": "dogo-151001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1510",
+        "level": 2,
+        "name": {
+          "local": "Dogo",
+          "en": "Dogo",
+          "slug": "dogo-ml1510"
+        }
+      },
+      {
+        "id": "ML-A151001",
+        "level": 3,
+        "name": {
+          "local": "Dogo",
+          "en": "Dogo",
+          "slug": "dogo-151001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.169",
+      "lon": "-4.431"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

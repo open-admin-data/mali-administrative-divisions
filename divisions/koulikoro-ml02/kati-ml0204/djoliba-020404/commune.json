@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C02040401",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mandé",
+      "en": "Mandé",
+      "slug": "mand-02040401"
+    },
+    "code": {
+      "id": "ML-C02040401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020404",
+      "level": 3,
+      "name": {
+        "local": "Djoliba",
+        "en": "Djoliba",
+        "slug": "djoliba-020404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0204",
+        "level": 2,
+        "name": {
+          "local": "Kati",
+          "en": "Kati",
+          "slug": "kati-ml0204"
+        }
+      },
+      {
+        "id": "ML-A020404",
+        "level": 3,
+        "name": {
+          "local": "Djoliba",
+          "en": "Djoliba",
+          "slug": "djoliba-020404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.113",
+      "lon": "-3.733"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

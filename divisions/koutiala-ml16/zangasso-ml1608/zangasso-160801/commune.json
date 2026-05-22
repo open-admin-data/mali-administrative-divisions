@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C16080102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sinkolo",
+      "en": "Sinkolo",
+      "slug": "sinkolo-16080102"
+    },
+    "code": {
+      "id": "ML-C16080102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160801",
+      "level": 3,
+      "name": {
+        "local": "Zangasso",
+        "en": "Zangasso",
+        "slug": "zangasso-160801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1608",
+        "level": 2,
+        "name": {
+          "local": "Zangasso",
+          "en": "Zangasso",
+          "slug": "zangasso-ml1608"
+        }
+      },
+      {
+        "id": "ML-A160801",
+        "level": 3,
+        "name": {
+          "local": "Zangasso",
+          "en": "Zangasso",
+          "slug": "zangasso-160801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.58",
+      "lon": "-6.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C16080101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zangasso",
+      "en": "Zangasso",
+      "slug": "zangasso-16080101"
+    },
+    "code": {
+      "id": "ML-C16080101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160801",
+      "level": 3,
+      "name": {
+        "local": "Zangasso",
+        "en": "Zangasso",
+        "slug": "zangasso-160801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1608",
+        "level": 2,
+        "name": {
+          "local": "Zangasso",
+          "en": "Zangasso",
+          "slug": "zangasso-ml1608"
+        }
+      },
+      {
+        "id": "ML-A160801",
+        "level": 3,
+        "name": {
+          "local": "Zangasso",
+          "en": "Zangasso",
+          "slug": "zangasso-160801"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.58",
+      "lon": "-6.027"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

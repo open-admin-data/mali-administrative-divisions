@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C19010401",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Pignari Bana",
+      "en": "Pignari Bana",
+      "slug": "pignari-bana-19010401"
+    },
+    "code": {
+      "id": "ML-C19010401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190104",
+      "level": 3,
+      "name": {
+        "local": "Goundaka",
+        "en": "Goundaka",
+        "slug": "goundaka-190104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1901",
+        "level": 2,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml1901"
+        }
+      },
+      {
+        "id": "ML-A190104",
+        "level": 3,
+        "name": {
+          "local": "Goundaka",
+          "en": "Goundaka",
+          "slug": "goundaka-190104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.35",
+      "lon": "-3.61"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

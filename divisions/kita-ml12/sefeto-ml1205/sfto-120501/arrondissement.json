@@ -1,0 +1,56 @@
+{
+  "id": "ML-A120501",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Séféto",
+    "en": "Séféto",
+    "slug": "sfto-120501"
+  },
+  "code": {
+    "id": "ML-A120501",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1205",
+    "level": 2,
+    "name": {
+      "local": "Séféto",
+      "en": "Sefeto",
+      "slug": "sefeto-ml1205"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML12",
+      "level": 1,
+      "name": {
+        "local": "Kita",
+        "en": "Kita",
+        "slug": "kita-ml12"
+      }
+    },
+    {
+      "id": "ML1205",
+      "level": 2,
+      "name": {
+        "local": "Séféto",
+        "en": "Sefeto",
+        "slug": "sefeto-ml1205"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.14",
+    "lon": "-9.827"
+  },
+  "metadata": {},
+  "source": {}
+}

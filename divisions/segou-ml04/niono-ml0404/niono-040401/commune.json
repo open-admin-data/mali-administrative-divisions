@@ -1,0 +1,443 @@
+[
+  {
+    "id": "ML-C04040101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kala Siguida",
+      "en": "Kala Siguida",
+      "slug": "kala-siguida-04040101"
+    },
+    "code": {
+      "id": "ML-C04040101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040401",
+      "level": 3,
+      "name": {
+        "local": "Niono",
+        "en": "Niono",
+        "slug": "niono-040401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0404",
+        "level": 2,
+        "name": {
+          "local": "Niono",
+          "en": "Niono",
+          "slug": "niono-ml0404"
+        }
+      },
+      {
+        "id": "ML-A040401",
+        "level": 3,
+        "name": {
+          "local": "Niono",
+          "en": "Niono",
+          "slug": "niono-040401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.251",
+      "lon": "-5.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C04040102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mariko",
+      "en": "Mariko",
+      "slug": "mariko-04040102"
+    },
+    "code": {
+      "id": "ML-C04040102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040401",
+      "level": 3,
+      "name": {
+        "local": "Niono",
+        "en": "Niono",
+        "slug": "niono-040401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0404",
+        "level": 2,
+        "name": {
+          "local": "Niono",
+          "en": "Niono",
+          "slug": "niono-ml0404"
+        }
+      },
+      {
+        "id": "ML-A040401",
+        "level": 3,
+        "name": {
+          "local": "Niono",
+          "en": "Niono",
+          "slug": "niono-040401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.251",
+      "lon": "-5.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C04040103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Niono",
+      "en": "Niono",
+      "slug": "niono-04040103"
+    },
+    "code": {
+      "id": "ML-C04040103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040401",
+      "level": 3,
+      "name": {
+        "local": "Niono",
+        "en": "Niono",
+        "slug": "niono-040401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0404",
+        "level": 2,
+        "name": {
+          "local": "Niono",
+          "en": "Niono",
+          "slug": "niono-ml0404"
+        }
+      },
+      {
+        "id": "ML-A040401",
+        "level": 3,
+        "name": {
+          "local": "Niono",
+          "en": "Niono",
+          "slug": "niono-040401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.251",
+      "lon": "-5.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C04040104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Siribala",
+      "en": "Siribala",
+      "slug": "siribala-04040104"
+    },
+    "code": {
+      "id": "ML-C04040104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040401",
+      "level": 3,
+      "name": {
+        "local": "Niono",
+        "en": "Niono",
+        "slug": "niono-040401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0404",
+        "level": 2,
+        "name": {
+          "local": "Niono",
+          "en": "Niono",
+          "slug": "niono-ml0404"
+        }
+      },
+      {
+        "id": "ML-A040401",
+        "level": 3,
+        "name": {
+          "local": "Niono",
+          "en": "Niono",
+          "slug": "niono-040401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.251",
+      "lon": "-5.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C04040105",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sirifila-Boundy",
+      "en": "Sirifila-Boundy",
+      "slug": "sirifila-boundy-04040105"
+    },
+    "code": {
+      "id": "ML-C04040105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040401",
+      "level": 3,
+      "name": {
+        "local": "Niono",
+        "en": "Niono",
+        "slug": "niono-040401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0404",
+        "level": 2,
+        "name": {
+          "local": "Niono",
+          "en": "Niono",
+          "slug": "niono-ml0404"
+        }
+      },
+      {
+        "id": "ML-A040401",
+        "level": 3,
+        "name": {
+          "local": "Niono",
+          "en": "Niono",
+          "slug": "niono-040401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.251",
+      "lon": "-5.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C04040106",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Toridaga-Ko",
+      "en": "Toridaga-Ko",
+      "slug": "toridaga-ko-04040106"
+    },
+    "code": {
+      "id": "ML-C04040106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040401",
+      "level": 3,
+      "name": {
+        "local": "Niono",
+        "en": "Niono",
+        "slug": "niono-040401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0404",
+        "level": 2,
+        "name": {
+          "local": "Niono",
+          "en": "Niono",
+          "slug": "niono-ml0404"
+        }
+      },
+      {
+        "id": "ML-A040401",
+        "level": 3,
+        "name": {
+          "local": "Niono",
+          "en": "Niono",
+          "slug": "niono-040401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.251",
+      "lon": "-5.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C04040107",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Yèrèdon Saniona",
+      "en": "Yèrèdon Saniona",
+      "slug": "yrdon-saniona-04040107"
+    },
+    "code": {
+      "id": "ML-C04040107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040401",
+      "level": 3,
+      "name": {
+        "local": "Niono",
+        "en": "Niono",
+        "slug": "niono-040401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0404",
+        "level": 2,
+        "name": {
+          "local": "Niono",
+          "en": "Niono",
+          "slug": "niono-ml0404"
+        }
+      },
+      {
+        "id": "ML-A040401",
+        "level": 3,
+        "name": {
+          "local": "Niono",
+          "en": "Niono",
+          "slug": "niono-040401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.251",
+      "lon": "-5.987"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

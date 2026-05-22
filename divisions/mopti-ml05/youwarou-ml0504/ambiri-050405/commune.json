@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C05040502",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dirma",
+      "en": "Dirma",
+      "slug": "dirma-05040502"
+    },
+    "code": {
+      "id": "ML-C05040502",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050405",
+      "level": 3,
+      "name": {
+        "local": "Ambiri",
+        "en": "Ambiri",
+        "slug": "ambiri-050405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0504",
+        "level": 2,
+        "name": {
+          "local": "Youwarou",
+          "en": "Youwarou",
+          "slug": "youwarou-ml0504"
+        }
+      },
+      {
+        "id": "ML-A050405",
+        "level": 3,
+        "name": {
+          "local": "Ambiri",
+          "en": "Ambiri",
+          "slug": "ambiri-050405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.368",
+      "lon": "-4.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C05040501",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dongo",
+      "en": "Dongo",
+      "slug": "dongo-05040501"
+    },
+    "code": {
+      "id": "ML-C05040501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050405",
+      "level": 3,
+      "name": {
+        "local": "Ambiri",
+        "en": "Ambiri",
+        "slug": "ambiri-050405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0504",
+        "level": 2,
+        "name": {
+          "local": "Youwarou",
+          "en": "Youwarou",
+          "slug": "youwarou-ml0504"
+        }
+      },
+      {
+        "id": "ML-A050405",
+        "level": 3,
+        "name": {
+          "local": "Ambiri",
+          "en": "Ambiri",
+          "slug": "ambiri-050405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.368",
+      "lon": "-4.263"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

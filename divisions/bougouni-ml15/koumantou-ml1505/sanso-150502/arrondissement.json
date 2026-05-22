@@ -1,0 +1,56 @@
+{
+  "id": "ML-A150502",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Sanso",
+    "en": "Sanso",
+    "slug": "sanso-150502"
+  },
+  "code": {
+    "id": "ML-A150502",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1505",
+    "level": 2,
+    "name": {
+      "local": "Koumantou",
+      "en": "Koumantou",
+      "slug": "koumantou-ml1505"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML15",
+      "level": 1,
+      "name": {
+        "local": "Bougouni",
+        "en": "Bougouni",
+        "slug": "bougouni-ml15"
+      }
+    },
+    {
+      "id": "ML1505",
+      "level": 2,
+      "name": {
+        "local": "Koumantou",
+        "en": "Koumantou",
+        "slug": "koumantou-ml1505"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.406",
+    "lon": "-6.85"
+  },
+  "metadata": {},
+  "source": {}
+}

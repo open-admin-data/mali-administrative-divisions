@@ -1,0 +1,14 @@
+# Bamako — Mali Administrative Divisions
+
+> 1 circles, 0 arrondissements, 0 communes
+> Code: ML20
+> Coordinates: 14.583, -4.417
+> Last updated: 2026-05-22. License: CC-BY-4.0.
+
+## Circles
+
+### Bamako
+
+Code: ML2001, Coordinates: 14.583, -4.417
+Arrondissements: 0, Communes: 0
+

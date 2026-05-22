@@ -1,0 +1,4 @@
+id,name.local,name.en,name.slug,code.id,children_count.commune,geo.lat,geo.lon
+ML-A060102,Aglal,Aglal,aglal-060102,ML-A060102,1,16.773,-3.007
+ML-A060103,Bourem Inaly,Bourem Inaly,bourem-inaly-060103,ML-A060103,1,16.773,-3.007
+ML-A060101,Tombouctou,Tombouctou,tombouctou-060101,ML-A060101,2,16.773,-3.007

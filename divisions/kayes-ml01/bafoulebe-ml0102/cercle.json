@@ -1,0 +1,48 @@
+{
+  "id": "ML0102",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Bafoulabé",
+    "en": "Bafoulebe",
+    "slug": "bafoulebe-ml0102"
+  },
+  "code": {
+    "id": "ML0102",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML01",
+    "level": 1,
+    "name": {
+      "local": "Kayes",
+      "en": "Kayes",
+      "slug": "kayes-ml01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML01",
+      "level": 1,
+      "name": {
+        "local": "Kayes",
+        "en": "Kayes",
+        "slug": "kayes-ml01"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 5,
+    "commune": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.808",
+    "lon": "-10.833"
+  },
+  "metadata": {},
+  "source": {}
+}

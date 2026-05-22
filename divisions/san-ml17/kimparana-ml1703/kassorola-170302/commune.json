@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C17030201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kassorola",
+      "en": "Kassorola",
+      "slug": "kassorola-17030201"
+    },
+    "code": {
+      "id": "ML-C17030201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A170302",
+      "level": 3,
+      "name": {
+        "local": "Kassorola",
+        "en": "Kassorola",
+        "slug": "kassorola-170302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      },
+      {
+        "id": "ML1703",
+        "level": 2,
+        "name": {
+          "local": "Kimparana",
+          "en": "Kimparana",
+          "slug": "kimparana-ml1703"
+        }
+      },
+      {
+        "id": "ML-A170302",
+        "level": 3,
+        "name": {
+          "local": "Kassorola",
+          "en": "Kassorola",
+          "slug": "kassorola-170302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.835",
+      "lon": "-4.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C17030202",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Moribila",
+      "en": "Moribila",
+      "slug": "moribila-17030202"
+    },
+    "code": {
+      "id": "ML-C17030202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A170302",
+      "level": 3,
+      "name": {
+        "local": "Kassorola",
+        "en": "Kassorola",
+        "slug": "kassorola-170302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      },
+      {
+        "id": "ML1703",
+        "level": 2,
+        "name": {
+          "local": "Kimparana",
+          "en": "Kimparana",
+          "slug": "kimparana-ml1703"
+        }
+      },
+      {
+        "id": "ML-A170302",
+        "level": 3,
+        "name": {
+          "local": "Kassorola",
+          "en": "Kassorola",
+          "slug": "kassorola-170302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.835",
+      "lon": "-4.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C17030203",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tourakolomba",
+      "en": "Tourakolomba",
+      "slug": "tourakolomba-17030203"
+    },
+    "code": {
+      "id": "ML-C17030203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A170302",
+      "level": 3,
+      "name": {
+        "local": "Kassorola",
+        "en": "Kassorola",
+        "slug": "kassorola-170302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      },
+      {
+        "id": "ML1703",
+        "level": 2,
+        "name": {
+          "local": "Kimparana",
+          "en": "Kimparana",
+          "slug": "kimparana-ml1703"
+        }
+      },
+      {
+        "id": "ML-A170302",
+        "level": 3,
+        "name": {
+          "local": "Kassorola",
+          "en": "Kassorola",
+          "slug": "kassorola-170302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.835",
+      "lon": "-4.924"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C07110101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "N'Tillit",
+      "en": "N'Tillit",
+      "slug": "ntillit-07110101"
+    },
+    "code": {
+      "id": "ML-C07110101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A071101",
+      "level": 3,
+      "name": {
+        "local": "N'Tillit",
+        "en": "N'Tillit",
+        "slug": "ntillit-071101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      },
+      {
+        "id": "ML0711",
+        "level": 2,
+        "name": {
+          "local": "N'tillit",
+          "en": "Ntillit",
+          "slug": "ntillit-ml0711"
+        }
+      },
+      {
+        "id": "ML-A071101",
+        "level": 3,
+        "name": {
+          "local": "N'Tillit",
+          "en": "N'Tillit",
+          "slug": "ntillit-071101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.272",
+      "lon": "-0.045"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

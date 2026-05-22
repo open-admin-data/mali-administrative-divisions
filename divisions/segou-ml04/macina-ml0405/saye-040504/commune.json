@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C04050401",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Matomo",
+      "en": "Matomo",
+      "slug": "matomo-04050401"
+    },
+    "code": {
+      "id": "ML-C04050401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040504",
+      "level": 3,
+      "name": {
+        "local": "Saye",
+        "en": "Saye",
+        "slug": "saye-040504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0405",
+        "level": 2,
+        "name": {
+          "local": "Macina",
+          "en": "Macina",
+          "slug": "macina-ml0405"
+        }
+      },
+      {
+        "id": "ML-A040504",
+        "level": 3,
+        "name": {
+          "local": "Saye",
+          "en": "Saye",
+          "slug": "saye-040504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.308",
+      "lon": "-11.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C04050402",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sana",
+      "en": "Sana",
+      "slug": "sana-04050402"
+    },
+    "code": {
+      "id": "ML-C04050402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040504",
+      "level": 3,
+      "name": {
+        "local": "Saye",
+        "en": "Saye",
+        "slug": "saye-040504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0405",
+        "level": 2,
+        "name": {
+          "local": "Macina",
+          "en": "Macina",
+          "slug": "macina-ml0405"
+        }
+      },
+      {
+        "id": "ML-A040504",
+        "level": 3,
+        "name": {
+          "local": "Saye",
+          "en": "Saye",
+          "slug": "saye-040504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.308",
+      "lon": "-11.506"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

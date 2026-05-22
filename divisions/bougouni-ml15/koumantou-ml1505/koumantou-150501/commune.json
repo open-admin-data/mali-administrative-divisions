@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C15050101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Koumantou",
+      "en": "Koumantou",
+      "slug": "koumantou-15050101"
+    },
+    "code": {
+      "id": "ML-C15050101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150501",
+      "level": 3,
+      "name": {
+        "local": "Koumantou",
+        "en": "Koumantou",
+        "slug": "koumantou-150501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1505",
+        "level": 2,
+        "name": {
+          "local": "Koumantou",
+          "en": "Koumantou",
+          "slug": "koumantou-ml1505"
+        }
+      },
+      {
+        "id": "ML-A150501",
+        "level": 3,
+        "name": {
+          "local": "Koumantou",
+          "en": "Koumantou",
+          "slug": "koumantou-150501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.406",
+      "lon": "-6.85"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

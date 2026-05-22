@@ -1,0 +1,56 @@
+{
+  "id": "ML-A040801",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Nampala",
+    "en": "Nampala",
+    "slug": "nampala-040801"
+  },
+  "code": {
+    "id": "ML-A040801",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0408",
+    "level": 2,
+    "name": {
+      "local": "Nampala",
+      "en": "Nampala",
+      "slug": "nampala-ml0408"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML04",
+      "level": 1,
+      "name": {
+        "local": "Segou",
+        "en": "Segou",
+        "slug": "segou-ml04"
+      }
+    },
+    {
+      "id": "ML0408",
+      "level": 2,
+      "name": {
+        "local": "Nampala",
+        "en": "Nampala",
+        "slug": "nampala-ml0408"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.281",
+    "lon": "-5.555"
+  },
+  "metadata": {},
+  "source": {}
+}

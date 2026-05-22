@@ -1,0 +1,56 @@
+{
+  "id": "ML-A080602",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Dadate",
+    "en": "Dadate",
+    "slug": "dadate-080602"
+  },
+  "code": {
+    "id": "ML-A080602",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0806",
+    "level": 2,
+    "name": {
+      "local": "Anéfif",
+      "en": "Anefi",
+      "slug": "anefi-ml0806"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML08",
+      "level": 1,
+      "name": {
+        "local": "Kidal",
+        "en": "Kidal",
+        "slug": "kidal-ml08"
+      }
+    },
+    {
+      "id": "ML0806",
+      "level": 2,
+      "name": {
+        "local": "Anéfif",
+        "en": "Anefi",
+        "slug": "anefi-ml0806"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.007",
+    "lon": "-0.532"
+  },
+  "metadata": {},
+  "source": {}
+}

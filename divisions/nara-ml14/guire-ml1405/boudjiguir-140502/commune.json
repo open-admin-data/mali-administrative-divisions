@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C14050201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boudjiguiré",
+      "en": "Boudjiguiré",
+      "slug": "boudjiguir-14050201"
+    },
+    "code": {
+      "id": "ML-C14050201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A140502",
+      "level": 3,
+      "name": {
+        "local": "Boudjiguiré",
+        "en": "Boudjiguiré",
+        "slug": "boudjiguir-140502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML14",
+        "level": 1,
+        "name": {
+          "local": "Nara",
+          "en": "Nara",
+          "slug": "nara-ml14"
+        }
+      },
+      {
+        "id": "ML1405",
+        "level": 2,
+        "name": {
+          "local": "Guiré",
+          "en": "Guire",
+          "slug": "guire-ml1405"
+        }
+      },
+      {
+        "id": "ML-A140502",
+        "level": 3,
+        "name": {
+          "local": "Boudjiguiré",
+          "en": "Boudjiguiré",
+          "slug": "boudjiguir-140502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.643",
+      "lon": "-6.691"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

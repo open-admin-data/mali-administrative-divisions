@@ -1,0 +1,56 @@
+{
+  "id": "ML-A020602",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Tougouni",
+    "en": "Tougouni",
+    "slug": "tougouni-020602"
+  },
+  "code": {
+    "id": "ML-A020602",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0206",
+    "level": 2,
+    "name": {
+      "local": "Nyamina",
+      "en": "Nyamina",
+      "slug": "nyamina-ml0206"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML02",
+      "level": 1,
+      "name": {
+        "local": "Koulikoro",
+        "en": "Koulikoro",
+        "slug": "koulikoro-ml02"
+      }
+    },
+    {
+      "id": "ML0206",
+      "level": 2,
+      "name": {
+        "local": "Nyamina",
+        "en": "Nyamina",
+        "slug": "nyamina-ml0206"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.319",
+    "lon": "-6.982"
+  },
+  "metadata": {},
+  "source": {}
+}

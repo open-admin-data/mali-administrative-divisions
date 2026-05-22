@@ -1,0 +1,114 @@
+[
+  {
+    "id": "ML-A040702",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Doura",
+      "en": "Doura",
+      "slug": "doura-040702"
+    },
+    "code": {
+      "id": "ML-A040702",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0407",
+      "level": 2,
+      "name": {
+        "local": "Farako",
+        "en": "Farako",
+        "slug": "farako-ml0407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0407",
+        "level": 2,
+        "name": {
+          "local": "Farako",
+          "en": "Farako",
+          "slug": "farako-ml0407"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.943",
+      "lon": "-6.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A040701",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Farako",
+      "en": "Farako",
+      "slug": "farako-040701"
+    },
+    "code": {
+      "id": "ML-A040701",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0407",
+      "level": 2,
+      "name": {
+        "local": "Farako",
+        "en": "Farako",
+        "slug": "farako-ml0407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0407",
+        "level": 2,
+        "name": {
+          "local": "Farako",
+          "en": "Farako",
+          "slug": "farako-ml0407"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.943",
+      "lon": "-6.791"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

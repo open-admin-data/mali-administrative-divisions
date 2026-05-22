@@ -1,0 +1,56 @@
+{
+  "id": "ML-A040402",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Pogo",
+    "en": "Pogo",
+    "slug": "pogo-040402"
+  },
+  "code": {
+    "id": "ML-A040402",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0404",
+    "level": 2,
+    "name": {
+      "local": "Niono",
+      "en": "Niono",
+      "slug": "niono-ml0404"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML04",
+      "level": 1,
+      "name": {
+        "local": "Segou",
+        "en": "Segou",
+        "slug": "segou-ml04"
+      }
+    },
+    {
+      "id": "ML0404",
+      "level": 2,
+      "name": {
+        "local": "Niono",
+        "en": "Niono",
+        "slug": "niono-ml0404"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.251",
+    "lon": "-5.987"
+  },
+  "metadata": {},
+  "source": {}
+}

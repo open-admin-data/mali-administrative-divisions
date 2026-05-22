@@ -1,0 +1,48 @@
+{
+  "id": "ML1601",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Koutiala",
+    "en": "Koutiala",
+    "slug": "koutiala-ml1601"
+  },
+  "code": {
+    "id": "ML1601",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML16",
+    "level": 1,
+    "name": {
+      "local": "Koutiala",
+      "en": "Koutiala",
+      "slug": "koutiala-ml16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML16",
+      "level": 1,
+      "name": {
+        "local": "Koutiala",
+        "en": "Koutiala",
+        "slug": "koutiala-ml16"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 3,
+    "commune": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.026",
+    "lon": "-5.523"
+  },
+  "metadata": {},
+  "source": {}
+}

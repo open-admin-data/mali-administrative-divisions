@@ -1,0 +1,170 @@
+[
+  {
+    "id": "ML-A010601",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Aourou",
+      "en": "Aourou",
+      "slug": "aourou-010601"
+    },
+    "code": {
+      "id": "ML-A010601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0106",
+      "level": 2,
+      "name": {
+        "local": "Aourou",
+        "en": "Aourou",
+        "slug": "aourou-ml0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0106",
+        "level": 2,
+        "name": {
+          "local": "Aourou",
+          "en": "Aourou",
+          "slug": "aourou-ml0106"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.968",
+      "lon": "-11.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A010602",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Koussané",
+      "en": "Koussané",
+      "slug": "koussan-010602"
+    },
+    "code": {
+      "id": "ML-A010602",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0106",
+      "level": 2,
+      "name": {
+        "local": "Aourou",
+        "en": "Aourou",
+        "slug": "aourou-ml0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0106",
+        "level": 2,
+        "name": {
+          "local": "Aourou",
+          "en": "Aourou",
+          "slug": "aourou-ml0106"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.968",
+      "lon": "-11.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A010603",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Téchibé",
+      "en": "Téchibé",
+      "slug": "tchib-010603"
+    },
+    "code": {
+      "id": "ML-A010603",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0106",
+      "level": 2,
+      "name": {
+        "local": "Aourou",
+        "en": "Aourou",
+        "slug": "aourou-ml0106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0106",
+        "level": 2,
+        "name": {
+          "local": "Aourou",
+          "en": "Aourou",
+          "slug": "aourou-ml0106"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.968",
+      "lon": "-11.587"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

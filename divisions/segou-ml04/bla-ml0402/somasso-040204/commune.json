@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C04020401",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Samabogo",
+      "en": "Samabogo",
+      "slug": "samabogo-04020401"
+    },
+    "code": {
+      "id": "ML-C04020401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040204",
+      "level": 3,
+      "name": {
+        "local": "Somasso",
+        "en": "Somasso",
+        "slug": "somasso-040204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0402",
+        "level": 2,
+        "name": {
+          "local": "Bla",
+          "en": "Bla",
+          "slug": "bla-ml0402"
+        }
+      },
+      {
+        "id": "ML-A040204",
+        "level": 3,
+        "name": {
+          "local": "Somasso",
+          "en": "Somasso",
+          "slug": "somasso-040204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.95",
+      "lon": "-5.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C04020402",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Somasso",
+      "en": "Somasso",
+      "slug": "somasso-04020402"
+    },
+    "code": {
+      "id": "ML-C04020402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040204",
+      "level": 3,
+      "name": {
+        "local": "Somasso",
+        "en": "Somasso",
+        "slug": "somasso-040204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0402",
+        "level": 2,
+        "name": {
+          "local": "Bla",
+          "en": "Bla",
+          "slug": "bla-ml0402"
+        }
+      },
+      {
+        "id": "ML-A040204",
+        "level": 3,
+        "name": {
+          "local": "Somasso",
+          "en": "Somasso",
+          "slug": "somasso-040204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.95",
+      "lon": "-5.76"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

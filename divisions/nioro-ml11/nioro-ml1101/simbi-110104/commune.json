@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C11010401",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Simbi",
+      "en": "Simbi",
+      "slug": "simbi-11010401"
+    },
+    "code": {
+      "id": "ML-C11010401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A110104",
+      "level": 3,
+      "name": {
+        "local": "Simbi",
+        "en": "Simbi",
+        "slug": "simbi-110104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML11",
+        "level": 1,
+        "name": {
+          "local": "Nioro",
+          "en": "Nioro",
+          "slug": "nioro-ml11"
+        }
+      },
+      {
+        "id": "ML1101",
+        "level": 2,
+        "name": {
+          "local": "Nioro",
+          "en": "Nioro",
+          "slug": "nioro-ml1101"
+        }
+      },
+      {
+        "id": "ML-A110104",
+        "level": 3,
+        "name": {
+          "local": "Simbi",
+          "en": "Simbi",
+          "slug": "simbi-110104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.231",
+      "lon": "-9.594"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

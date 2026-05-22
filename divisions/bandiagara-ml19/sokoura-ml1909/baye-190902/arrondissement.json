@@ -1,0 +1,56 @@
+{
+  "id": "ML-A190902",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Baye",
+    "en": "Baye",
+    "slug": "baye-190902"
+  },
+  "code": {
+    "id": "ML-A190902",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1909",
+    "level": 2,
+    "name": {
+      "local": "Sokoura",
+      "en": "Sokoura",
+      "slug": "sokoura-ml1909"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML19",
+      "level": 1,
+      "name": {
+        "local": "Bandiagara",
+        "en": "Bandiagara",
+        "slug": "bandiagara-ml19"
+      }
+    },
+    {
+      "id": "ML1909",
+      "level": 2,
+      "name": {
+        "local": "Sokoura",
+        "en": "Sokoura",
+        "slug": "sokoura-ml1909"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.704",
+    "lon": "-4.108"
+  },
+  "metadata": {},
+  "source": {}
+}

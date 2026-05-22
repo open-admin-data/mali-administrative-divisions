@@ -1,0 +1,48 @@
+{
+  "id": "ML0503",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Ténenkou",
+    "en": "Tenenkou",
+    "slug": "tenenkou-ml0503"
+  },
+  "code": {
+    "id": "ML0503",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML05",
+    "level": 1,
+    "name": {
+      "local": "Mopti",
+      "en": "Mopti",
+      "slug": "mopti-ml05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML05",
+      "level": 1,
+      "name": {
+        "local": "Mopti",
+        "en": "Mopti",
+        "slug": "mopti-ml05"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 4,
+    "commune": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.457",
+    "lon": "-4.917"
+  },
+  "metadata": {},
+  "source": {}
+}

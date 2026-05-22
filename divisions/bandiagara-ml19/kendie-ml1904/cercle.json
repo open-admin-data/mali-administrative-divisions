@@ -1,0 +1,48 @@
+{
+  "id": "ML1904",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Kendie",
+    "en": "Kendie",
+    "slug": "kendie-ml1904"
+  },
+  "code": {
+    "id": "ML1904",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML19",
+    "level": 1,
+    "name": {
+      "local": "Bandiagara",
+      "en": "Bandiagara",
+      "slug": "bandiagara-ml19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML19",
+      "level": 1,
+      "name": {
+        "local": "Bandiagara",
+        "en": "Bandiagara",
+        "slug": "bandiagara-ml19"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 0,
+    "commune": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.676",
+    "lon": "-3.51"
+  },
+  "metadata": {},
+  "source": {}
+}

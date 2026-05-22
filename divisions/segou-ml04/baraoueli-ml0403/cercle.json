@@ -1,0 +1,48 @@
+{
+  "id": "ML0403",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Baraoueli",
+    "en": "Baraoueli",
+    "slug": "baraoueli-ml0403"
+  },
+  "code": {
+    "id": "ML0403",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML04",
+    "level": 1,
+    "name": {
+      "local": "Segou",
+      "en": "Segou",
+      "slug": "segou-ml04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML04",
+      "level": 1,
+      "name": {
+        "local": "Segou",
+        "en": "Segou",
+        "slug": "segou-ml04"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 0,
+    "commune": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.039",
+    "lon": "-6.639"
+  },
+  "metadata": {},
+  "source": {}
+}

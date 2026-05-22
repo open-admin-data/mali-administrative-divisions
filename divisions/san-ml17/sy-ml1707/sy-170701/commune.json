@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C17070102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouolon",
+      "en": "Ouolon",
+      "slug": "ouolon-17070102"
+    },
+    "code": {
+      "id": "ML-C17070102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A170701",
+      "level": 3,
+      "name": {
+        "local": "Sy",
+        "en": "Sy",
+        "slug": "sy-170701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      },
+      {
+        "id": "ML1707",
+        "level": 2,
+        "name": {
+          "local": "Sy",
+          "en": "Sy",
+          "slug": "sy-ml1707"
+        }
+      },
+      {
+        "id": "ML-A170701",
+        "level": 3,
+        "name": {
+          "local": "Sy",
+          "en": "Sy",
+          "slug": "sy-170701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.601",
+      "lon": "-4.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C17070101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sy",
+      "en": "Sy",
+      "slug": "sy-17070101"
+    },
+    "code": {
+      "id": "ML-C17070101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A170701",
+      "level": 3,
+      "name": {
+        "local": "Sy",
+        "en": "Sy",
+        "slug": "sy-170701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      },
+      {
+        "id": "ML1707",
+        "level": 2,
+        "name": {
+          "local": "Sy",
+          "en": "Sy",
+          "slug": "sy-ml1707"
+        }
+      },
+      {
+        "id": "ML-A170701",
+        "level": 3,
+        "name": {
+          "local": "Sy",
+          "en": "Sy",
+          "slug": "sy-170701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.601",
+      "lon": "-4.976"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

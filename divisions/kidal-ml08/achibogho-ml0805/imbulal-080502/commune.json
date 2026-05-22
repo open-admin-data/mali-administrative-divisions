@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C08050201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Imbulal",
+      "en": "Imbulal",
+      "slug": "imbulal-08050201"
+    },
+    "code": {
+      "id": "ML-C08050201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A080502",
+      "level": 3,
+      "name": {
+        "local": "Imbulal",
+        "en": "Imbulal",
+        "slug": "imbulal-080502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML08",
+        "level": 1,
+        "name": {
+          "local": "Kidal",
+          "en": "Kidal",
+          "slug": "kidal-ml08"
+        }
+      },
+      {
+        "id": "ML0805",
+        "level": 2,
+        "name": {
+          "local": "Achibogho",
+          "en": "Achibogho",
+          "slug": "achibogho-ml0805"
+        }
+      },
+      {
+        "id": "ML-A080502",
+        "level": 3,
+        "name": {
+          "local": "Imbulal",
+          "en": "Imbulal",
+          "slug": "imbulal-080502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.461",
+      "lon": "1.385"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

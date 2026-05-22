@@ -1,0 +1,48 @@
+{
+  "id": "ML0802",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "AbeÏbara",
+    "en": "Abelbara",
+    "slug": "abelbara-ml0802"
+  },
+  "code": {
+    "id": "ML0802",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML08",
+    "level": 1,
+    "name": {
+      "local": "Kidal",
+      "en": "Kidal",
+      "slug": "kidal-ml08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML08",
+      "level": 1,
+      "name": {
+        "local": "Kidal",
+        "en": "Kidal",
+        "slug": "kidal-ml08"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 3,
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.29",
+    "lon": "1.83"
+  },
+  "metadata": {},
+  "source": {}
+}

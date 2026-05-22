@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C05050101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Konna",
+      "en": "Konna",
+      "slug": "konna-05050101"
+    },
+    "code": {
+      "id": "ML-C05050101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050501",
+      "level": 3,
+      "name": {
+        "local": "Konna",
+        "en": "Konna",
+        "slug": "konna-050501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0505",
+        "level": 2,
+        "name": {
+          "local": "Konna",
+          "en": "Konna",
+          "slug": "konna-ml0505"
+        }
+      },
+      {
+        "id": "ML-A050501",
+        "level": 3,
+        "name": {
+          "local": "Konna",
+          "en": "Konna",
+          "slug": "konna-050501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.944",
+      "lon": "-3.89"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "ML0906",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Achouratt",
+    "en": "Achouratt",
+    "slug": "achouratt-ml0906"
+  },
+  "code": {
+    "id": "ML0906",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML09",
+    "level": 1,
+    "name": {
+      "local": "Taoudenni",
+      "en": "Taoudenni",
+      "slug": "taoudenni-ml09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML09",
+      "level": 1,
+      "name": {
+        "local": "Taoudenni",
+        "en": "Taoudenni",
+        "slug": "taoudenni-ml09"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 5,
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.677",
+    "lon": "-3.979"
+  },
+  "metadata": {},
+  "source": {}
+}

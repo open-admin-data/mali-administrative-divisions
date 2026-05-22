@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C19030202",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dimbal Habbé",
+      "en": "Dimbal Habbé",
+      "slug": "dimbal-habb-19030202"
+    },
+    "code": {
+      "id": "ML-C19030202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190302",
+      "level": 3,
+      "name": {
+        "local": "Kani Bonzon",
+        "en": "Kani Bonzon",
+        "slug": "kani-bonzon-190302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1903",
+        "level": 2,
+        "name": {
+          "local": "Bankass",
+          "en": "Bankass",
+          "slug": "bankass-ml1903"
+        }
+      },
+      {
+        "id": "ML-A190302",
+        "level": 3,
+        "name": {
+          "local": "Kani Bonzon",
+          "en": "Kani Bonzon",
+          "slug": "kani-bonzon-190302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.078",
+      "lon": "-3.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C19030201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kani-Bonzon",
+      "en": "Kani-Bonzon",
+      "slug": "kani-bonzon-19030201"
+    },
+    "code": {
+      "id": "ML-C19030201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190302",
+      "level": 3,
+      "name": {
+        "local": "Kani Bonzon",
+        "en": "Kani Bonzon",
+        "slug": "kani-bonzon-190302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1903",
+        "level": 2,
+        "name": {
+          "local": "Bankass",
+          "en": "Bankass",
+          "slug": "bankass-ml1903"
+        }
+      },
+      {
+        "id": "ML-A190302",
+        "level": 3,
+        "name": {
+          "local": "Kani Bonzon",
+          "en": "Kani Bonzon",
+          "slug": "kani-bonzon-190302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.078",
+      "lon": "-3.516"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

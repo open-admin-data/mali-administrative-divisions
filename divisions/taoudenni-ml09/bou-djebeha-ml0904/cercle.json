@@ -1,0 +1,48 @@
+{
+  "id": "ML0904",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Boû-Djebeha",
+    "en": "Bou-Djebeha",
+    "slug": "bou-djebeha-ml0904"
+  },
+  "code": {
+    "id": "ML0904",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML09",
+    "level": 1,
+    "name": {
+      "local": "Taoudenni",
+      "en": "Taoudenni",
+      "slug": "taoudenni-ml09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML09",
+      "level": 1,
+      "name": {
+        "local": "Taoudenni",
+        "en": "Taoudenni",
+        "slug": "taoudenni-ml09"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 5,
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.677",
+    "lon": "-3.979"
+  },
+  "metadata": {},
+  "source": {}
+}

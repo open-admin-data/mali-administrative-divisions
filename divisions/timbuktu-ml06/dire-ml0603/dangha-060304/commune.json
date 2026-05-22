@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C06030204",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dangha",
+      "en": "Dangha",
+      "slug": "dangha-06030204"
+    },
+    "code": {
+      "id": "ML-C06030204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A060304",
+      "level": 3,
+      "name": {
+        "local": "Dangha",
+        "en": "Dangha",
+        "slug": "dangha-060304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0603",
+        "level": 2,
+        "name": {
+          "local": "Diré",
+          "en": "Dire",
+          "slug": "dire-ml0603"
+        }
+      },
+      {
+        "id": "ML-A060304",
+        "level": 3,
+        "name": {
+          "local": "Dangha",
+          "en": "Dangha",
+          "slug": "dangha-060304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.257",
+      "lon": "-3.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C06030205",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Garbakoira",
+      "en": "Garbakoira",
+      "slug": "garbakoira-06030205"
+    },
+    "code": {
+      "id": "ML-C06030205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A060304",
+      "level": 3,
+      "name": {
+        "local": "Dangha",
+        "en": "Dangha",
+        "slug": "dangha-060304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0603",
+        "level": 2,
+        "name": {
+          "local": "Diré",
+          "en": "Dire",
+          "slug": "dire-ml0603"
+        }
+      },
+      {
+        "id": "ML-A060304",
+        "level": 3,
+        "name": {
+          "local": "Dangha",
+          "en": "Dangha",
+          "slug": "dangha-060304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.257",
+      "lon": "-3.401"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "ML-A060902",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Dianké",
+    "en": "Dianké",
+    "slug": "diank-060902"
+  },
+  "code": {
+    "id": "ML-A060902",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0609",
+    "level": 2,
+    "name": {
+      "local": "Léré",
+      "en": "Lere",
+      "slug": "lere-ml0609"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML06",
+      "level": 1,
+      "name": {
+        "local": "Tombouctou",
+        "en": "Timbuktu",
+        "slug": "timbuktu-ml06"
+      }
+    },
+    {
+      "id": "ML0609",
+      "level": 2,
+      "name": {
+        "local": "Léré",
+        "en": "Lere",
+        "slug": "lere-ml0609"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.712",
+    "lon": "-4.912"
+  },
+  "metadata": {},
+  "source": {}
+}

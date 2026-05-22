@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C01090201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tringa",
+      "en": "Tringa",
+      "slug": "tringa-01090201"
+    },
+    "code": {
+      "id": "ML-C01090201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010902",
+      "level": 3,
+      "name": {
+        "local": "Maréna",
+        "en": "Maréna",
+        "slug": "marna-010902"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0109",
+        "level": 2,
+        "name": {
+          "local": "Ségala",
+          "en": "Segala",
+          "slug": "segala-ml0109"
+        }
+      },
+      {
+        "id": "ML-A010902",
+        "level": 3,
+        "name": {
+          "local": "Maréna",
+          "en": "Maréna",
+          "slug": "marna-010902"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.529",
+      "lon": "-5.732"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

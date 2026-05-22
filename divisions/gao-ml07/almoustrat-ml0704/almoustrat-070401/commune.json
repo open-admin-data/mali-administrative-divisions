@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C07040102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Almoustrat",
+      "en": "Almoustrat",
+      "slug": "almoustrat-07040102"
+    },
+    "code": {
+      "id": "ML-C07040102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A070401",
+      "level": 3,
+      "name": {
+        "local": "Almoustrat",
+        "en": "Almoustrat",
+        "slug": "almoustrat-070401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      },
+      {
+        "id": "ML0704",
+        "level": 2,
+        "name": {
+          "local": "Almoustrat",
+          "en": "Almoustrat",
+          "slug": "almoustrat-ml0704"
+        }
+      },
+      {
+        "id": "ML-A070401",
+        "level": 3,
+        "name": {
+          "local": "Almoustrat",
+          "en": "Almoustrat",
+          "slug": "almoustrat-070401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.358",
+      "lon": "0.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C07040101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tarkint",
+      "en": "Tarkint",
+      "slug": "tarkint-07040101"
+    },
+    "code": {
+      "id": "ML-C07040101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A070401",
+      "level": 3,
+      "name": {
+        "local": "Almoustrat",
+        "en": "Almoustrat",
+        "slug": "almoustrat-070401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      },
+      {
+        "id": "ML0704",
+        "level": 2,
+        "name": {
+          "local": "Almoustrat",
+          "en": "Almoustrat",
+          "slug": "almoustrat-ml0704"
+        }
+      },
+      {
+        "id": "ML-A070401",
+        "level": 3,
+        "name": {
+          "local": "Almoustrat",
+          "en": "Almoustrat",
+          "slug": "almoustrat-070401"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.358",
+      "lon": "0.15"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

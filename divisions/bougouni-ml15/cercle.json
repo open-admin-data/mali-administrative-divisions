@@ -1,0 +1,482 @@
+[
+  {
+    "id": "ML1501",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Bougouni",
+      "en": "Bougouni",
+      "slug": "bougouni-ml1501"
+    },
+    "code": {
+      "id": "ML1501",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML15",
+      "level": 1,
+      "name": {
+        "local": "Bougouni",
+        "en": "Bougouni",
+        "slug": "bougouni-ml15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 4,
+      "commune": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.741",
+      "lon": "-2.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1510",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Dogo",
+      "en": "Dogo",
+      "slug": "dogo-ml1510"
+    },
+    "code": {
+      "id": "ML1510",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML15",
+      "level": 1,
+      "name": {
+        "local": "Bougouni",
+        "en": "Bougouni",
+        "slug": "bougouni-ml15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.169",
+      "lon": "-4.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1509",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Fakola",
+      "en": "Fakola",
+      "slug": "fakola-ml1509"
+    },
+    "code": {
+      "id": "ML1509",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML15",
+      "level": 1,
+      "name": {
+        "local": "Bougouni",
+        "en": "Bougouni",
+        "slug": "bougouni-ml15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.533",
+      "lon": "-6.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1504",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Garalo",
+      "en": "Garalo",
+      "slug": "garalo-ml1504"
+    },
+    "code": {
+      "id": "ML1504",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML15",
+      "level": 1,
+      "name": {
+        "local": "Bougouni",
+        "en": "Bougouni",
+        "slug": "bougouni-ml15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11",
+      "lon": "-7.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1508",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Kadiana",
+      "en": "Kadiana",
+      "slug": "kadiana-ml1508"
+    },
+    "code": {
+      "id": "ML1508",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML15",
+      "level": 1,
+      "name": {
+        "local": "Bougouni",
+        "en": "Bougouni",
+        "slug": "bougouni-ml15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.75",
+      "lon": "-6.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1503",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Kolondièba",
+      "en": "Kolondieba",
+      "slug": "kolondieba-ml1503"
+    },
+    "code": {
+      "id": "ML1503",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML15",
+      "level": 1,
+      "name": {
+        "local": "Bougouni",
+        "en": "Bougouni",
+        "slug": "bougouni-ml15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 0,
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.089",
+      "lon": "-6.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1505",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Koumantou",
+      "en": "Koumantou",
+      "slug": "koumantou-ml1505"
+    },
+    "code": {
+      "id": "ML1505",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML15",
+      "level": 1,
+      "name": {
+        "local": "Bougouni",
+        "en": "Bougouni",
+        "slug": "bougouni-ml15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.406",
+      "lon": "-6.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1507",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Ouelessebougou",
+      "en": "Ouelessebougou",
+      "slug": "ouelessebougou-ml1507"
+    },
+    "code": {
+      "id": "ML1507",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML15",
+      "level": 1,
+      "name": {
+        "local": "Bougouni",
+        "en": "Bougouni",
+        "slug": "bougouni-ml15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 0,
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.992",
+      "lon": "-7.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1506",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Sélingué",
+      "en": "Selingue",
+      "slug": "selingue-ml1506"
+    },
+    "code": {
+      "id": "ML1506",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML15",
+      "level": 1,
+      "name": {
+        "local": "Bougouni",
+        "en": "Bougouni",
+        "slug": "bougouni-ml15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 0,
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.617",
+      "lon": "-8.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1502",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Yanfolila",
+      "en": "Yanfolila",
+      "slug": "yanfolila-ml1502"
+    },
+    "code": {
+      "id": "ML1502",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML15",
+      "level": 1,
+      "name": {
+        "local": "Bougouni",
+        "en": "Bougouni",
+        "slug": "bougouni-ml15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 7,
+      "commune": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.183",
+      "lon": "-8.15"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

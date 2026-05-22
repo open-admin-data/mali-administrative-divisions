@@ -1,0 +1,31 @@
+{
+  "id": "ML02",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Koulikoro",
+    "en": "Koulikoro",
+    "slug": "koulikoro-ml02"
+  },
+  "code": {
+    "id": "ML02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "cercle": 8,
+    "commune": 58,
+    "arrondissement": 26
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.863",
+    "lon": "-7.56"
+  },
+  "metadata": {},
+  "source": {}
+}

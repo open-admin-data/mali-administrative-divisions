@@ -1,0 +1,170 @@
+[
+  {
+    "id": "ML-A100602",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Alata (Sahen)",
+      "en": "Alata (Sahen)",
+      "slug": "alata-sahen-100602"
+    },
+    "code": {
+      "id": "ML-A100602",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1006",
+      "level": 2,
+      "name": {
+        "local": "Inlamawane (Fanfi)",
+        "en": "Inlamawane (Fanfi)",
+        "slug": "inlamawane-fanfi-ml1006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML10",
+        "level": 1,
+        "name": {
+          "local": "Ménaka",
+          "en": "Ménaka",
+          "slug": "mnaka-ml10"
+        }
+      },
+      {
+        "id": "ML1006",
+        "level": 2,
+        "name": {
+          "local": "Inlamawane (Fanfi)",
+          "en": "Inlamawane (Fanfi)",
+          "slug": "inlamawane-fanfi-ml1006"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.92",
+      "lon": "2.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A100601",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Inlamawane",
+      "en": "Inlamawane",
+      "slug": "inlamawane-100601"
+    },
+    "code": {
+      "id": "ML-A100601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1006",
+      "level": 2,
+      "name": {
+        "local": "Inlamawane (Fanfi)",
+        "en": "Inlamawane (Fanfi)",
+        "slug": "inlamawane-fanfi-ml1006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML10",
+        "level": 1,
+        "name": {
+          "local": "Ménaka",
+          "en": "Ménaka",
+          "slug": "mnaka-ml10"
+        }
+      },
+      {
+        "id": "ML1006",
+        "level": 2,
+        "name": {
+          "local": "Inlamawane (Fanfi)",
+          "en": "Inlamawane (Fanfi)",
+          "slug": "inlamawane-fanfi-ml1006"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.92",
+      "lon": "2.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A100603",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Tissouakh",
+      "en": "Tissouakh",
+      "slug": "tissouakh-100603"
+    },
+    "code": {
+      "id": "ML-A100603",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML1006",
+      "level": 2,
+      "name": {
+        "local": "Inlamawane (Fanfi)",
+        "en": "Inlamawane (Fanfi)",
+        "slug": "inlamawane-fanfi-ml1006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML10",
+        "level": 1,
+        "name": {
+          "local": "Ménaka",
+          "en": "Ménaka",
+          "slug": "mnaka-ml10"
+        }
+      },
+      {
+        "id": "ML1006",
+        "level": 2,
+        "name": {
+          "local": "Inlamawane (Fanfi)",
+          "en": "Inlamawane (Fanfi)",
+          "slug": "inlamawane-fanfi-ml1006"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.92",
+      "lon": "2.396"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

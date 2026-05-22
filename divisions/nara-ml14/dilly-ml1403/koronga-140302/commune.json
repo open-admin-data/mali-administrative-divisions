@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C14030201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Koronga",
+      "en": "Koronga",
+      "slug": "koronga-14030201"
+    },
+    "code": {
+      "id": "ML-C14030201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A140302",
+      "level": 3,
+      "name": {
+        "local": "Koronga",
+        "en": "Koronga",
+        "slug": "koronga-140302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML14",
+        "level": 1,
+        "name": {
+          "local": "Nara",
+          "en": "Nara",
+          "slug": "nara-ml14"
+        }
+      },
+      {
+        "id": "ML1403",
+        "level": 2,
+        "name": {
+          "local": "Dilly",
+          "en": "Dilly",
+          "slug": "dilly-ml1403"
+        }
+      },
+      {
+        "id": "ML-A140302",
+        "level": 3,
+        "name": {
+          "local": "Koronga",
+          "en": "Koronga",
+          "slug": "koronga-140302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.999",
+      "lon": "-7.669"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

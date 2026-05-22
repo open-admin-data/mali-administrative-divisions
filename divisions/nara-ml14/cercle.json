@@ -1,0 +1,290 @@
+[
+  {
+    "id": "ML1402",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Ballé",
+      "en": "Balle",
+      "slug": "balle-ml1402"
+    },
+    "code": {
+      "id": "ML1402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML14",
+      "level": 1,
+      "name": {
+        "local": "Nara",
+        "en": "Nara",
+        "slug": "nara-ml14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML14",
+        "level": 1,
+        "name": {
+          "local": "Nara",
+          "en": "Nara",
+          "slug": "nara-ml14"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.34",
+      "lon": "-8.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1403",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Dilly",
+      "en": "Dilly",
+      "slug": "dilly-ml1403"
+    },
+    "code": {
+      "id": "ML1403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML14",
+      "level": 1,
+      "name": {
+        "local": "Nara",
+        "en": "Nara",
+        "slug": "nara-ml14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML14",
+        "level": 1,
+        "name": {
+          "local": "Nara",
+          "en": "Nara",
+          "slug": "nara-ml14"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.999",
+      "lon": "-7.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1406",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Fallou",
+      "en": "Fallou",
+      "slug": "fallou-ml1406"
+    },
+    "code": {
+      "id": "ML1406",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML14",
+      "level": 1,
+      "name": {
+        "local": "Nara",
+        "en": "Nara",
+        "slug": "nara-ml14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML14",
+        "level": 1,
+        "name": {
+          "local": "Nara",
+          "en": "Nara",
+          "slug": "nara-ml14"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.521",
+      "lon": "-4.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1405",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Guiré",
+      "en": "Guire",
+      "slug": "guire-ml1405"
+    },
+    "code": {
+      "id": "ML1405",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML14",
+      "level": 1,
+      "name": {
+        "local": "Nara",
+        "en": "Nara",
+        "slug": "nara-ml14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML14",
+        "level": 1,
+        "name": {
+          "local": "Nara",
+          "en": "Nara",
+          "slug": "nara-ml14"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.643",
+      "lon": "-6.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1404",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Mourdiah",
+      "en": "Mourdiah",
+      "slug": "mourdiah-ml1404"
+    },
+    "code": {
+      "id": "ML1404",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML14",
+      "level": 1,
+      "name": {
+        "local": "Nara",
+        "en": "Nara",
+        "slug": "nara-ml14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML14",
+        "level": 1,
+        "name": {
+          "local": "Nara",
+          "en": "Nara",
+          "slug": "nara-ml14"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.473",
+      "lon": "-7.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1401",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Nara",
+      "en": "Nara",
+      "slug": "nara-ml1401"
+    },
+    "code": {
+      "id": "ML1401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML14",
+      "level": 1,
+      "name": {
+        "local": "Nara",
+        "en": "Nara",
+        "slug": "nara-ml14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML14",
+        "level": 1,
+        "name": {
+          "local": "Nara",
+          "en": "Nara",
+          "slug": "nara-ml14"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.169",
+      "lon": "-7.29"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

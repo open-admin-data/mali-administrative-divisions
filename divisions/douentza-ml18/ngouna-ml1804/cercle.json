@@ -1,0 +1,48 @@
+{
+  "id": "ML1804",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Ngouna",
+    "en": "Ngouna",
+    "slug": "ngouna-ml1804"
+  },
+  "code": {
+    "id": "ML1804",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML18",
+    "level": 1,
+    "name": {
+      "local": "Douentza",
+      "en": "Douentza",
+      "slug": "douentza-ml18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML18",
+      "level": 1,
+      "name": {
+        "local": "Douentza",
+        "en": "Douentza",
+        "slug": "douentza-ml18"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 0,
+    "commune": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.633",
+    "lon": "-7.367"
+  },
+  "metadata": {},
+  "source": {}
+}

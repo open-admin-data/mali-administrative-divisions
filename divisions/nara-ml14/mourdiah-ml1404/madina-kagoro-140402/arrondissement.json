@@ -1,0 +1,56 @@
+{
+  "id": "ML-A140402",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Madina Kagoro",
+    "en": "Madina Kagoro",
+    "slug": "madina-kagoro-140402"
+  },
+  "code": {
+    "id": "ML-A140402",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1404",
+    "level": 2,
+    "name": {
+      "local": "Mourdiah",
+      "en": "Mourdiah",
+      "slug": "mourdiah-ml1404"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML14",
+      "level": 1,
+      "name": {
+        "local": "Nara",
+        "en": "Nara",
+        "slug": "nara-ml14"
+      }
+    },
+    {
+      "id": "ML1404",
+      "level": 2,
+      "name": {
+        "local": "Mourdiah",
+        "en": "Mourdiah",
+        "slug": "mourdiah-ml1404"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.473",
+    "lon": "-7.467"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C12020401",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gadougou 2",
+      "en": "Gadougou 2",
+      "slug": "gadougou-2-12020401"
+    },
+    "code": {
+      "id": "ML-C12020401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120204",
+      "level": 3,
+      "name": {
+        "local": "Gallé",
+        "en": "Gallé",
+        "slug": "gall-120204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1202",
+        "level": 2,
+        "name": {
+          "local": "Sagabari",
+          "en": "Sagabari",
+          "slug": "sagabari-ml1202"
+        }
+      },
+      {
+        "id": "ML-A120204",
+        "level": 3,
+        "name": {
+          "local": "Gallé",
+          "en": "Gallé",
+          "slug": "gall-120204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.583",
+      "lon": "-9.8"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

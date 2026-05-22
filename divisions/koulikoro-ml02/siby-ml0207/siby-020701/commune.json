@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C02070101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Niouma Makana",
+      "en": "Niouma Makana",
+      "slug": "niouma-makana-02070101"
+    },
+    "code": {
+      "id": "ML-C02070101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020701",
+      "level": 3,
+      "name": {
+        "local": "Siby",
+        "en": "Siby",
+        "slug": "siby-020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0207",
+        "level": 2,
+        "name": {
+          "local": "Siby",
+          "en": "Siby",
+          "slug": "siby-ml0207"
+        }
+      },
+      {
+        "id": "ML-A020701",
+        "level": 3,
+        "name": {
+          "local": "Siby",
+          "en": "Siby",
+          "slug": "siby-020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.375",
+      "lon": "-8.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C02070102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Siby",
+      "en": "Siby",
+      "slug": "siby-02070102"
+    },
+    "code": {
+      "id": "ML-C02070102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020701",
+      "level": 3,
+      "name": {
+        "local": "Siby",
+        "en": "Siby",
+        "slug": "siby-020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0207",
+        "level": 2,
+        "name": {
+          "local": "Siby",
+          "en": "Siby",
+          "slug": "siby-ml0207"
+        }
+      },
+      {
+        "id": "ML-A020701",
+        "level": 3,
+        "name": {
+          "local": "Siby",
+          "en": "Siby",
+          "slug": "siby-020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.375",
+      "lon": "-8.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C02060201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tougouni",
+      "en": "Tougouni",
+      "slug": "tougouni-02060201"
+    },
+    "code": {
+      "id": "ML-C02060201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020701",
+      "level": 3,
+      "name": {
+        "local": "Siby",
+        "en": "Siby",
+        "slug": "siby-020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0207",
+        "level": 2,
+        "name": {
+          "local": "Siby",
+          "en": "Siby",
+          "slug": "siby-ml0207"
+        }
+      },
+      {
+        "id": "ML-A020701",
+        "level": 3,
+        "name": {
+          "local": "Siby",
+          "en": "Siby",
+          "slug": "siby-020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.375",
+      "lon": "-8.337"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

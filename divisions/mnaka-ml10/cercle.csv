@@ -1,0 +1,7 @@
+id,name.local,name.en,name.slug,code.id,children_count.arrondissement,children_count.commune,geo.lat,geo.lon
+ML1004,Andéramboukane,Anderamboukane,anderamboukane-ml1004,ML1004,3,5,15.422,3.022
+ML1005,Anouzagrène,Anouzagrene,anouzagrene-ml1005,ML1005,2,2,15.537,2.497
+ML1003,Inékar,Inekar,inekar-ml1003,ML1003,3,3,15.959,3.141
+ML1006,Inlamawane (Fanfi),Inlamawane (Fanfi),inlamawane-fanfi-ml1006,ML1006,3,3,15.92,2.396
+ML1001,Ménaka,Menaka,menaka-ml1001,ML1001,4,9,15.92,2.396
+ML1002,Tidermène,Tidermene,tidermene-ml1002,ML1002,3,5,16.592,2.415

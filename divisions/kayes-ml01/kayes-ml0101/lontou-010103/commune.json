@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C01010301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hawa Dembaya",
+      "en": "Hawa Dembaya",
+      "slug": "hawa-dembaya-01010301"
+    },
+    "code": {
+      "id": "ML-C01010301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010103",
+      "level": 3,
+      "name": {
+        "local": "Lontou",
+        "en": "Lontou",
+        "slug": "lontou-010103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0101",
+        "level": 2,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml0101"
+        }
+      },
+      {
+        "id": "ML-A010103",
+        "level": 3,
+        "name": {
+          "local": "Lontou",
+          "en": "Lontou",
+          "slug": "lontou-010103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.448",
+      "lon": "-11.444"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

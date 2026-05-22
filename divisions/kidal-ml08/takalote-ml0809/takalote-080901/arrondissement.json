@@ -1,0 +1,56 @@
+{
+  "id": "ML-A080901",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Takalote",
+    "en": "Takalote",
+    "slug": "takalote-080901"
+  },
+  "code": {
+    "id": "ML-A080901",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0809",
+    "level": 2,
+    "name": {
+      "local": "Takalote",
+      "en": "Takalote",
+      "slug": "takalote-ml0809"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML08",
+      "level": 1,
+      "name": {
+        "local": "Kidal",
+        "en": "Kidal",
+        "slug": "kidal-ml08"
+      }
+    },
+    {
+      "id": "ML0809",
+      "level": 2,
+      "name": {
+        "local": "Takalote",
+        "en": "Takalote",
+        "slug": "takalote-ml0809"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.461",
+    "lon": "1.385"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C06090101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Léré",
+      "en": "Léré",
+      "slug": "lr-06090101"
+    },
+    "code": {
+      "id": "ML-C06090101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A060901",
+      "level": 3,
+      "name": {
+        "local": "Léré",
+        "en": "Léré",
+        "slug": "lr-060901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0609",
+        "level": 2,
+        "name": {
+          "local": "Léré",
+          "en": "Lere",
+          "slug": "lere-ml0609"
+        }
+      },
+      {
+        "id": "ML-A060901",
+        "level": 3,
+        "name": {
+          "local": "Léré",
+          "en": "Léré",
+          "slug": "lr-060901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.712",
+      "lon": "-4.912"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

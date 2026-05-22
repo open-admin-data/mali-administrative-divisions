@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C06080301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Haribomo",
+      "en": "Haribomo",
+      "slug": "haribomo-06080301"
+    },
+    "code": {
+      "id": "ML-C06080301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A060803",
+      "level": 3,
+      "name": {
+        "local": "Haribomo",
+        "en": "Haribomo",
+        "slug": "haribomo-060803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0608",
+        "level": 2,
+        "name": {
+          "local": "Bambara-Maoudé",
+          "en": "Bambara-Maoude",
+          "slug": "bambara-maoude-ml0608"
+        }
+      },
+      {
+        "id": "ML-A060803",
+        "level": 3,
+        "name": {
+          "local": "Haribomo",
+          "en": "Haribomo",
+          "slug": "haribomo-060803"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.851",
+      "lon": "-2.786"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "ML19",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Bandiagara",
+    "en": "Bandiagara",
+    "slug": "bandiagara-ml19"
+  },
+  "code": {
+    "id": "ML19",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "cercle": 9,
+    "commune": 48,
+    "arrondissement": 28
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.35",
+    "lon": "-3.61"
+  },
+  "metadata": {},
+  "source": {}
+}

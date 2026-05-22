@@ -1,0 +1,31 @@
+{
+  "id": "ML05",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Mopti",
+    "en": "Mopti",
+    "slug": "mopti-ml05"
+  },
+  "code": {
+    "id": "ML05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "cercle": 8,
+    "commune": 50,
+    "arrondissement": 34
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.484",
+    "lon": "-4.183"
+  },
+  "metadata": {},
+  "source": {}
+}

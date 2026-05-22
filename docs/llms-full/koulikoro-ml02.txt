@@ -1,0 +1,263 @@
+# Koulikoro — Mali Administrative Divisions
+
+> 8 circles, 26 arrondissements, 58 communes
+> Code: ML02
+> Coordinates: 12.863, -7.56
+> Last updated: 2026-05-22. License: CC-BY-4.0.
+
+## Circles
+
+### Banamba
+
+Code: ML0202, Coordinates: 13.548, -7.448
+Arrondissements: 6, Communes: 9
+
+#### Banamba
+
+Code: ML-A020201, Coordinates: 13.548, -7.448
+
+Communes:
+- Banamba [ML-C02020101]
+- Benkadi [ML-C02020102]
+- Kiban [ML-C02020103]
+
+#### Boron
+
+Code: ML-A020202, Coordinates: 13.548, -7.448
+
+Communes:
+- Boron [ML-C02020201]
+
+#### Madina-Sacko
+
+Code: ML-A020203, Coordinates: 13.548, -7.448
+
+Communes:
+- Madina-Sacko [ML-C02020301]
+
+#### Sébété
+
+Code: ML-A020204, Coordinates: 13.548, -7.448
+
+Communes:
+- Sébété [ML-C02020401]
+- Toubacoro [ML-C02020402]
+
+#### Touba
+
+Code: ML-A020205, Coordinates: 13.548, -7.448
+
+Communes:
+- Duguwolowula [ML-C02020501]
+
+#### Toukoroba
+
+Code: ML-A020206, Coordinates: 13.548, -7.448
+
+Communes:
+- Toukoroba [ML-C02020601]
+
+### Kangaba
+
+Code: ML0203, Coordinates: 11.933, -8.417
+Arrondissements: 2, Communes: 8
+
+#### Kangaba
+
+Code: ML-A020301, Coordinates: 11.933, -8.417
+
+Communes:
+- Kaniogo [ML-C02030102]
+- Maramandougou [ML-C02030103]
+- Minidian [ML-C02030101]
+- Nouga [ML-C02030104]
+
+#### Naréna
+
+Code: ML-A020302, Coordinates: 11.933, -8.417
+
+Communes:
+- Balan Bakama [ML-C02030201]
+- Benkadi [ML-C02030202]
+- Karan [ML-C02030203]
+- Naréna [ML-C02030204]
+
+### Kati
+
+Code: ML0204, Coordinates: 16.113, -3.733
+Arrondissements: 4, Communes: 17
+
+#### Baguinéda
+
+Code: ML-A020403, Coordinates: 16.113, -3.733
+
+Communes:
+- Baguinéda-camp [ML-C02040303]
+- Mountougoula [ML-C02040304]
+- N&#39;Gouraba [ML-C02040301]
+- Tiélé [ML-C02040302]
+
+#### Djoliba
+
+Code: ML-A020404, Coordinates: 16.113, -3.733
+
+Communes:
+- Mandé [ML-C02040401]
+
+#### Kati
+
+Code: ML-A020401, Coordinates: 16.113, -3.733
+
+Communes:
+- Diago [ML-C02040102]
+- Dio-Gare [ML-C02040103]
+- Dombila [ML-C02040104]
+- Doubabougou [ML-C02040105]
+- Kalifabougou [ML-C02040106]
+- Kambila [ML-C02040107]
+- Kati [ML-C02040101]
+- Safo [ML-C02040109]
+- Yélékébougou [ML-C02040108]
+
+#### Sanankoroba
+
+Code: ML-A020402, Coordinates: 16.113, -3.733
+
+Communes:
+- Bougoula [ML-C02040201]
+- Dialakoroba [ML-C02040203]
+- Sanankoroba [ML-C02040202]
+
+### Kolokani
+
+Code: ML0205, Coordinates: 13.573, -8.034
+Arrondissements: 4, Communes: 10
+
+#### Didiéni
+
+Code: ML-A020502, Coordinates: 13.573, -8.034
+
+Communes:
+- Didiéni [ML-C02050201]
+- Sagabala [ML-C02050202]
+
+#### Kolokani
+
+Code: ML-A020501, Coordinates: 13.573, -8.034
+
+Communes:
+- Guihoyo [ML-C02050101]
+- Kolokani [ML-C02050102]
+- Sébékoro I [ML-C02050103]
+- Tioribougou [ML-C02050104]
+
+#### Massantola
+
+Code: ML-A020504, Coordinates: 13.573, -8.034
+
+Communes:
+- Massantola [ML-C02050401]
+
+#### Nossombougou
+
+Code: ML-A020503, Coordinates: 13.573, -8.034
+
+Communes:
+- Nonkon [ML-C02050301]
+- Nossombougou [ML-C02050302]
+- Ouolodo [ML-C02050303]
+
+### Koulikoro
+
+Code: ML0201, Coordinates: 12.863, -7.56
+Arrondissements: 5, Communes: 7
+
+#### Kénenkoun
+
+Code: ML-A020102, Coordinates: 12.863, -7.56
+
+Communes:
+- Dinandougou [ML-C02010201]
+
+#### Koula
+
+Code: ML-A020103, Coordinates: 12.863, -7.56
+
+Communes:
+- Doumba [ML-C02010302]
+- Koula [ML-C02010301]
+
+#### Koulikoro
+
+Code: ML-A020101, Coordinates: 12.863, -7.56
+
+Communes:
+- Koulikoro [ML-C02010101]
+- Méguetan [ML-C02010102]
+
+#### Sirakorola
+
+Code: ML-A020104, Coordinates: 12.863, -7.56
+
+Communes:
+- Sirakorola [ML-C02010401]
+
+#### Tienfala
+
+Code: ML-A020105, Coordinates: 12.863, -7.56
+
+Communes:
+- Tienfala [ML-C02010501]
+
+### Neguela
+
+Code: ML0208, Coordinates: 12.478, -5.645
+Arrondissements: 0, Communes: 0
+
+### Nyamina
+
+Code: ML0206, Coordinates: 13.319, -6.982
+Arrondissements: 2, Communes: 2
+
+#### Nyamina
+
+Code: ML-A020601, Coordinates: 13.319, -6.982
+
+Communes:
+- Nyamina [ML-C02060101]
+
+#### Tougouni
+
+Code: ML-A020602, Coordinates: 13.319, -6.982
+
+Communes:
+- Tougouni [ML-C02060201]
+
+### Siby
+
+Code: ML0207, Coordinates: 12.375, -8.337
+Arrondissements: 3, Communes: 5
+
+#### Bancoumana
+
+Code: ML-A020702, Coordinates: 12.375, -8.337
+
+Communes:
+- Bancoumana [ML-C02070201]
+
+#### Siby
+
+Code: ML-A020701, Coordinates: 12.375, -8.337
+
+Communes:
+- Niouma Makana [ML-C02070101]
+- Siby [ML-C02070102]
+- Tougouni [ML-C02060201]
+
+#### Sobra
+
+Code: ML-A020703, Coordinates: 12.375, -8.337
+
+Communes:
+- Sobra [ML-C02070301]
+

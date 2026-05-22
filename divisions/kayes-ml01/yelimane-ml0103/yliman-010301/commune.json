@@ -1,0 +1,317 @@
+[
+  {
+    "id": "ML-C01030102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fanga",
+      "en": "Fanga",
+      "slug": "fanga-01030102"
+    },
+    "code": {
+      "id": "ML-C01030102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010301",
+      "level": 3,
+      "name": {
+        "local": "Yélimané",
+        "en": "Yélimané",
+        "slug": "yliman-010301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0103",
+        "level": 2,
+        "name": {
+          "local": "Yélimané",
+          "en": "Yelimane",
+          "slug": "yelimane-ml0103"
+        }
+      },
+      {
+        "id": "ML-A010301",
+        "level": 3,
+        "name": {
+          "local": "Yélimané",
+          "en": "Yélimané",
+          "slug": "yliman-010301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.119",
+      "lon": "-10.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C01030103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gory",
+      "en": "Gory",
+      "slug": "gory-01030103"
+    },
+    "code": {
+      "id": "ML-C01030103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010301",
+      "level": 3,
+      "name": {
+        "local": "Yélimané",
+        "en": "Yélimané",
+        "slug": "yliman-010301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0103",
+        "level": 2,
+        "name": {
+          "local": "Yélimané",
+          "en": "Yelimane",
+          "slug": "yelimane-ml0103"
+        }
+      },
+      {
+        "id": "ML-A010301",
+        "level": 3,
+        "name": {
+          "local": "Yélimané",
+          "en": "Yélimané",
+          "slug": "yliman-010301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.119",
+      "lon": "-10.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C01030101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guidime",
+      "en": "Guidime",
+      "slug": "guidime-01030101"
+    },
+    "code": {
+      "id": "ML-C01030101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010301",
+      "level": 3,
+      "name": {
+        "local": "Yélimané",
+        "en": "Yélimané",
+        "slug": "yliman-010301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0103",
+        "level": 2,
+        "name": {
+          "local": "Yélimané",
+          "en": "Yelimane",
+          "slug": "yelimane-ml0103"
+        }
+      },
+      {
+        "id": "ML-A010301",
+        "level": 3,
+        "name": {
+          "local": "Yélimané",
+          "en": "Yélimané",
+          "slug": "yliman-010301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.119",
+      "lon": "-10.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C01030105",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soumpou",
+      "en": "Soumpou",
+      "slug": "soumpou-01030105"
+    },
+    "code": {
+      "id": "ML-C01030105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010301",
+      "level": 3,
+      "name": {
+        "local": "Yélimané",
+        "en": "Yélimané",
+        "slug": "yliman-010301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0103",
+        "level": 2,
+        "name": {
+          "local": "Yélimané",
+          "en": "Yelimane",
+          "slug": "yelimane-ml0103"
+        }
+      },
+      {
+        "id": "ML-A010301",
+        "level": 3,
+        "name": {
+          "local": "Yélimané",
+          "en": "Yélimané",
+          "slug": "yliman-010301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.119",
+      "lon": "-10.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C01030104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Toya",
+      "en": "Toya",
+      "slug": "toya-01030104"
+    },
+    "code": {
+      "id": "ML-C01030104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010301",
+      "level": 3,
+      "name": {
+        "local": "Yélimané",
+        "en": "Yélimané",
+        "slug": "yliman-010301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0103",
+        "level": 2,
+        "name": {
+          "local": "Yélimané",
+          "en": "Yelimane",
+          "slug": "yelimane-ml0103"
+        }
+      },
+      {
+        "id": "ML-A010301",
+        "level": 3,
+        "name": {
+          "local": "Yélimané",
+          "en": "Yélimané",
+          "slug": "yliman-010301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.119",
+      "lon": "-10.577"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

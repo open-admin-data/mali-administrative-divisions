@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C15020401",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Koussan",
+      "en": "Koussan",
+      "slug": "koussan-15020401"
+    },
+    "code": {
+      "id": "ML-C15020401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150204",
+      "level": 3,
+      "name": {
+        "local": "Filamana",
+        "en": "Filamana",
+        "slug": "filamana-150204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1502",
+        "level": 2,
+        "name": {
+          "local": "Yanfolila",
+          "en": "Yanfolila",
+          "slug": "yanfolila-ml1502"
+        }
+      },
+      {
+        "id": "ML-A150204",
+        "level": 3,
+        "name": {
+          "local": "Filamana",
+          "en": "Filamana",
+          "slug": "filamana-150204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.183",
+      "lon": "-8.15"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

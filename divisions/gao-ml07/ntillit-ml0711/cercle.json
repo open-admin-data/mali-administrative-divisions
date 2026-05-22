@@ -1,0 +1,48 @@
+{
+  "id": "ML0711",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "N'tillit",
+    "en": "Ntillit",
+    "slug": "ntillit-ml0711"
+  },
+  "code": {
+    "id": "ML0711",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML07",
+    "level": 1,
+    "name": {
+      "local": "Gao",
+      "en": "Gao",
+      "slug": "gao-ml07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML07",
+      "level": 1,
+      "name": {
+        "local": "Gao",
+        "en": "Gao",
+        "slug": "gao-ml07"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 2,
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.272",
+    "lon": "-0.045"
+  },
+  "metadata": {},
+  "source": {}
+}

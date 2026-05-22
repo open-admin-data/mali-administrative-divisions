@@ -1,0 +1,56 @@
+{
+  "id": "ML-A160403",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Sanguéla",
+    "en": "Sanguéla",
+    "slug": "sangula-160403"
+  },
+  "code": {
+    "id": "ML-A160403",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1604",
+    "level": 2,
+    "name": {
+      "local": "Molobala",
+      "en": "Molobala",
+      "slug": "molobala-ml1604"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML16",
+      "level": 1,
+      "name": {
+        "local": "Koutiala",
+        "en": "Koutiala",
+        "slug": "koutiala-ml16"
+      }
+    },
+    {
+      "id": "ML1604",
+      "level": 2,
+      "name": {
+        "local": "Molobala",
+        "en": "Molobala",
+        "slug": "molobala-ml1604"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.177",
+    "lon": "-5.333"
+  },
+  "metadata": {},
+  "source": {}
+}

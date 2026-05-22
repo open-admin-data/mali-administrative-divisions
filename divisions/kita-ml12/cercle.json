@@ -1,0 +1,290 @@
+[
+  {
+    "id": "ML1201",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Kita",
+      "en": "Kita",
+      "slug": "kita-ml1201"
+    },
+    "code": {
+      "id": "ML1201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML12",
+      "level": 1,
+      "name": {
+        "local": "Kita",
+        "en": "Kita",
+        "slug": "kita-ml12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.039",
+      "lon": "-9.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1202",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Sagabari",
+      "en": "Sagabari",
+      "slug": "sagabari-ml1202"
+    },
+    "code": {
+      "id": "ML1202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML12",
+      "level": 1,
+      "name": {
+        "local": "Kita",
+        "en": "Kita",
+        "slug": "kita-ml12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 4,
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.583",
+      "lon": "-9.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1203",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Sébékoro",
+      "en": "Sebekoro",
+      "slug": "sebekoro-ml1203"
+    },
+    "code": {
+      "id": "ML1203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML12",
+      "level": 1,
+      "name": {
+        "local": "Kita",
+        "en": "Kita",
+        "slug": "kita-ml12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.461",
+      "lon": "-9.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1205",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Séféto",
+      "en": "Sefeto",
+      "slug": "sefeto-ml1205"
+    },
+    "code": {
+      "id": "ML1205",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML12",
+      "level": 1,
+      "name": {
+        "local": "Kita",
+        "en": "Kita",
+        "slug": "kita-ml12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.14",
+      "lon": "-9.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1206",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Sirakoro",
+      "en": "Sirakoro",
+      "slug": "sirakoro-ml1206"
+    },
+    "code": {
+      "id": "ML1206",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML12",
+      "level": 1,
+      "name": {
+        "local": "Kita",
+        "en": "Kita",
+        "slug": "kita-ml12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.765",
+      "lon": "-8.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1204",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Toukoto",
+      "en": "Toukoto",
+      "slug": "toukoto-ml1204"
+    },
+    "code": {
+      "id": "ML1204",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML12",
+      "level": 1,
+      "name": {
+        "local": "Kita",
+        "en": "Kita",
+        "slug": "kita-ml12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.065",
+      "lon": "-9.981"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "ML16",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Koutiala",
+    "en": "Koutiala",
+    "slug": "koutiala-ml16"
+  },
+  "code": {
+    "id": "ML16",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "cercle": 8,
+    "commune": 46,
+    "arrondissement": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.026",
+    "lon": "-5.523"
+  },
+  "metadata": {},
+  "source": {}
+}

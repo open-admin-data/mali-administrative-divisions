@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C12050103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djougoun",
+      "en": "Djougoun",
+      "slug": "djougoun-12050103"
+    },
+    "code": {
+      "id": "ML-C12050103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120501",
+      "level": 3,
+      "name": {
+        "local": "Séféto",
+        "en": "Séféto",
+        "slug": "sfto-120501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1205",
+        "level": 2,
+        "name": {
+          "local": "Séféto",
+          "en": "Sefeto",
+          "slug": "sefeto-ml1205"
+        }
+      },
+      {
+        "id": "ML-A120501",
+        "level": 3,
+        "name": {
+          "local": "Séféto",
+          "en": "Séféto",
+          "slug": "sfto-120501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.14",
+      "lon": "-9.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C12050102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Séféto nord",
+      "en": "Séféto nord",
+      "slug": "sfto-nord-12050102"
+    },
+    "code": {
+      "id": "ML-C12050102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120501",
+      "level": 3,
+      "name": {
+        "local": "Séféto",
+        "en": "Séféto",
+        "slug": "sfto-120501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1205",
+        "level": 2,
+        "name": {
+          "local": "Séféto",
+          "en": "Sefeto",
+          "slug": "sefeto-ml1205"
+        }
+      },
+      {
+        "id": "ML-A120501",
+        "level": 3,
+        "name": {
+          "local": "Séféto",
+          "en": "Séféto",
+          "slug": "sfto-120501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.14",
+      "lon": "-9.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C12050101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Séféto ouest",
+      "en": "Séféto ouest",
+      "slug": "sfto-ouest-12050101"
+    },
+    "code": {
+      "id": "ML-C12050101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120501",
+      "level": 3,
+      "name": {
+        "local": "Séféto",
+        "en": "Séféto",
+        "slug": "sfto-120501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1205",
+        "level": 2,
+        "name": {
+          "local": "Séféto",
+          "en": "Sefeto",
+          "slug": "sefeto-ml1205"
+        }
+      },
+      {
+        "id": "ML-A120501",
+        "level": 3,
+        "name": {
+          "local": "Séféto",
+          "en": "Séféto",
+          "slug": "sfto-120501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.14",
+      "lon": "-9.827"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

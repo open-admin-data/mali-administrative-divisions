@@ -1,0 +1,48 @@
+{
+  "id": "ML1003",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Inékar",
+    "en": "Inekar",
+    "slug": "inekar-ml1003"
+  },
+  "code": {
+    "id": "ML1003",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML10",
+    "level": 1,
+    "name": {
+      "local": "Ménaka",
+      "en": "Ménaka",
+      "slug": "mnaka-ml10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML10",
+      "level": 1,
+      "name": {
+        "local": "Ménaka",
+        "en": "Ménaka",
+        "slug": "mnaka-ml10"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 3,
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.959",
+    "lon": "3.141"
+  },
+  "metadata": {},
+  "source": {}
+}

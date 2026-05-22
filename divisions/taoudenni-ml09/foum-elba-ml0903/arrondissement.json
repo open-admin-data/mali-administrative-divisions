@@ -1,0 +1,282 @@
+[
+  {
+    "id": "ML-A090302",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Alougla",
+      "en": "Alougla",
+      "slug": "alougla-090302"
+    },
+    "code": {
+      "id": "ML-A090302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0903",
+      "level": 2,
+      "name": {
+        "local": "Foum-Elba",
+        "en": "Foum-Elba",
+        "slug": "foum-elba-ml0903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML09",
+        "level": 1,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml09"
+        }
+      },
+      {
+        "id": "ML0903",
+        "level": 2,
+        "name": {
+          "local": "Foum-Elba",
+          "en": "Foum-Elba",
+          "slug": "foum-elba-ml0903"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-3.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A090303",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Bougwera",
+      "en": "Bougwera",
+      "slug": "bougwera-090303"
+    },
+    "code": {
+      "id": "ML-A090303",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0903",
+      "level": 2,
+      "name": {
+        "local": "Foum-Elba",
+        "en": "Foum-Elba",
+        "slug": "foum-elba-ml0903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML09",
+        "level": 1,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml09"
+        }
+      },
+      {
+        "id": "ML0903",
+        "level": 2,
+        "name": {
+          "local": "Foum-Elba",
+          "en": "Foum-Elba",
+          "slug": "foum-elba-ml0903"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-3.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A090301",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Foum-Elba",
+      "en": "Foum-Elba",
+      "slug": "foum-elba-090301"
+    },
+    "code": {
+      "id": "ML-A090301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0903",
+      "level": 2,
+      "name": {
+        "local": "Foum-Elba",
+        "en": "Foum-Elba",
+        "slug": "foum-elba-ml0903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML09",
+        "level": 1,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml09"
+        }
+      },
+      {
+        "id": "ML0903",
+        "level": 2,
+        "name": {
+          "local": "Foum-Elba",
+          "en": "Foum-Elba",
+          "slug": "foum-elba-ml0903"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-3.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A090304",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Lamhaïmide",
+      "en": "Lamhaïmide",
+      "slug": "lamhamide-090304"
+    },
+    "code": {
+      "id": "ML-A090304",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0903",
+      "level": 2,
+      "name": {
+        "local": "Foum-Elba",
+        "en": "Foum-Elba",
+        "slug": "foum-elba-ml0903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML09",
+        "level": 1,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml09"
+        }
+      },
+      {
+        "id": "ML0903",
+        "level": 2,
+        "name": {
+          "local": "Foum-Elba",
+          "en": "Foum-Elba",
+          "slug": "foum-elba-ml0903"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-3.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A090305",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Touwal",
+      "en": "Touwal",
+      "slug": "touwal-090305"
+    },
+    "code": {
+      "id": "ML-A090305",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0903",
+      "level": 2,
+      "name": {
+        "local": "Foum-Elba",
+        "en": "Foum-Elba",
+        "slug": "foum-elba-ml0903"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML09",
+        "level": 1,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml09"
+        }
+      },
+      {
+        "id": "ML0903",
+        "level": 2,
+        "name": {
+          "local": "Foum-Elba",
+          "en": "Foum-Elba",
+          "slug": "foum-elba-ml0903"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-3.979"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

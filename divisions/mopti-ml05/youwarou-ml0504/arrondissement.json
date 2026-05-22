@@ -1,0 +1,338 @@
+[
+  {
+    "id": "ML-A050405",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Ambiri",
+      "en": "Ambiri",
+      "slug": "ambiri-050405"
+    },
+    "code": {
+      "id": "ML-A050405",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0504",
+      "level": 2,
+      "name": {
+        "local": "Youwarou",
+        "en": "Youwarou",
+        "slug": "youwarou-ml0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0504",
+        "level": 2,
+        "name": {
+          "local": "Youwarou",
+          "en": "Youwarou",
+          "slug": "youwarou-ml0504"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.368",
+      "lon": "-4.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A050406",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Dogo",
+      "en": "Dogo",
+      "slug": "dogo-050406"
+    },
+    "code": {
+      "id": "ML-A050406",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0504",
+      "level": 2,
+      "name": {
+        "local": "Youwarou",
+        "en": "Youwarou",
+        "slug": "youwarou-ml0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0504",
+        "level": 2,
+        "name": {
+          "local": "Youwarou",
+          "en": "Youwarou",
+          "slug": "youwarou-ml0504"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.368",
+      "lon": "-4.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A050402",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Gathi-Loumo",
+      "en": "Gathi-Loumo",
+      "slug": "gathi-loumo-050402"
+    },
+    "code": {
+      "id": "ML-A050402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0504",
+      "level": 2,
+      "name": {
+        "local": "Youwarou",
+        "en": "Youwarou",
+        "slug": "youwarou-ml0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0504",
+        "level": 2,
+        "name": {
+          "local": "Youwarou",
+          "en": "Youwarou",
+          "slug": "youwarou-ml0504"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.368",
+      "lon": "-4.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A050403",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Guidio-Saré",
+      "en": "Guidio-Saré",
+      "slug": "guidio-sar-050403"
+    },
+    "code": {
+      "id": "ML-A050403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0504",
+      "level": 2,
+      "name": {
+        "local": "Youwarou",
+        "en": "Youwarou",
+        "slug": "youwarou-ml0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0504",
+        "level": 2,
+        "name": {
+          "local": "Youwarou",
+          "en": "Youwarou",
+          "slug": "youwarou-ml0504"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.368",
+      "lon": "-4.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A050404",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Sah",
+      "en": "Sah",
+      "slug": "sah-050404"
+    },
+    "code": {
+      "id": "ML-A050404",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0504",
+      "level": 2,
+      "name": {
+        "local": "Youwarou",
+        "en": "Youwarou",
+        "slug": "youwarou-ml0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0504",
+        "level": 2,
+        "name": {
+          "local": "Youwarou",
+          "en": "Youwarou",
+          "slug": "youwarou-ml0504"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.368",
+      "lon": "-4.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A050401",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Youwarou",
+      "en": "Youwarou",
+      "slug": "youwarou-050401"
+    },
+    "code": {
+      "id": "ML-A050401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0504",
+      "level": 2,
+      "name": {
+        "local": "Youwarou",
+        "en": "Youwarou",
+        "slug": "youwarou-ml0504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0504",
+        "level": 2,
+        "name": {
+          "local": "Youwarou",
+          "en": "Youwarou",
+          "slug": "youwarou-ml0504"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.368",
+      "lon": "-4.263"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

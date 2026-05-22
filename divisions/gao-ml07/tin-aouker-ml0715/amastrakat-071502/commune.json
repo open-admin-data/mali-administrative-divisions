@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C07150201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amastrakat",
+      "en": "Amastrakat",
+      "slug": "amastrakat-07150201"
+    },
+    "code": {
+      "id": "ML-C07150201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A071502",
+      "level": 3,
+      "name": {
+        "local": "Amastrakat",
+        "en": "Amastrakat",
+        "slug": "amastrakat-071502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      },
+      {
+        "id": "ML0715",
+        "level": 2,
+        "name": {
+          "local": "Tin-Aouker",
+          "en": "Tin-Aouker",
+          "slug": "tin-aouker-ml0715"
+        }
+      },
+      {
+        "id": "ML-A071502",
+        "level": 3,
+        "name": {
+          "local": "Amastrakat",
+          "en": "Amastrakat",
+          "slug": "amastrakat-071502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.071",
+      "lon": "-6.835"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,30 @@
+# Dioungani
+
+[Home](../../../../) &gt; [Bandiagara](../../) &gt; [Koro](../) > **Dioungani**
+
+Dioungani is a arrondissement in Mali, under Koro.
+
+## Overview
+
+| Item | Details |
+|------|---------|
+| Communes | 1 |
+| Code | ML-A190204 |
+| Coordinates | 14.627, -7.984 |
+| Parent | Koro |
+
+## Communes
+
+| # | Name | Coordinates | Code |
+|---|------|-------------|------|
+| 1 | Dioungani | 14.627, -7.984 | ML-C19020401 |
+
+## Data Files
+
+- [arrondissement.json](arrondissement.json) — Arrondissement metadata
+- [commune.json](commune.json) — All communes (JSON)
+- [commune.csv](commune.csv) — CSV format
+
+---
+
+<- Back to [Koro](../)

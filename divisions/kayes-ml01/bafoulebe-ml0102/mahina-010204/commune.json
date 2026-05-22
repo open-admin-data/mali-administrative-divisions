@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C01020402",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gounfan",
+      "en": "Gounfan",
+      "slug": "gounfan-01020402"
+    },
+    "code": {
+      "id": "ML-C01020402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010204",
+      "level": 3,
+      "name": {
+        "local": "Mahina",
+        "en": "Mahina",
+        "slug": "mahina-010204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0102",
+        "level": 2,
+        "name": {
+          "local": "Bafoulabé",
+          "en": "Bafoulebe",
+          "slug": "bafoulebe-ml0102"
+        }
+      },
+      {
+        "id": "ML-A010204",
+        "level": 3,
+        "name": {
+          "local": "Mahina",
+          "en": "Mahina",
+          "slug": "mahina-010204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.808",
+      "lon": "-10.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C01020401",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahina",
+      "en": "Mahina",
+      "slug": "mahina-01020401"
+    },
+    "code": {
+      "id": "ML-C01020401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010204",
+      "level": 3,
+      "name": {
+        "local": "Mahina",
+        "en": "Mahina",
+        "slug": "mahina-010204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0102",
+        "level": 2,
+        "name": {
+          "local": "Bafoulabé",
+          "en": "Bafoulebe",
+          "slug": "bafoulebe-ml0102"
+        }
+      },
+      {
+        "id": "ML-A010204",
+        "level": 3,
+        "name": {
+          "local": "Mahina",
+          "en": "Mahina",
+          "slug": "mahina-010204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.808",
+      "lon": "-10.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C01020403",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Niambia",
+      "en": "Niambia",
+      "slug": "niambia-01020403"
+    },
+    "code": {
+      "id": "ML-C01020403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010204",
+      "level": 3,
+      "name": {
+        "local": "Mahina",
+        "en": "Mahina",
+        "slug": "mahina-010204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0102",
+        "level": 2,
+        "name": {
+          "local": "Bafoulabé",
+          "en": "Bafoulebe",
+          "slug": "bafoulebe-ml0102"
+        }
+      },
+      {
+        "id": "ML-A010204",
+        "level": 3,
+        "name": {
+          "local": "Mahina",
+          "en": "Mahina",
+          "slug": "mahina-010204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.808",
+      "lon": "-10.833"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

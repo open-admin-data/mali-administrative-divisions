@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C06100201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouinerden",
+      "en": "Ouinerden",
+      "slug": "ouinerden-06100201"
+    },
+    "code": {
+      "id": "ML-C06100201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A061002",
+      "level": 3,
+      "name": {
+        "local": "Ouinerden",
+        "en": "Ouinerden",
+        "slug": "ouinerden-061002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0610",
+        "level": 2,
+        "name": {
+          "local": "Gossi",
+          "en": "Gossi",
+          "slug": "gossi-ml0610"
+        }
+      },
+      {
+        "id": "ML-A061002",
+        "level": 3,
+        "name": {
+          "local": "Ouinerden",
+          "en": "Ouinerden",
+          "slug": "ouinerden-061002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.82",
+      "lon": "-1.291"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

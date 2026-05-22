@@ -1,0 +1,48 @@
+{
+  "id": "ML0801",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Kidal",
+    "en": "Kidal",
+    "slug": "kidal-ml0801"
+  },
+  "code": {
+    "id": "ML0801",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML08",
+    "level": 1,
+    "name": {
+      "local": "Kidal",
+      "en": "Kidal",
+      "slug": "kidal-ml08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML08",
+      "level": 1,
+      "name": {
+        "local": "Kidal",
+        "en": "Kidal",
+        "slug": "kidal-ml08"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 3,
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.461",
+    "lon": "1.385"
+  },
+  "metadata": {},
+  "source": {}
+}

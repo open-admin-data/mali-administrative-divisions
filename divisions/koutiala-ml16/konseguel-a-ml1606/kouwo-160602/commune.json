@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C16060201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Diédougou",
+      "en": "Diédougou",
+      "slug": "didougou-16060201"
+    },
+    "code": {
+      "id": "ML-C16060201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160602",
+      "level": 3,
+      "name": {
+        "local": "Kouwo",
+        "en": "Kouwo",
+        "slug": "kouwo-160602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1606",
+        "level": 2,
+        "name": {
+          "local": "Konséguéla",
+          "en": "Konseguel a",
+          "slug": "konseguel-a-ml1606"
+        }
+      },
+      {
+        "id": "ML-A160602",
+        "level": 3,
+        "name": {
+          "local": "Kouwo",
+          "en": "Kouwo",
+          "slug": "kouwo-160602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.409",
+      "lon": "-5.877"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

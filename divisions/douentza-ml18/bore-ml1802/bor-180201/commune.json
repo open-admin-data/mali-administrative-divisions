@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C18020101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dangol-Boré",
+      "en": "Dangol-Boré",
+      "slug": "dangol-bor-18020101"
+    },
+    "code": {
+      "id": "ML-C18020101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A180201",
+      "level": 3,
+      "name": {
+        "local": "Boré",
+        "en": "Boré",
+        "slug": "bor-180201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML18",
+        "level": 1,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml18"
+        }
+      },
+      {
+        "id": "ML1802",
+        "level": 2,
+        "name": {
+          "local": "Boré",
+          "en": "Bore",
+          "slug": "bore-ml1802"
+        }
+      },
+      {
+        "id": "ML-A180201",
+        "level": 3,
+        "name": {
+          "local": "Boré",
+          "en": "Boré",
+          "slug": "bor-180201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.133",
+      "lon": "-3.483"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

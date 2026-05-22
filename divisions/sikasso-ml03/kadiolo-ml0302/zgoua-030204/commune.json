@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C03020401",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zégoua",
+      "en": "Zégoua",
+      "slug": "zgoua-03020401"
+    },
+    "code": {
+      "id": "ML-C03020401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030204",
+      "level": 3,
+      "name": {
+        "local": "Zégoua",
+        "en": "Zégoua",
+        "slug": "zgoua-030204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0302",
+        "level": 2,
+        "name": {
+          "local": "Kadiolo",
+          "en": "Kadiolo",
+          "slug": "kadiolo-ml0302"
+        }
+      },
+      {
+        "id": "ML-A030204",
+        "level": 3,
+        "name": {
+          "local": "Zégoua",
+          "en": "Zégoua",
+          "slug": "zgoua-030204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.55",
+      "lon": "-5.767"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

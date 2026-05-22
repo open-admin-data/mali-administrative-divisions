@@ -1,0 +1,48 @@
+{
+  "id": "ML1501",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Bougouni",
+    "en": "Bougouni",
+    "slug": "bougouni-ml1501"
+  },
+  "code": {
+    "id": "ML1501",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML15",
+    "level": 1,
+    "name": {
+      "local": "Bougouni",
+      "en": "Bougouni",
+      "slug": "bougouni-ml15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML15",
+      "level": 1,
+      "name": {
+        "local": "Bougouni",
+        "en": "Bougouni",
+        "slug": "bougouni-ml15"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 4,
+    "commune": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.741",
+    "lon": "-2.507"
+  },
+  "metadata": {},
+  "source": {}
+}

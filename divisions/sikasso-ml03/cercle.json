@@ -1,0 +1,386 @@
+[
+  {
+    "id": "ML0303",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Danderesso",
+      "en": "Danderesso",
+      "slug": "danderesso-ml0303"
+    },
+    "code": {
+      "id": "ML0303",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML03",
+      "level": 1,
+      "name": {
+        "local": "Sikasso",
+        "en": "Sikasso",
+        "slug": "sikasso-ml03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 0,
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.486",
+      "lon": "-5.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0302",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Kadiolo",
+      "en": "Kadiolo",
+      "slug": "kadiolo-ml0302"
+    },
+    "code": {
+      "id": "ML0302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML03",
+      "level": 1,
+      "name": {
+        "local": "Sikasso",
+        "en": "Sikasso",
+        "slug": "sikasso-ml03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 4,
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.55",
+      "lon": "-5.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0304",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Kignan",
+      "en": "Kignan",
+      "slug": "kignan-ml0304"
+    },
+    "code": {
+      "id": "ML0304",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML03",
+      "level": 1,
+      "name": {
+        "local": "Sikasso",
+        "en": "Sikasso",
+        "slug": "sikasso-ml03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.852",
+      "lon": "-6.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0305",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Klela",
+      "en": "Klela",
+      "slug": "klela-ml0305"
+    },
+    "code": {
+      "id": "ML0305",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML03",
+      "level": 1,
+      "name": {
+        "local": "Sikasso",
+        "en": "Sikasso",
+        "slug": "sikasso-ml03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 0,
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.176",
+      "lon": "-5.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0306",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Lobougoula",
+      "en": "Lobougoula",
+      "slug": "lobougoula-ml0306"
+    },
+    "code": {
+      "id": "ML0306",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML03",
+      "level": 1,
+      "name": {
+        "local": "Sikasso",
+        "en": "Sikasso",
+        "slug": "sikasso-ml03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.044",
+      "lon": "-5.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0307",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Loulouni",
+      "en": "Loulouni",
+      "slug": "loulouni-ml0307"
+    },
+    "code": {
+      "id": "ML0307",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML03",
+      "level": 1,
+      "name": {
+        "local": "Sikasso",
+        "en": "Sikasso",
+        "slug": "sikasso-ml03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.9",
+      "lon": "-5.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0308",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Niena",
+      "en": "Niena",
+      "slug": "niena-ml0308"
+    },
+    "code": {
+      "id": "ML0308",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML03",
+      "level": 1,
+      "name": {
+        "local": "Sikasso",
+        "en": "Sikasso",
+        "slug": "sikasso-ml03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 0,
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.632",
+      "lon": "-4.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0301",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Sikasso",
+      "en": "Sikasso",
+      "slug": "sikasso-ml0301"
+    },
+    "code": {
+      "id": "ML0301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML03",
+      "level": 1,
+      "name": {
+        "local": "Sikasso",
+        "en": "Sikasso",
+        "slug": "sikasso-ml03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.318",
+      "lon": "-5.667"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

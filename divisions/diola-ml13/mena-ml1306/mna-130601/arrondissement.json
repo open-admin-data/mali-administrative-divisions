@@ -1,0 +1,56 @@
+{
+  "id": "ML-A130601",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Ména",
+    "en": "Ména",
+    "slug": "mna-130601"
+  },
+  "code": {
+    "id": "ML-A130601",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1306",
+    "level": 2,
+    "name": {
+      "local": "Ména",
+      "en": "Mena",
+      "slug": "mena-ml1306"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML13",
+      "level": 1,
+      "name": {
+        "local": "Dioïla",
+        "en": "Dioïla",
+        "slug": "diola-ml13"
+      }
+    },
+    {
+      "id": "ML1306",
+      "level": 2,
+      "name": {
+        "local": "Ména",
+        "en": "Mena",
+        "slug": "mena-ml1306"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.217",
+    "lon": "-6.204"
+  },
+  "metadata": {},
+  "source": {}
+}

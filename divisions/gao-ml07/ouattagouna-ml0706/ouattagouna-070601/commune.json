@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C07060101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouattagouna",
+      "en": "Ouattagouna",
+      "slug": "ouattagouna-07060101"
+    },
+    "code": {
+      "id": "ML-C07060101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A070601",
+      "level": 3,
+      "name": {
+        "local": "Ouattagouna",
+        "en": "Ouattagouna",
+        "slug": "ouattagouna-070601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      },
+      {
+        "id": "ML0706",
+        "level": 2,
+        "name": {
+          "local": "Ouattagouna",
+          "en": "Ouattagouna",
+          "slug": "ouattagouna-ml0706"
+        }
+      },
+      {
+        "id": "ML-A070601",
+        "level": 3,
+        "name": {
+          "local": "Ouattagouna",
+          "en": "Ouattagouna",
+          "slug": "ouattagouna-070601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.182",
+      "lon": "0.722"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

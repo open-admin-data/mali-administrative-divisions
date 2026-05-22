@@ -1,0 +1,338 @@
+[
+  {
+    "id": "ML1705",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Fangasso",
+      "en": "Fangasso",
+      "slug": "fangasso-ml1705"
+    },
+    "code": {
+      "id": "ML1705",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML17",
+      "level": 1,
+      "name": {
+        "local": "San",
+        "en": "San",
+        "slug": "san-ml17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.529",
+      "lon": "-4.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1703",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Kimparana",
+      "en": "Kimparana",
+      "slug": "kimparana-ml1703"
+    },
+    "code": {
+      "id": "ML1703",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML17",
+      "level": 1,
+      "name": {
+        "local": "San",
+        "en": "San",
+        "slug": "san-ml17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.835",
+      "lon": "-4.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1706",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Mandiakuy",
+      "en": "Mandiakuy",
+      "slug": "mandiakuy-ml1706"
+    },
+    "code": {
+      "id": "ML1706",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML17",
+      "level": 1,
+      "name": {
+        "local": "San",
+        "en": "San",
+        "slug": "san-ml17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.021",
+      "lon": "-4.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1701",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "San",
+      "en": "San",
+      "slug": "san-ml1701"
+    },
+    "code": {
+      "id": "ML1701",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML17",
+      "level": 1,
+      "name": {
+        "local": "San",
+        "en": "San",
+        "slug": "san-ml17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.297",
+      "lon": "-4.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1707",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Sy",
+      "en": "Sy",
+      "slug": "sy-ml1707"
+    },
+    "code": {
+      "id": "ML1707",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML17",
+      "level": 1,
+      "name": {
+        "local": "San",
+        "en": "San",
+        "slug": "san-ml17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.601",
+      "lon": "-4.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1702",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Tominian",
+      "en": "Tominian",
+      "slug": "tominian-ml1702"
+    },
+    "code": {
+      "id": "ML1702",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML17",
+      "level": 1,
+      "name": {
+        "local": "San",
+        "en": "San",
+        "slug": "san-ml17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.287",
+      "lon": "-4.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1704",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Yangasso",
+      "en": "Yangasso",
+      "slug": "yangasso-ml1704"
+    },
+    "code": {
+      "id": "ML1704",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML17",
+      "level": 1,
+      "name": {
+        "local": "San",
+        "en": "San",
+        "slug": "san-ml17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML17",
+        "level": 1,
+        "name": {
+          "local": "San",
+          "en": "San",
+          "slug": "san-ml17"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.073",
+      "lon": "-5.321"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

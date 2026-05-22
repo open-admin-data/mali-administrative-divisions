@@ -1,0 +1,56 @@
+{
+  "id": "ML-A170401",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Yangasso",
+    "en": "Yangasso",
+    "slug": "yangasso-170401"
+  },
+  "code": {
+    "id": "ML-A170401",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1704",
+    "level": 2,
+    "name": {
+      "local": "Yangasso",
+      "en": "Yangasso",
+      "slug": "yangasso-ml1704"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML17",
+      "level": 1,
+      "name": {
+        "local": "San",
+        "en": "San",
+        "slug": "san-ml17"
+      }
+    },
+    {
+      "id": "ML1704",
+      "level": 2,
+      "name": {
+        "local": "Yangasso",
+        "en": "Yangasso",
+        "slug": "yangasso-ml1704"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.073",
+    "lon": "-5.321"
+  },
+  "metadata": {},
+  "source": {}
+}

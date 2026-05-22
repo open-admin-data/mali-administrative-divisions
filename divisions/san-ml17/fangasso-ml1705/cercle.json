@@ -1,0 +1,48 @@
+{
+  "id": "ML1705",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Fangasso",
+    "en": "Fangasso",
+    "slug": "fangasso-ml1705"
+  },
+  "code": {
+    "id": "ML1705",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML17",
+    "level": 1,
+    "name": {
+      "local": "San",
+      "en": "San",
+      "slug": "san-ml17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML17",
+      "level": 1,
+      "name": {
+        "local": "San",
+        "en": "San",
+        "slug": "san-ml17"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 2,
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.529",
+    "lon": "-4.446"
+  },
+  "metadata": {},
+  "source": {}
+}

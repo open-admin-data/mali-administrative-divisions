@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C03020301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Misseni",
+      "en": "Misseni",
+      "slug": "misseni-03020301"
+    },
+    "code": {
+      "id": "ML-C03020301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A030203",
+      "level": 3,
+      "name": {
+        "local": "Misséni",
+        "en": "Misséni",
+        "slug": "missni-030203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0302",
+        "level": 2,
+        "name": {
+          "local": "Kadiolo",
+          "en": "Kadiolo",
+          "slug": "kadiolo-ml0302"
+        }
+      },
+      {
+        "id": "ML-A030203",
+        "level": 3,
+        "name": {
+          "local": "Misséni",
+          "en": "Misséni",
+          "slug": "missni-030203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.55",
+      "lon": "-5.767"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

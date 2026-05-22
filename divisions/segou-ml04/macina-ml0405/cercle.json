@@ -1,0 +1,48 @@
+{
+  "id": "ML0405",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Macina",
+    "en": "Macina",
+    "slug": "macina-ml0405"
+  },
+  "code": {
+    "id": "ML0405",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML04",
+    "level": 1,
+    "name": {
+      "local": "Segou",
+      "en": "Segou",
+      "slug": "segou-ml04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML04",
+      "level": 1,
+      "name": {
+        "local": "Segou",
+        "en": "Segou",
+        "slug": "segou-ml04"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 4,
+    "commune": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.308",
+    "lon": "-11.506"
+  },
+  "metadata": {},
+  "source": {}
+}

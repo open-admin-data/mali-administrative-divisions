@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C12020202",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bougaribaya",
+      "en": "Bougaribaya",
+      "slug": "bougaribaya-12020202"
+    },
+    "code": {
+      "id": "ML-C12020202",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120202",
+      "level": 3,
+      "name": {
+        "local": "Kokofata",
+        "en": "Kokofata",
+        "slug": "kokofata-120202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1202",
+        "level": 2,
+        "name": {
+          "local": "Sagabari",
+          "en": "Sagabari",
+          "slug": "sagabari-ml1202"
+        }
+      },
+      {
+        "id": "ML-A120202",
+        "level": 3,
+        "name": {
+          "local": "Kokofata",
+          "en": "Kokofata",
+          "slug": "kokofata-120202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.583",
+      "lon": "-9.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C12020201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kokofata",
+      "en": "Kokofata",
+      "slug": "kokofata-12020201"
+    },
+    "code": {
+      "id": "ML-C12020201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120202",
+      "level": 3,
+      "name": {
+        "local": "Kokofata",
+        "en": "Kokofata",
+        "slug": "kokofata-120202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1202",
+        "level": 2,
+        "name": {
+          "local": "Sagabari",
+          "en": "Sagabari",
+          "slug": "sagabari-ml1202"
+        }
+      },
+      {
+        "id": "ML-A120202",
+        "level": 3,
+        "name": {
+          "local": "Kokofata",
+          "en": "Kokofata",
+          "slug": "kokofata-120202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.583",
+      "lon": "-9.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C12020203",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tambaga",
+      "en": "Tambaga",
+      "slug": "tambaga-12020203"
+    },
+    "code": {
+      "id": "ML-C12020203",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A120202",
+      "level": 3,
+      "name": {
+        "local": "Kokofata",
+        "en": "Kokofata",
+        "slug": "kokofata-120202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML12",
+        "level": 1,
+        "name": {
+          "local": "Kita",
+          "en": "Kita",
+          "slug": "kita-ml12"
+        }
+      },
+      {
+        "id": "ML1202",
+        "level": 2,
+        "name": {
+          "local": "Sagabari",
+          "en": "Sagabari",
+          "slug": "sagabari-ml1202"
+        }
+      },
+      {
+        "id": "ML-A120202",
+        "level": 3,
+        "name": {
+          "local": "Kokofata",
+          "en": "Kokofata",
+          "slug": "kokofata-120202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.583",
+      "lon": "-9.8"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

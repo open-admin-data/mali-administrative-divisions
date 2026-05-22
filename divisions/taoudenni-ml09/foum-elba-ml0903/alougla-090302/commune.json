@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C09030201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Alougla",
+      "en": "Alougla",
+      "slug": "alougla-09030201"
+    },
+    "code": {
+      "id": "ML-C09030201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A090302",
+      "level": 3,
+      "name": {
+        "local": "Alougla",
+        "en": "Alougla",
+        "slug": "alougla-090302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML09",
+        "level": 1,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml09"
+        }
+      },
+      {
+        "id": "ML0903",
+        "level": 2,
+        "name": {
+          "local": "Foum-Elba",
+          "en": "Foum-Elba",
+          "slug": "foum-elba-ml0903"
+        }
+      },
+      {
+        "id": "ML-A090302",
+        "level": 3,
+        "name": {
+          "local": "Alougla",
+          "en": "Alougla",
+          "slug": "alougla-090302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-3.979"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

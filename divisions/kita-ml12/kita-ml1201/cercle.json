@@ -1,0 +1,48 @@
+{
+  "id": "ML1201",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Kita",
+    "en": "Kita",
+    "slug": "kita-ml1201"
+  },
+  "code": {
+    "id": "ML1201",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML12",
+    "level": 1,
+    "name": {
+      "local": "Kita",
+      "en": "Kita",
+      "slug": "kita-ml12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML12",
+      "level": 1,
+      "name": {
+        "local": "Kita",
+        "en": "Kita",
+        "slug": "kita-ml12"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 2,
+    "commune": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.039",
+    "lon": "-9.488"
+  },
+  "metadata": {},
+  "source": {}
+}

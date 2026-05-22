@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C04110201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Souleye",
+      "en": "Souleye",
+      "slug": "souleye-04110201"
+    },
+    "code": {
+      "id": "ML-C04110201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A041102",
+      "level": 3,
+      "name": {
+        "local": "Souleye",
+        "en": "Souleye",
+        "slug": "souleye-041102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0411",
+        "level": 2,
+        "name": {
+          "local": "Sarro",
+          "en": "Sarro",
+          "slug": "sarro-ml0411"
+        }
+      },
+      {
+        "id": "ML-A041102",
+        "level": 3,
+        "name": {
+          "local": "Souleye",
+          "en": "Souleye",
+          "slug": "souleye-041102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.721",
+      "lon": "-5.239"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

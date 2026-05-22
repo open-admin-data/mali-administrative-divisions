@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C14020101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Allahina",
+      "en": "Allahina",
+      "slug": "allahina-14020101"
+    },
+    "code": {
+      "id": "ML-C14020101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A140201",
+      "level": 3,
+      "name": {
+        "local": "Ballé",
+        "en": "Ballé",
+        "slug": "ball-140201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML14",
+        "level": 1,
+        "name": {
+          "local": "Nara",
+          "en": "Nara",
+          "slug": "nara-ml14"
+        }
+      },
+      {
+        "id": "ML1402",
+        "level": 2,
+        "name": {
+          "local": "Ballé",
+          "en": "Balle",
+          "slug": "balle-ml1402"
+        }
+      },
+      {
+        "id": "ML-A140201",
+        "level": 3,
+        "name": {
+          "local": "Ballé",
+          "en": "Ballé",
+          "slug": "ball-140201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.34",
+      "lon": "-8.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C14020102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dogofry",
+      "en": "Dogofry",
+      "slug": "dogofry-14020102"
+    },
+    "code": {
+      "id": "ML-C14020102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A140201",
+      "level": 3,
+      "name": {
+        "local": "Ballé",
+        "en": "Ballé",
+        "slug": "ball-140201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML14",
+        "level": 1,
+        "name": {
+          "local": "Nara",
+          "en": "Nara",
+          "slug": "nara-ml14"
+        }
+      },
+      {
+        "id": "ML1402",
+        "level": 2,
+        "name": {
+          "local": "Ballé",
+          "en": "Balle",
+          "slug": "balle-ml1402"
+        }
+      },
+      {
+        "id": "ML-A140201",
+        "level": 3,
+        "name": {
+          "local": "Ballé",
+          "en": "Ballé",
+          "slug": "ball-140201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.34",
+      "lon": "-8.587"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

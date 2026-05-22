@@ -1,0 +1,125 @@
+# Nara — Mali Administrative Divisions
+
+> 6 circles, 12 arrondissements, 14 communes
+> Code: ML14
+> Coordinates: 15.169, -7.29
+> Last updated: 2026-05-22. License: CC-BY-4.0.
+
+## Circles
+
+### Ballé (Balle)
+
+Code: ML1402, Coordinates: 15.34, -8.587
+Arrondissements: 2, Communes: 3
+
+#### Ballé
+
+Code: ML-A140201, Coordinates: 15.34, -8.587
+
+Communes:
+- Allahina [ML-C14020101]
+- Dogofry [ML-C14020102]
+
+#### Boulal
+
+Code: ML-A140202, Coordinates: 15.34, -8.587
+
+Communes:
+- Dabo [ML-C14020201]
+
+### Dilly
+
+Code: ML1403, Coordinates: 14.999, -7.669
+Arrondissements: 2, Communes: 2
+
+#### Dilly
+
+Code: ML-A140301, Coordinates: 14.999, -7.669
+
+Communes:
+- Dilly [ML-C14030101]
+
+#### Koronga
+
+Code: ML-A140302, Coordinates: 14.999, -7.669
+
+Communes:
+- Koronga [ML-C14030201]
+
+### Fallou
+
+Code: ML1406, Coordinates: 15.521, -4.362
+Arrondissements: 2, Communes: 2
+
+#### Digan
+
+Code: ML-A140602, Coordinates: 15.521, -4.362
+
+Communes:
+- Digan [ML-C14060201]
+
+#### Fallou
+
+Code: ML-A140601, Coordinates: 15.521, -4.362
+
+Communes:
+- Fallou [ML-C14060101]
+
+### Guiré (Guire)
+
+Code: ML1405, Coordinates: 14.643, -6.691
+Arrondissements: 2, Communes: 2
+
+#### Boudjiguiré
+
+Code: ML-A140502, Coordinates: 14.643, -6.691
+
+Communes:
+- Boudjiguiré [ML-C14050201]
+
+#### Guiré
+
+Code: ML-A140501, Coordinates: 14.643, -6.691
+
+Communes:
+- Guiré [ML-C14050101]
+
+### Mourdiah
+
+Code: ML1404, Coordinates: 14.473, -7.467
+Arrondissements: 2, Communes: 2
+
+#### Madina Kagoro
+
+Code: ML-A140402, Coordinates: 14.473, -7.467
+
+Communes:
+- Madina kagoro [ML-C14040201]
+
+#### Mourdiah
+
+Code: ML-A140401, Coordinates: 14.473, -7.467
+
+Communes:
+- Niamana [ML-C14040101]
+
+### Nara
+
+Code: ML1401, Coordinates: 15.169, -7.29
+Arrondissements: 2, Communes: 3
+
+#### Goumbou
+
+Code: ML-A140102, Coordinates: 15.169, -7.29
+
+Communes:
+- Ouagadou [ML-C14010201]
+
+#### Nara
+
+Code: ML-A140101, Coordinates: 15.169, -7.29
+
+Communes:
+- Guéneibé [ML-C14010102]
+- Nara [ML-C14010101]
+

@@ -1,0 +1,8 @@
+id,name.local,name.en,name.slug,code.id,children_count.arrondissement,children_count.commune,geo.lat,geo.lon
+ML1705,Fangasso,Fangasso,fangasso-ml1705,ML1705,2,3,13.529,-4.446
+ML1703,Kimparana,Kimparana,kimparana-ml1703,ML1703,3,10,12.835,-4.924
+ML1706,Mandiakuy,Mandiakuy,mandiakuy-ml1706,ML1706,2,4,13.021,-4.463
+ML1701,San,San,san-ml1701,ML1701,2,9,13.297,-4.896
+ML1707,Sy,Sy,sy-ml1707,ML1707,2,3,13.601,-4.976
+ML1702,Tominian,Tominian,tominian-ml1702,ML1702,3,5,13.287,-4.593
+ML1704,Yangasso,Yangasso,yangasso-ml1704,ML1704,3,8,13.073,-5.321

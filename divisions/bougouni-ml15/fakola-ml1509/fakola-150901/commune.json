@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C15090102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bougoula",
+      "en": "Bougoula",
+      "slug": "bougoula-15090102"
+    },
+    "code": {
+      "id": "ML-C15090102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150901",
+      "level": 3,
+      "name": {
+        "local": "Fakola",
+        "en": "Fakola",
+        "slug": "fakola-150901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1509",
+        "level": 2,
+        "name": {
+          "local": "Fakola",
+          "en": "Fakola",
+          "slug": "fakola-ml1509"
+        }
+      },
+      {
+        "id": "ML-A150901",
+        "level": 3,
+        "name": {
+          "local": "Fakola",
+          "en": "Fakola",
+          "slug": "fakola-150901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.533",
+      "lon": "-6.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C15090101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fakola",
+      "en": "Fakola",
+      "slug": "fakola-15090101"
+    },
+    "code": {
+      "id": "ML-C15090101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150901",
+      "level": 3,
+      "name": {
+        "local": "Fakola",
+        "en": "Fakola",
+        "slug": "fakola-150901"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1509",
+        "level": 2,
+        "name": {
+          "local": "Fakola",
+          "en": "Fakola",
+          "slug": "fakola-ml1509"
+        }
+      },
+      {
+        "id": "ML-A150901",
+        "level": 3,
+        "name": {
+          "local": "Fakola",
+          "en": "Fakola",
+          "slug": "fakola-150901"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.533",
+      "lon": "-6.917"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

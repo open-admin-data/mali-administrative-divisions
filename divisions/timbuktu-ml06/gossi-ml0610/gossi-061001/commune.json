@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C06100101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gossi",
+      "en": "Gossi",
+      "slug": "gossi-06100101"
+    },
+    "code": {
+      "id": "ML-C06100101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A061001",
+      "level": 3,
+      "name": {
+        "local": "Gossi",
+        "en": "Gossi",
+        "slug": "gossi-061001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML06",
+        "level": 1,
+        "name": {
+          "local": "Tombouctou",
+          "en": "Timbuktu",
+          "slug": "timbuktu-ml06"
+        }
+      },
+      {
+        "id": "ML0610",
+        "level": 2,
+        "name": {
+          "local": "Gossi",
+          "en": "Gossi",
+          "slug": "gossi-ml0610"
+        }
+      },
+      {
+        "id": "ML-A061001",
+        "level": 3,
+        "name": {
+          "local": "Gossi",
+          "en": "Gossi",
+          "slug": "gossi-061001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.82",
+      "lon": "-1.291"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

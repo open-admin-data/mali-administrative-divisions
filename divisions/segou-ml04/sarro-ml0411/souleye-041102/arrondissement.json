@@ -1,0 +1,56 @@
+{
+  "id": "ML-A041102",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Souleye",
+    "en": "Souleye",
+    "slug": "souleye-041102"
+  },
+  "code": {
+    "id": "ML-A041102",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0411",
+    "level": 2,
+    "name": {
+      "local": "Sarro",
+      "en": "Sarro",
+      "slug": "sarro-ml0411"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML04",
+      "level": 1,
+      "name": {
+        "local": "Segou",
+        "en": "Segou",
+        "slug": "segou-ml04"
+      }
+    },
+    {
+      "id": "ML0411",
+      "level": 2,
+      "name": {
+        "local": "Sarro",
+        "en": "Sarro",
+        "slug": "sarro-ml0411"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.721",
+    "lon": "-5.239"
+  },
+  "metadata": {},
+  "source": {}
+}

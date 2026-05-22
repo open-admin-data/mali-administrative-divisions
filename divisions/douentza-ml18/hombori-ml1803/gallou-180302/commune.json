@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C18030201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gallou",
+      "en": "Gallou",
+      "slug": "gallou-18030201"
+    },
+    "code": {
+      "id": "ML-C18030201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A180302",
+      "level": 3,
+      "name": {
+        "local": "Gallou",
+        "en": "Gallou",
+        "slug": "gallou-180302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML18",
+        "level": 1,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml18"
+        }
+      },
+      {
+        "id": "ML1803",
+        "level": 2,
+        "name": {
+          "local": "Hombori",
+          "en": "Hombori",
+          "slug": "hombori-ml1803"
+        }
+      },
+      {
+        "id": "ML-A180302",
+        "level": 3,
+        "name": {
+          "local": "Gallou",
+          "en": "Gallou",
+          "slug": "gallou-180302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.279",
+      "lon": "-1.7"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

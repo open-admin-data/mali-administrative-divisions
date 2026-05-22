@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C07130101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ersane",
+      "en": "Ersane",
+      "slug": "ersane-07130101"
+    },
+    "code": {
+      "id": "ML-C07130101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A071301",
+      "level": 3,
+      "name": {
+        "local": "Ersane",
+        "en": "Ersane",
+        "slug": "ersane-071301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      },
+      {
+        "id": "ML0713",
+        "level": 2,
+        "name": {
+          "local": "Ersane",
+          "en": "Ersane",
+          "slug": "ersane-ml0713"
+        }
+      },
+      {
+        "id": "ML-A071301",
+        "level": 3,
+        "name": {
+          "local": "Ersane",
+          "en": "Ersane",
+          "slug": "ersane-071301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.959",
+      "lon": "1.808"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

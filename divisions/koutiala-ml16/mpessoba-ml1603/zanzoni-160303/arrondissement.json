@@ -1,0 +1,56 @@
+{
+  "id": "ML-A160303",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Zanzoni",
+    "en": "Zanzoni",
+    "slug": "zanzoni-160303"
+  },
+  "code": {
+    "id": "ML-A160303",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1603",
+    "level": 2,
+    "name": {
+      "local": "M’Péssoba",
+      "en": "M’Pessoba",
+      "slug": "mpessoba-ml1603"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML16",
+      "level": 1,
+      "name": {
+        "local": "Koutiala",
+        "en": "Koutiala",
+        "slug": "koutiala-ml16"
+      }
+    },
+    {
+      "id": "ML1603",
+      "level": 2,
+      "name": {
+        "local": "M’Péssoba",
+        "en": "M’Pessoba",
+        "slug": "mpessoba-ml1603"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.665",
+    "lon": "-5.721"
+  },
+  "metadata": {},
+  "source": {}
+}

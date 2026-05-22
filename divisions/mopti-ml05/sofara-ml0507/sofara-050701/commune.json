@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C05070101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fakala",
+      "en": "Fakala",
+      "slug": "fakala-05070101"
+    },
+    "code": {
+      "id": "ML-C05070101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050701",
+      "level": 3,
+      "name": {
+        "local": "Sofara",
+        "en": "Sofara",
+        "slug": "sofara-050701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0507",
+        "level": 2,
+        "name": {
+          "local": "Sofara",
+          "en": "Sofara",
+          "slug": "sofara-ml0507"
+        }
+      },
+      {
+        "id": "ML-A050701",
+        "level": 3,
+        "name": {
+          "local": "Sofara",
+          "en": "Sofara",
+          "slug": "sofara-050701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.017",
+      "lon": "-4.233"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "ML1902",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Koro",
+    "en": "Koro",
+    "slug": "koro-ml1902"
+  },
+  "code": {
+    "id": "ML1902",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML19",
+    "level": 1,
+    "name": {
+      "local": "Bandiagara",
+      "en": "Bandiagara",
+      "slug": "bandiagara-ml19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML19",
+      "level": 1,
+      "name": {
+        "local": "Bandiagara",
+        "en": "Bandiagara",
+        "slug": "bandiagara-ml19"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 8,
+    "commune": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.627",
+    "lon": "-7.984"
+  },
+  "metadata": {},
+  "source": {}
+}

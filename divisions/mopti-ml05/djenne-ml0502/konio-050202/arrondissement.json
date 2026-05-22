@@ -1,0 +1,56 @@
+{
+  "id": "ML-A050202",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Konio",
+    "en": "Konio",
+    "slug": "konio-050202"
+  },
+  "code": {
+    "id": "ML-A050202",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0502",
+    "level": 2,
+    "name": {
+      "local": "Djenné",
+      "en": "Djenne",
+      "slug": "djenne-ml0502"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML05",
+      "level": 1,
+      "name": {
+        "local": "Mopti",
+        "en": "Mopti",
+        "slug": "mopti-ml05"
+      }
+    },
+    {
+      "id": "ML0502",
+      "level": 2,
+      "name": {
+        "local": "Djenné",
+        "en": "Djenne",
+        "slug": "djenne-ml0502"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.906",
+    "lon": "-4.553"
+  },
+  "metadata": {},
+  "source": {}
+}

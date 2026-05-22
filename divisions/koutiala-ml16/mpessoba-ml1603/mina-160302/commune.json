@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C16030201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mièna",
+      "en": "Mièna",
+      "slug": "mina-16030201"
+    },
+    "code": {
+      "id": "ML-C16030201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160302",
+      "level": 3,
+      "name": {
+        "local": "Mièna",
+        "en": "Mièna",
+        "slug": "mina-160302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1603",
+        "level": 2,
+        "name": {
+          "local": "M’Péssoba",
+          "en": "M’Pessoba",
+          "slug": "mpessoba-ml1603"
+        }
+      },
+      {
+        "id": "ML-A160302",
+        "level": 3,
+        "name": {
+          "local": "Mièna",
+          "en": "Mièna",
+          "slug": "mina-160302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.665",
+      "lon": "-5.721"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,7 @@
+id,name.local,name.en,name.slug,code.id,children_count.arrondissement,children_count.commune,geo.lat,geo.lon
+ML0906,Achouratt,Achouratt,achouratt-ml0906,ML0906,5,5,22.677,-3.979
+ML0905,Al-Ourche,Al-Ourche,al-ourche-ml0905,ML0905,6,6,22.677,-3.979
+ML0902,Araouane,Araouane,araouane-ml0902,ML0902,5,5,18.905,-3.526
+ML0904,Boû-Djebeha,Bou-Djebeha,bou-djebeha-ml0904,ML0904,5,5,22.677,-3.979
+ML0903,Foum-Elba,Foum-Elba,foum-elba-ml0903,ML0903,5,5,22.677,-3.979
+ML0901,Taoudenni,Taoudenni,taoudenni-ml0901,ML0901,4,4,22.677,-3.979

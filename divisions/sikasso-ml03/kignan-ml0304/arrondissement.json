@@ -1,0 +1,170 @@
+[
+  {
+    "id": "ML-A030402",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Dogoni",
+      "en": "Dogoni",
+      "slug": "dogoni-030402"
+    },
+    "code": {
+      "id": "ML-A030402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0304",
+      "level": 2,
+      "name": {
+        "local": "Kignan",
+        "en": "Kignan",
+        "slug": "kignan-ml0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0304",
+        "level": 2,
+        "name": {
+          "local": "Kignan",
+          "en": "Kignan",
+          "slug": "kignan-ml0304"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.852",
+      "lon": "-6.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A030403",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Doumanaba",
+      "en": "Doumanaba",
+      "slug": "doumanaba-030403"
+    },
+    "code": {
+      "id": "ML-A030403",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0304",
+      "level": 2,
+      "name": {
+        "local": "Kignan",
+        "en": "Kignan",
+        "slug": "kignan-ml0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0304",
+        "level": 2,
+        "name": {
+          "local": "Kignan",
+          "en": "Kignan",
+          "slug": "kignan-ml0304"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.852",
+      "lon": "-6.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A030401",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Kignan",
+      "en": "Kignan",
+      "slug": "kignan-030401"
+    },
+    "code": {
+      "id": "ML-A030401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0304",
+      "level": 2,
+      "name": {
+        "local": "Kignan",
+        "en": "Kignan",
+        "slug": "kignan-ml0304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML03",
+        "level": 1,
+        "name": {
+          "local": "Sikasso",
+          "en": "Sikasso",
+          "slug": "sikasso-ml03"
+        }
+      },
+      {
+        "id": "ML0304",
+        "level": 2,
+        "name": {
+          "local": "Kignan",
+          "en": "Kignan",
+          "slug": "kignan-ml0304"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.852",
+      "lon": "-6.014"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

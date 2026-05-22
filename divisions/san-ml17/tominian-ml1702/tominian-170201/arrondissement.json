@@ -1,0 +1,56 @@
+{
+  "id": "ML-A170201",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Tominian",
+    "en": "Tominian",
+    "slug": "tominian-170201"
+  },
+  "code": {
+    "id": "ML-A170201",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1702",
+    "level": 2,
+    "name": {
+      "local": "Tominian",
+      "en": "Tominian",
+      "slug": "tominian-ml1702"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML17",
+      "level": 1,
+      "name": {
+        "local": "San",
+        "en": "San",
+        "slug": "san-ml17"
+      }
+    },
+    {
+      "id": "ML1702",
+      "level": 2,
+      "name": {
+        "local": "Tominian",
+        "en": "Tominian",
+        "slug": "tominian-ml1702"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.287",
+    "lon": "-4.593"
+  },
+  "metadata": {},
+  "source": {}
+}

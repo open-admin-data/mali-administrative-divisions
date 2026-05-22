@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C07030201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tin-Hamma",
+      "en": "Tin-Hamma",
+      "slug": "tin-hamma-07030201"
+    },
+    "code": {
+      "id": "ML-C07030201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A070302",
+      "level": 3,
+      "name": {
+        "local": "Tin-Hamma",
+        "en": "Tin-Hamma",
+        "slug": "tin-hamma-070302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      },
+      {
+        "id": "ML0703",
+        "level": 2,
+        "name": {
+          "local": "Ansongo",
+          "en": "Ansongo",
+          "slug": "ansongo-ml0703"
+        }
+      },
+      {
+        "id": "ML-A070302",
+        "level": 3,
+        "name": {
+          "local": "Tin-Hamma",
+          "en": "Tin-Hamma",
+          "slug": "tin-hamma-070302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.66",
+      "lon": "0.502"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

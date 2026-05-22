@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C01010401",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Samé Diongoma",
+      "en": "Samé Diongoma",
+      "slug": "sam-diongoma-01010401"
+    },
+    "code": {
+      "id": "ML-C01010401",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010104",
+      "level": 3,
+      "name": {
+        "local": "Samé",
+        "en": "Samé",
+        "slug": "sam-010104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0101",
+        "level": 2,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml0101"
+        }
+      },
+      {
+        "id": "ML-A010104",
+        "level": 3,
+        "name": {
+          "local": "Samé",
+          "en": "Samé",
+          "slug": "sam-010104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.448",
+      "lon": "-11.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C01010402",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Somankidy",
+      "en": "Somankidy",
+      "slug": "somankidy-01010402"
+    },
+    "code": {
+      "id": "ML-C01010402",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A010104",
+      "level": 3,
+      "name": {
+        "local": "Samé",
+        "en": "Samé",
+        "slug": "sam-010104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML01",
+        "level": 1,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml01"
+        }
+      },
+      {
+        "id": "ML0101",
+        "level": 2,
+        "name": {
+          "local": "Kayes",
+          "en": "Kayes",
+          "slug": "kayes-ml0101"
+        }
+      },
+      {
+        "id": "ML-A010104",
+        "level": 3,
+        "name": {
+          "local": "Samé",
+          "en": "Samé",
+          "slug": "sam-010104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.448",
+      "lon": "-11.444"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

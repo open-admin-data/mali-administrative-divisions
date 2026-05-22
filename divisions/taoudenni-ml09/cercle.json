@@ -1,0 +1,290 @@
+[
+  {
+    "id": "ML0906",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Achouratt",
+      "en": "Achouratt",
+      "slug": "achouratt-ml0906"
+    },
+    "code": {
+      "id": "ML0906",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML09",
+      "level": 1,
+      "name": {
+        "local": "Taoudenni",
+        "en": "Taoudenni",
+        "slug": "taoudenni-ml09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML09",
+        "level": 1,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml09"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 5,
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-3.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0905",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Al-Ourche",
+      "en": "Al-Ourche",
+      "slug": "al-ourche-ml0905"
+    },
+    "code": {
+      "id": "ML0905",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML09",
+      "level": 1,
+      "name": {
+        "local": "Taoudenni",
+        "en": "Taoudenni",
+        "slug": "taoudenni-ml09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML09",
+        "level": 1,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml09"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 6,
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-3.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0902",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Araouane",
+      "en": "Araouane",
+      "slug": "araouane-ml0902"
+    },
+    "code": {
+      "id": "ML0902",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML09",
+      "level": 1,
+      "name": {
+        "local": "Taoudenni",
+        "en": "Taoudenni",
+        "slug": "taoudenni-ml09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML09",
+        "level": 1,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml09"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 5,
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.905",
+      "lon": "-3.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0904",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Boû-Djebeha",
+      "en": "Bou-Djebeha",
+      "slug": "bou-djebeha-ml0904"
+    },
+    "code": {
+      "id": "ML0904",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML09",
+      "level": 1,
+      "name": {
+        "local": "Taoudenni",
+        "en": "Taoudenni",
+        "slug": "taoudenni-ml09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML09",
+        "level": 1,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml09"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 5,
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-3.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0903",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Foum-Elba",
+      "en": "Foum-Elba",
+      "slug": "foum-elba-ml0903"
+    },
+    "code": {
+      "id": "ML0903",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML09",
+      "level": 1,
+      "name": {
+        "local": "Taoudenni",
+        "en": "Taoudenni",
+        "slug": "taoudenni-ml09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML09",
+        "level": 1,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml09"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 5,
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-3.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML0901",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Taoudenni",
+      "en": "Taoudenni",
+      "slug": "taoudenni-ml0901"
+    },
+    "code": {
+      "id": "ML0901",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML09",
+      "level": 1,
+      "name": {
+        "local": "Taoudenni",
+        "en": "Taoudenni",
+        "slug": "taoudenni-ml09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML09",
+        "level": 1,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml09"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 4,
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-3.979"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

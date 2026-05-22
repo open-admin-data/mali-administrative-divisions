@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C19030301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ségué",
+      "en": "Ségué",
+      "slug": "sgu-19030301"
+    },
+    "code": {
+      "id": "ML-C19030301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190303",
+      "level": 3,
+      "name": {
+        "local": "Ségué",
+        "en": "Ségué",
+        "slug": "sgu-190303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1903",
+        "level": 2,
+        "name": {
+          "local": "Bankass",
+          "en": "Bankass",
+          "slug": "bankass-ml1903"
+        }
+      },
+      {
+        "id": "ML-A190303",
+        "level": 3,
+        "name": {
+          "local": "Ségué",
+          "en": "Ségué",
+          "slug": "sgu-190303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.078",
+      "lon": "-3.516"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

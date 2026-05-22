@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ML-C04020301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Diéna",
+      "en": "Diéna",
+      "slug": "dina-04020301"
+    },
+    "code": {
+      "id": "ML-C04020301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040203",
+      "level": 3,
+      "name": {
+        "local": "Touna",
+        "en": "Touna",
+        "slug": "touna-040203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0402",
+        "level": 2,
+        "name": {
+          "local": "Bla",
+          "en": "Bla",
+          "slug": "bla-ml0402"
+        }
+      },
+      {
+        "id": "ML-A040203",
+        "level": 3,
+        "name": {
+          "local": "Touna",
+          "en": "Touna",
+          "slug": "touna-040203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.95",
+      "lon": "-5.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C04020302",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Touna",
+      "en": "Touna",
+      "slug": "touna-04020302"
+    },
+    "code": {
+      "id": "ML-C04020302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A040203",
+      "level": 3,
+      "name": {
+        "local": "Touna",
+        "en": "Touna",
+        "slug": "touna-040203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML04",
+        "level": 1,
+        "name": {
+          "local": "Segou",
+          "en": "Segou",
+          "slug": "segou-ml04"
+        }
+      },
+      {
+        "id": "ML0402",
+        "level": 2,
+        "name": {
+          "local": "Bla",
+          "en": "Bla",
+          "slug": "bla-ml0402"
+        }
+      },
+      {
+        "id": "ML-A040203",
+        "level": 3,
+        "name": {
+          "local": "Touna",
+          "en": "Touna",
+          "slug": "touna-040203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.95",
+      "lon": "-5.76"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C16030301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fakolo",
+      "en": "Fakolo",
+      "slug": "fakolo-16030301"
+    },
+    "code": {
+      "id": "ML-C16030301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A160303",
+      "level": 3,
+      "name": {
+        "local": "Zanzoni",
+        "en": "Zanzoni",
+        "slug": "zanzoni-160303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      },
+      {
+        "id": "ML1603",
+        "level": 2,
+        "name": {
+          "local": "M’Péssoba",
+          "en": "M’Pessoba",
+          "slug": "mpessoba-ml1603"
+        }
+      },
+      {
+        "id": "ML-A160303",
+        "level": 3,
+        "name": {
+          "local": "Zanzoni",
+          "en": "Zanzoni",
+          "slug": "zanzoni-160303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.665",
+      "lon": "-5.721"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

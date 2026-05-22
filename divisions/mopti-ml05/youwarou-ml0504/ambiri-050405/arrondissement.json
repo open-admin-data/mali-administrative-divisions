@@ -1,0 +1,56 @@
+{
+  "id": "ML-A050405",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Ambiri",
+    "en": "Ambiri",
+    "slug": "ambiri-050405"
+  },
+  "code": {
+    "id": "ML-A050405",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0504",
+    "level": 2,
+    "name": {
+      "local": "Youwarou",
+      "en": "Youwarou",
+      "slug": "youwarou-ml0504"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML05",
+      "level": 1,
+      "name": {
+        "local": "Mopti",
+        "en": "Mopti",
+        "slug": "mopti-ml05"
+      }
+    },
+    {
+      "id": "ML0504",
+      "level": 2,
+      "name": {
+        "local": "Youwarou",
+        "en": "Youwarou",
+        "slug": "youwarou-ml0504"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.368",
+    "lon": "-4.263"
+  },
+  "metadata": {},
+  "source": {}
+}

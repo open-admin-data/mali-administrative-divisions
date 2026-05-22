@@ -1,0 +1,174 @@
+# Ménaka — Mali Administrative Divisions
+
+> 6 circles, 18 arrondissements, 27 communes
+> Code: ML10
+> Coordinates: 15.92, 2.396
+> Last updated: 2026-05-22. License: CC-BY-4.0.
+
+## Circles
+
+### Andéramboukane (Anderamboukane)
+
+Code: ML1004, Coordinates: 15.422, 3.022
+Arrondissements: 3, Communes: 5
+
+#### Andéramboukane
+
+Code: ML-A100401, Coordinates: 15.422, 3.022
+
+Communes:
+- Afarakrak [ML-C10040103]
+- Alladi [ML-C10040102]
+- Andéramboukane [ML-C10040101]
+
+#### Azawak (In Chinanane)
+
+Code: ML-A100402, Coordinates: 15.422, 3.022
+
+Communes:
+- Azawak [ML-C10040201]
+
+#### Tamalet
+
+Code: ML-A100403, Coordinates: 15.422, 3.022
+
+Communes:
+- Tamalet [ML-C10040301]
+
+### Anouzagrène (Anouzagrene)
+
+Code: ML1005, Coordinates: 15.537, 2.497
+Arrondissements: 2, Communes: 2
+
+#### Anouzagrène
+
+Code: ML-A100501, Coordinates: 15.537, 2.497
+
+Communes:
+- Anouzagrène [ML-C10050101]
+
+#### Tissalatène
+
+Code: ML-A100502, Coordinates: 15.537, 2.497
+
+Communes:
+- Tissalatène [ML-C10050201]
+
+### Inékar (Inekar)
+
+Code: ML1003, Coordinates: 15.959, 3.141
+Arrondissements: 3, Communes: 3
+
+#### Aghazraghane
+
+Code: ML-A100303, Coordinates: 15.959, 3.141
+
+Communes:
+- Aghazraghane [ML-C10030301]
+
+#### Inékar
+
+Code: ML-A100301, Coordinates: 15.959, 3.141
+
+Communes:
+- Inékar [ML-C10030101]
+
+#### Tadriante
+
+Code: ML-A100302, Coordinates: 15.959, 3.141
+
+Communes:
+- Tadriante [ML-C10030201]
+
+### Inlamawane (Fanfi)
+
+Code: ML1006, Coordinates: 15.92, 2.396
+Arrondissements: 3, Communes: 3
+
+#### Alata (Sahen)
+
+Code: ML-A100602, Coordinates: 15.92, 2.396
+
+Communes:
+- Alata [ML-C10060201]
+
+#### Inlamawane
+
+Code: ML-A100601, Coordinates: 15.92, 2.396
+
+Communes:
+- Inlamawane (Fanfi) [ML-C10060101]
+
+#### Tissouakh
+
+Code: ML-A100603, Coordinates: 15.92, 2.396
+
+Communes:
+- Tissouakh [ML-C10060301]
+
+### Ménaka (Menaka)
+
+Code: ML1001, Coordinates: 15.92, 2.396
+Arrondissements: 4, Communes: 9
+
+#### Haïgana
+
+Code: ML-A100104, Coordinates: 15.92, 2.396
+
+Communes:
+- Haïgana [ML-C10010401]
+
+#### Infoukarétane
+
+Code: ML-A100102, Coordinates: 15.92, 2.396
+
+Communes:
+- Infoukarétane [ML-C10010201]
+- Tabankort [ML-C10010202]
+- Tin Abaw [ML-C10010203]
+
+#### Izgarat
+
+Code: ML-A100103, Coordinates: 15.92, 2.396
+
+Communes:
+- Izgarat [ML-C10010301]
+
+#### Ménaka
+
+Code: ML-A100101, Coordinates: 15.92, 2.396
+
+Communes:
+- Assakaraye [ML-C10010101]
+- Inazole [ML-C10010103]
+- Iziguirète [ML-C10010102]
+- Ménaka [ML-C10010104]
+
+### Tidermène (Tidermene)
+
+Code: ML1002, Coordinates: 16.592, 2.415
+Arrondissements: 3, Communes: 5
+
+#### Inhinita
+
+Code: ML-A100202, Coordinates: 16.592, 2.415
+
+Communes:
+- Inhinita [ML-C10020201]
+
+#### Tidermène
+
+Code: ML-A100201, Coordinates: 16.592, 2.415
+
+Communes:
+- Chiman [ML-C10020101]
+- Intadeyne [ML-C10020102]
+- Tidermène [ML-C10020103]
+
+#### Tin-Djeret
+
+Code: ML-A100203, Coordinates: 16.592, 2.415
+
+Communes:
+- Téguerert [ML-C10020301]
+

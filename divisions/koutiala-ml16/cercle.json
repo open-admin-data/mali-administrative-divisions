@@ -1,0 +1,386 @@
+[
+  {
+    "id": "ML1606",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Konséguéla",
+      "en": "Konseguel a",
+      "slug": "konseguel-a-ml1606"
+    },
+    "code": {
+      "id": "ML1606",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML16",
+      "level": 1,
+      "name": {
+        "local": "Koutiala",
+        "en": "Koutiala",
+        "slug": "koutiala-ml16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.409",
+      "lon": "-5.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1607",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Kouniana",
+      "en": "Kouniana",
+      "slug": "kouniana-ml1607"
+    },
+    "code": {
+      "id": "ML1607",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML16",
+      "level": 1,
+      "name": {
+        "local": "Koutiala",
+        "en": "Koutiala",
+        "slug": "koutiala-ml16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.568",
+      "lon": "-5.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1605",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Koury",
+      "en": "Koury",
+      "slug": "koury-ml1605"
+    },
+    "code": {
+      "id": "ML1605",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML16",
+      "level": 1,
+      "name": {
+        "local": "Koutiala",
+        "en": "Koutiala",
+        "slug": "koutiala-ml16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.181",
+      "lon": "-4.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1601",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Koutiala",
+      "en": "Koutiala",
+      "slug": "koutiala-ml1601"
+    },
+    "code": {
+      "id": "ML1601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML16",
+      "level": 1,
+      "name": {
+        "local": "Koutiala",
+        "en": "Koutiala",
+        "slug": "koutiala-ml16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.026",
+      "lon": "-5.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1603",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "M’Péssoba",
+      "en": "M’Pessoba",
+      "slug": "mpessoba-ml1603"
+    },
+    "code": {
+      "id": "ML1603",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML16",
+      "level": 1,
+      "name": {
+        "local": "Koutiala",
+        "en": "Koutiala",
+        "slug": "koutiala-ml16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.665",
+      "lon": "-5.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1604",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Molobala",
+      "en": "Molobala",
+      "slug": "molobala-ml1604"
+    },
+    "code": {
+      "id": "ML1604",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML16",
+      "level": 1,
+      "name": {
+        "local": "Koutiala",
+        "en": "Koutiala",
+        "slug": "koutiala-ml16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.177",
+      "lon": "-5.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1602",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Yorosso",
+      "en": "Yorosso",
+      "slug": "yorosso-ml1602"
+    },
+    "code": {
+      "id": "ML1602",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML16",
+      "level": 1,
+      "name": {
+        "local": "Koutiala",
+        "en": "Koutiala",
+        "slug": "koutiala-ml16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 3,
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.358",
+      "lon": "-4.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML1608",
+    "level": 2,
+    "level_name": {
+      "local": "Cercle",
+      "en": "Circle"
+    },
+    "name": {
+      "local": "Zangasso",
+      "en": "Zangasso",
+      "slug": "zangasso-ml1608"
+    },
+    "code": {
+      "id": "ML1608",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML16",
+      "level": 1,
+      "name": {
+        "local": "Koutiala",
+        "en": "Koutiala",
+        "slug": "koutiala-ml16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML16",
+        "level": 1,
+        "name": {
+          "local": "Koutiala",
+          "en": "Koutiala",
+          "slug": "koutiala-ml16"
+        }
+      }
+    ],
+    "children_count": {
+      "arrondissement": 2,
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.58",
+      "lon": "-6.027"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

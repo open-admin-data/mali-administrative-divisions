@@ -1,0 +1,317 @@
+[
+  {
+    "id": "ML-C11010102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gadiaba Kadiel",
+      "en": "Gadiaba Kadiel",
+      "slug": "gadiaba-kadiel-11010102"
+    },
+    "code": {
+      "id": "ML-C11010102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A110101",
+      "level": 3,
+      "name": {
+        "local": "Nioro",
+        "en": "Nioro",
+        "slug": "nioro-110101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML11",
+        "level": 1,
+        "name": {
+          "local": "Nioro",
+          "en": "Nioro",
+          "slug": "nioro-ml11"
+        }
+      },
+      {
+        "id": "ML1101",
+        "level": 2,
+        "name": {
+          "local": "Nioro",
+          "en": "Nioro",
+          "slug": "nioro-ml1101"
+        }
+      },
+      {
+        "id": "ML-A110101",
+        "level": 3,
+        "name": {
+          "local": "Nioro",
+          "en": "Nioro",
+          "slug": "nioro-110101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.231",
+      "lon": "-9.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C11010101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guétéma",
+      "en": "Guétéma",
+      "slug": "gutma-11010101"
+    },
+    "code": {
+      "id": "ML-C11010101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A110101",
+      "level": 3,
+      "name": {
+        "local": "Nioro",
+        "en": "Nioro",
+        "slug": "nioro-110101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML11",
+        "level": 1,
+        "name": {
+          "local": "Nioro",
+          "en": "Nioro",
+          "slug": "nioro-ml11"
+        }
+      },
+      {
+        "id": "ML1101",
+        "level": 2,
+        "name": {
+          "local": "Nioro",
+          "en": "Nioro",
+          "slug": "nioro-ml1101"
+        }
+      },
+      {
+        "id": "ML-A110101",
+        "level": 3,
+        "name": {
+          "local": "Nioro",
+          "en": "Nioro",
+          "slug": "nioro-110101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.231",
+      "lon": "-9.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C11010103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nioro",
+      "en": "Nioro",
+      "slug": "nioro-11010103"
+    },
+    "code": {
+      "id": "ML-C11010103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A110101",
+      "level": 3,
+      "name": {
+        "local": "Nioro",
+        "en": "Nioro",
+        "slug": "nioro-110101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML11",
+        "level": 1,
+        "name": {
+          "local": "Nioro",
+          "en": "Nioro",
+          "slug": "nioro-ml11"
+        }
+      },
+      {
+        "id": "ML1101",
+        "level": 2,
+        "name": {
+          "local": "Nioro",
+          "en": "Nioro",
+          "slug": "nioro-ml1101"
+        }
+      },
+      {
+        "id": "ML-A110101",
+        "level": 3,
+        "name": {
+          "local": "Nioro",
+          "en": "Nioro",
+          "slug": "nioro-110101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.231",
+      "lon": "-9.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C11010104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nioro Tougouné Rangabé",
+      "en": "Nioro Tougouné Rangabé",
+      "slug": "nioro-tougoun-rangab-11010104"
+    },
+    "code": {
+      "id": "ML-C11010104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A110101",
+      "level": 3,
+      "name": {
+        "local": "Nioro",
+        "en": "Nioro",
+        "slug": "nioro-110101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML11",
+        "level": 1,
+        "name": {
+          "local": "Nioro",
+          "en": "Nioro",
+          "slug": "nioro-ml11"
+        }
+      },
+      {
+        "id": "ML1101",
+        "level": 2,
+        "name": {
+          "local": "Nioro",
+          "en": "Nioro",
+          "slug": "nioro-ml1101"
+        }
+      },
+      {
+        "id": "ML-A110101",
+        "level": 3,
+        "name": {
+          "local": "Nioro",
+          "en": "Nioro",
+          "slug": "nioro-110101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.231",
+      "lon": "-9.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C11010105",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Yéréré",
+      "en": "Yéréré",
+      "slug": "yrr-11010105"
+    },
+    "code": {
+      "id": "ML-C11010105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A110101",
+      "level": 3,
+      "name": {
+        "local": "Nioro",
+        "en": "Nioro",
+        "slug": "nioro-110101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML11",
+        "level": 1,
+        "name": {
+          "local": "Nioro",
+          "en": "Nioro",
+          "slug": "nioro-ml11"
+        }
+      },
+      {
+        "id": "ML1101",
+        "level": 2,
+        "name": {
+          "local": "Nioro",
+          "en": "Nioro",
+          "slug": "nioro-ml1101"
+        }
+      },
+      {
+        "id": "ML-A110101",
+        "level": 3,
+        "name": {
+          "local": "Nioro",
+          "en": "Nioro",
+          "slug": "nioro-110101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.231",
+      "lon": "-9.594"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

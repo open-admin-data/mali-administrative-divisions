@@ -1,0 +1,31 @@
+{
+  "id": "ML03",
+  "level": 1,
+  "level_name": {
+    "local": "Région",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Sikasso",
+    "en": "Sikasso",
+    "slug": "sikasso-ml03"
+  },
+  "code": {
+    "id": "ML03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "cercle": 8,
+    "commune": 36,
+    "arrondissement": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.318",
+    "lon": "-5.667"
+  },
+  "metadata": {},
+  "source": {}
+}

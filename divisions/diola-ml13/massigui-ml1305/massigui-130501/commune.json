@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C13050101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Massigui",
+      "en": "Massigui",
+      "slug": "massigui-13050101"
+    },
+    "code": {
+      "id": "ML-C13050101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A130501",
+      "level": 3,
+      "name": {
+        "local": "Massigui",
+        "en": "Massigui",
+        "slug": "massigui-130501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML13",
+        "level": 1,
+        "name": {
+          "local": "Dioïla",
+          "en": "Dioïla",
+          "slug": "diola-ml13"
+        }
+      },
+      {
+        "id": "ML1305",
+        "level": 2,
+        "name": {
+          "local": "Massigui",
+          "en": "Massigui",
+          "slug": "massigui-ml1305"
+        }
+      },
+      {
+        "id": "ML-A130501",
+        "level": 3,
+        "name": {
+          "local": "Massigui",
+          "en": "Massigui",
+          "slug": "massigui-130501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.859",
+      "lon": "-6.771"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

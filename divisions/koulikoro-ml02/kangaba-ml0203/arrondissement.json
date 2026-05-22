@@ -1,0 +1,114 @@
+[
+  {
+    "id": "ML-A020301",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Kangaba",
+      "en": "Kangaba",
+      "slug": "kangaba-020301"
+    },
+    "code": {
+      "id": "ML-A020301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0203",
+      "level": 2,
+      "name": {
+        "local": "Kangaba",
+        "en": "Kangaba",
+        "slug": "kangaba-ml0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0203",
+        "level": 2,
+        "name": {
+          "local": "Kangaba",
+          "en": "Kangaba",
+          "slug": "kangaba-ml0203"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.933",
+      "lon": "-8.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A020302",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Naréna",
+      "en": "Naréna",
+      "slug": "narna-020302"
+    },
+    "code": {
+      "id": "ML-A020302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0203",
+      "level": 2,
+      "name": {
+        "local": "Kangaba",
+        "en": "Kangaba",
+        "slug": "kangaba-ml0203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0203",
+        "level": 2,
+        "name": {
+          "local": "Kangaba",
+          "en": "Kangaba",
+          "slug": "kangaba-ml0203"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.933",
+      "lon": "-8.417"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

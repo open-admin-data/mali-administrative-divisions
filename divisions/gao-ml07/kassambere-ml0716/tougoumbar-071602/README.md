@@ -1,0 +1,30 @@
+# Tougoumbar
+
+[Home](../../../../) &gt; [Gao](../../) &gt; [Kassambere](../) > **Tougoumbar**
+
+Tougoumbar is a arrondissement in Mali, under Kassambere.
+
+## Overview
+
+| Item | Details |
+|------|---------|
+| Communes | 1 |
+| Code | ML-A071602 |
+| Coordinates | 16.272, -0.045 |
+| Parent | Kassambere |
+
+## Communes
+
+| # | Name | Coordinates | Code |
+|---|------|-------------|------|
+| 1 | Tougoumbar | 16.272, -0.045 | ML-C07160201 |
+
+## Data Files
+
+- [arrondissement.json](arrondissement.json) — Arrondissement metadata
+- [commune.json](commune.json) — All communes (JSON)
+- [commune.csv](commune.csv) — CSV format
+
+---
+
+<- Back to [Kassambere](../)

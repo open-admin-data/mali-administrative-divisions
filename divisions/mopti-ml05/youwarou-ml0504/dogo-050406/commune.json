@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C05040601",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bimbéré Tama",
+      "en": "Bimbéré Tama",
+      "slug": "bimbr-tama-05040601"
+    },
+    "code": {
+      "id": "ML-C05040601",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050406",
+      "level": 3,
+      "name": {
+        "local": "Dogo",
+        "en": "Dogo",
+        "slug": "dogo-050406"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0504",
+        "level": 2,
+        "name": {
+          "local": "Youwarou",
+          "en": "Youwarou",
+          "slug": "youwarou-ml0504"
+        }
+      },
+      {
+        "id": "ML-A050406",
+        "level": 3,
+        "name": {
+          "local": "Dogo",
+          "en": "Dogo",
+          "slug": "dogo-050406"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.368",
+      "lon": "-4.263"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

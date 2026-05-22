@@ -1,0 +1,114 @@
+[
+  {
+    "id": "ML-A071301",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Ersane",
+      "en": "Ersane",
+      "slug": "ersane-071301"
+    },
+    "code": {
+      "id": "ML-A071301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0713",
+      "level": 2,
+      "name": {
+        "local": "Ersane",
+        "en": "Ersane",
+        "slug": "ersane-ml0713"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      },
+      {
+        "id": "ML0713",
+        "level": 2,
+        "name": {
+          "local": "Ersane",
+          "en": "Ersane",
+          "slug": "ersane-ml0713"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.959",
+      "lon": "1.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-A071302",
+    "level": 3,
+    "level_name": {
+      "local": "Arrondissement",
+      "en": "Arrondissement"
+    },
+    "name": {
+      "local": "Ghnou",
+      "en": "Ghnou",
+      "slug": "ghnou-071302"
+    },
+    "code": {
+      "id": "ML-A071302",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML0713",
+      "level": 2,
+      "name": {
+        "local": "Ersane",
+        "en": "Ersane",
+        "slug": "ersane-ml0713"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      },
+      {
+        "id": "ML0713",
+        "level": 2,
+        "name": {
+          "local": "Ersane",
+          "en": "Ersane",
+          "slug": "ersane-ml0713"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.959",
+      "lon": "1.808"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

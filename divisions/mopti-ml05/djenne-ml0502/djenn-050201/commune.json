@@ -1,0 +1,317 @@
+[
+  {
+    "id": "ML-C05020101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Derary",
+      "en": "Derary",
+      "slug": "derary-05020101"
+    },
+    "code": {
+      "id": "ML-C05020101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050201",
+      "level": 3,
+      "name": {
+        "local": "Djenné",
+        "en": "Djenné",
+        "slug": "djenn-050201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0502",
+        "level": 2,
+        "name": {
+          "local": "Djenné",
+          "en": "Djenne",
+          "slug": "djenne-ml0502"
+        }
+      },
+      {
+        "id": "ML-A050201",
+        "level": 3,
+        "name": {
+          "local": "Djenné",
+          "en": "Djenné",
+          "slug": "djenn-050201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.906",
+      "lon": "-4.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C05020102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djenné",
+      "en": "Djenné",
+      "slug": "djenn-05020102"
+    },
+    "code": {
+      "id": "ML-C05020102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050201",
+      "level": 3,
+      "name": {
+        "local": "Djenné",
+        "en": "Djenné",
+        "slug": "djenn-050201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0502",
+        "level": 2,
+        "name": {
+          "local": "Djenné",
+          "en": "Djenne",
+          "slug": "djenne-ml0502"
+        }
+      },
+      {
+        "id": "ML-A050201",
+        "level": 3,
+        "name": {
+          "local": "Djenné",
+          "en": "Djenné",
+          "slug": "djenn-050201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.906",
+      "lon": "-4.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C05020105",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Madiama",
+      "en": "Madiama",
+      "slug": "madiama-05020105"
+    },
+    "code": {
+      "id": "ML-C05020105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050201",
+      "level": 3,
+      "name": {
+        "local": "Djenné",
+        "en": "Djenné",
+        "slug": "djenn-050201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0502",
+        "level": 2,
+        "name": {
+          "local": "Djenné",
+          "en": "Djenne",
+          "slug": "djenne-ml0502"
+        }
+      },
+      {
+        "id": "ML-A050201",
+        "level": 3,
+        "name": {
+          "local": "Djenné",
+          "en": "Djenné",
+          "slug": "djenn-050201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.906",
+      "lon": "-4.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C05020103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouro Ali",
+      "en": "Ouro Ali",
+      "slug": "ouro-ali-05020103"
+    },
+    "code": {
+      "id": "ML-C05020103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050201",
+      "level": 3,
+      "name": {
+        "local": "Djenné",
+        "en": "Djenné",
+        "slug": "djenn-050201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0502",
+        "level": 2,
+        "name": {
+          "local": "Djenné",
+          "en": "Djenne",
+          "slug": "djenne-ml0502"
+        }
+      },
+      {
+        "id": "ML-A050201",
+        "level": 3,
+        "name": {
+          "local": "Djenné",
+          "en": "Djenné",
+          "slug": "djenn-050201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.906",
+      "lon": "-4.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C05020104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Pondori",
+      "en": "Pondori",
+      "slug": "pondori-05020104"
+    },
+    "code": {
+      "id": "ML-C05020104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A050201",
+      "level": 3,
+      "name": {
+        "local": "Djenné",
+        "en": "Djenné",
+        "slug": "djenn-050201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML05",
+        "level": 1,
+        "name": {
+          "local": "Mopti",
+          "en": "Mopti",
+          "slug": "mopti-ml05"
+        }
+      },
+      {
+        "id": "ML0502",
+        "level": 2,
+        "name": {
+          "local": "Djenné",
+          "en": "Djenne",
+          "slug": "djenne-ml0502"
+        }
+      },
+      {
+        "id": "ML-A050201",
+        "level": 3,
+        "name": {
+          "local": "Djenné",
+          "en": "Djenné",
+          "slug": "djenn-050201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.906",
+      "lon": "-4.553"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

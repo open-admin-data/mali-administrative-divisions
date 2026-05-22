@@ -1,0 +1,56 @@
+{
+  "id": "ML-A120202",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Kokofata",
+    "en": "Kokofata",
+    "slug": "kokofata-120202"
+  },
+  "code": {
+    "id": "ML-A120202",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML1202",
+    "level": 2,
+    "name": {
+      "local": "Sagabari",
+      "en": "Sagabari",
+      "slug": "sagabari-ml1202"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML12",
+      "level": 1,
+      "name": {
+        "local": "Kita",
+        "en": "Kita",
+        "slug": "kita-ml12"
+      }
+    },
+    {
+      "id": "ML1202",
+      "level": 2,
+      "name": {
+        "local": "Sagabari",
+        "en": "Sagabari",
+        "slug": "sagabari-ml1202"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.583",
+    "lon": "-9.8"
+  },
+  "metadata": {},
+  "source": {}
+}

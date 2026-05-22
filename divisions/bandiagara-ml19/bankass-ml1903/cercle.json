@@ -1,0 +1,48 @@
+{
+  "id": "ML1903",
+  "level": 2,
+  "level_name": {
+    "local": "Cercle",
+    "en": "Circle"
+  },
+  "name": {
+    "local": "Bankass",
+    "en": "Bankass",
+    "slug": "bankass-ml1903"
+  },
+  "code": {
+    "id": "ML1903",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML19",
+    "level": 1,
+    "name": {
+      "local": "Bandiagara",
+      "en": "Bandiagara",
+      "slug": "bandiagara-ml19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML19",
+      "level": 1,
+      "name": {
+        "local": "Bandiagara",
+        "en": "Bandiagara",
+        "slug": "bandiagara-ml19"
+      }
+    }
+  ],
+  "children_count": {
+    "arrondissement": 3,
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.078",
+    "lon": "-3.516"
+  },
+  "metadata": {},
+  "source": {}
+}

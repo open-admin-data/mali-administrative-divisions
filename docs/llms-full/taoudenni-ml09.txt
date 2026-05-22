@@ -1,0 +1,249 @@
+# Taoudenni — Mali Administrative Divisions
+
+> 6 circles, 30 arrondissements, 30 communes
+> Code: ML09
+> Coordinates: 22.677, -3.979
+> Last updated: 2026-05-22. License: CC-BY-4.0.
+
+## Circles
+
+### Achouratt
+
+Code: ML0906, Coordinates: 22.677, -3.979
+Arrondissements: 5, Communes: 5
+
+#### Achouratt
+
+Code: ML-A090601, Coordinates: 22.677, -3.979
+
+Communes:
+- Achouratt [ML-C09060101]
+
+#### Alfacrouna
+
+Code: ML-A090602, Coordinates: 22.677, -3.979
+
+Communes:
+- Alfacrouna [ML-C09060201]
+
+#### Algatara
+
+Code: ML-A090603, Coordinates: 22.677, -3.979
+
+Communes:
+- Algatara [ML-C09060301]
+
+#### Almatala
+
+Code: ML-A090604, Coordinates: 22.677, -3.979
+
+Communes:
+- Almatla [ML-C09060401]
+
+#### Liraka
+
+Code: ML-A090605, Coordinates: 22.677, -3.979
+
+Communes:
+- Liraka [ML-C09060501]
+
+### Al-Ourche
+
+Code: ML0905, Coordinates: 22.677, -3.979
+Arrondissements: 6, Communes: 6
+
+#### Al-Ourche
+
+Code: ML-A090501, Coordinates: 22.677, -3.979
+
+Communes:
+- Al-Ourche [ML-C09050101]
+
+#### Diaba
+
+Code: ML-A090502, Coordinates: 22.677, -3.979
+
+Communes:
+- Diaba [ML-C09050201]
+
+#### Nibkt-Elk
+
+Code: ML-A090506, Coordinates: 22.677, -3.979
+
+Communes:
+- Nibkit-El Elk [ML-C09050601]
+
+#### Oum-Laazam
+
+Code: ML-A090503, Coordinates: 22.677, -3.979
+
+Communes:
+- Oum-Laazam [ML-C09050301]
+
+#### Tamagounite
+
+Code: ML-A090504, Coordinates: 22.677, -3.979
+
+Communes:
+- Tamagounite [ML-C09050401]
+
+#### Ziriba
+
+Code: ML-A090505, Coordinates: 22.677, -3.979
+
+Communes:
+- Ziriba [ML-C09050501]
+
+### Araouane
+
+Code: ML0902, Coordinates: 18.905, -3.526
+Arrondissements: 5, Communes: 5
+
+#### Achamour
+
+Code: ML-A090202, Coordinates: 18.905, -3.526
+
+Communes:
+- Achamour [ML-C09020201]
+
+#### Araouane
+
+Code: ML-A090201, Coordinates: 18.905, -3.526
+
+Communes:
+- Araouane [ML-C09020101]
+
+#### M&#39;Back-Sama
+
+Code: ML-A090203, Coordinates: 18.905, -3.526
+
+Communes:
+- M&#39;back-Samna [ML-C09020301]
+
+#### Tinéguelhadj (Tengoutranat)
+
+Code: ML-A090204, Coordinates: 18.905, -3.526
+
+Communes:
+- Tinéguelhadj [ML-C09020401]
+
+#### Wade Lahjare
+
+Code: ML-A090205, Coordinates: 18.905, -3.526
+
+Communes:
+- Wade Lahjare [ML-C09020501]
+
+### Boû-Djebeha (Bou-Djebeha)
+
+Code: ML0904, Coordinates: 22.677, -3.979
+Arrondissements: 5, Communes: 5
+
+#### Agouni
+
+Code: ML-A090402, Coordinates: 22.677, -3.979
+
+Communes:
+- Agouni [ML-C09040201]
+
+#### Boû-Djebeha
+
+Code: ML-A090401, Coordinates: 22.677, -3.979
+
+Communes:
+- Boujbeha [ML-C09040101]
+
+#### Erg-Lakhal
+
+Code: ML-A090403, Coordinates: 22.677, -3.979
+
+Communes:
+- Erg-Lakhal [ML-C09040301]
+
+#### Limgassim
+
+Code: ML-A090404, Coordinates: 22.677, -3.979
+
+Communes:
+- Limgassim [ML-C09040401]
+
+#### Tichift
+
+Code: ML-A090405, Coordinates: 22.677, -3.979
+
+Communes:
+- Tichift [ML-C09040501]
+
+### Foum-Elba
+
+Code: ML0903, Coordinates: 22.677, -3.979
+Arrondissements: 5, Communes: 5
+
+#### Alougla
+
+Code: ML-A090302, Coordinates: 22.677, -3.979
+
+Communes:
+- Alougla [ML-C09030201]
+
+#### Bougwera
+
+Code: ML-A090303, Coordinates: 22.677, -3.979
+
+Communes:
+- Bougwera [ML-C09030301]
+
+#### Foum-Elba
+
+Code: ML-A090301, Coordinates: 22.677, -3.979
+
+Communes:
+- Foum-Elba [ML-C09030101]
+
+#### Lamhaïmide
+
+Code: ML-A090304, Coordinates: 22.677, -3.979
+
+Communes:
+- Lamhaïmide [ML-C09030401]
+
+#### Touwal
+
+Code: ML-A090305, Coordinates: 22.677, -3.979
+
+Communes:
+- Touwal [ML-C09030501]
+
+### Taoudenni
+
+Code: ML0901, Coordinates: 22.677, -3.979
+Arrondissements: 4, Communes: 4
+
+#### Alhank
+
+Code: ML-A090104, Coordinates: 22.677, -3.979
+
+Communes:
+- Alhank [ML-C09010401]
+
+#### Taoudenni
+
+Code: ML-A090101, Coordinates: 22.677, -3.979
+
+Communes:
+- Taoudenni [ML-C09010101]
+
+#### Teghaza
+
+Code: ML-A090102, Coordinates: 22.677, -3.979
+
+Communes:
+- Teghaza [ML-C09010201]
+
+#### Zouelya
+
+Code: ML-A090103, Coordinates: 22.677, -3.979
+
+Communes:
+- Zouelya [ML-C09010301]
+

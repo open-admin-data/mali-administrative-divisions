@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C15020201",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gouandiaka",
+      "en": "Gouandiaka",
+      "slug": "gouandiaka-15020201"
+    },
+    "code": {
+      "id": "ML-C15020201",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A150202",
+      "level": 3,
+      "name": {
+        "local": "Kalana",
+        "en": "Kalana",
+        "slug": "kalana-150202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML15",
+        "level": 1,
+        "name": {
+          "local": "Bougouni",
+          "en": "Bougouni",
+          "slug": "bougouni-ml15"
+        }
+      },
+      {
+        "id": "ML1502",
+        "level": 2,
+        "name": {
+          "local": "Yanfolila",
+          "en": "Yanfolila",
+          "slug": "yanfolila-ml1502"
+        }
+      },
+      {
+        "id": "ML-A150202",
+        "level": 3,
+        "name": {
+          "local": "Kalana",
+          "en": "Kalana",
+          "slug": "kalana-150202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.183",
+      "lon": "-8.15"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

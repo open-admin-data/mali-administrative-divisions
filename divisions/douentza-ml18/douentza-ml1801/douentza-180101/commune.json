@@ -1,0 +1,443 @@
+[
+  {
+    "id": "ML-C18010102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Débéré",
+      "en": "Débéré",
+      "slug": "dbr-18010102"
+    },
+    "code": {
+      "id": "ML-C18010102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A180101",
+      "level": 3,
+      "name": {
+        "local": "Douentza",
+        "en": "Douentza",
+        "slug": "douentza-180101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML18",
+        "level": 1,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml18"
+        }
+      },
+      {
+        "id": "ML1801",
+        "level": 2,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml1801"
+        }
+      },
+      {
+        "id": "ML-A180101",
+        "level": 3,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-180101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.006",
+      "lon": "-2.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C18010103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dianwély",
+      "en": "Dianwély",
+      "slug": "dianwly-18010103"
+    },
+    "code": {
+      "id": "ML-C18010103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A180101",
+      "level": 3,
+      "name": {
+        "local": "Douentza",
+        "en": "Douentza",
+        "slug": "douentza-180101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML18",
+        "level": 1,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml18"
+        }
+      },
+      {
+        "id": "ML1801",
+        "level": 2,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml1801"
+        }
+      },
+      {
+        "id": "ML-A180101",
+        "level": 3,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-180101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.006",
+      "lon": "-2.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C18010101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Douentza",
+      "en": "Douentza",
+      "slug": "douentza-18010101"
+    },
+    "code": {
+      "id": "ML-C18010101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A180101",
+      "level": 3,
+      "name": {
+        "local": "Douentza",
+        "en": "Douentza",
+        "slug": "douentza-180101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML18",
+        "level": 1,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml18"
+        }
+      },
+      {
+        "id": "ML1801",
+        "level": 2,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml1801"
+        }
+      },
+      {
+        "id": "ML-A180101",
+        "level": 3,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-180101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.006",
+      "lon": "-2.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C18010104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gandamia",
+      "en": "Gandamia",
+      "slug": "gandamia-18010104"
+    },
+    "code": {
+      "id": "ML-C18010104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A180101",
+      "level": 3,
+      "name": {
+        "local": "Douentza",
+        "en": "Douentza",
+        "slug": "douentza-180101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML18",
+        "level": 1,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml18"
+        }
+      },
+      {
+        "id": "ML1801",
+        "level": 2,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml1801"
+        }
+      },
+      {
+        "id": "ML-A180101",
+        "level": 3,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-180101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.006",
+      "lon": "-2.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C18010105",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kéréna",
+      "en": "Kéréna",
+      "slug": "krna-18010105"
+    },
+    "code": {
+      "id": "ML-C18010105",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A180101",
+      "level": 3,
+      "name": {
+        "local": "Douentza",
+        "en": "Douentza",
+        "slug": "douentza-180101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML18",
+        "level": 1,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml18"
+        }
+      },
+      {
+        "id": "ML1801",
+        "level": 2,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml1801"
+        }
+      },
+      {
+        "id": "ML-A180101",
+        "level": 3,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-180101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.006",
+      "lon": "-2.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C18010106",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Koubewel Koundia",
+      "en": "Koubewel Koundia",
+      "slug": "koubewel-koundia-18010106"
+    },
+    "code": {
+      "id": "ML-C18010106",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A180101",
+      "level": 3,
+      "name": {
+        "local": "Douentza",
+        "en": "Douentza",
+        "slug": "douentza-180101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML18",
+        "level": 1,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml18"
+        }
+      },
+      {
+        "id": "ML1801",
+        "level": 2,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml1801"
+        }
+      },
+      {
+        "id": "ML-A180101",
+        "level": 3,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-180101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.006",
+      "lon": "-2.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C18010107",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Petaka",
+      "en": "Petaka",
+      "slug": "petaka-18010107"
+    },
+    "code": {
+      "id": "ML-C18010107",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A180101",
+      "level": 3,
+      "name": {
+        "local": "Douentza",
+        "en": "Douentza",
+        "slug": "douentza-180101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML18",
+        "level": 1,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml18"
+        }
+      },
+      {
+        "id": "ML1801",
+        "level": 2,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-ml1801"
+        }
+      },
+      {
+        "id": "ML-A180101",
+        "level": 3,
+        "name": {
+          "local": "Douentza",
+          "en": "Douentza",
+          "slug": "douentza-180101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.006",
+      "lon": "-2.952"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

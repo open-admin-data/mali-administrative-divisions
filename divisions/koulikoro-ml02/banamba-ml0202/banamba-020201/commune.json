@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ML-C02020101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Banamba",
+      "en": "Banamba",
+      "slug": "banamba-02020101"
+    },
+    "code": {
+      "id": "ML-C02020101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020201",
+      "level": 3,
+      "name": {
+        "local": "Banamba",
+        "en": "Banamba",
+        "slug": "banamba-020201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0202",
+        "level": 2,
+        "name": {
+          "local": "Banamba",
+          "en": "Banamba",
+          "slug": "banamba-ml0202"
+        }
+      },
+      {
+        "id": "ML-A020201",
+        "level": 3,
+        "name": {
+          "local": "Banamba",
+          "en": "Banamba",
+          "slug": "banamba-020201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.548",
+      "lon": "-7.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C02020102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Benkadi",
+      "en": "Benkadi",
+      "slug": "benkadi-02020102"
+    },
+    "code": {
+      "id": "ML-C02020102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020201",
+      "level": 3,
+      "name": {
+        "local": "Banamba",
+        "en": "Banamba",
+        "slug": "banamba-020201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0202",
+        "level": 2,
+        "name": {
+          "local": "Banamba",
+          "en": "Banamba",
+          "slug": "banamba-ml0202"
+        }
+      },
+      {
+        "id": "ML-A020201",
+        "level": 3,
+        "name": {
+          "local": "Banamba",
+          "en": "Banamba",
+          "slug": "banamba-020201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.548",
+      "lon": "-7.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C02020103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kiban",
+      "en": "Kiban",
+      "slug": "kiban-02020103"
+    },
+    "code": {
+      "id": "ML-C02020103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A020201",
+      "level": 3,
+      "name": {
+        "local": "Banamba",
+        "en": "Banamba",
+        "slug": "banamba-020201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML02",
+        "level": 1,
+        "name": {
+          "local": "Koulikoro",
+          "en": "Koulikoro",
+          "slug": "koulikoro-ml02"
+        }
+      },
+      {
+        "id": "ML0202",
+        "level": 2,
+        "name": {
+          "local": "Banamba",
+          "en": "Banamba",
+          "slug": "banamba-ml0202"
+        }
+      },
+      {
+        "id": "ML-A020201",
+        "level": 3,
+        "name": {
+          "local": "Banamba",
+          "en": "Banamba",
+          "slug": "banamba-020201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.548",
+      "lon": "-7.448"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

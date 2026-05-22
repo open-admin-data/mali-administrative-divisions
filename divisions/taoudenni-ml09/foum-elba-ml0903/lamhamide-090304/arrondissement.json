@@ -1,0 +1,56 @@
+{
+  "id": "ML-A090304",
+  "level": 3,
+  "level_name": {
+    "local": "Arrondissement",
+    "en": "Arrondissement"
+  },
+  "name": {
+    "local": "Lamhaïmide",
+    "en": "Lamhaïmide",
+    "slug": "lamhamide-090304"
+  },
+  "code": {
+    "id": "ML-A090304",
+    "iso": null
+  },
+  "parent": {
+    "id": "ML0903",
+    "level": 2,
+    "name": {
+      "local": "Foum-Elba",
+      "en": "Foum-Elba",
+      "slug": "foum-elba-ml0903"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "ML09",
+      "level": 1,
+      "name": {
+        "local": "Taoudenni",
+        "en": "Taoudenni",
+        "slug": "taoudenni-ml09"
+      }
+    },
+    {
+      "id": "ML0903",
+      "level": 2,
+      "name": {
+        "local": "Foum-Elba",
+        "en": "Foum-Elba",
+        "slug": "foum-elba-ml0903"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.677",
+    "lon": "-3.979"
+  },
+  "metadata": {},
+  "source": {}
+}

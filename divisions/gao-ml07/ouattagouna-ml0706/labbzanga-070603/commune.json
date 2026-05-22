@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C07060301",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Labbézanga",
+      "en": "Labbézanga",
+      "slug": "labbzanga-07060301"
+    },
+    "code": {
+      "id": "ML-C07060301",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A070603",
+      "level": 3,
+      "name": {
+        "local": "Labbézanga",
+        "en": "Labbézanga",
+        "slug": "labbzanga-070603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML07",
+        "level": 1,
+        "name": {
+          "local": "Gao",
+          "en": "Gao",
+          "slug": "gao-ml07"
+        }
+      },
+      {
+        "id": "ML0706",
+        "level": 2,
+        "name": {
+          "local": "Ouattagouna",
+          "en": "Ouattagouna",
+          "slug": "ouattagouna-ml0706"
+        }
+      },
+      {
+        "id": "ML-A070603",
+        "level": 3,
+        "name": {
+          "local": "Labbézanga",
+          "en": "Labbézanga",
+          "slug": "labbzanga-070603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.182",
+      "lon": "0.722"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

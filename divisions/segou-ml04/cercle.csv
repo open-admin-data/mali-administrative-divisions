@@ -1,0 +1,12 @@
+id,name.local,name.en,name.slug,code.id,children_count.arrondissement,children_count.commune,geo.lat,geo.lon
+ML0403,Baraoueli,Baraoueli,baraoueli-ml0403,ML0403,0,0,13.039,-6.639
+ML0402,Bla,Bla,bla-ml0402,ML0402,5,11,12.95,-5.76
+ML0406,Dioro,Dioro,dioro-ml0406,ML0406,3,4,13.689,-5.831
+ML0407,Farako,Farako,farako-ml0407,ML0407,2,7,14.943,-6.791
+ML0405,Macina,Macina,macina-ml0405,ML0405,4,7,14.308,-11.506
+ML0410,Markala,Markala,markala-ml0410,ML0410,3,6,13.816,-5.358
+ML0408,Nampala,Nampala,nampala-ml0408,ML0408,4,4,15.281,-5.555
+ML0404,Niono,Niono,niono-ml0404,ML0404,2,8,14.251,-5.987
+ML0411,Sarro,Sarro,sarro-ml0411,ML0411,2,4,13.721,-5.239
+ML0401,Segou,Segou,segou-ml0401,ML0401,0,0,13.44,-6.259
+ML0409,Sokolo,Sokolo,sokolo-ml0409,ML0409,3,3,14.733,-6.122

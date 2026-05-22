@@ -1,0 +1,254 @@
+[
+  {
+    "id": "ML-C19060101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Diallassagou",
+      "en": "Diallassagou",
+      "slug": "diallassagou-19060101"
+    },
+    "code": {
+      "id": "ML-C19060101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190601",
+      "level": 3,
+      "name": {
+        "local": "Diallassagou",
+        "en": "Diallassagou",
+        "slug": "diallassagou-190601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1906",
+        "level": 2,
+        "name": {
+          "local": "Diallassagou",
+          "en": "Diallassagou",
+          "slug": "diallassagou-ml1906"
+        }
+      },
+      {
+        "id": "ML-A190601",
+        "level": 3,
+        "name": {
+          "local": "Diallassagou",
+          "en": "Diallassagou",
+          "slug": "diallassagou-190601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.738",
+      "lon": "-3.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C19060102",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lessagou Habé",
+      "en": "Lessagou Habé",
+      "slug": "lessagou-hab-19060102"
+    },
+    "code": {
+      "id": "ML-C19060102",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190601",
+      "level": 3,
+      "name": {
+        "local": "Diallassagou",
+        "en": "Diallassagou",
+        "slug": "diallassagou-190601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1906",
+        "level": 2,
+        "name": {
+          "local": "Diallassagou",
+          "en": "Diallassagou",
+          "slug": "diallassagou-ml1906"
+        }
+      },
+      {
+        "id": "ML-A190601",
+        "level": 3,
+        "name": {
+          "local": "Diallassagou",
+          "en": "Diallassagou",
+          "slug": "diallassagou-190601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.738",
+      "lon": "-3.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C19060103",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soubala",
+      "en": "Soubala",
+      "slug": "soubala-19060103"
+    },
+    "code": {
+      "id": "ML-C19060103",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190601",
+      "level": 3,
+      "name": {
+        "local": "Diallassagou",
+        "en": "Diallassagou",
+        "slug": "diallassagou-190601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1906",
+        "level": 2,
+        "name": {
+          "local": "Diallassagou",
+          "en": "Diallassagou",
+          "slug": "diallassagou-ml1906"
+        }
+      },
+      {
+        "id": "ML-A190601",
+        "level": 3,
+        "name": {
+          "local": "Diallassagou",
+          "en": "Diallassagou",
+          "slug": "diallassagou-190601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.738",
+      "lon": "-3.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "ML-C19060104",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tori",
+      "en": "Tori",
+      "slug": "tori-19060104"
+    },
+    "code": {
+      "id": "ML-C19060104",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A190601",
+      "level": 3,
+      "name": {
+        "local": "Diallassagou",
+        "en": "Diallassagou",
+        "slug": "diallassagou-190601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML19",
+        "level": 1,
+        "name": {
+          "local": "Bandiagara",
+          "en": "Bandiagara",
+          "slug": "bandiagara-ml19"
+        }
+      },
+      {
+        "id": "ML1906",
+        "level": 2,
+        "name": {
+          "local": "Diallassagou",
+          "en": "Diallassagou",
+          "slug": "diallassagou-ml1906"
+        }
+      },
+      {
+        "id": "ML-A190601",
+        "level": 3,
+        "name": {
+          "local": "Diallassagou",
+          "en": "Diallassagou",
+          "slug": "diallassagou-190601"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.738",
+      "lon": "-3.626"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

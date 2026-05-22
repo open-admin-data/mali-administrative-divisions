@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ML-C09050101",
+    "level": 4,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Al-Ourche",
+      "en": "Al-Ourche",
+      "slug": "al-ourche-09050101"
+    },
+    "code": {
+      "id": "ML-C09050101",
+      "iso": null
+    },
+    "parent": {
+      "id": "ML-A090501",
+      "level": 3,
+      "name": {
+        "local": "Al-Ourche",
+        "en": "Al-Ourche",
+        "slug": "al-ourche-090501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "ML09",
+        "level": 1,
+        "name": {
+          "local": "Taoudenni",
+          "en": "Taoudenni",
+          "slug": "taoudenni-ml09"
+        }
+      },
+      {
+        "id": "ML0905",
+        "level": 2,
+        "name": {
+          "local": "Al-Ourche",
+          "en": "Al-Ourche",
+          "slug": "al-ourche-ml0905"
+        }
+      },
+      {
+        "id": "ML-A090501",
+        "level": 3,
+        "name": {
+          "local": "Al-Ourche",
+          "en": "Al-Ourche",
+          "slug": "al-ourche-090501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.677",
+      "lon": "-3.979"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

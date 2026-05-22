@@ -1,0 +1,17 @@
+id,name.local,name.en,name.slug,code.id,children_count.arrondissement,children_count.commune,geo.lat,geo.lon
+ML0704,Almoustrat,Almoustrat,almoustrat-ml0704,ML0704,3,4,17.358,0.15
+ML0703,Ansongo,Ansongo,ansongo-ml0703,ML0703,2,4,15.66,0.502
+ML0705,Bamba,Bamba,bamba-ml0705,ML0705,2,2,17.034,-1.404
+ML0702,Bourem,Bourem,bourem-ml0702,ML0702,2,2,16.955,-0.349
+ML0708,Djebock,Djebock,djebock-ml0708,ML0708,3,3,16.343,0.278
+ML0713,Ersane,Ersane,ersane-ml0713,ML0713,2,2,16.959,1.808
+ML0712,Gabéro,Gabero,gabero-ml0712,ML0712,0,0,15.895,0.192
+ML0701,Gao,Gao,gao-ml0701,ML0701,2,2,16.272,-0.045
+ML0716,Kassambéré,Kassambere,kassambere-ml0716,ML0716,4,4,16.272,-0.045
+ML0711,N'tillit,Ntillit,ntillit-ml0711,ML0711,2,2,16.272,-0.045
+ML0706,Ouattagouna,Ouattagouna,ouattagouna-ml0706,ML0706,3,3,15.182,0.722
+ML0707,Sony Aliber,Sony Aliber,sony-aliber-ml0707,ML0707,0,0,16.507,-0.074
+ML0714,Tabankort,Tabankort,tabankort-ml0714,ML0714,4,4,17.82,0.314
+ML0709,Talataye,Talataye,talataye-ml0709,ML0709,2,2,16.531,1.516
+ML0710,Téssit,Tessit,tessit-ml0710,ML0710,4,4,15.217,-0.3
+ML0715,Tin-Aouker,Tin-Aouker,tin-aouker-ml0715,ML0715,2,2,13.071,-6.835
