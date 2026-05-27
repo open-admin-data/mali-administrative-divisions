@@ -3,7 +3,7 @@
 > 6 circles, 18 arrondissements, 27 communes
 > Code: ML10
 > Coordinates: 15.92, 2.396
-> Last updated: 2026-05-22. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Circles
 

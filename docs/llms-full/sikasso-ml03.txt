@@ -3,7 +3,7 @@
 > 8 circles, 13 arrondissements, 36 communes
 > Code: ML03
 > Coordinates: 11.318, -5.667
-> Last updated: 2026-05-22. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Circles
 

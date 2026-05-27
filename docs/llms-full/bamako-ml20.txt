@@ -3,7 +3,7 @@
 > 1 circles, 0 arrondissements, 0 communes
 > Code: ML20
 > Coordinates: 14.583, -4.417
-> Last updated: 2026-05-22. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Circles
 

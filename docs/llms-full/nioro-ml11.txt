@@ -3,7 +3,7 @@
 > 6 circles, 4 arrondissements, 10 communes
 > Code: ML11
 > Coordinates: 15.231, -9.594
-> Last updated: 2026-05-22. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Circles
 
