@@ -27,5 +27,9 @@
     "lon": "-6.803"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ml/regions/diola-ml13/",
+    "api": "https://openadmindata.org/api/ml/"
+  }
 }

@@ -27,5 +27,9 @@
     "lon": "-4.896"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ml/regions/san-ml17/",
+    "api": "https://openadmindata.org/api/ml/"
+  }
 }

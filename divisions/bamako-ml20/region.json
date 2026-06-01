@@ -27,5 +27,9 @@
     "lon": "-4.417"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ml/regions/bamako-ml20/",
+    "api": "https://openadmindata.org/api/ml/"
+  }
 }

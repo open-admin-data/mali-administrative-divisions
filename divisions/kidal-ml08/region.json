@@ -27,5 +27,9 @@
     "lon": "1.385"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ml/regions/kidal-ml08/",
+    "api": "https://openadmindata.org/api/ml/"
+  }
 }

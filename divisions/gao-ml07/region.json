@@ -27,5 +27,9 @@
     "lon": "-0.045"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ml/regions/gao-ml07/",
+    "api": "https://openadmindata.org/api/ml/"
+  }
 }

@@ -3,7 +3,7 @@
 > 8 circles, 34 arrondissements, 50 communes
 > Code: ML05
 > Coordinates: 14.484, -4.183
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Circles
 

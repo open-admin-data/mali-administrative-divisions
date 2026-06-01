@@ -3,7 +3,7 @@
 > 9 circles, 28 arrondissements, 48 communes
 > Code: ML19
 > Coordinates: 14.35, -3.61
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Circles
 

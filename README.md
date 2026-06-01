@@ -15,7 +15,7 @@ Licensed under CC-BY-4.0. Browse the hierarchy through GitHub's folder navigatio
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-05-27 |
+| Last Updated | 2026-06-01 |
 | Website | [openadmindata.org/ml](https://openadmindata.org/ml/) |
 | API | [openadmindata.org/api/ml](https://openadmindata.org/api/ml/) |
 

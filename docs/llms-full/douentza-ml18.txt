@@ -3,7 +3,7 @@
 > 6 circles, 15 arrondissements, 21 communes
 > Code: ML18
 > Coordinates: 15.006, -2.952
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Circles
 

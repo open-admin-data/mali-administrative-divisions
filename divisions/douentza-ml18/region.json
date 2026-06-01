@@ -27,5 +27,9 @@
     "lon": "-2.952"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ml/regions/douentza-ml18/",
+    "api": "https://openadmindata.org/api/ml/"
+  }
 }

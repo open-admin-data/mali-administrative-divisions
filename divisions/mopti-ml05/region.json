@@ -27,5 +27,9 @@
     "lon": "-4.183"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ml/regions/mopti-ml05/",
+    "api": "https://openadmindata.org/api/ml/"
+  }
 }

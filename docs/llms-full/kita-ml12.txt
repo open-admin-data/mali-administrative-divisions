@@ -3,7 +3,7 @@
 > 6 circles, 14 arrondissements, 33 communes
 > Code: ML12
 > Coordinates: 13.039, -9.488
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Circles
 

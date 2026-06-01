@@ -28,7 +28,11 @@
       "lon": "-11.444"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ml/regions/kayes-ml01/",
+      "api": "https://openadmindata.org/api/ml/"
+    }
   },
   {
     "id": "ML02",
@@ -59,7 +63,11 @@
       "lon": "-7.56"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ml/regions/koulikoro-ml02/",
+      "api": "https://openadmindata.org/api/ml/"
+    }
   },
   {
     "id": "ML03",
@@ -90,7 +98,11 @@
       "lon": "-5.667"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ml/regions/sikasso-ml03/",
+      "api": "https://openadmindata.org/api/ml/"
+    }
   },
   {
     "id": "ML04",
@@ -121,7 +133,11 @@
       "lon": "-6.259"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ml/regions/segou-ml04/",
+      "api": "https://openadmindata.org/api/ml/"
+    }
   },
   {
     "id": "ML05",
@@ -152,7 +168,11 @@
       "lon": "-4.183"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ml/regions/mopti-ml05/",
+      "api": "https://openadmindata.org/api/ml/"
+    }
   },
   {
     "id": "ML06",
@@ -183,7 +203,11 @@
       "lon": "-3.007"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ml/regions/timbuktu-ml06/",
+      "api": "https://openadmindata.org/api/ml/"
+    }
   },
   {
     "id": "ML07",
@@ -214,7 +238,11 @@
       "lon": "-0.045"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ml/regions/gao-ml07/",
+      "api": "https://openadmindata.org/api/ml/"
+    }
   },
   {
     "id": "ML08",
@@ -245,7 +273,11 @@
       "lon": "1.385"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ml/regions/kidal-ml08/",
+      "api": "https://openadmindata.org/api/ml/"
+    }
   },
   {
     "id": "ML09",
@@ -276,7 +308,11 @@
       "lon": "-3.979"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ml/regions/taoudenni-ml09/",
+      "api": "https://openadmindata.org/api/ml/"
+    }
   },
   {
     "id": "ML10",
@@ -307,7 +343,11 @@
       "lon": "2.396"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ml/regions/mnaka-ml10/",
+      "api": "https://openadmindata.org/api/ml/"
+    }
   },
   {
     "id": "ML11",
@@ -338,7 +378,11 @@
       "lon": "-9.594"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ml/regions/nioro-ml11/",
+      "api": "https://openadmindata.org/api/ml/"
+    }
   },
   {
     "id": "ML12",
@@ -369,7 +413,11 @@
       "lon": "-9.488"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ml/regions/kita-ml12/",
+      "api": "https://openadmindata.org/api/ml/"
+    }
   },
   {
     "id": "ML13",
@@ -400,7 +448,11 @@
       "lon": "-6.803"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ml/regions/diola-ml13/",
+      "api": "https://openadmindata.org/api/ml/"
+    }
   },
   {
     "id": "ML14",
@@ -431,7 +483,11 @@
       "lon": "-7.29"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ml/regions/nara-ml14/",
+      "api": "https://openadmindata.org/api/ml/"
+    }
   },
   {
     "id": "ML15",
@@ -462,7 +518,11 @@
       "lon": "-2.507"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ml/regions/bougouni-ml15/",
+      "api": "https://openadmindata.org/api/ml/"
+    }
   },
   {
     "id": "ML16",
@@ -493,7 +553,11 @@
       "lon": "-5.523"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ml/regions/koutiala-ml16/",
+      "api": "https://openadmindata.org/api/ml/"
+    }
   },
   {
     "id": "ML17",
@@ -524,7 +588,11 @@
       "lon": "-4.896"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ml/regions/san-ml17/",
+      "api": "https://openadmindata.org/api/ml/"
+    }
   },
   {
     "id": "ML18",
@@ -555,7 +623,11 @@
       "lon": "-2.952"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ml/regions/douentza-ml18/",
+      "api": "https://openadmindata.org/api/ml/"
+    }
   },
   {
     "id": "ML19",
@@ -586,7 +658,11 @@
       "lon": "-3.61"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ml/regions/bandiagara-ml19/",
+      "api": "https://openadmindata.org/api/ml/"
+    }
   },
   {
     "id": "ML20",
@@ -617,6 +693,10 @@
       "lon": "-4.417"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ml/regions/bamako-ml20/",
+      "api": "https://openadmindata.org/api/ml/"
+    }
   }
 ]
